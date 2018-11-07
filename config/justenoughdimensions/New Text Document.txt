@@ -1,0 +1,14 @@
+{
+    "dimensions": [
+        {
+            "dim": 104,
+            "worldinfo": {
+                "Asteroids": {
+                    "GameRules": {
+                    "mobGriefing": "false"
+                }
+                }
+            }
+        }
+    ]
+}
