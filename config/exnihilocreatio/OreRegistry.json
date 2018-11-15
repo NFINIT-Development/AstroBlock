@@ -1,0 +1,32 @@
+[
+  {
+    "name": "gold",
+    "color": "ffff00",
+    "result": "minecraft:gold_ingot:-1"
+  },
+  {
+    "name": "iron",
+    "color": "bf8040",
+    "result": "minecraft:iron_ingot:-1"
+  },
+  {
+    "name": "copper",
+    "color": "ff9933",
+    "result": "galacticraftcore:basic_item:3"
+  },
+  {
+    "name": "tin",
+    "color": "e6fff2",
+    "result": "galacticraftcore:basic_item:4"
+  },
+  {
+    "name": "aluminium",
+    "color": "bfbfbf",
+    "result": "galacticraftcore:basic_item:5"
+  },
+  {
+    "name": "tritanium",
+    "color": "78808c",
+    "result": "matteroverdrive:tritanium_ingot:-1"
+  }
+]
