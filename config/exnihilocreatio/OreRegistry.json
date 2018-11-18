@@ -20,6 +20,10 @@
     "result": "galacticraftcore:basic_item:4"
   },
   {
+    "name": "silver",
+    "color": "e6fff2"
+  },
+  {
     "name": "aluminium",
     "color": "bfbfbf",
     "result": "galacticraftcore:basic_item:5"
