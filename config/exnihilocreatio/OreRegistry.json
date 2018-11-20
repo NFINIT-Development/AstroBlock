@@ -32,5 +32,10 @@
     "name": "tritanium",
     "color": "78808c",
     "result": "matteroverdrive:tritanium_ingot:-1"
+  },
+    {
+    "name": "lead",
+    "color": "6F7684",
+    "result": "galacticraftplanets:basic_item_venus:1"
   }
 ]
