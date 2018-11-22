@@ -90,18 +90,18 @@ minecraft:iron_block, Block of Iron
 minecraft:stone_slab:0, Stone Slab
 minecraft:stone_slab:1, Sandstone Slab
 minecraft:stone_slab:3, Cobblestone Slab
-minecraft:stone_slab:4, Bricks Slab
-minecraft:stone_slab:5, Stone Bricks Slab
+minecraft:stone_slab:4, Clay Brick Slab
+minecraft:stone_slab:5, Stone Brick Slab
 minecraft:stone_slab:6, Nether Brick Slab
 minecraft:stone_slab:7, Quartz Slab
-minecraft:brick_block, Bricks
+minecraft:brick_block, Clay Bricks
 minecraft:tnt, TNT
 minecraft:bookshelf, Oak Bookshelf
-minecraft:mossy_cobblestone, Moss Stone
+minecraft:mossy_cobblestone, Mossy Cobblestone
 minecraft:obsidian, Obsidian
 minecraft:torch, Torch
 minecraft:mob_spawner, Monster Spawner
-minecraft:oak_stairs, Oak Wood Stairs
+minecraft:oak_stairs, Oak Plank Stairs
 minecraft:chest, Oak Chest
 minecraft:diamond_ore, Diamond Ore
 minecraft:diamond_block, Block of Diamond
@@ -128,7 +128,7 @@ minecraft:pumpkin, Pumpkin
 minecraft:netherrack, Netherrack
 minecraft:soul_sand, Soul Sand
 minecraft:glowstone, Glowstone
-minecraft:lit_pumpkin, Jack o'Lantern
+minecraft:lit_pumpkin, Glowpumpkin
 minecraft:stained_glass:0, White Stained Glass
 minecraft:stained_glass:1, Orange Stained Glass
 minecraft:stained_glass:2, Magenta Stained Glass
@@ -151,11 +151,11 @@ minecraft:monster_egg:1, Cobblestone Monster Egg
 minecraft:monster_egg:2, Stone Brick Monster Egg
 minecraft:monster_egg:3, Mossy Stone Brick Monster Egg
 minecraft:monster_egg:4, Cracked Stone Brick Monster Egg
-minecraft:monster_egg:5, Chiseled Stone Brick Monster Egg
+minecraft:monster_egg:5, Chiseled Stone Monster Egg
 minecraft:stonebrick:0, Stone Bricks
 minecraft:stonebrick:1, Mossy Stone Bricks
 minecraft:stonebrick:2, Cracked Stone Bricks
-minecraft:stonebrick:3, Chiseled Stone Bricks
+minecraft:stonebrick:3, Chiseled Stone
 minecraft:brown_mushroom_block, Mushroom
 minecraft:red_mushroom_block, Mushroom
 minecraft:iron_bars, Iron Bars
@@ -163,7 +163,7 @@ minecraft:glass_pane, Glass Pane
 minecraft:melon_block, Melon
 minecraft:vine, Vines
 minecraft:fence_gate, Oak Fence Gate
-minecraft:brick_stairs, Brick Stairs
+minecraft:brick_stairs, Clay Brick Stairs
 minecraft:stone_brick_stairs, Stone Brick Stairs
 minecraft:mycelium, Mycelium
 minecraft:waterlily, Lily Pad
@@ -175,20 +175,20 @@ minecraft:end_portal_frame, End Portal
 minecraft:end_stone, End Stone
 minecraft:dragon_egg, Dragon Egg
 minecraft:redstone_lamp, Redstone Lamp
-minecraft:wooden_slab:0, Oak Wood Slab
-minecraft:wooden_slab:1, Spruce Wood Slab
-minecraft:wooden_slab:2, Birch Wood Slab
-minecraft:wooden_slab:3, Jungle Wood Slab
-minecraft:wooden_slab:4, Acacia Wood Slab
-minecraft:wooden_slab:5, Dark Oak Wood Slab
+minecraft:wooden_slab:0, Oak Plank Slab
+minecraft:wooden_slab:1, Spruce Plank Slab
+minecraft:wooden_slab:2, Birch Plank Slab
+minecraft:wooden_slab:3, Jungle Plank Slab
+minecraft:wooden_slab:4, Acacia Plank Slab
+minecraft:wooden_slab:5, Dark Oak Plank Slab
 minecraft:sandstone_stairs, Sandstone Stairs
 minecraft:emerald_ore, Emerald Ore
 minecraft:ender_chest, Ender Chest
 minecraft:tripwire_hook, Tripwire Hook
 minecraft:emerald_block, Block of Emerald
-minecraft:spruce_stairs, Spruce Wood Stairs
-minecraft:birch_stairs, Birch Wood Stairs
-minecraft:jungle_stairs, Jungle Wood Stairs
+minecraft:spruce_stairs, Spruce Plank Stairs
+minecraft:birch_stairs, Birch Plank Stairs
+minecraft:jungle_stairs, Jungle Plank Stairs
 minecraft:command_block, Command Block
 minecraft:beacon, Beacon
 minecraft:cobblestone_wall:0, Cobblestone Wall
@@ -210,22 +210,22 @@ minecraft:quartz_block:2, Pillar Quartz Block
 minecraft:quartz_stairs, Quartz Stairs
 minecraft:activator_rail, Activator Rail
 minecraft:dropper, Dropper
-minecraft:stained_hardened_clay:0, White Hardened Clay
-minecraft:stained_hardened_clay:1, Orange Hardened Clay
-minecraft:stained_hardened_clay:2, Magenta Hardened Clay
-minecraft:stained_hardened_clay:3, Light Blue Hardened Clay
-minecraft:stained_hardened_clay:4, Yellow Hardened Clay
-minecraft:stained_hardened_clay:5, Lime Hardened Clay
-minecraft:stained_hardened_clay:6, Pink Hardened Clay
-minecraft:stained_hardened_clay:7, Gray Hardened Clay
-minecraft:stained_hardened_clay:8, Light Gray Hardened Clay
-minecraft:stained_hardened_clay:9, Cyan Hardened Clay
-minecraft:stained_hardened_clay:10, Purple Hardened Clay
-minecraft:stained_hardened_clay:11, Blue Hardened Clay
-minecraft:stained_hardened_clay:12, Brown Hardened Clay
-minecraft:stained_hardened_clay:13, Green Hardened Clay
-minecraft:stained_hardened_clay:14, Red Hardened Clay
-minecraft:stained_hardened_clay:15, Black Hardened Clay
+minecraft:stained_hardened_clay:0, White Terracotta
+minecraft:stained_hardened_clay:1, Orange Terracotta
+minecraft:stained_hardened_clay:2, Magenta Terracotta
+minecraft:stained_hardened_clay:3, Light Blue Terracotta
+minecraft:stained_hardened_clay:4, Yellow Terracotta
+minecraft:stained_hardened_clay:5, Lime Terracotta
+minecraft:stained_hardened_clay:6, Pink Terracotta
+minecraft:stained_hardened_clay:7, Gray Terracotta
+minecraft:stained_hardened_clay:8, Light Gray Terracotta
+minecraft:stained_hardened_clay:9, Cyan Terracotta
+minecraft:stained_hardened_clay:10, Purple Terracotta
+minecraft:stained_hardened_clay:11, Blue Terracotta
+minecraft:stained_hardened_clay:12, Brown Terracotta
+minecraft:stained_hardened_clay:13, Green Terracotta
+minecraft:stained_hardened_clay:14, Red Terracotta
+minecraft:stained_hardened_clay:15, Black Terracotta
 minecraft:stained_glass_pane:0, White Stained Glass Pane
 minecraft:stained_glass_pane:1, Orange Stained Glass Pane
 minecraft:stained_glass_pane:2, Magenta Stained Glass Pane
@@ -246,8 +246,8 @@ minecraft:leaves2:0, Acacia Leaves
 minecraft:leaves2:1, Dark Oak Leaves
 minecraft:log2:0, Acacia Wood
 minecraft:log2:1, Dark Oak Wood
-minecraft:acacia_stairs, Acacia Wood Stairs
-minecraft:dark_oak_stairs, Dark Oak Wood Stairs
+minecraft:acacia_stairs, Acacia Plank Stairs
+minecraft:dark_oak_stairs, Dark Oak Plank Stairs
 minecraft:slime, Slime Block
 minecraft:barrier, Barrier
 minecraft:iron_trapdoor, Iron Trapdoor
@@ -272,7 +272,7 @@ minecraft:carpet:12, Brown Carpet
 minecraft:carpet:13, Green Carpet
 minecraft:carpet:14, Red Carpet
 minecraft:carpet:15, Black Carpet
-minecraft:hardened_clay, Hardened Clay
+minecraft:hardened_clay, Terracotta
 minecraft:coal_block, Block of Coal
 minecraft:packed_ice, Packed Ice
 minecraft:double_plant:0, Sunflower
@@ -299,10 +299,10 @@ minecraft:acacia_fence, Acacia Fence
 minecraft:end_rod, End Rod
 minecraft:chorus_plant, Chorus Plant
 minecraft:chorus_flower, Chorus Flower
-minecraft:purpur_block, Purple Shale Block
-minecraft:purpur_pillar, Purple Shale Pillar
-minecraft:purpur_stairs, Purple Shale Stairs
-minecraft:purpur_slab:0, Purple Shale Slab
+minecraft:purpur_block, Purpur Block
+minecraft:purpur_pillar, Purpur Pillar
+minecraft:purpur_stairs, Purpur Stairs
+minecraft:purpur_slab:0, Purpur Slab
 minecraft:end_bricks, End Stone Bricks
 minecraft:grass_path, Grass Path
 minecraft:repeating_command_block, Repeating Command Block
@@ -458,9 +458,9 @@ minecraft:iron_door, Iron Door
 minecraft:redstone, Redstone
 minecraft:snowball, Snowball
 minecraft:boat, Oak Boat
-minecraft:leather, Leather
+minecraft:leather, Cow Hide
 minecraft:milk_bucket, Milk
-minecraft:brick, Brick
+minecraft:brick, Clay Brick
 minecraft:clay_ball, Clay
 minecraft:reeds, Sugar Canes
 minecraft:paper, Paper
@@ -538,7 +538,7 @@ minecraft:fermented_spider_eye, Fermented Spider Eye
 minecraft:blaze_powder, Blaze Powder
 minecraft:magma_cream, Magma Cream
 minecraft:brewing_stand, Brewing Stand
-minecraft:cauldron, Cauldron
+minecraft:cauldron, Iron Cauldron
 minecraft:ender_eye, Eye of Ender
 minecraft:speckled_melon, Glistering Melon
 minecraft:spawn_egg, Spawn
@@ -555,7 +555,7 @@ minecraft:baked_potato, Baked Potato
 minecraft:poisonous_potato, Poisonous Potato
 minecraft:map, Empty Map
 minecraft:golden_carrot, Golden Carrot
-minecraft:skull:0, Skeleton Skull
+minecraft:skull:0, Human Skull
 minecraft:skull:1, Wither Skeleton Skull
 minecraft:skull:2, Zombie Head
 minecraft:skull:3, Head
@@ -817,6 +817,7 @@ opencomputers:misc:0, EEPROM (Lua BIOS)
 enderstorage:ender_storage:0, Ender Chest
 enderstorage:ender_storage:1, Ender Tank
 enderstorage:ender_pouch, Ender Pouch
+ftbg:guide_book, FTB Guidebook
 malisisdoors:wood_sliding_door, Wooden Glass Door
 malisisdoors:iron_sliding_door, Iron Glass Door
 malisisdoors:jail_door, Jail Door
@@ -866,6 +867,946 @@ malisisdoors:rustyladder, Rusty Ladder
 malisisdoors:door_factory, Door Factory
 malisisdoors:forcefielditem, Forcefield Controller
 malisisdoors:hitechdoor, Hi-tech Door
+minestrapp:moss, Moss Lump
+minestrapp:blue_glowshroom, Glowshroom
+minestrapp:green_glowshroom, Glowshroom
+minestrapp:purple_glowshroom, Glowshroom
+minestrapp:infected_mushroom, Infectious Mushroom
+minestrapp:blue_glowshroom_block, Glowshroom
+minestrapp:green_glowshroom_block, Glowshroom
+minestrapp:purple_glowshroom_block, Glowshroom
+minestrapp:tundra_grass, Tundra Grass
+minestrapp:savanna_grass, Savanna Grass
+minestrapp:blueberry_bush, Blueberry Bush
+minestrapp:blackberry_bush, Blackberry Bush
+minestrapp:raspberry_bush, Raspberry Bush
+minestrapp:strawberry_bush, Strawberry Bush
+minestrapp:mana_bush, Mana Bush
+minestrapp:clutchthorn, Clutchthorn
+minestrapp:voidberry_bush, Voidberry Bush
+minestrapp:terracreep, Terracreep Spore
+minestrapp:hanging_glow_moss, Hanging Glow Moss
+minestrapp:melon_bricks, Melon Bricks
+minestrapp:mite_hive, Endermite Hive Husk
+minestrapp:mite_hive_honeyed, Honeyed Endermite Hive Husk
+minestrapp:mite_comb, Endermite Hive Combs
+minestrapp:cold_sand:0, Cold Sand
+minestrapp:cold_sand:1, Cold Red Sand
+minestrapp:clay_soil:0, Clay Soil
+minestrapp:clay_soil:1, Coarse Clay Soil
+minestrapp:clay_soil:2, Clay Podzol
+minestrapp:clay_grass, Clay Grass
+minestrapp:clay_grass_path, Clay Grass Path
+minestrapp:clay_farmland, Clay Farmland
+minestrapp:permafrost:0, Permafrost
+minestrapp:permafrost:1, Coarse Permafrost
+minestrapp:permafrost:2, Frozen Podzol
+minestrapp:lichen, Lichen
+minestrapp:lichen_path, Lichen Path
+minestrapp:permafrost_farmland, Frozen Farmland
+minestrapp:mud, Mud
+minestrapp:dried_mud, Dried Mud
+minestrapp:portal_dust:0, Portal Dust
+minestrapp:portal_dust:1, Shattered Portal Dust
+minestrapp:portal_dust:2, Chordsol
+minestrapp:fargrowth, Fargrowth
+minestrapp:fargrowth_path, Fargrowth Path
+minestrapp:m_log:0, Redwood
+minestrapp:m_log:1, Frozen Oak Wood
+minestrapp:m_log:2, Charwood
+minestrapp:m_planks:0, Redwood Planks
+minestrapp:m_planks:1, Frozen Oak Wood Planks
+minestrapp:m_planks:2, Charwood Planks
+minestrapp:m_planks_mossy:0, Mossy Redwood Planks
+minestrapp:m_planks_mossy:1, Mossy Frozen Oak Wood Planks
+minestrapp:m_planks_mossy:2, Smoldering Charwood Planks
+minestrapp:m_wood_slab_1_double, tile.m_wood_slab_1.name
+minestrapp:m_wood_slab_1:0, Redwood Plank Slab
+minestrapp:m_wood_slab_1:1, Frozen Oak Plank Slab
+minestrapp:m_wood_slab_1:2, Charwood Plank Slab
+minestrapp:panel_wood_oak, Oak Plank Panel
+minestrapp:panel_wood_spruce, Spruce Plank Panel
+minestrapp:panel_wood_birch, Birch Plank Panel
+minestrapp:panel_wood_jungle, Jungle Plank Panel
+minestrapp:panel_wood_acacia, Acacia Plank Panel
+minestrapp:panel_wood_dark_oak, Dark Oak Plank Panel
+minestrapp:panel_m_planks_redwood, Redwood Plank Panel
+minestrapp:panel_m_planks_frozen_oak, Frozen Oak Plank Panel
+minestrapp:panel_m_planks_charwood, Charwood Plank Panel
+minestrapp:m_planks_redwood_stairs, Redwood Plank Stairs
+minestrapp:m_planks_frozen_oak_stairs, Frozen Oak Plank Stairs
+minestrapp:m_planks_charwood_stairs, Charwood Plank Stairs
+minestrapp:m_fence:0, Redwood Fence
+minestrapp:m_fence:1, Frozen Oak Fence
+minestrapp:m_fence:2, Charwood Fence
+minestrapp:redwood_fence_gate, Redwood Fence Gate
+minestrapp:frozen_oak_fence_gate, Frozen Oak Fence Gate
+minestrapp:charwood_fence_gate, Charwood Fence Gate
+minestrapp:charwood_limb, Charwood Limb
+minestrapp:mud_bricks, Mud Bricks
+minestrapp:decor_stone:0, Granite Bricks
+minestrapp:decor_stone:1, Granite Tiles
+minestrapp:decor_stone:2, Diorite Bricks
+minestrapp:decor_stone:3, Diorite Tiles
+minestrapp:decor_stone:4, Andesite Bricks
+minestrapp:decor_stone:5, Andesite Tiles
+minestrapp:decor_stone:6, Slate
+minestrapp:decor_stone:7, Polished Slate
+minestrapp:decor_stone:8, Slate Bricks
+minestrapp:decor_stone:9, Slate Tiles
+minestrapp:m_cobblestone:0, Red Cobblestone
+minestrapp:m_cobblestone:1, Deep Red Cobblestone
+minestrapp:m_cobblestone:2, Deep Cobblestone
+minestrapp:m_cobblestone:3, Cold Cobblestone
+minestrapp:m_cobblestone:4, Deep Cold Cobblestone
+minestrapp:m_cobblestone:5, Cracked Icestone
+minestrapp:m_cobblestone:6, Cracked Glacierrock
+minestrapp:m_cobblestone:7, Cobbled Oceanstone
+minestrapp:m_cobblestone:8, Cobbled Reefstone
+minestrapp:m_mossy_cobblestone:0, Mossy Red Cobblestone
+minestrapp:m_mossy_cobblestone:1, Deep Mossy Red Cobblestone
+minestrapp:m_mossy_cobblestone:2, Deep Mossy Cobblestone
+minestrapp:m_mossy_cobblestone:3, Mossy Cold Cobblestone
+minestrapp:m_mossy_cobblestone:4, Deep Mossy Cold Cobblestone
+minestrapp:m_mossy_cobblestone:5, Snowy Cracked Icestone
+minestrapp:m_mossy_cobblestone:6, Snowy Cracked Glacierrock
+minestrapp:m_mossy_cobblestone:7, Mossy Cobbled Oceanstone
+minestrapp:m_mossy_cobblestone:8, Mossy Cobbled Reefstone
+minestrapp:m_stone:0, Red Rock
+minestrapp:m_stone:1, Deep Red Rock
+minestrapp:m_stone:2, Deepstone
+minestrapp:m_stone:3, Coldstone
+minestrapp:m_stone:4, Deep Coldstone
+minestrapp:m_stone:5, Icestone
+minestrapp:m_stone:6, Glacierrock
+minestrapp:m_stone:7, Oceanstone
+minestrapp:m_stone:8, Reefstone
+minestrapp:m_stone_bricks:0, Red Rock Bricks
+minestrapp:m_stone_bricks:1, Deep Red Rock Bricks
+minestrapp:m_stone_bricks:2, Deepstone Bricks
+minestrapp:m_stone_bricks:3, Coldstone Bricks
+minestrapp:m_stone_bricks:4, Deep Coldstone Bricks
+minestrapp:m_stone_bricks:5, Icestone Bricks
+minestrapp:m_stone_bricks:6, Glacierrock Bricks
+minestrapp:m_stone_bricks:7, Oceanstone Bricks
+minestrapp:m_stone_bricks:8, Reefstone Bricks
+minestrapp:m_stone_bricks_mossy:0, Mossy Red Rock Bricks
+minestrapp:m_stone_bricks_mossy:1, Mossy Deep Red Rock Bricks
+minestrapp:m_stone_bricks_mossy:2, Mossy Deepstone Bricks
+minestrapp:m_stone_bricks_mossy:3, Mossy Coldstone Bricks
+minestrapp:m_stone_bricks_mossy:4, Mossy Deep Coldstone Bricks
+minestrapp:m_stone_bricks_mossy:5, Snowy Icestone Bricks
+minestrapp:m_stone_bricks_mossy:6, Snowy Glacierrock Bricks
+minestrapp:m_stone_bricks_mossy:7, Mossy Oceanstone Bricks
+minestrapp:m_stone_bricks_mossy:8, Mossy Reefstone Bricks
+minestrapp:m_stone_bricks_cracked:0, Cracked Red Rock Bricks
+minestrapp:m_stone_bricks_cracked:1, Cracked Deep Red Rock Bricks
+minestrapp:m_stone_bricks_cracked:2, Cracked Deepstone Bricks
+minestrapp:m_stone_bricks_cracked:3, Cracked Coldstone Bricks
+minestrapp:m_stone_bricks_cracked:4, Cracked Deep Coldstone Bricks
+minestrapp:m_stone_bricks_cracked:5, Cracked Icestone Bricks
+minestrapp:m_stone_bricks_cracked:6, Cracked Glacierrock Bricks
+minestrapp:m_stone_bricks_cracked:7, Cracked Oceanstone Bricks
+minestrapp:m_stone_bricks_cracked:8, Cracked Reefstone Bricks
+minestrapp:m_chiseled_stone:0, Chiseled Red Rock
+minestrapp:m_chiseled_stone:1, Chiseled Deep Red Rock
+minestrapp:m_chiseled_stone:2, Chiseled Deepstone
+minestrapp:m_chiseled_stone:3, Chiseled Coldstone
+minestrapp:m_chiseled_stone:4, Chiseled Deep Coldstone
+minestrapp:m_chiseled_stone:5, Chiseled Icestone
+minestrapp:m_chiseled_stone:6, Chiseled Glacierrock
+minestrapp:m_chiseled_stone:7, Chiseled Oceanstone
+minestrapp:m_chiseled_stone:8, Chiseled Reefstone
+minestrapp:shimmerstone:0, Shimmerstone
+minestrapp:shimmerstone:1, Cobbled Shimmerstone
+minestrapp:shimmerstone:2, Shimmerstone Bricks
+minestrapp:shimmerstone:3, Cracked Shimmerstone Bricks
+minestrapp:shimmerstone:4, Glow-Mossy Shimmerstone Bricks
+minestrapp:shimmerstone:5, Shimmerstone Tiles
+minestrapp:shimmerstone:6, Chiseled Shimmerstone
+minestrapp:shimmerstone:7, Shimmering Blue Glowshroom Lamp
+minestrapp:shimmerstone:8, Shimmering Purple Glowshroom Lamp
+minestrapp:shimmerstone:9, Shimmering Green Glowshroom Lamp
+minestrapp:soul_glass:0, Soul Glass
+minestrapp:soul_glass:1, Soul Glass Tiles
+minestrapp:soul_glass:2, Soul Glass Pillar
+minestrapp:blazed_soul_glass:0, Blazed Soul Glass
+minestrapp:blazed_soul_glass:1, Blazed Soul Glass Tiles
+minestrapp:blazed_soul_glass:2, Blazed Soul Glass Pillar
+minestrapp:m_purpur, Polished Purpur
+minestrapp:portar:0, Slabbed Portar
+minestrapp:portar:1, Fishboned Portar
+minestrapp:portar:2, Tiled Portar
+minestrapp:portar:3, Chiseled Portar
+minestrapp:portar:4, Portine Sunstone Lamp
+minestrapp:portar:5, Portine Glowstone Lamp
+minestrapp:portar:6, Portine Sea Lamp
+minestrapp:invincium, Invincium
+minestrapp:glacial_invincium, Glacial Invincium
+minestrapp:m_misc_stone_slab_1_double, tile.m_misc_stone_slab_1.name
+minestrapp:m_misc_stone_slab_1:0, Mud Brick Slab
+minestrapp:m_misc_stone_slab_1:1, Granite Brick Slab
+minestrapp:m_misc_stone_slab_1:2, Diorite Brick Slab
+minestrapp:m_misc_stone_slab_1:3, Andesite Brick Slab
+minestrapp:m_misc_stone_slab_1:4, Slate Brick Slab
+minestrapp:m_misc_stone_slab_1:5, Portar Slab
+minestrapp:m_misc_stone_slab_1:6, Shimmerstone Slab
+minestrapp:m_misc_stone_slab_1:7, Cobbled Shimmerstone Slab
+minestrapp:m_misc_stone_slab_2_double, tile.m_misc_stone_slab_2.name
+minestrapp:m_misc_stone_slab_2:0, Shimmerstone Brick Slab
+minestrapp:m_stone_slab_1_double, tile.m_stone_slab_1.name
+minestrapp:m_stone_slab_1:0, Red Rock Slab
+minestrapp:m_stone_slab_1:1, Deep Red Rock Slab
+minestrapp:m_stone_slab_1:2, Deepstone Slab
+minestrapp:m_stone_slab_1:3, Coldstone Slab
+minestrapp:m_stone_slab_1:4, Deep Coldstone Slab
+minestrapp:m_stone_slab_1:5, Icestone Slab
+minestrapp:m_stone_slab_1:6, Glacierrock Slab
+minestrapp:m_stone_slab_1:7, Oceanstone Slab
+minestrapp:m_stone_slab_2_double, tile.m_stone_slab_2.name
+minestrapp:m_stone_slab_2:0, Reefstone Slab
+minestrapp:m_stone_slab_2:1, Red Cobblestone Slab
+minestrapp:m_stone_slab_2:2, Deep Red Cobblestone Slab
+minestrapp:m_stone_slab_2:3, Deep Cobblestone Slab
+minestrapp:m_stone_slab_2:4, Cold Cobblestone Slab
+minestrapp:m_stone_slab_2:5, Deep Cold Cobblestone Slab
+minestrapp:m_stone_slab_2:6, Cracked Icestone Slab
+minestrapp:m_stone_slab_2:7, Cracked Glacierrock Slab
+minestrapp:m_stone_slab_3_double, tile.m_stone_slab_3.name
+minestrapp:m_stone_slab_3:0, Cobbled Oceanstone Slab
+minestrapp:m_stone_slab_3:1, Cobbled Reefstone Slab
+minestrapp:m_stone_slab_3:2, Red Rock Brick Slab
+minestrapp:m_stone_slab_3:3, Deep Red Rock Brick Slab
+minestrapp:m_stone_slab_3:4, Deepstone Brick Slab
+minestrapp:m_stone_slab_3:5, Coldstone Brick Slab
+minestrapp:m_stone_slab_3:6, Deep Coldstone Brick Slab
+minestrapp:m_stone_slab_3:7, Icestone Brick Slab
+minestrapp:m_stone_slab_4_double, tile.m_stone_slab_4.name
+minestrapp:m_stone_slab_4:0, Glacierrock Bricks Slab
+minestrapp:m_stone_slab_4:1, Oceanstone Bricks Slab
+minestrapp:m_stone_slab_4:2, Reefstone Bricks Slab
+minestrapp:panel_mud_bricks, Mud Brick Panel
+minestrapp:panel_decor_stone_granite_bricks, Granite Brick Panel
+minestrapp:panel_decor_stone_diorite_bricks, Diorite Brick Panel
+minestrapp:panel_decor_stone_andesite_bricks, Andesite Brick Panel
+minestrapp:panel_decor_stone_slate_bricks, Slate Brick Panel
+minestrapp:panel_brick, Clay Brick Panel
+minestrapp:panel_sandstone, Sandstone Panel
+minestrapp:panel_redsandstone, Red Sandstone Panel
+minestrapp:panel_m_cobblestone_red_rock, Red Cobblestone Panel
+minestrapp:panel_m_cobblestone_deep_red_rock, Deep Red Cobblestone Panel
+minestrapp:panel_stonebrick, Cobblestone Panel
+minestrapp:panel_m_cobblestone_deepstone, Deep Cobblestone Panel
+minestrapp:panel_m_cobblestone_coldstone, Cold Cobblestone Panel
+minestrapp:panel_m_cobblestone_deep_coldstone, Deep Cold Cobblestone Panel
+minestrapp:panel_m_cobblestone_icestone, Cracked Icestone Panel
+minestrapp:panel_m_cobblestone_glacierrock, Cracked Glacierrock Panel
+minestrapp:panel_m_cobblestone_oceanstone, Cobbled Oceanstone Panel
+minestrapp:panel_m_cobblestone_reefstone, Cobbled Reefstone Panel
+minestrapp:panel_m_stone_slab_1_red_rock, Red Rock Panel
+minestrapp:panel_m_stone_slab_1_deep_red_rock, Deep Red Rock Panel
+minestrapp:panel_stoneslab, Stone Panel
+minestrapp:panel_m_stone_slab_1_deepstone, Deepstone Panel
+minestrapp:panel_m_stone_slab_1_coldstone, Coldstone Panel
+minestrapp:panel_m_stone_slab_1_deep_coldstone, Deep Coldstone Panel
+minestrapp:panel_m_stone_slab_1_icestone, Icestone Panel
+minestrapp:panel_m_stone_slab_1_glacierrock, Glacierrock Panel
+minestrapp:panel_m_stone_slab_1_oceanstone, Oceanstone Panel
+minestrapp:panel_m_stone_slab_2_reefstone, Reefstone Panel
+minestrapp:panel_m_stone_bricks_red_rock, Red Rock Brick Panel
+minestrapp:panel_m_stone_bricks_deep_red_rock, Deep Red Rock Brick Panel
+minestrapp:panel_stonebricksmooth, Stone Brick Panel
+minestrapp:panel_m_stone_bricks_deepstone, Deepstone Brick Panel
+minestrapp:panel_m_stone_bricks_coldstone, Coldstone Brick Panel
+minestrapp:panel_m_stone_bricks_deep_coldstone, Deep Coldstone Brick Panel
+minestrapp:panel_m_stone_bricks_icestone, Icestone Brick Panel
+minestrapp:panel_m_stone_bricks_glacierrock, Glacierrock Brick Panel
+minestrapp:panel_m_stone_bricks_oceanstone, Oceanstone Brick Panel
+minestrapp:panel_m_stone_bricks_reefstone, Reefstone Brick Panel
+minestrapp:panel_netherbrick, Nether Brick Panel
+minestrapp:panel_quartzblock, Nether Quartz Panel
+minestrapp:panel_m_misc_stone_slab_1_shimmerstone, Shimmerstone Panel
+minestrapp:panel_shimmerstone_cobblestone, Cobbled Shimmerstone Panel
+minestrapp:panel_shimmerstone_bricks, Shimmerstone Brick Panel
+minestrapp:panel_purpurblock, Purpur Panel
+minestrapp:panel_portar_slabbed, Slabbed Portar Panel
+minestrapp:mud_bricks_stairs, Mud Brick Stairs
+minestrapp:decor_stone_granite_bricks_stairs, Granite Brick Stairs
+minestrapp:decor_stone_diorite_bricks_stairs, Diorite Brick Stairs
+minestrapp:decor_stone_andesite_bricks_stairs, Andesite Brick Stairs
+minestrapp:decor_stone_slate_bricks_stairs, Slate Brick Stairs
+minestrapp:m_cobblestone_red_rock_stairs, Red Cobblestone Stairs
+minestrapp:m_cobblestone_deep_red_rock_stairs, Deep Red Cobblestone Stairs
+minestrapp:m_cobblestone_deepstone_stairs, Deep Cobblestone Stairs
+minestrapp:m_cobblestone_coldstone_stairs, Cold Cobblestone Stairs
+minestrapp:m_cobblestone_deep_coldstone_stairs, Deep Cold Cobblestone Stairs
+minestrapp:m_cobblestone_icestone_stairs, Cracked Icestone Stairs
+minestrapp:m_cobblestone_glacierrock_stairs, Cracked Glacierrock Stairs
+minestrapp:m_cobblestone_oceanstone_stairs, Cobbled Oceanstone Stairs
+minestrapp:m_cobblestone_deep_oceanstone_stairs, Cobbled Reefstone Stairs
+minestrapp:m_stone_bricks_red_rock_stairs, Red Rock Brick Stairs
+minestrapp:m_stone_bricks_deep_red_rock_stairs, Deep Red Rock Brick Stairs
+minestrapp:m_stone_bricks_deepstone_stairs, Deepstone Brick Stairs
+minestrapp:m_stone_bricks_coldstone_stairs, Coldstone Brick Stairs
+minestrapp:m_stone_bricks_deep_coldstone_stairs, Deep Coldstone Brick Stairs
+minestrapp:m_stone_bricks_icestone_stairs, Icestone Brick Stairs
+minestrapp:m_stone_bricks_glacierrock_stairs, Glacierrock Brick Stairs
+minestrapp:m_stone_bricks_oceanstone_stairs, Oceanstone Brick Stairs
+minestrapp:m_stone_bricks_deep_oceanstone_stairs, Reefstone Brick Stairs
+minestrapp:shimmerstone_cobblestone_stairs, Cobbled Shimmerstone Stairs
+minestrapp:shimmerstone_bricks_stairs, Shimmerstone Brick Stairs
+minestrapp:portar_slabbed_stairs, Slabbed Portar Stairs
+minestrapp:m_silverfish_stone:0, Red Rock Monster Egg
+minestrapp:m_silverfish_stone:1, Deep Red Rock Monster Egg
+minestrapp:m_silverfish_stone:2, Deepstone Monster Egg
+minestrapp:m_silverfish_stone:3, Coldstone Monster Egg
+minestrapp:m_silverfish_stone:4, Deep Coldstone Monster Egg
+minestrapp:m_silverfish_stone:5, Icestone Monster Egg
+minestrapp:m_silverfish_stone:6, Glacierrock Monster Egg
+minestrapp:m_silverfish_stone:7, Oceanstone Monster Egg
+minestrapp:m_silverfish_stone:8, Reefstone Monster Egg
+minestrapp:m_silverfish_cobblestone:0, Red Cobblestone Monster Egg
+minestrapp:m_silverfish_cobblestone:1, Deep Red Cobblestone Monster Egg
+minestrapp:m_silverfish_cobblestone:2, Deep Cobblestone Monster Egg
+minestrapp:m_silverfish_cobblestone:3, Cold Cobblestone Monster Egg
+minestrapp:m_silverfish_cobblestone:4, Deep Cold Cobblestone Monster Egg
+minestrapp:m_silverfish_cobblestone:5, Cracked Icestone Monster Egg
+minestrapp:m_silverfish_cobblestone:6, Cracked Glacierrock Monster Egg
+minestrapp:m_silverfish_cobblestone:7, Cobbled Oceanstone Monster Egg
+minestrapp:m_silverfish_cobblestone:8, Cobbled Reefstone Monster Egg
+minestrapp:m_silverfish_stone_bricks:0, Red Rock Bricks Monster Egg
+minestrapp:m_silverfish_stone_bricks:1, Deep Red Rock Bricks Monster Egg
+minestrapp:m_silverfish_stone_bricks:2, Deepstone Bricks Monster Egg
+minestrapp:m_silverfish_stone_bricks:3, Coldstone Bricks Monster Egg
+minestrapp:m_silverfish_stone_bricks:4, Deep Coldstone Bricks Monster Egg
+minestrapp:m_silverfish_stone_bricks:5, Icestone Bricks Monster Egg
+minestrapp:m_silverfish_stone_bricks:6, Glacierrock Bricks Monster Egg
+minestrapp:m_silverfish_stone_bricks:7, Oceanstone Bricks Monster Egg
+minestrapp:m_silverfish_stone_bricks:8, Reefstone Bricks Monster Egg
+minestrapp:m_silverfish_mossy_stone_bricks:0, Mossy Red Rock Bricks Monster Egg
+minestrapp:m_silverfish_mossy_stone_bricks:1, Mossy Deep Red Rock Bricks Monster Egg
+minestrapp:m_silverfish_mossy_stone_bricks:2, Mossy Deepstone Bricks Monster Egg
+minestrapp:m_silverfish_mossy_stone_bricks:3, Mossy Coldstone Bricks Monster Egg
+minestrapp:m_silverfish_mossy_stone_bricks:4, Mossy Deep Coldstone Bricks Monster Egg
+minestrapp:m_silverfish_mossy_stone_bricks:5, Snowy Icestone Bricks Monster Egg
+minestrapp:m_silverfish_mossy_stone_bricks:6, Snowy Glacierrock Bricks Monster Egg
+minestrapp:m_silverfish_mossy_stone_bricks:7, Mossy Oceanstone Bricks Monster Egg
+minestrapp:m_silverfish_mossy_stone_bricks:8, Mossy Reefstone Bricks Monster Egg
+minestrapp:m_silverfish_cracked_stone_bricks:0, Cracked Red Rock Bricks Monster Egg
+minestrapp:m_silverfish_cracked_stone_bricks:1, Cracked Deep Red Rock Bricks Monster Egg
+minestrapp:m_silverfish_cracked_stone_bricks:2, Cracked Deepstone Bricks Monster Egg
+minestrapp:m_silverfish_cracked_stone_bricks:3, Cracked Coldstone Bricks Monster Egg
+minestrapp:m_silverfish_cracked_stone_bricks:4, Cracked Deep Coldstone Bricks Monster Egg
+minestrapp:m_silverfish_cracked_stone_bricks:5, Cracked Icestone Bricks Monster Egg
+minestrapp:m_silverfish_cracked_stone_bricks:6, Cracked Glacierrock Bricks Monster Egg
+minestrapp:m_silverfish_cracked_stone_bricks:7, Cracked Oceanstone Bricks Monster Egg
+minestrapp:m_silverfish_cracked_stone_bricks:8, Cracked Reefstone Bricks Monster Egg
+minestrapp:m_silverfish_chiseled_stone:0, Chiseled Red Rock Monster Egg
+minestrapp:m_silverfish_chiseled_stone:1, Chiseled Deep Red Rock Monster Egg
+minestrapp:m_silverfish_chiseled_stone:2, Chiseled Deepstone Monster Egg
+minestrapp:m_silverfish_chiseled_stone:3, Chiseled Coldstone Monster Egg
+minestrapp:m_silverfish_chiseled_stone:4, Chiseled Deep Coldstone Monster Egg
+minestrapp:m_silverfish_chiseled_stone:5, Chiseled Icestone Monster Egg
+minestrapp:m_silverfish_chiseled_stone:6, Chiseled Glacierrock Monster Egg
+minestrapp:m_silverfish_chiseled_stone:7, Chiseled Oceanstone Monster Egg
+minestrapp:m_silverfish_chiseled_stone:8, Chiseled Reefstone Monster Egg
+minestrapp:ore_salt:0, Salt Ore
+minestrapp:ore_salt:1, Salt Ore
+minestrapp:ore_salt:2, Salt Ore
+minestrapp:ore_salt:3, Salt Ore
+minestrapp:ore_salt:4, Salt Ore
+minestrapp:ore_salt:5, Salt Ore
+minestrapp:ore_salt:6, Salt Ore
+minestrapp:ore_salt:7, Salt Ore
+minestrapp:ore_salt:8, Salt Ore
+minestrapp:ore_salt:9, Salt Ore
+minestrapp:ore_coal:0, Coal Ore
+minestrapp:ore_coal:1, Coal Ore
+minestrapp:ore_coal:2, Coal Ore
+minestrapp:ore_coal:3, Coal Ore
+minestrapp:ore_coal:4, Coal Ore
+minestrapp:ore_coal:5, Coal Ore
+minestrapp:ore_coal:6, Coal Ore
+minestrapp:ore_coal:7, Coal Ore
+minestrapp:ore_coal:8, Coal Ore
+minestrapp:ore_copper:0, Copper Ore
+minestrapp:ore_copper:1, Copper Ore
+minestrapp:ore_copper:2, Copper Ore
+minestrapp:ore_copper:3, Copper Ore
+minestrapp:ore_copper:4, Copper Ore
+minestrapp:ore_copper:5, Copper Ore
+minestrapp:ore_copper:6, Copper Ore
+minestrapp:ore_copper:7, Copper Ore
+minestrapp:ore_copper:8, Copper Ore
+minestrapp:ore_copper:9, Copper Ore
+minestrapp:ore_tin:0, Tin Ore
+minestrapp:ore_tin:1, Tin Ore
+minestrapp:ore_tin:2, Tin Ore
+minestrapp:ore_tin:3, Tin Ore
+minestrapp:ore_tin:4, Tin Ore
+minestrapp:ore_tin:5, Tin Ore
+minestrapp:ore_tin:6, Tin Ore
+minestrapp:ore_tin:7, Tin Ore
+minestrapp:ore_tin:8, Tin Ore
+minestrapp:ore_tin:9, Tin Ore
+minestrapp:ore_iron:0, Iron Ore
+minestrapp:ore_iron:1, Iron Ore
+minestrapp:ore_iron:2, Iron Ore
+minestrapp:ore_iron:3, Iron Ore
+minestrapp:ore_iron:4, Iron Ore
+minestrapp:ore_iron:5, Iron Ore
+minestrapp:ore_iron:6, Iron Ore
+minestrapp:ore_iron:7, Iron Ore
+minestrapp:ore_iron:8, Iron Ore
+minestrapp:ore_gold:0, Gold Ore
+minestrapp:ore_gold:1, Gold Ore
+minestrapp:ore_gold:2, Gold Ore
+minestrapp:ore_gold:3, Gold Ore
+minestrapp:ore_gold:4, Gold Ore
+minestrapp:ore_gold:5, Gold Ore
+minestrapp:ore_gold:6, Gold Ore
+minestrapp:ore_gold:7, Gold Ore
+minestrapp:ore_gold:8, Gold Ore
+minestrapp:ore_meurodite:0, Meurodite Ore
+minestrapp:ore_meurodite:1, Meurodite Ore
+minestrapp:ore_meurodite:2, Meurodite Ore
+minestrapp:ore_meurodite:3, Meurodite Ore
+minestrapp:ore_meurodite:4, Meurodite Ore
+minestrapp:ore_meurodite:5, Meurodite Ore
+minestrapp:ore_meurodite:6, Meurodite Ore
+minestrapp:ore_meurodite:7, Meurodite Ore
+minestrapp:ore_meurodite:8, Meurodite Ore
+minestrapp:ore_meurodite:9, Meurodite Ore
+minestrapp:ore_lapis:0, Lapis Lazuli Ore
+minestrapp:ore_lapis:1, Lapis Lazuli Ore
+minestrapp:ore_lapis:2, Lapis Lazuli Ore
+minestrapp:ore_lapis:3, Lapis Lazuli Ore
+minestrapp:ore_lapis:4, Lapis Lazuli Ore
+minestrapp:ore_lapis:5, Lapis Lazuli Ore
+minestrapp:ore_lapis:6, Lapis Lazuli Ore
+minestrapp:ore_lapis:7, Lapis Lazuli Ore
+minestrapp:ore_lapis:8, Lapis Lazuli Ore
+minestrapp:ore_redstone:0, Redstone Ore
+minestrapp:ore_redstone:1, Redstone Ore
+minestrapp:ore_redstone:2, Redstone Ore
+minestrapp:ore_redstone:3, Redstone Ore
+minestrapp:ore_redstone:4, Redstone Ore
+minestrapp:ore_redstone:5, Redstone Ore
+minestrapp:ore_redstone:6, Redstone Ore
+minestrapp:ore_redstone:7, Redstone Ore
+minestrapp:ore_redstone:8, Redstone Ore
+minestrapp:ore_redstone_lit, tile.ore_redstone.name
+minestrapp:ore_irradium:0, Irradium Ore
+minestrapp:ore_irradium:1, Irradium Ore
+minestrapp:ore_irradium:2, Irradium Ore
+minestrapp:ore_irradium:3, Irradium Ore
+minestrapp:ore_irradium:4, Irradium Ore
+minestrapp:ore_irradium:5, Irradium Ore
+minestrapp:ore_irradium:6, Irradium Ore
+minestrapp:ore_irradium:7, Irradium Ore
+minestrapp:ore_irradium:8, Irradium Ore
+minestrapp:ore_irradium:9, Irradium Ore
+minestrapp:ore_torite:0, Torite Ore
+minestrapp:ore_torite:1, Torite Ore
+minestrapp:ore_torite:2, Torite Ore
+minestrapp:ore_torite:3, Torite Ore
+minestrapp:ore_torite:4, Torite Ore
+minestrapp:ore_torite:5, Torite Ore
+minestrapp:ore_torite:6, Torite Ore
+minestrapp:ore_torite:7, Torite Ore
+minestrapp:ore_torite:8, Torite Ore
+minestrapp:ore_torite:9, Torite Ore
+minestrapp:sunstone_deposit, Sunstone Deposit
+minestrapp:glacieric_ice_deposit, Glacieric Ice Deposit
+minestrapp:soul_eyes, Soul Eyes
+minestrapp:ore_diamond:0, Diamond Ore
+minestrapp:ore_diamond:1, Diamond Ore
+minestrapp:ore_diamond:2, Diamond Ore
+minestrapp:ore_diamond:3, Diamond Ore
+minestrapp:ore_diamond:4, Diamond Ore
+minestrapp:ore_diamond:5, Diamond Ore
+minestrapp:ore_diamond:6, Diamond Ore
+minestrapp:ore_diamond:7, Diamond Ore
+minestrapp:ore_diamond:8, Diamond Ore
+minestrapp:ore_emerald:0, Emerald Ore
+minestrapp:ore_emerald:1, Emerald Ore
+minestrapp:ore_emerald:2, Emerald Ore
+minestrapp:ore_emerald:3, Emerald Ore
+minestrapp:ore_emerald:4, Emerald Ore
+minestrapp:ore_emerald:5, Emerald Ore
+minestrapp:ore_emerald:6, Emerald Ore
+minestrapp:ore_emerald:7, Emerald Ore
+minestrapp:ore_emerald:8, Emerald Ore
+minestrapp:ore_titanium:0, Titanium Ore
+minestrapp:ore_titanium:1, Titanium Ore
+minestrapp:ore_titanium:2, Titanium Ore
+minestrapp:ore_titanium:3, Titanium Ore
+minestrapp:ore_titanium:4, Titanium Ore
+minestrapp:ore_titanium:5, Titanium Ore
+minestrapp:ore_titanium:6, Titanium Ore
+minestrapp:ore_titanium:7, Titanium Ore
+minestrapp:ore_titanium:8, Titanium Ore
+minestrapp:ore_titanium:9, Titanium Ore
+minestrapp:ore_blazium, Blazium Ore
+minestrapp:ore_shimmering, Shimmering Ore
+minestrapp:ore_soul, Soul Ore
+minestrapp:ore_dimensium, Dimensium Ore
+minestrapp:geode_shimmerstone_clear, Strange Boulder
+minestrapp:geode_shimmerstone_dark, Strange Boulder
+minestrapp:block_salt, Block of Salt
+minestrapp:block_copper, Block of Copper
+minestrapp:block_tin, Block of Tin
+minestrapp:block_bronze, Block of Bronze
+minestrapp:block_steel, Block of Steel
+minestrapp:block_meurodite, Block of Meurodite
+minestrapp:block_redstone_sandy_unlit, Block of Sandy Redstone
+minestrapp:block_redstone_sandy_lit, Block of Sandy Redstone
+minestrapp:block_redstone_frosted_unlit, Block of Frosted Redstone
+minestrapp:block_redstone_frosted_lit, Block of Frosted Redstone
+minestrapp:block_redstone_icy_unlit, Block of Icy Redstone
+minestrapp:block_redstone_icy_lit, Block of Icy Redstone
+minestrapp:block_redstone_briny_unlit, Block of Briny Redstone
+minestrapp:block_redstone_briny_lit, Block of Briny Redstone
+minestrapp:block_irradium, Unstable Block of Irradium
+minestrapp:block_sunstone, Sunstone
+minestrapp:block_torite, Block of Torite
+minestrapp:block_titanium, Block of Titanium
+minestrapp:block_glacierite, Block of Glacierite
+minestrapp:block_blazium, Block of Blazium
+minestrapp:block_mite_honey, Block of Mite Honey
+minestrapp:block_dimensium, Block of Dimensium
+minestrapp:block_dimensium_destabilized, Destabilized Block of Dimensium
+minestrapp:rope, Rope
+minestrapp:dimensium_rope, Dimensional Rope
+minestrapp:bauble_ice, Ice Bauble
+minestrapp:bauble_sunstone, Sunstone Bauble
+minestrapp:bauble_glowstone, Glowstone Bauble
+minestrapp:bauble_glowshroom_blue, Blue Glowshroom Bauble
+minestrapp:bauble_glowshroom_green, Green Glowshroom Bauble
+minestrapp:bauble_glowshroom_purple, Purple Glowshroom Bauble
+minestrapp:bauble_blazium, Blazium Bauble
+minestrapp:m_cobblestone_wall:0, Red Cobblestone Wall
+minestrapp:m_cobblestone_wall:1, Deep Red Cobblestone Wall
+minestrapp:m_cobblestone_wall:2, Deep Cobblestone Wall
+minestrapp:m_cobblestone_wall:3, Cold Cobblestone Wall
+minestrapp:m_cobblestone_wall:4, Deep Cold Cobblestone Wall
+minestrapp:m_cobblestone_wall:5, Cracked Icestone Wall
+minestrapp:m_cobblestone_wall:6, Cracked Glacierrock Wall
+minestrapp:m_cobblestone_wall:7, Cobbled Oceanstone Wall
+minestrapp:m_cobblestone_wall:8, Cobbled Reefstone Wall
+minestrapp:m_mossy_cobblestone_wall:0, Mossy Red Cobblestone Wall
+minestrapp:m_mossy_cobblestone_wall:1, Deep Mossy Red Cobblestone Wall
+minestrapp:m_mossy_cobblestone_wall:2, Deep Mossy Cobblestone Wall
+minestrapp:m_mossy_cobblestone_wall:3, Mossy Cold Cobblestone Wall
+minestrapp:m_mossy_cobblestone_wall:4, Deep Mossy Cold Cobblestone Wall
+minestrapp:m_mossy_cobblestone_wall:5, Snowy Cracked Icestone Wall
+minestrapp:m_mossy_cobblestone_wall:6, Snowy Cracked Glacierrock Wall
+minestrapp:m_mossy_cobblestone_wall:7, Mossy Cobbled Oceanstone Wall
+minestrapp:m_mossy_cobblestone_wall:8, Mossy Cobbled Reefstone Wall
+minestrapp:candle:0, Candle
+minestrapp:candle:1, Orange Candle
+minestrapp:candle:2, Magenta Candle
+minestrapp:candle:3, Light Blue Candle
+minestrapp:candle:4, Yellow Candle
+minestrapp:candle:5, Lime Candle
+minestrapp:candle:6, Pink Candle
+minestrapp:candle:7, Gray Candle
+minestrapp:candle:8, Light Gray Candle
+minestrapp:candle:9, Cyan Candle
+minestrapp:candle:10, Purple Candle
+minestrapp:candle:11, Blue Candle
+minestrapp:candle:12, Brown Candle
+minestrapp:candle:13, Green Candle
+minestrapp:candle:14, Red Candle
+minestrapp:candle:15, Black Candle
+minestrapp:halloween_chandelier:0, Spooky Black Chandelier
+minestrapp:halloween_chandelier:1, Spooky Orange Chandelier
+minestrapp:halloween_chandelier:2, Spooky Lime Chandelier
+minestrapp:halloween_chandelier:3, Spooky Purple Chandelier
+minestrapp:pumpkin_normie:0, Simple Normie Jack o'Lantern
+minestrapp:pumpkin_normie:1, Average Normie Jack o'Lantern
+minestrapp:pumpkin_normie:2, Complex Normie Jack o'Lantern
+minestrapp:pumpkin_normie_fire, tile.pumpkin_normie_fire.name
+minestrapp:pumpkin_normie_ender, tile.pumpkin_normie_ender.name
+minestrapp:pumpkin_grumpy:0, Simple Grumpy Jack o'Lantern
+minestrapp:pumpkin_grumpy:1, Average Grumpy Jack o'Lantern
+minestrapp:pumpkin_grumpy:2, Complex Grumpy Jack o'Lantern
+minestrapp:pumpkin_grumpy_fire, tile.pumpkin_grumpy_fire.name
+minestrapp:pumpkin_grumpy_ender, tile.pumpkin_grumpy_ender.name
+minestrapp:pumpkin_dumpy:0, Simple Dumpy Jack o'Lantern
+minestrapp:pumpkin_dumpy:1, Average Dumpy Jack o'Lantern
+minestrapp:pumpkin_dumpy:2, Complex Dumpy Jack o'Lantern
+minestrapp:pumpkin_dumpy_fire, tile.pumpkin_dumpy_fire.name
+minestrapp:pumpkin_dumpy_ender, tile.pumpkin_dumpy_ender.name
+minestrapp:pumpkin_creepy:0, Simple Creepy Jack o'Lantern
+minestrapp:pumpkin_creepy:1, Average Creepy Jack o'Lantern
+minestrapp:pumpkin_creepy:2, Complex Creepy Jack o'Lantern
+minestrapp:pumpkin_creepy_fire, tile.pumpkin_creepy_fire.name
+minestrapp:pumpkin_creepy_ender, tile.pumpkin_creepy_ender.name
+minestrapp:pumpkin_smiley:0, Simple Smiley Jack o'Lantern
+minestrapp:pumpkin_smiley:1, Average Smiley Jack o'Lantern
+minestrapp:pumpkin_smiley:2, Complex Smiley Jack o'Lantern
+minestrapp:pumpkin_smiley_fire, tile.pumpkin_smiley_fire.name
+minestrapp:pumpkin_smiley_ender, tile.pumpkin_smiley_ender.name
+minestrapp:pumpkin_smashed, Smashed Jack-o'-Lantern
+minestrapp:pumpkin_smashed_fire, tile.pumpkin_smashed_fire.name
+minestrapp:pumpkin_smashed_ender, tile.pumpkin_smashed_ender.name
+minestrapp:skull_bat, Bat Skull
+minestrapp:skull_parrot, Parrot Skull
+minestrapp:skull_chicken, Chicken Skull
+minestrapp:skull_rabbit, Rabbit Skull
+minestrapp:skull_pig, Pig Skull
+minestrapp:skull_sheep, Sheep Skull
+minestrapp:skull_cow, Cow Skull
+minestrapp:skull_llama, Llama Skull
+minestrapp:skull_horse, Horse Skull
+minestrapp:skull_ocelot, Ocelot Skull
+minestrapp:skull_wolf, Wolf Skull
+minestrapp:skull_polar_bear, Polar Bear Skull
+minestrapp:skull_squid, Squid Skull...?
+minestrapp:skull_villager, Villager Skull
+minestrapp:skull_husk, Husk Skull
+minestrapp:skull_stray, Stray Skull
+minestrapp:skull_creeper, Creeper Skull
+minestrapp:skull_guardian, Guardian Skull
+minestrapp:skull_enderman, Enderman Skull
+minestrapp:skull_shulker, Shulker Skull
+minestrapp:plate_weave, Woven Plate
+minestrapp:plate_slate, Slate Plate
+minestrapp:plate_metal:0, Copper Plate
+minestrapp:plate_metal:1, Bronze Plate
+minestrapp:plate_metal:2, Steel Plate
+minestrapp:plate_metal:3, Golden Plate
+minestrapp:basket, Basket
+minestrapp:crate, Crate
+minestrapp:barrel, Barrel
+minestrapp:tanning_rack, Tanning Rack
+minestrapp:glacieric_ice, Glacieric Ice
+minestrapp:lava_sponge:0, Lava Sponge
+minestrapp:lava_sponge:1, Molten Lava Sponge
+minestrapp:mite_eggsack, Endermite Eggsack
+minestrapp:block_irradiant_sunstone, Irradiant Sunstone
+minestrapp:godstone, Godstone
+minestrapp:magnet_piston1, Magnet Piston
+minestrapp:block_irradium_insulated, Insulated Block of Irradium
+minestrapp:pipe, Pipe
+minestrapp:covered_pipe_red_rock, Covered Pipe
+minestrapp:covered_pipe_deep_red_rock, Covered Pipe
+minestrapp:covered_pipe_stone, Covered Pipe
+minestrapp:covered_pipe_deepstone, Covered Pipe
+minestrapp:covered_pipe_coldstone, Covered Pipe
+minestrapp:covered_pipe_deep_coldstone, Covered Pipe
+minestrapp:covered_pipe_icestone, Covered Pipe
+minestrapp:covered_pipe_glacierrock, Covered Pipe
+minestrapp:covered_pipe_oceanstone, Covered Pipe
+minestrapp:covered_pipe_reefstone, Covered Pipe
+minestrapp:sorter, Sorter
+minestrapp:alloy, Alloy Furnace
+minestrapp:crusher, Crusher
+minestrapp:soulsteel_vessel, Soulsteel Vessel
+minestrapp:redstone_sandy, Sandy Redstone
+minestrapp:redstone_frosted, Frosted Redstone
+minestrapp:redstone_icy, Icy Redstone
+minestrapp:redstone_briny, Briny Redstone
+minestrapp:glow_paste, Glow Paste
+minestrapp:crystalfloe, Crystalfloe
+minestrapp:door_charwood, Charwood Door
+minestrapp:m_natural_item:0, Grass Fibers
+minestrapp:m_natural_item:1, Mana Leaf
+minestrapp:m_natural_item:2, Clutchthorn Fibers
+minestrapp:sawdust, Sawdust
+minestrapp:m_mob_loot:0, Animal Bones
+minestrapp:m_mob_loot:1, Tallow
+minestrapp:m_mob_loot:2, Wing Sinew
+minestrapp:m_mob_loot:3, Horse Hide
+minestrapp:m_mob_loot:4, Pig Skin
+minestrapp:m_mob_loot:5, Wolf Hide
+minestrapp:m_mob_loot:6, Polar Bear Pelt
+minestrapp:m_mob_loot:7, Sheep Hoof
+minestrapp:m_mob_loot:8, Spider Leg
+minestrapp:effervexcense, Effervexcense
+minestrapp:m_leather:0, Cured Rabbit Hide
+minestrapp:m_leather:1, Cured Cow Hide
+minestrapp:m_leather:2, Cured Horse Hide
+minestrapp:m_leather:3, Cured Pig Skin
+minestrapp:m_leather:4, Cured Wolf Hide
+minestrapp:m_leather:5, Cured Flesh
+minestrapp:m_leather:6, Cured Rotten Flesh
+minestrapp:m_leather:7, Poorly Scudded Hide
+minestrapp:m_leather:8, Small Scudded Hide
+minestrapp:m_leather:9, Scudded Hide
+minestrapp:m_leather:10, Large Scudded Hide
+minestrapp:m_leather:11, Botched Leather
+minestrapp:m_leather:12, Suede
+minestrapp:m_leather:13, Leather
+minestrapp:m_leather:14, Fine Leather
+minestrapp:m_leather:15, Cured Polar Bear Pelt
+minestrapp:tannic, item.tannic.name
+minestrapp:mud_ball, Mud Ball
+minestrapp:m_chunks:0, Red Rock Chunk
+minestrapp:m_chunks:1, Stone Chunk
+minestrapp:m_chunks:2, Coldstone Chunk
+minestrapp:m_chunks:3, Icestone Chunk
+minestrapp:m_chunks:4, Oceanstone Chunk
+minestrapp:m_chunks:5, Netherrack Chunk
+minestrapp:m_chunks:6, End Stone Chunk
+minestrapp:m_chunks:7, Copper Chunk
+minestrapp:m_chunks:8, Tin Chunk
+minestrapp:m_chunks:9, Iron Chunk
+minestrapp:m_chunks:10, Gold Chunk
+minestrapp:m_chunks:11, Torite Chunk
+minestrapp:m_chunks:12, Titanium Chunk
+minestrapp:m_chunks:13, Dimensium Chunk
+minestrapp:m_chunks:14, Shimmering Chunk
+minestrapp:irradium, Irradium
+minestrapp:m_ingot:0, Copper Ingot
+minestrapp:m_ingot:1, Tin Ingot
+minestrapp:m_ingot:2, Bronze Ingot
+minestrapp:m_ingot:3, Steel Ingot
+minestrapp:m_ingot:4, Torite Ingot
+minestrapp:m_ingot:5, Titanium Ingot
+minestrapp:m_ingot:6, Glacierite Ingot
+minestrapp:m_ingot:7, Blazium Ingot
+minestrapp:m_ingot:8, Dimensium Ingot
+minestrapp:m_plating:0, Tin Plating
+minestrapp:m_plating:1, Bronze Plating
+minestrapp:m_plating:2, Steel Plating
+minestrapp:m_plating:3, Meurodite Plating
+minestrapp:m_plating:4, Copper Plating
+minestrapp:m_plating:5, Gold Plating
+minestrapp:salt, Salt
+minestrapp:m_gem:0, Sunstone Shard
+minestrapp:m_gem:1, Desert Quartz
+minestrapp:m_gem:2, Rock Crystal
+minestrapp:m_gem:3, Irradiant Quartz
+minestrapp:m_gem:4, Meurodite
+minestrapp:m_gem:5, Blaze Shard
+minestrapp:m_gem:6, Glacieric Ice Shard
+minestrapp:gem_soul, Soul Gem
+minestrapp:m_bricks:0, Mud Brick
+minestrapp:m_bricks:1, Portar
+minestrapp:m_tech_component:0, Reinforced Stick
+minestrapp:m_tech_component:1, Wing Segment
+minestrapp:m_tech_component:2, Propeller
+minestrapp:m_tech_component:3, Inert Chip
+minestrapp:m_tech_component:4, Technological Doodad
+minestrapp:m_tech_component:5, Advanced Tech Doodad
+minestrapp:m_tech_component:6, Magnet
+minestrapp:heart_piece, Heart Piece
+minestrapp:heart_container, Heart Container
+minestrapp:smelling_salts, Smelling Salts
+minestrapp:health_crystal, 'Health Crystal'
+minestrapp:boat_redwood, Redwood Boat
+minestrapp:boat_frozen_oak, Frozen Oak Boat
+minestrapp:boat_charwood, Charwood Boat
+minestrapp:hang_glider_wood, Wooden Hang Glider
+minestrapp:hang_glider_steel, Reinforced Hang Glider
+minestrapp:copper_pickaxe, Copper Pickaxe
+minestrapp:copper_axe, Copper Axe
+minestrapp:copper_shovel, Copper Shovel
+minestrapp:copper_hoe, Copper Hoe
+minestrapp:bronze_pickaxe, Bronze Pickaxe
+minestrapp:bronze_axe, Bronze Axe
+minestrapp:bronze_shovel, Bronze Shovel
+minestrapp:bronze_hoe, Bronze Hoe
+minestrapp:steel_pickaxe, Steel Pickaxe
+minestrapp:steel_axe, Steel Axe
+minestrapp:steel_shovel, Steel Shovel
+minestrapp:steel_hoe, Steel Hoe
+minestrapp:meurodite_pickaxe, Meurodite Pickaxe
+minestrapp:meurodite_axe, Meurodite Axe
+minestrapp:meurodite_shovel, Meurodite Shovel
+minestrapp:meurodite_hoe, Meurodite Hoe
+minestrapp:torite_pickaxe, Torite Pickaxe
+minestrapp:torite_axe, Torite Axe
+minestrapp:torite_shovel, Torite Shovel
+minestrapp:torite_hoe, Torite Hoe
+minestrapp:titanium_pickaxe, Titanium Pickaxe
+minestrapp:titanium_axe, Titanium Axe
+minestrapp:titanium_shovel, Titanium Shovel
+minestrapp:titanium_hoe, Titanium Hoe
+minestrapp:fire_pickaxe, Blazium Pickaxe
+minestrapp:fire_axe, Blazium Axe
+minestrapp:fire_shovel, Blazium Shovel
+minestrapp:fire_hoe, Blazium Hoe
+minestrapp:ice_pickaxe, Glacierite Pickaxe
+minestrapp:ice_axe, Glacierite Axe
+minestrapp:ice_shovel, Glacierite Shovel
+minestrapp:ice_hoe, Glacierite Hoe
+minestrapp:gold_dagger, Gold Dagger
+minestrapp:gold_mace, Gold Scepter
+minestrapp:wooden_dagger, Wooden Dagger
+minestrapp:wooden_mace, Wooden Club
+minestrapp:stone_dagger, Stone Dagger
+minestrapp:stone_mace, Stone Mace
+minestrapp:copper_sword, Copper Sword
+minestrapp:copper_dagger, Copper Dagger
+minestrapp:copper_mace, Copper Mace
+minestrapp:iron_dagger, Iron Dagger
+minestrapp:iron_mace, Iron Mace
+minestrapp:bronze_sword, Bronze Sword
+minestrapp:bronze_dagger, Bronze Dagger
+minestrapp:bronze_mace, Bronze Mace
+minestrapp:steel_sword, Steel Sword
+minestrapp:steel_dagger, Steel Dagger
+minestrapp:steel_mace, Steel Mace
+minestrapp:meurodite_sword, Meurodite Sword
+minestrapp:meurodite_dagger, Meurodite Dagger
+minestrapp:meurodite_mace, Meurodite Mace
+minestrapp:torite_sword, Torite Sword
+minestrapp:torite_dagger, Torite Dagger
+minestrapp:torite_mace, Torite Mace
+minestrapp:diamond_dagger, Diamond Dagger
+minestrapp:diamond_mace, Diamond Mace
+minestrapp:titanium_sword, Titanium Sword
+minestrapp:titanium_dagger, Titanium Dagger
+minestrapp:titanium_mace, Titanium Mace
+minestrapp:fire_sword, Blazium Sword
+minestrapp:fire_dagger, Blazium Dagger
+minestrapp:fire_mace, Blazium Mace
+minestrapp:ice_sword, Glacierite Sword
+minestrapp:ice_dagger, Glacierite Dagger
+minestrapp:ice_mace, Glacierite Mace
+minestrapp:tin_helm, Tin Helmet
+minestrapp:tin_chest, Tin Chestplate
+minestrapp:tin_legs, Tin Leggings
+minestrapp:tin_feet, Tin Boots
+minestrapp:bronze_helm, Bronze Helmet
+minestrapp:bronze_chest, Bronze Chestplate
+minestrapp:bronze_legs, Bronze Leggings
+minestrapp:bronze_feet, Bronze Boots
+minestrapp:steel_helm, Steel Helmet
+minestrapp:steel_chest, Steel Chestplate
+minestrapp:steel_legs, Steel Leggings
+minestrapp:steel_feet, Steel Boots
+minestrapp:meurodite_helm, Meurodite Helmet
+minestrapp:meurodite_chest, Meurodite Chestplate
+minestrapp:meurodite_legs, Meurodite Leggings
+minestrapp:meurodite_feet, Meurodite Boots
+minestrapp:torite_helm, Torite Helmet
+minestrapp:torite_chest, Torite Chestplate
+minestrapp:torite_legs, Torite Leggings
+minestrapp:torite_feet, Torite Boots
+minestrapp:titanium_helm, Titanium Helmet
+minestrapp:titanium_chest, Titanium Chestplate
+minestrapp:titanium_legs, Titanium Leggings
+minestrapp:titanium_feet, Titanium Boots
+minestrapp:fire_helm, Blazium Helmet
+minestrapp:fire_chest, Blazium Chestplate
+minestrapp:fire_legs, Blazium Leggings
+minestrapp:fire_feet, Blazium Boots
+minestrapp:ice_helm, Glacierite Helmet
+minestrapp:ice_chest, Glacierite Chestplate
+minestrapp:ice_legs, Glacierite Leggings
+minestrapp:ice_feet, Glacierite Boots
+minestrapp:pepper_seeds, Pepper Seeds
+minestrapp:cabbage_seeds, Cabbage Seeds
+minestrapp:celery_seeds, Celery Seeds
+minestrapp:tomato_seeds, Tomato Seeds
+minestrapp:blueberry, Blueberry
+minestrapp:blackberry, Blackberry
+minestrapp:raspberry, Raspberry
+minestrapp:strawberry, Strawberry
+minestrapp:voidberry, Voidberry
+minestrapp:pepper, Pepper
+minestrapp:cabbage, Cabbage
+minestrapp:celery, Celery
+minestrapp:onion, Onion
+minestrapp:peanuts, Peanuts
+minestrapp:lettuce, Lettuce
+minestrapp:tomato, Tomato
+minestrapp:corn, Ear of Corn
+minestrapp:corn_on_the_cob, Corn on the Cob
+minestrapp:grilled_corn, Grilled Corn
+minestrapp:corn_meal, Corn Meal
+minestrapp:corn_bread, Corn Bread
+minestrapp:dough, Dough
+minestrapp:sugar_cookie, Sugar Cookie
+minestrapp:bun, Bun
+minestrapp:pbj, PB&J Sandwich
+minestrapp:blt, BLT Sandwich
+minestrapp:salmon_burger, Salmon Burger
+minestrapp:hamburger, Hamburger
+minestrapp:dry_spaghetti, Dry Spaghetti
+minestrapp:pie_crust, Pie Crust
+minestrapp:apple_pie, Apple Pie
+minestrapp:blueberry_pie, Blueberry Pie
+minestrapp:blackberry_pie, Blackberry Pie
+minestrapp:raspberry_pie, Raspberry Pie
+minestrapp:strawberry_pie, Strawberry Pie
+minestrapp:voidberry_pie, Voidberry Pie
+minestrapp:bread_bowl, Bread Bowl
+minestrapp:bread_mushroom_stew, Mushroom Stew
+minestrapp:bread_beetroot_soup, Beetroot Soup
+minestrapp:bread_rabbit_stew, Rabbit Stew
+minestrapp:fried_egg, Fried Egg
+minestrapp:bread_fried_egg, Fried Egg
+minestrapp:rice_bowl, Rice Bowl
+minestrapp:bread_rice_bowl, Rice Bowl
+minestrapp:stir_fry, Stir Fry
+minestrapp:bread_stir_fry, Stir Fry
+minestrapp:tomato_sauce, Tomato Sauce
+minestrapp:bread_tomato_sauce, Tomato Sauce
+minestrapp:tomato_soup, Tomato Soup
+minestrapp:bread_tomato_soup, Tomato Soup
+minestrapp:spaghetti, Spaghetti
+minestrapp:bread_spaghetti, Spaghetti
+minestrapp:popcorn, Popcorn
+minestrapp:bread_popcorn, Popcorn
+minestrapp:ice_cream, Ice Cream
+minestrapp:bread_ice_cream, Ice Cream
+minestrapp:glowshroom_stew, Glowshroom Stew
+minestrapp:bread_glowshroom_stew, Glowshroom Stew
+minestrapp:salad, Green Salad
+minestrapp:bread_salad, Green Salad
+minestrapp:blueberry_salad, Hearty Salad
+minestrapp:bread_blueberry_salad, Hearty Salad
+minestrapp:blackberry_salad, Hasty Salad
+minestrapp:bread_blackberry_salad, Hasty Salad
+minestrapp:raspberry_salad, Healthy Salad
+minestrapp:bread_raspberry_salad, Healthy Salad
+minestrapp:strawberry_salad, Fitness Salad
+minestrapp:bread_strawberry_salad, Fitness Salad
+minestrapp:coleslaw, Coleslaw
+minestrapp:bread_coleslaw, Coleslaw
+minestrapp:voidberry_salad, Mystic Salad
+minestrapp:bread_voidberry_salad, Mystic Salad
+minestrapp:melonade, Melonade
+minestrapp:jam, Jam
+minestrapp:void_jam, Void Jam
+minestrapp:peanut_butter, Peanut Butter
+minestrapp:hot_sauce, Hot Sauce
+minestrapp:mite_honey, Endermite Honey
+minestrapp:fat, Fat
+minestrapp:grease, Grease
+minestrapp:salted_chicken, Salted Chicken
+minestrapp:salted_mutton, Salted Mutton
+minestrapp:salted_rabbit, Salted Rabbit
+minestrapp:salted_steak, Salted Steak
+minestrapp:salted_porkchop, Salted Porkchop
+minestrapp:chicken_jerky, Chicken Jerky
+minestrapp:rabbit_jerky, Rabbit Jerky
+minestrapp:mutton_jerky, Mutton Jerky
+minestrapp:beef_jerky, Beef Jerky
+minestrapp:pork_jerky, Pork Jerky
+minestrapp:cod_jerky, Cod Jerky
+minestrapp:salmon_jerky, Salmon Jerky
+minestrapp:squid_tentacle, Squid Tentacle
+minestrapp:calamari, Calamari
+minestrapp:sushi, Sushi
+minestrapp:lucky_sushi, Lucky Sushi
+minestrapp:onigiri, Onigiri
+minestrapp:flesh, Flesh
+minestrapp:fries, Fries
+minestrapp:fried_fish, Fried Fish
+minestrapp:fried_salmon, Fried Salmon
+minestrapp:fish_and_chips, Fish & Chips
+minestrapp:bacon, Bacon
+minestrapp:candy_red, Living Licorice
+minestrapp:candy_blue, Camo Candy
+minestrapp:candy_yellow, Lofty Lolly
+minestrapp:backpack, Backpack
+minestrapp:satchel, Satchel
 moreplanets:space_warp_pad, Space Warp Pad
 moreplanets:rocket_crusher, Rocket Crusher
 moreplanets:dungeon_glowstone, Dungeon Glowstone
@@ -2175,11 +3116,11 @@ galacticraftcore:infinite_oxygen, Infinite Oxygen Supply
 galacticraftcore:sensor_lens, Sensor Lens
 galacticraftcore:sensor_glasses, Sensor Glasses
 galacticraftcore:standard_wrench, Standard Wrench
-galacticraftcore:steel_pickaxe, Heavy Duty Pickaxe
-galacticraftcore:steel_axe, Heavy Duty Axe
-galacticraftcore:steel_hoe, Heavy Duty Hoe
-galacticraftcore:steel_shovel, Heavy Duty Shovel
-galacticraftcore:steel_sword, Heavy Duty Sword
+galacticraftcore:steel_pickaxe, Steel Pickaxe
+galacticraftcore:steel_axe, Steel Axe
+galacticraftcore:steel_hoe, Steel Hoe
+galacticraftcore:steel_shovel, Steel Shovel
+galacticraftcore:steel_sword, Steel Sword
 galacticraftcore:steel_helmet, Heavy Duty Helmet
 galacticraftcore:steel_chestplate, Heavy Duty Chestplate
 galacticraftcore:steel_leggings, Heavy Duty Leggings
@@ -4198,82 +5139,85 @@ ironjetpacks:steel_jetpack, Jetpack
 ironjetpacks:diamond_jetpack, Jetpack
 ironjetpacks:platinum_jetpack, Jetpack
 ironjetpacks:emerald_jetpack, Jetpack
-magicalcrops:essenceore, Minicio Ore
-magicalcrops:essenceoreend, End Minicio Ore
-magicalcrops:essenceorenether, Nether Minicio Ore
-magicalcrops:minicioblock, Condensed Minicio Essence
-magicalcrops:accioblock, Condensed Accio Block
-magicalcrops:crucioblock, Condensed Crucio Block
-magicalcrops:imperioblock, Condensed Imperio Block
-magicalcrops:zivicioblock, Condensed Zivicio Block
-magicalcrops:ezivicioblock, Super Condensed Zivicio Block
-magicalcrops:cropair, Air Crop
-magicalcrops:cropcoal, Coal Crop
-magicalcrops:cropdiamond, Diamond Crop
-magicalcrops:cropdye, Dye Crop
-magicalcrops:cropearth, Earth Crop
-magicalcrops:cropemerald, Emerald Crop
-magicalcrops:cropexperience, Experience Crop
-magicalcrops:cropfire, Fire Crop
-magicalcrops:cropglowstone, Glowstone Crop
-magicalcrops:cropgold, Gold Crop
-magicalcrops:cropiron, Iron Crop
-magicalcrops:croplapis, Lapis Crop
-magicalcrops:cropminicio, Minicio Crop
-magicalcrops:cropnature, Nature Crop
-magicalcrops:cropnether, Nether Crop
-magicalcrops:cropobsidian, Obsidian Crop
-magicalcrops:cropquartz, Quartz Crop
-magicalcrops:cropredstone, Redstone Crop
-magicalcrops:cropwater, Water Crop
-magicalcrops:cropwither, tile.cropWither.name
-magicalcrops:essenceminicio, Minicio Essence
-magicalcrops:essenceaccio, Accio Essence
-magicalcrops:essencecrucio, Crucio Essence
-magicalcrops:essenceimperio, Imperio Essence
-magicalcrops:essencezivicio, Zivicio Essence
-magicalcrops:seedminicio, Minicio Seeds
-magicalcrops:weakstone:0, §7Fragile Infusion Stone
-magicalcrops:regularstone:0, §aPrevalent Infusion Stone
-magicalcrops:strongstone:0, §9Mighty Infusion Stone
-magicalcrops:extremestone:0, §dExceptional Infusion Stone
-magicalcrops:masterstone:0, §6Master Infusion Stone
-magicalcrops:essenceair, Air Essence
-magicalcrops:essencecoal, Coal Essence
-magicalcrops:essencediamond, Diamond Essence
-magicalcrops:essencedye, Dye Essence
-magicalcrops:essenceearth, Earth Essence
-magicalcrops:essenceemerald, Emerlad Essence
-magicalcrops:essenceexperience, Experience Essence
-magicalcrops:essencefire, Fire Essence
-magicalcrops:essenceglowstone, Glowstone Essence
-magicalcrops:essencegold, Gold Essence
-magicalcrops:essenceiron, Iron Essence
-magicalcrops:essencelapis, Lapis Lazuli Essence
-magicalcrops:essencenature, Nature Essence
-magicalcrops:essencenether, Nether Essence
-magicalcrops:essenceobsidian, Obsidian Essence
-magicalcrops:essencequartz, Quartz Essence
-magicalcrops:essenceredstone, Redstone Essence
-magicalcrops:essencewater, Water Essence
-magicalcrops:seedair, Air Seeds
-magicalcrops:seedcoal, Coal Seeds
-magicalcrops:seeddiamond, Diamond Seeds
-magicalcrops:seeddye, Dye Seeds
-magicalcrops:seedearth, Earth Seeds
-magicalcrops:seedemerald, Emerald Seeds
-magicalcrops:seedexperience, Experience Seeds
-magicalcrops:seedfire, Fire Seeds
-magicalcrops:seedglowstone, Glowstone Seeds
-magicalcrops:seedgold, Gold Seeds
-magicalcrops:seediron, Iron Seeds
-magicalcrops:seedlapis, Lapis Seeds
-magicalcrops:seednature, Nature Seeds
-magicalcrops:seednether, Nether Seeds
-magicalcrops:seedobsidian, Obsidian Seeds
-magicalcrops:seedquartz, Quartz Seeds
-magicalcrops:seedredstone, Redstone Seeds
-magicalcrops:seedwater, Water Seeds
+matc:inferiumcrystal, §eInferium Infusion Crystal
+matc:prudentiumcrystal, §2Prudentium Infusion Crystal
+matc:intermediumcrystal, §6Intermedium Infusion Crystal
+matc:superiumcrystal, §9Superium Infusion Crystal
+matc:supremiumcrystal, §cSupremium Infusion Crystal
+matteroverdrive:dilithium_ore, Dilithium Ore
+matteroverdrive:tritanium_ore, Tritanium Ore
+matteroverdrive:tritanium_block, Tritanium Block
+matteroverdrive:machine_hull, Machine Hull
+matteroverdrive:decomposer, Matter Decomposer
+matteroverdrive:matter_recycler, Matter Recycler
+matteroverdrive:replicator, Matter Replicator
+matteroverdrive:matter_pipe, Matter Transport Pipe
+matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
+matteroverdrive:network_pipe, Matter Network Cable
+matteroverdrive:network_router, Matter Network Router
+matteroverdrive:matter_analyzer, Matter Analyzer
+matteroverdrive:pattern_monitor, Pattern Monitor
+matteroverdrive:pattern_storage, Pattern Storage
+matteroverdrive:network_switch, Matter Network Switch
+matteroverdrive:solar_panel, Solar Panel
+matteroverdrive:gravitational_anomaly, Gravitational Anomaly
+matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
+matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
+matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
+matteroverdrive:fusion_reactor_io, Fusion Reactor IO
+matteroverdrive:matter_plasma, tile.null.name
+matteroverdrive:molten_tritanium, tile.null.name
+matteroverdrive:tritanium_crate, Tritanium Crate
+matteroverdrive:tritanium_crate_white, White Tritanium Crate
+matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
+matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
+matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
+matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
+matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
+matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
+matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
+matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
+matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
+matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
+matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
+matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
+matteroverdrive:tritanium_crate_green, Green Tritanium Crate
+matteroverdrive:tritanium_crate_red, Red Tritanium Crate
+matteroverdrive:tritanium_crate_black, Black Tritanium Crate
+matteroverdrive:inscriber, Molecular Inscriber
+matteroverdrive:contract_market, Contract Market
+matteroverdrive:android_spawner, Rogue Android Spawner
+matteroverdrive:spacetime_accelerator, Space-Time Accelerator
+matteroverdrive:pylon, Dimensional Pylon
+matteroverdrive:transporter, Transporter
+matteroverdrive:star_map, Star Map
+matteroverdrive:holo_sign, Holographic Sign
+matteroverdrive:weapon_station, Weapon Station
+matteroverdrive:android_station, Android Station
+matteroverdrive:charging_station, Charging Station
+matteroverdrive:decorative.stripes, Yellow Stripes
+matteroverdrive:decorative.coils, Coils
+matteroverdrive:decorative.clean, Tritanium Smooth Plate
+matteroverdrive:decorative.vent.dark, Dark Vent
+matteroverdrive:decorative.vent.bright, Vent
+matteroverdrive:decorative.holo_matrix, Holographic Matrix
+matteroverdrive:decorative.tritanium_plate, Tritanium Plate
+matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
+matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
+matteroverdrive:decorative.matter_tube, Matter Tube
+matteroverdrive:decorative.beams, Tritanium Grate
+matteroverdrive:decorative.floor_tiles, Floor Tiles
+matteroverdrive:decorative.floor_tile_white, White Floor Tiles
+matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
+matteroverdrive:decorative.floor_noise, Linoleum Floor
+matteroverdrive:decorative.white_plate, Soft Wall Plates
+matteroverdrive:decorative.separator, Tritanium Rail
+matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
+matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
+matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
+matteroverdrive:microwave, Microwave
+matteroverdrive:industrial_glass, Industrial Glass
+matteroverdrive:bounding_box, Bounding Block
 matteroverdrive:dilithium_crystal, Dilithium Crystal
 matteroverdrive:tritanium_ingot, Tritanium Ingot
 matteroverdrive:tritanium_nugget, Tritanium Nugget
@@ -4372,80 +5316,6 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
-matteroverdrive:dilithium_ore, Dilithium Ore
-matteroverdrive:tritanium_ore, Tritanium Ore
-matteroverdrive:tritanium_block, Tritanium Block
-matteroverdrive:machine_hull, Machine Hull
-matteroverdrive:decomposer, Matter Decomposer
-matteroverdrive:matter_recycler, Matter Recycler
-matteroverdrive:replicator, Matter Replicator
-matteroverdrive:matter_pipe, Matter Transport Pipe
-matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
-matteroverdrive:network_pipe, Matter Network Cable
-matteroverdrive:network_router, Matter Network Router
-matteroverdrive:matter_analyzer, Matter Analyzer
-matteroverdrive:pattern_monitor, Pattern Monitor
-matteroverdrive:pattern_storage, Pattern Storage
-matteroverdrive:network_switch, Matter Network Switch
-matteroverdrive:solar_panel, Solar Panel
-matteroverdrive:gravitational_anomaly, Gravitational Anomaly
-matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
-matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
-matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
-matteroverdrive:fusion_reactor_io, Fusion Reactor IO
-matteroverdrive:matter_plasma, tile.null.name
-matteroverdrive:molten_tritanium, tile.null.name
-matteroverdrive:tritanium_crate, Tritanium Crate
-matteroverdrive:tritanium_crate_white, White Tritanium Crate
-matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
-matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
-matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
-matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
-matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
-matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
-matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
-matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
-matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
-matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
-matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
-matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
-matteroverdrive:tritanium_crate_green, Green Tritanium Crate
-matteroverdrive:tritanium_crate_red, Red Tritanium Crate
-matteroverdrive:tritanium_crate_black, Black Tritanium Crate
-matteroverdrive:inscriber, Molecular Inscriber
-matteroverdrive:contract_market, Contract Market
-matteroverdrive:android_spawner, Rogue Android Spawner
-matteroverdrive:spacetime_accelerator, Space-Time Accelerator
-matteroverdrive:pylon, Dimensional Pylon
-matteroverdrive:transporter, Transporter
-matteroverdrive:star_map, Star Map
-matteroverdrive:holo_sign, Holographic Sign
-matteroverdrive:weapon_station, Weapon Station
-matteroverdrive:android_station, Android Station
-matteroverdrive:charging_station, Charging Station
-matteroverdrive:decorative.stripes, Yellow Stripes
-matteroverdrive:decorative.coils, Coils
-matteroverdrive:decorative.clean, Tritanium Smooth Plate
-matteroverdrive:decorative.vent.dark, Dark Vent
-matteroverdrive:decorative.vent.bright, Vent
-matteroverdrive:decorative.holo_matrix, Holographic Matrix
-matteroverdrive:decorative.tritanium_plate, Tritanium Plate
-matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
-matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
-matteroverdrive:decorative.matter_tube, Matter Tube
-matteroverdrive:decorative.beams, Tritanium Grate
-matteroverdrive:decorative.floor_tiles, Floor Tiles
-matteroverdrive:decorative.floor_tile_white, White Floor Tiles
-matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
-matteroverdrive:decorative.floor_noise, Linoleum Floor
-matteroverdrive:decorative.white_plate, Soft Wall Plates
-matteroverdrive:decorative.separator, Tritanium Rail
-matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
-matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
-matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
-matteroverdrive:microwave, Microwave
-matteroverdrive:industrial_glass, Industrial Glass
-matteroverdrive:bounding_box, Bounding Block
 slabmachines:workbench_slab, Crafting Slab
 slabmachines:furnace_slab, Furnace Slab
 slabmachines:chest_slab, Chest Slab
@@ -4481,6 +5351,90 @@ powersuits:powerarmorcomponent:20, Computer Chip
 powersuits:powerarmorcomponent:21, Insulated Rubber Hose
 powersuits:tinkertable, Power Armor Tinker Table
 powersuits:luxcapacitor, Lux Capacitor
+teslacorelib:base_addon, Base Addon
+teslacorelib:energy_tier1, Energy Upgrade I
+teslacorelib:energy_tier2, Energy Upgrade II
+teslacorelib:machine_case, Machine Case
+teslacorelib:speed_tier1, Speed Upgrade I
+teslacorelib:speed_tier2, Speed Upgrade II
+teslacorelib:battery:0, Tesla Battery
+teslacorelib:battery:0, Tesla Battery
+teslacorelib:wrench, Tesla Wrench
+teslathingies:dung_block, Dung Block
+teslathingies:dung_bricks, Dung Bricks
+teslathingies:tf-liquidxp_block, Liquid XP
+teslathingies:tf-molten_tesla_block, Molten Tesla
+teslathingies:tf-sewage_block, Sewage
+teslathingies:animal_age_filter_adult, Animal Filter (adults)
+teslathingies:animal_age_filter_baby, Animal Filter (baby)
+teslathingies:animal_filter, Animal Filter
+teslathingies:animal_package, Animal Package
+teslathingies:ash, Ash
+teslathingies:liquidxp_collector, XP Orb Collector Addon
+teslathingies:addon_range_tier1, Range Addon I
+teslathingies:addon_range_tier2, Range Addon II
+teslathingies:tesla_plant_seeds, Tesla Plant Seeds (WIP)
+teslathingies:teslified_obsidian, Teslified Obsidian
+teslathingies:void_storage_addon, Void Storage Addon
+teslathingies:xp_tank_addon, Player XP Addon
+teslathingies:animal_farm, Animal Farm
+teslathingies:animal_gym, Animal Gym
+teslathingies:animal_releaser, Animal Releaser
+teslathingies:compound_maker, Compound Maker
+teslathingies:crop_cloner, Crop Cloner
+teslathingies:crop_farm, Crop Farm
+teslathingies:electric_butcher, Electric Butcher
+teslathingies:fluid_burner, Fluid Burner
+teslathingies:fluid_solidifier, Fluid Solidifier
+teslathingies:incinerator, Incinerator
+teslathingies:fluid_compound_producer, Fluid Compound Producer
+teslathingies:item_compound_producer, Item Compound Producer
+teslathingies:item_liquefier, Item Liquefier
+teslathingies:liquidxp_storage, Liquid XP Storage
+teslathingies:misc_farmer, Farmer Machine
+teslathingies:multi_tank, Multi Tank (WIP)
+teslathingies:simple_tank, Simple Tank (WIP)
+teslathingies:powder_maker, Powder Maker
+teslathingies:powered_kiln, Powered Kiln
+teslathingies:pump, Powered Pump
+teslathingies:sewer, Sewer
+teslathingies:tree_farm, Tree Farm
+teslathingies:augmented_gold, Augmented Gold Lump
+teslathingies:augmented_iron, Augmented Iron Lump
+teslathingies:augmented_lapis, Augmented Lapis Lump
+teslathingies:augmented_diamond, Augmented Diamond Lump
+teslathingies:augmented_redstone, Augmented Redstone Lump
+teslathingies:augmented_emerald, Augmented Emerald Lump
+teslathingies:augmented_coal, Augmented Coal Lump
+teslathingies:augmented_copper, Augmented Copper Lump
+teslathingies:augmented_tin, Augmented Tin Lump
+teslathingies:augmented_titanium, Augmented Titanium Lump
+teslathingies:augmented_aluminum, Augmented Aluminium Lump
+teslathingies:augmented_mercury, Augmented Mercury Lump
+teslathingies:augmented_uranium, Augmented Uranium Lump
+teslathingies:augmented_nickel, Augmented Nickel Lump
+teslathingies:augmented_magnesium, Augmented Magnesium Lump
+teslathingies:augmented_zinc, Augmented Zinc Lump
+teslathingies:augmented_tungsten, Augmented Tungsten Lump
+teslathingies:augmented_platinum, Augmented Platinum Lump
+teslathingies:lump_gold, Teslified Gold Lump
+teslathingies:lump_iron, Teslified Iron Lump
+teslathingies:lump_lapis, Teslified Lapis Lump
+teslathingies:lump_diamond, Teslified Diamond Lump
+teslathingies:lump_redstone, Teslified Redstone Lump
+teslathingies:lump_emerald, Teslified Emerald Lump
+teslathingies:lump_coal, Teslified Coal Lump
+teslathingies:lump_copper, Teslified Copper Lump
+teslathingies:lump_tin, Teslified Tin Lump
+teslathingies:lump_titanium, Teslified Titanium Lump
+teslathingies:lump_aluminum, Teslified Aluminium Lump
+teslathingies:lump_mercury, Teslified Mercury Lump
+teslathingies:lump_uranium, Teslified Uranium Lump
+teslathingies:lump_nickel, Teslified Nickel Lump
+teslathingies:lump_magnesium, Teslified Magnesium Lump
+teslathingies:lump_zinc, Teslified Zinc Lump
+teslathingies:lump_tungsten, Teslified Tungsten Lump
+teslathingies:lump_platinum, Teslified Platinum Lump
 scannable:scanner, Scanner
 scannable:module_blank, Blank Scanner Module
 scannable:module_range, Scanner Module: Range
@@ -4492,6 +5446,27 @@ scannable:module_block, Scanner Module: Block
 scannable:module_structure, Scanner Module: Structures
 scannable:module_fluid, Scanner Module: Fluids
 scannable:module_entity, Scanner Module: Entity
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -4542,27 +5517,6 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -5116,16 +6070,19 @@ xtones:zyth:13, Zyth
 xtones:zyth:14, Zyth
 xtones:zyth:15, Zyth
 ocsensors:sensor, tile.ocsensors.sensor.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:witch_hat, item.witch_hat.name
+teslacorelib:gear_diamond, Diamond Gear
+teslacorelib:gear_gold, Gold Gear
+teslacorelib:gear_iron, Iron Gear
+teslacorelib:gear_stone, Stone Gear
+teslacorelib:powder_diamond, Diamond Powder
+teslacorelib:powder_emerald, Emerald Powder
+teslacorelib:powder_mercury, Mercury Powder
+teslacorelib:powder_uranium, Uranium Powder
+teslacorelib:powder_nickel, Nickel Powder
+teslacorelib:powder_magnesium, Magnesium Powder
+teslacorelib:powder_zinc, Zinc Powder
+teslacorelib:powder_tungsten, Tungsten Powder
+teslacorelib:powder_platinum, Platinum Powder
 quark:pirate_hat, item.pirate_hat.name
 quark:marble:0, Marble
 quark:marble:1, Polished Marble
@@ -5178,55 +6135,6 @@ quark:stone_basalt_slab:0, Basalt Slab
 quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
 quark:basalt_wall, tile.basalt_wall.name
 quark:smoker, tile.smoker.name
-quark:glowstone_dust_block, tile.glowstone_dust_block.name
-quark:gunpowder_block, tile.gunpowder_block.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -5321,6 +6229,65 @@ quark:acacia_button, tile.acacia_button.name
 quark:dark_oak_button, tile.dark_oak_button.name
 quark:charcoal_block, tile.charcoal_block.name
 quark:glass_item_frame, item.glass_item_frame.name
+quark:glowstone_dust_block, tile.glowstone_dust_block.name
+quark:gunpowder_block, tile.gunpowder_block.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:witch_hat, item.witch_hat.name
 heartdrops:heart, item.heart.name
 heartdrops:golden_heart, item.golden_heart.name
 betterbuilderswands:wandstone, Stone Wand
@@ -5545,6 +6512,485 @@ environmentaltech:nano_cont_personal_3, Personal Nano Bot Beacon Tier 3
 environmentaltech:nano_cont_personal_4, Personal Nano Bot Beacon Tier 4
 environmentaltech:nano_cont_personal_5, Personal Nano Bot Beacon Tier 5
 environmentaltech:nano_cont_personal_6, Personal Nano Bot Beacon Tier 6
+mysticalagriculture:storage:0, §eBlock of Inferium Essence
+mysticalagriculture:storage:1, §aBlock of Prudentium Essence
+mysticalagriculture:storage:2, §6Block of Intermedium Essence
+mysticalagriculture:storage:3, §bBlock of Superium Essence
+mysticalagriculture:storage:4, §cBlock of Supremium Essence
+mysticalagriculture:storage:5, Block of Prosperity
+mysticalagriculture:ingot_storage:0, Block of Base Essence
+mysticalagriculture:ingot_storage:1, §eBlock of Inferium
+mysticalagriculture:ingot_storage:2, §aBlock of Prudentium
+mysticalagriculture:ingot_storage:3, §6Block of Intermedium
+mysticalagriculture:ingot_storage:4, §bBlock of Superium
+mysticalagriculture:ingot_storage:5, §cBlock of Supremium
+mysticalagriculture:ingot_storage:6, §dBlock of Soulium
+mysticalagriculture:coal_block:0, §eBlock of Inferium Coal
+mysticalagriculture:coal_block:1, §aBlock of Prudentium Coal
+mysticalagriculture:coal_block:2, §6Block of Intermedium Coal
+mysticalagriculture:coal_block:3, §bBlock of Superium Coal
+mysticalagriculture:coal_block:4, §cBlock of Supremium Coal
+mysticalagriculture:soulstone:0, Soulstone
+mysticalagriculture:soulstone:1, Cobbled Soulstone
+mysticalagriculture:soulstone:2, Polished Soulstone
+mysticalagriculture:soulstone:3, Soulstone Bricks
+mysticalagriculture:soulstone:4, Cracked Soulstone Bricks
+mysticalagriculture:soulstone:5, Chiseled Soulstone
+mysticalagriculture:soulstone:6, Soulstone Slab Block
+mysticalagriculture:soulstone_slab:0, Soulstone Slab
+mysticalagriculture:cobbled_soulstone_slab:0, Cobbled Soulstone Slab
+mysticalagriculture:soulstone_brick_slab:0, Soulstone Brick Slab
+mysticalagriculture:cobbled_soulstone_stairs, Cobbled Soulstone Stairs
+mysticalagriculture:soulstone_brick_stairs, Soulstone Brick Stairs
+mysticalagriculture:cobbled_soulstone_wall, Cobbled Soulstone Wall
+mysticalagriculture:soulstone_brick_wall, Soulstone Brick Wall
+mysticalagriculture:soul_glass, Soul Glass
+mysticalagriculture:soul_glass_pane, Soul Glass Pane
+mysticalagriculture:inferium_furnace, §eInferium Furnace
+mysticalagriculture:prudentium_furnace, §aPrudentium Furnace
+mysticalagriculture:intermedium_furnace, §6Intermedium Furnace
+mysticalagriculture:superium_furnace, §bSuperium Furnace
+mysticalagriculture:supremium_furnace, §cSupremium Furnace
+mysticalagriculture:ultimate_furnace, §8Ultimate Furnace
+mysticalagriculture:prosperity_ore, Prosperity Ore
+mysticalagriculture:nether_prosperity_ore, Nether Prosperity Ore
+mysticalagriculture:end_prosperity_ore, End Prosperity Ore
+mysticalagriculture:inferium_ore, §eInferium Ore
+mysticalagriculture:nether_inferium_ore, §eNether Inferium Ore
+mysticalagriculture:end_inferium_ore, §eEnd Inferium Ore
+mysticalagriculture:growth_accelerator, §eGrowth Accelerator
+mysticalagriculture:mystical_machine_frame, Mystical Machine Frame
+mysticalagriculture:glowstone_lamp, Glowstone Lamp
+mysticalagriculture:seed_reprocessor, Seed Reprocessor
+mysticalagriculture:witherproof_block, Witherproof Block
+mysticalagriculture:witherproof_glass, Witherproof Glass
+mysticalagriculture:tinkering_table:0, Tinkering Table
+mysticalagriculture:tinkering_table:1, Tinkering Table
+mysticalagriculture:tinkering_table:2, Tinkering Table
+mysticalagriculture:tinkering_table:3, Tinkering Table
+mysticalagriculture:tinkering_table:4, Tinkering Table
+mysticalagriculture:tier1_inferium_crop, Tier 1 Inferium Crop
+mysticalagriculture:tier2_inferium_crop, Tier 2 Inferium Crop
+mysticalagriculture:tier3_inferium_crop, Tier 3 Inferium Crop
+mysticalagriculture:tier4_inferium_crop, Tier 4 Inferium Crop
+mysticalagriculture:tier5_inferium_crop, Tier 5 Inferium Crop
+mysticalagriculture:stone_crop, Stone Crop
+mysticalagriculture:dirt_crop, Dirt Crop
+mysticalagriculture:nature_crop, Nature Crop
+mysticalagriculture:wood_crop, Wood Crop
+mysticalagriculture:water_crop, Water Crop
+mysticalagriculture:ice_crop, Ice Crop
+mysticalagriculture:fire_crop, Fire Crop
+mysticalagriculture:dye_crop, Dye Crop
+mysticalagriculture:nether_crop, Nether Crop
+mysticalagriculture:coal_crop, Coal Crop
+mysticalagriculture:iron_crop, Iron Crop
+mysticalagriculture:nether_quartz_crop, Nether Quartz Crop
+mysticalagriculture:glowstone_crop, Glowstone Crop
+mysticalagriculture:redstone_crop, Redstone Crop
+mysticalagriculture:obsidian_crop, Obsidian Crop
+mysticalagriculture:gold_crop, Gold Crop
+mysticalagriculture:lapis_lazuli_crop, Lapis Lazuli Crop
+mysticalagriculture:end_crop, End Crop
+mysticalagriculture:experience_crop, Experience Crop
+mysticalagriculture:diamond_crop, Diamond Crop
+mysticalagriculture:emerald_crop, Emerald Crop
+mysticalagriculture:zombie_crop, Zombie Crop
+mysticalagriculture:pig_crop, Pig Crop
+mysticalagriculture:chicken_crop, Chicken Crop
+mysticalagriculture:cow_crop, Cow Crop
+mysticalagriculture:sheep_crop, Sheep Crop
+mysticalagriculture:slime_crop, Slime Crop
+mysticalagriculture:skeleton_crop, Skeleton Crop
+mysticalagriculture:creeper_crop, Creeper Crop
+mysticalagriculture:spider_crop, Spider Crop
+mysticalagriculture:rabbit_crop, Rabbit Crop
+mysticalagriculture:guardian_crop, Guardian Crop
+mysticalagriculture:blaze_crop, Blaze Crop
+mysticalagriculture:ghast_crop, Ghast Crop
+mysticalagriculture:enderman_crop, Enderman Crop
+mysticalagriculture:wither_skeleton_crop, Wither Skeleton Crop
+mysticalagriculture:silicon_crop, Silicon Crop
+mysticalagriculture:aluminum_crop, Aluminum Crop
+mysticalagriculture:tin_crop, Tin Crop
+mysticalagriculture:bronze_crop, Bronze Crop
+mysticalagriculture:lead_crop, Lead Crop
+mysticalagriculture:titanium_crop, Titanium Crop
+mysticalagriculture:grains_of_infinity_crop, Grains of Infinity Crop
+mysticalagriculture:electrical_steel_crop, Electrical Steel Crop
+mysticalagriculture:redstone_alloy_crop, Redstone Alloy Crop
+mysticalagriculture:conductive_iron_crop, Conductive Iron Crop
+mysticalagriculture:soularium_crop, Soularium Crop
+mysticalagriculture:dark_steel_crop, Dark Steel Crop
+mysticalagriculture:pulsating_iron_crop, Pulsating Iron Crop
+mysticalagriculture:energetic_alloy_crop, Energetic Alloy Crop
+mysticalagriculture:vibrant_alloy_crop, Vibrant Alloy Crop
+mysticalagriculture:end_steel_crop, End Steel Crop
+mysticalagriculture:marble_crop, Marble Crop
+mysticalagriculture:limestone_crop, Limestone Crop
+mysticalagriculture:basalt_crop, Basalt Crop
+mysticalagriculture:meteoric_iron_crop, Meteoric Iron Crop
+mysticalagriculture:desh_crop, Desh Crop
+mysticalagriculture:ender_biotite_crop, Ender Biotite Crop
+mysticalagriculture:sky_stone_crop, Sky Stone Crop
+mysticalagriculture:certus_quartz_crop, Certus Quartz Crop
+mysticalagriculture:fluix_crop, Fluix Crop
+mysticalagriculture:miners_torch, Miner's Torch
+mysticalagriculture:crafting:0, §eInferium Essence
+mysticalagriculture:crafting:1, §aPrudentium Essence
+mysticalagriculture:crafting:2, §6Intermedium Essence
+mysticalagriculture:crafting:3, §bSuperium Essence
+mysticalagriculture:crafting:4, §cSupremium Essence
+mysticalagriculture:crafting:5, Prosperity Shard
+mysticalagriculture:crafting:6, Nature Cluster
+mysticalagriculture:crafting:7, Dye Cluster
+mysticalagriculture:crafting:8, Nether Cluster
+mysticalagriculture:crafting:9, End Cluster
+mysticalagriculture:crafting:14, Blank Record
+mysticalagriculture:crafting:15, Blank Skull
+mysticalagriculture:crafting:16, Base Crafting Seed
+mysticalagriculture:crafting:17, Tier 1 Crafting Seed
+mysticalagriculture:crafting:18, Tier 2 Crafting Seed
+mysticalagriculture:crafting:19, Tier 3 Crafting Seed
+mysticalagriculture:crafting:20, Tier 4 Crafting Seed
+mysticalagriculture:crafting:21, Tier 5 Crafting Seed
+mysticalagriculture:crafting:22, Mystical Stick
+mysticalagriculture:crafting:23, Mystical String
+mysticalagriculture:crafting:24, Mystical Feather
+mysticalagriculture:crafting:28, Soul Dust
+mysticalagriculture:crafting:29, §dSoulium Dust
+mysticalagriculture:crafting:32, Base Essence Ingot
+mysticalagriculture:crafting:33, §eInferium Ingot
+mysticalagriculture:crafting:34, §aPrudentium Ingot
+mysticalagriculture:crafting:35, §6Intermedium Ingot
+mysticalagriculture:crafting:36, §bSuperium Ingot
+mysticalagriculture:crafting:37, §cSupremium Ingot
+mysticalagriculture:crafting:38, §dSoulium Ingot
+mysticalagriculture:crafting:39, Base Essence Nugget
+mysticalagriculture:crafting:40, §eInferium Nugget
+mysticalagriculture:crafting:41, §aPrudentium Nugget
+mysticalagriculture:crafting:42, §6Intermedium Nugget
+mysticalagriculture:crafting:43, §bSuperium Nugget
+mysticalagriculture:crafting:44, §cSupremium Nugget
+mysticalagriculture:crafting:45, §dSoulium Nugget
+mysticalagriculture:crafting:48, Theoretical Infinite Water Source
+mysticalagriculture:crafting:50, §eInferium Fertilization Core
+mysticalagriculture:crafting:51, §aPrudentium Fertilization Core
+mysticalagriculture:crafting:52, §6Intermedium Fertilization Core
+mysticalagriculture:crafting:53, §bSuperium Fertilization Core
+mysticalagriculture:crafting:54, §cSupremium Fertilization Core
+mysticalagriculture:infusion_crystal, Infusion Crystal
+mysticalagriculture:master_infusion_crystal, §cMaster Infusion Crystal
+mysticalagriculture:core_remover, §cCore Remover
+mysticalagriculture:fertilized_essence, §dFertilized Essence
+mysticalagriculture:mystical_fertilizer, §dMystical Fertilizer
+mysticalagriculture:inferium_apple, §eInferium Apple
+mysticalagriculture:prudentium_apple, §aPrudentium Apple
+mysticalagriculture:intermedium_apple, §6Intermedium Apple
+mysticalagriculture:superium_apple, §bSuperium Apple
+mysticalagriculture:supremium_apple, §cSupremium Apple
+mysticalagriculture:coal:0, §eInferium Coal
+mysticalagriculture:coal:1, §aPrudentium Coal
+mysticalagriculture:coal:2, §6Intermedium Coal
+mysticalagriculture:coal:3, §bSuperium Coal
+mysticalagriculture:coal:4, §cSupremium Coal
+mysticalagriculture:watering_can:0, §eInferium Watering Can
+mysticalagriculture:watering_can:1, §aPrudentium Watering Can
+mysticalagriculture:watering_can:2, §6Intermedium Watering Can
+mysticalagriculture:watering_can:3, §bSuperium Watering Can
+mysticalagriculture:watering_can:4, §cSupremium Watering Can
+mysticalagriculture:soulium_dagger, §dSoulium Dagger
+mysticalagriculture:xp_droplet, Experience Droplet
+mysticalagriculture:chunk:0, Tier 1 Mob Chunk
+mysticalagriculture:chunk:1, Tier 2 Mob Chunk
+mysticalagriculture:chunk:2, Tier 3 Mob Chunk
+mysticalagriculture:chunk:3, Tier 4 Mob Chunk
+mysticalagriculture:chunk:4, Tier 5 Mob Chunk
+mysticalagriculture:chunk:5, Experience Chunk
+mysticalagriculture:chunk:6, Zombie Chunk
+mysticalagriculture:chunk:7, Pig Chunk
+mysticalagriculture:chunk:8, Chicken Chunk
+mysticalagriculture:chunk:9, Cow Chunk
+mysticalagriculture:chunk:10, Sheep Chunk
+mysticalagriculture:chunk:11, Slime Chunk
+mysticalagriculture:chunk:12, Skeleton Chunk
+mysticalagriculture:chunk:13, Creeper Chunk
+mysticalagriculture:chunk:14, Spider Chunk
+mysticalagriculture:chunk:15, Rabbit Chunk
+mysticalagriculture:chunk:16, Guardian Chunk
+mysticalagriculture:chunk:17, Blaze Chunk
+mysticalagriculture:chunk:18, Ghast Chunk
+mysticalagriculture:chunk:19, Enderman Chunk
+mysticalagriculture:chunk:20, Wither Skeleton Chunk
+mysticalagriculture:stone_essence, Stone Essence
+mysticalagriculture:dirt_essence, Dirt Essence
+mysticalagriculture:nature_essence, Nature Essence
+mysticalagriculture:wood_essence, Wood Essence
+mysticalagriculture:water_essence, Water Essence
+mysticalagriculture:ice_essence, Ice Essence
+mysticalagriculture:fire_essence, Fire Essence
+mysticalagriculture:dye_essence, Dye Essence
+mysticalagriculture:nether_essence, Nether Essence
+mysticalagriculture:coal_essence, Coal Essence
+mysticalagriculture:iron_essence, Iron Essence
+mysticalagriculture:nether_quartz_essence, Nether Quartz Essence
+mysticalagriculture:glowstone_essence, Glowstone Essence
+mysticalagriculture:redstone_essence, Redstone Essence
+mysticalagriculture:obsidian_essence, Obsidian Essence
+mysticalagriculture:gold_essence, Gold Essence
+mysticalagriculture:lapis_lazuli_essence, Lapis Lazuli Essence
+mysticalagriculture:end_essence, End Essence
+mysticalagriculture:experience_essence, Experience Essence
+mysticalagriculture:diamond_essence, Diamond Essence
+mysticalagriculture:emerald_essence, Emerald Essence
+mysticalagriculture:zombie_essence, Zombie Essence
+mysticalagriculture:pig_essence, Pig Essence
+mysticalagriculture:chicken_essence, Chicken Essence
+mysticalagriculture:cow_essence, Cow Essence
+mysticalagriculture:sheep_essence, Sheep Essence
+mysticalagriculture:slime_essence, Slime Essence
+mysticalagriculture:skeleton_essence, Skeleton Essence
+mysticalagriculture:creeper_essence, Creeper Essence
+mysticalagriculture:spider_essence, Spider Essence
+mysticalagriculture:rabbit_essence, Rabbit Essence
+mysticalagriculture:guardian_essence, Guardian Essence
+mysticalagriculture:blaze_essence, Blaze Essence
+mysticalagriculture:ghast_essence, Ghast Essence
+mysticalagriculture:enderman_essence, Enderman Essence
+mysticalagriculture:wither_skeleton_essence, Wither Skeleton Essence
+mysticalagriculture:silicon_essence, Silicon Essence
+mysticalagriculture:aluminum_essence, Aluminum Essence
+mysticalagriculture:tin_essence, Tin Essence
+mysticalagriculture:bronze_essence, Bronze Essence
+mysticalagriculture:lead_essence, Lead Essence
+mysticalagriculture:titanium_essence, Titanium Essence
+mysticalagriculture:grains_of_infinity_essence, Grains of Infinity Essence
+mysticalagriculture:electrical_steel_essence, Electrical Steel Essence
+mysticalagriculture:redstone_alloy_essence, Redstone Alloy Essence
+mysticalagriculture:conductive_iron_essence, Conductive Iron Essence
+mysticalagriculture:soularium_essence, Soularium Essence
+mysticalagriculture:dark_steel_essence, Dark Steel Essence
+mysticalagriculture:pulsating_iron_essence, Pulsating Iron Essence
+mysticalagriculture:energetic_alloy_essence, Energetic Alloy Essence
+mysticalagriculture:vibrant_alloy_essence, Vibrant Alloy Essence
+mysticalagriculture:end_steel_essence, End Steel Essence
+mysticalagriculture:marble_essence, Marble Essence
+mysticalagriculture:limestone_essence, Limestone Essence
+mysticalagriculture:basalt_essence, Basalt Essence
+mysticalagriculture:meteoric_iron_essence, Meteoric Iron Essence
+mysticalagriculture:desh_essence, Desh Essence
+mysticalagriculture:ender_biotite_essence, Ender Biotite Essence
+mysticalagriculture:sky_stone_essence, Sky Stone Essence
+mysticalagriculture:certus_quartz_essence, Certus Quartz Essence
+mysticalagriculture:fluix_essence, Fluix Essence
+mysticalagriculture:tier1_inferium_seeds, Inferium Seeds
+mysticalagriculture:tier2_inferium_seeds, Inferium Seeds
+mysticalagriculture:tier3_inferium_seeds, Inferium Seeds
+mysticalagriculture:tier4_inferium_seeds, Inferium Seeds
+mysticalagriculture:tier5_inferium_seeds, Inferium Seeds
+mysticalagriculture:stone_seeds, Stone Seeds
+mysticalagriculture:dirt_seeds, Dirt Seeds
+mysticalagriculture:nature_seeds, Nature Seeds
+mysticalagriculture:wood_seeds, Wood Seeds
+mysticalagriculture:water_seeds, Water Seeds
+mysticalagriculture:ice_seeds, Ice Seeds
+mysticalagriculture:fire_seeds, Fire Seeds
+mysticalagriculture:dye_seeds, Dye Seeds
+mysticalagriculture:nether_seeds, Nether Seeds
+mysticalagriculture:coal_seeds, Coal Seeds
+mysticalagriculture:iron_seeds, Iron Seeds
+mysticalagriculture:nether_quartz_seeds, Nether Quartz Seeds
+mysticalagriculture:glowstone_seeds, Glowstone Seeds
+mysticalagriculture:redstone_seeds, Redstone Seeds
+mysticalagriculture:obsidian_seeds, Obsidian Seeds
+mysticalagriculture:gold_seeds, Gold Seeds
+mysticalagriculture:lapis_lazuli_seeds, Lapis Lazuli Seeds
+mysticalagriculture:end_seeds, End Seeds
+mysticalagriculture:experience_seeds, Experience Seeds
+mysticalagriculture:diamond_seeds, Diamond Seeds
+mysticalagriculture:emerald_seeds, Emerald Seeds
+mysticalagriculture:zombie_seeds, Zombie Seeds
+mysticalagriculture:pig_seeds, Pig Seeds
+mysticalagriculture:chicken_seeds, Chicken Seeds
+mysticalagriculture:cow_seeds, Cow Seeds
+mysticalagriculture:sheep_seeds, Sheep Seeds
+mysticalagriculture:slime_seeds, Slime Seeds
+mysticalagriculture:skeleton_seeds, Skeleton Seeds
+mysticalagriculture:creeper_seeds, Creeper Seeds
+mysticalagriculture:spider_seeds, Spider Seeds
+mysticalagriculture:rabbit_seeds, Rabbit Seeds
+mysticalagriculture:guardian_seeds, Guardian Seeds
+mysticalagriculture:blaze_seeds, Blaze Seeds
+mysticalagriculture:ghast_seeds, Ghast Seeds
+mysticalagriculture:enderman_seeds, Enderman Seeds
+mysticalagriculture:wither_skeleton_seeds, Wither Skeleton Seeds
+mysticalagriculture:silicon_seeds, Silicon Seeds
+mysticalagriculture:aluminum_seeds, Aluminum Seeds
+mysticalagriculture:tin_seeds, Tin Seeds
+mysticalagriculture:bronze_seeds, Bronze Seeds
+mysticalagriculture:lead_seeds, Lead Seeds
+mysticalagriculture:titanium_seeds, Titanium Seeds
+mysticalagriculture:grains_of_infinity_seeds, Grains of Infinity Seeds
+mysticalagriculture:electrical_steel_seeds, Electrical Steel Seeds
+mysticalagriculture:redstone_alloy_seeds, Redstone Alloy Seeds
+mysticalagriculture:conductive_iron_seeds, Conductive Iron Seeds
+mysticalagriculture:soularium_seeds, Soularium Seeds
+mysticalagriculture:dark_steel_seeds, Dark Steel Seeds
+mysticalagriculture:pulsating_iron_seeds, Pulsating Iron Seeds
+mysticalagriculture:energetic_alloy_seeds, Energetic Alloy Seeds
+mysticalagriculture:vibrant_alloy_seeds, Vibrant Alloy Seeds
+mysticalagriculture:end_steel_seeds, End Steel Seeds
+mysticalagriculture:marble_seeds, Marble Seeds
+mysticalagriculture:limestone_seeds, Limestone Seeds
+mysticalagriculture:basalt_seeds, Basalt Seeds
+mysticalagriculture:meteoric_iron_seeds, Meteoric Iron Seeds
+mysticalagriculture:desh_seeds, Desh Seeds
+mysticalagriculture:ender_biotite_seeds, Ender Biotite Seeds
+mysticalagriculture:sky_stone_seeds, Sky Stone Seeds
+mysticalagriculture:certus_quartz_seeds, Certus Quartz Seeds
+mysticalagriculture:fluix_seeds, Fluix Seeds
+mysticalagriculture:gear:0, §eInferium Tool Core
+mysticalagriculture:gear:1, §aPrudentium Tool Core
+mysticalagriculture:gear:2, §6Intermedium Tool Core
+mysticalagriculture:gear:3, §bSuperium Tool Core
+mysticalagriculture:gear:4, §cSupremium Tool Core
+mysticalagriculture:gear:5, §eInferium Armor Core
+mysticalagriculture:gear:6, §aPrudentium Armor Core
+mysticalagriculture:gear:7, §6Intermedium Armor Core
+mysticalagriculture:gear:8, §bSuperium Armor Core
+mysticalagriculture:gear:9, §cSupremium Armor Core
+mysticalagriculture:gear:15, §eInferium Arrow Head
+mysticalagriculture:gear:16, §aPrudentium Arrow Head
+mysticalagriculture:gear:17, §6Intermedium Arrow Head
+mysticalagriculture:gear:18, §bSuperium Arrow Head
+mysticalagriculture:gear:19, §cSupremium Arrow Head
+mysticalagriculture:charm:0, Blank Charm
+mysticalagriculture:charm:1, Charm: Night Vision
+mysticalagriculture:charm:2, Charm: Absorption
+mysticalagriculture:charm:3, Charm: Wither Resistance
+mysticalagriculture:charm:4, Charm: Antivenom
+mysticalagriculture:charm:5, Charm: Fire Resistance
+mysticalagriculture:charm:6, Charm: Resistance
+mysticalagriculture:charm:7, Charm: Strength
+mysticalagriculture:charm:8, Charm: Strength 2
+mysticalagriculture:charm:9, Charm: Speed
+mysticalagriculture:charm:10, Charm: Jump Boost
+mysticalagriculture:charm:11, Charm: Miner's Vision
+mysticalagriculture:charm:12, Charm: Rainbow
+mysticalagriculture:charm:13, Charm: Quick Draw
+mysticalagriculture:charm:14, Charm: Triple Shot
+mysticalagriculture:charm:15, Charm: Mining AOE
+mysticalagriculture:charm:16, Charm: Attack AOE
+mysticalagriculture:charm:17, Charm: Tilling AOE
+mysticalagriculture:charm:18, Charm: Shearing AOE
+mysticalagriculture:charm:19, Charm: Reaping AOE
+mysticalagriculture:charm:20, Charm: Scything AOE
+mysticalagriculture:inferium_arrow, §eInferium Arrow
+mysticalagriculture:prudentium_arrow, §aPrudentium Arrow
+mysticalagriculture:intermedium_arrow, §6Intermedium Arrow
+mysticalagriculture:superium_arrow, §bSuperium Arrow
+mysticalagriculture:supremium_arrow, §cSupremium Arrow
+mysticalagriculture:inferium_sword, §eInferium Sword
+mysticalagriculture:inferium_pickaxe, §eInferium Pickaxe
+mysticalagriculture:inferium_shovel, §eInferium Shovel
+mysticalagriculture:inferium_axe, §eInferium Axe
+mysticalagriculture:inferium_hoe, §eInferium Hoe
+mysticalagriculture:inferium_shears, §eInferium Shears
+mysticalagriculture:inferium_bow, §eInferium Bow
+mysticalagriculture:inferium_sickle, §eInferium Sickle
+mysticalagriculture:inferium_scythe, §eInferium Scythe
+mysticalagriculture:inferium_fishing_rod, §eInferium Fishing Rod
+mysticalagriculture:prudentium_sword, §aPrudentium Sword
+mysticalagriculture:prudentium_pickaxe, §aPrudentium Pickaxe
+mysticalagriculture:prudentium_shovel, §aPrudentium Shovel
+mysticalagriculture:prudentium_axe, §aPrudentium Axe
+mysticalagriculture:prudentium_hoe, §aPrudentium Hoe
+mysticalagriculture:prudentium_shears, §aPrudentium Shears
+mysticalagriculture:prudentium_bow, §aPrudentium Bow
+mysticalagriculture:prudentium_sickle, §aPrudentium Sickle
+mysticalagriculture:prudentium_scythe, §aPrudentium Scythe
+mysticalagriculture:prudentium_fishing_rod, §aPrudentium Fishing Rod
+mysticalagriculture:intermedium_sword, §6Intermedium Sword
+mysticalagriculture:intermedium_pickaxe, §6Intermedium Pickaxe
+mysticalagriculture:intermedium_shovel, §6Intermedium Shovel
+mysticalagriculture:intermedium_axe, §6Intermedium Axe
+mysticalagriculture:intermedium_hoe, §6Intermedium Hoe
+mysticalagriculture:intermedium_shears, §6Intermedium Shears
+mysticalagriculture:intermedium_bow, §6Intermedium Bow
+mysticalagriculture:intermedium_sickle, §6Intermedium Sickle
+mysticalagriculture:intermedium_scythe, §6Intermedium Scythe
+mysticalagriculture:intermedium_fishing_rod, §6Intermedium Fishing Rod
+mysticalagriculture:superium_sword, §bSuperium Sword
+mysticalagriculture:superium_pickaxe, §bSuperium Pickaxe
+mysticalagriculture:superium_shovel, §bSuperium Shovel
+mysticalagriculture:superium_axe, §bSuperium Axe
+mysticalagriculture:superium_hoe, §bSuperium Hoe
+mysticalagriculture:superium_shears, §bSuperium Shears
+mysticalagriculture:superium_bow, §bSuperium Bow
+mysticalagriculture:superium_sickle, §bSuperium Sickle
+mysticalagriculture:superium_scythe, §bSuperium Scythe
+mysticalagriculture:superium_fishing_rod, §bSuperium Fishing Rod
+mysticalagriculture:supremium_sword, §cSupremium Sword
+mysticalagriculture:supremium_pickaxe, §cSupremium Pickaxe
+mysticalagriculture:supremium_shovel, §cSupremium Shovel
+mysticalagriculture:supremium_axe, §cSupremium Axe
+mysticalagriculture:supremium_hoe, §cSupremium Hoe
+mysticalagriculture:supremium_shears, §cSupremium Shears
+mysticalagriculture:supremium_bow, §cSupremium Bow
+mysticalagriculture:supremium_sickle, §cSupremium Sickle
+mysticalagriculture:supremium_scythe, §cSupremium Scythe
+mysticalagriculture:supremium_fishing_rod, §cSupremium Fishing Rod
+mysticalagriculture:inferium_helmet, §eInferium Helmet
+mysticalagriculture:inferium_chestplate, §eInferium Chestplate
+mysticalagriculture:inferium_leggings, §eInferium Leggings
+mysticalagriculture:inferium_boots, §eInferium Boots
+mysticalagriculture:prudentium_helmet, §aPrudentium Helmet
+mysticalagriculture:prudentium_chestplate, §aPrudentium Chestplate
+mysticalagriculture:prudentium_leggings, §aPrudentium Leggings
+mysticalagriculture:prudentium_boots, §aPrudentium Boots
+mysticalagriculture:intermedium_helmet, §6Intermedium Helmet
+mysticalagriculture:intermedium_chestplate, §6Intermedium Chestplate
+mysticalagriculture:intermedium_leggings, §6Intermedium Leggings
+mysticalagriculture:intermedium_boots, §6Intermedium Boots
+mysticalagriculture:superium_helmet, §bSuperium Helmet
+mysticalagriculture:superium_chestplate, §bSuperium Chestplate
+mysticalagriculture:superium_leggings, §bSuperium Leggings
+mysticalagriculture:superium_boots, §bSuperium Boots
+mysticalagriculture:supremium_helmet, §cSupremium Helmet
+mysticalagriculture:supremium_chestplate, §cSupremium Chestplate
+mysticalagriculture:supremium_leggings, §cSupremium Leggings
+mysticalagriculture:supremium_boots, §cSupremium Boots
+mysticalagradditions:storage:0, §5Block of Insanium Essence
+mysticalagradditions:storage:1, §5Block of Insanium
+mysticalagradditions:storage:2, §5Block of Insanium Coal
+mysticalagradditions:special:0, Nether Star Crux
+mysticalagradditions:special:1, Dragon Egg Crux
+mysticalagradditions:tinkering_table, Tinkering Table
+mysticalagradditions:tier6_inferium_crop, Tier 6 Inferium Crop
+mysticalagradditions:nether_star_crop, Nether Star Crop
+mysticalagradditions:dragon_egg_crop, Dragon Egg Crop
+mysticalagradditions:insanium:0, §5Insanium Essence
+mysticalagradditions:insanium:1, Tier 6 Crafting Seed
+mysticalagradditions:insanium:2, §5Insanium Ingot
+mysticalagradditions:insanium:3, §5Insanium Nugget
+mysticalagradditions:insanium:4, Tier 6 Mob Chunk
+mysticalagradditions:insanium:5, §5Insanium Coal
+mysticalagradditions:stuff:0, Nether Star Shard
+mysticalagradditions:stuff:1, Withering Soul
+mysticalagradditions:stuff:2, Dragon Egg Chunk
+mysticalagradditions:stuff:3, Dragon Scale
+mysticalagradditions:stuff:69, Creative Essence
+mysticalagradditions:nether_star_essence, Nether Star Essence
+mysticalagradditions:dragon_egg_essence, Dragon Egg Essence
+mysticalagradditions:tier6_inferium_seeds, Inferium Seeds
+mysticalagradditions:nether_star_seeds, Nether Star Seeds
+mysticalagradditions:dragon_egg_seeds, Dragon Egg Seeds
+mysticalagradditions:charm:0, Charm: Mining AOE
+mysticalagradditions:inferium_paxel, §eInferium Paxel
+mysticalagradditions:prudentium_paxel, §aPrudentium Paxel
+mysticalagradditions:intermedium_paxel, §6Intermedium Paxel
+mysticalagradditions:superium_paxel, §bSuperium Paxel
+mysticalagradditions:supremium_paxel, §cSupremium Paxel
 xnet:xnet_manual, XNet Manual
 xnet:connector_upgrade, Connector Upgrade Kit
 xnet:facade, Facade

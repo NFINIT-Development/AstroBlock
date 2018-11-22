@@ -312,22 +312,22 @@
       "meshLevel": 1
     },
     {
-      "drop": "magicalcrops:essenceminicio:-1",
+      "drop": "mysticalagriculture:crafting:0",
       "chance": 0.5,
       "meshLevel": 1
     },
     {
-      "drop": "magicalcrops:essenceminicio:-1",
+      "drop": "mysticalagriculture:crafting:0",
       "chance": 0.10,
       "meshLevel": 2
     },
     {
-      "drop": "magicalcrops:essenceminicio:-1",
+      "drop": "mysticalagriculture:crafting:0",
       "chance": 0.15,
       "meshLevel": 3
     },
     {
-      "drop": "magicalcrops:essenceminicio:-1",
+      "drop": "mysticalagriculture:crafting:0",
       "chance": 0.20,
       "meshLevel": 4
     },
@@ -344,6 +344,16 @@
     {
       "drop": "minecraft:redstone:-1",
       "chance": 0.25,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:dye:4",
+      "chance": 0.05,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:dye:4",
+      "chance": 0.125,
       "meshLevel": 4
     },
     {

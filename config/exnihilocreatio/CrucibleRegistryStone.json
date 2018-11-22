@@ -26,5 +26,17 @@
   "ore:obsidian": {
     "fluid": "lava",
     "amount": 1000
+  },
+    "galacticraftplanets:asteroids_block:0": {
+    "fluid": "oil",
+    "amount": 100
+  },
+    "galacticraftplanets:asteroids_block:1": {
+    "fluid": "oil",
+    "amount": 100
+  },
+    "galacticraftplanets:asteroids_block:2": {
+    "fluid": "oil",
+    "amount": 100
   }
 }
