@@ -29,6 +29,11 @@
     "result": "galacticraftcore:basic_item:5"
   },
   {
+    "name": "osmium",
+    "color": "D6ECEE",
+    "result": "mekanism:ingot:1"
+  },
+  {
     "name": "tritanium",
     "color": "78808c",
     "result": "matteroverdrive:tritanium_ingot:-1"

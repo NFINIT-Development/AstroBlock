@@ -663,157 +663,6 @@ danknull:dank_null_panel:2, Iron /dank/null Panel
 danknull:dank_null_panel:3, Gold /dank/null Panel
 danknull:dank_null_panel:4, Diamond /dank/null Panel
 danknull:dank_null_panel:5, Emerald /dank/null Panel
-opencomputers:adapter:0, Adapter
-opencomputers:assembler:0, Electronics Assembler
-opencomputers:cable:11250603, Cable
-opencomputers:capacitor:0, Capacitor
-opencomputers:case1:0, Computer Case (Tier 1)
-opencomputers:case3:0, Computer Case (Tier 3)
-opencomputers:case2:0, Computer Case (Tier 2)
-opencomputers:chameliumblock:0, Block of Chamelium
-opencomputers:charger:0, Charger
-opencomputers:disassembler:0, Disassembler
-opencomputers:diskdrive:0, Disk Drive
-opencomputers:geolyzer:0, Geolyzer
-opencomputers:hologram1:0, Hologram Projector (Tier 1)
-opencomputers:hologram2:0, Hologram Projector (Tier 2)
-opencomputers:keyboard:0, Keyboard
-opencomputers:motionsensor:0, Motion Sensor
-opencomputers:powerconverter:0, Power Converter
-opencomputers:powerdistributor:0, Power Distributor
-opencomputers:printer:0, 3D Printer
-opencomputers:raid:0, Raid
-opencomputers:redstone:0, Redstone I/O
-opencomputers:relay:0, Relay
-opencomputers:screen1:0, Screen (Tier 1)
-opencomputers:screen3:0, Screen (Tier 3)
-opencomputers:screen2:0, Screen (Tier 2)
-opencomputers:rack:0, Rack
-opencomputers:waypoint:0, Waypoint
-opencomputers:casecreative:0, Computer Case (Creative)
-opencomputers:microcontroller:0, Microcontroller
-opencomputers:print:0, 3D Print
-opencomputers:robotafterimage:0, Robot
-opencomputers:robot:0, robot.name
-opencomputers:endstone:0, End Stone
-opencomputers:netsplitter:0, Net Splitter
-opencomputers:transposer:0, Transposer
-opencomputers:carpetedcapacitor:0, Carpeted Capacitor
-opencomputers:material:1, Grog
-opencomputers:material:10, Arithmetic Logic Unit (ALU)
-opencomputers:material:15, Arrow Keys
-opencomputers:material:14, Button Group
-opencomputers:material:5, Card Base
-opencomputers:material:28, Chamelium
-opencomputers:material:3, Circuit Board
-opencomputers:material:11, Control Unit (CU)
-opencomputers:material:0, Cutting Wire
-opencomputers:material:29, Diamond Chip
-opencomputers:material:12, Disk Platter
-opencomputers:material:23, Drone Case (Tier 1)
-opencomputers:material:24, Drone Case (Tier 2)
-opencomputers:material:25, Drone Case (Creative)
-opencomputers:material:27, Ink Cartridge
-opencomputers:material:26, Ink Cartridge (Empty)
-opencomputers:material:13, Interweb
-opencomputers:material:7, Microchip (Tier 1)
-opencomputers:material:8, Microchip (Tier 2)
-opencomputers:material:9, Microchip (Tier 3)
-opencomputers:material:20, Microcontroller Case (Tier 1)
-opencomputers:material:21, Microcontroller Case (Tier 2)
-opencomputers:material:22, Microcontroller Case (Creative)
-opencomputers:material:16, Numeric Keypad
-opencomputers:material:4, Printed Circuit Board (PCB)
-opencomputers:material:2, Raw Circuit Board
-opencomputers:material:17, Tablet Case (Tier 1)
-opencomputers:material:18, Tablet Case (Tier 2)
-opencomputers:material:19, Tablet Case (Creative)
-opencomputers:material:6, Transistor
-opencomputers:tool:0, Analyzer
-opencomputers:tool:1, Network Debugger
-opencomputers:tool:4, OpenComputers Manual
-opencomputers:tool:5, Nanomachines
-opencomputers:tool:2, Remote Terminal
-opencomputers:tool:3, Texture Picker
-opencomputers:wrench, Scrench
-opencomputers:hoverboots, Hover Boots
-opencomputers:component:16, Accelerated Processing Unit (APU) (Tier 1)
-opencomputers:component:17, Accelerated Processing Unit (APU) (Tier 2)
-opencomputers:component:18, Accelerated Processing Unit (APU) (Creative)
-opencomputers:component:3, Component Bus (Tier 1)
-opencomputers:component:4, Component Bus (Tier 2)
-opencomputers:component:5, Component Bus (Tier 3)
-opencomputers:component:0, Central Processing Unit (CPU) (Tier 1)
-opencomputers:component:1, Central Processing Unit (CPU) (Tier 2)
-opencomputers:component:2, Central Processing Unit (CPU) (Tier 3)
-opencomputers:component:20, Disk Drive
-opencomputers:component:6, Memory (Tier 1)
-opencomputers:component:7, Memory (Tier 1.5)
-opencomputers:component:8, Memory (Tier 2)
-opencomputers:component:9, Memory (Tier 2.5)
-opencomputers:component:10, Memory (Tier 3)
-opencomputers:component:11, Memory (Tier 3.5)
-opencomputers:component:13, Server (Tier 1)
-opencomputers:component:14, Server (Tier 2)
-opencomputers:component:15, Server (Tier 3)
-opencomputers:component:12, Server (Creative)
-opencomputers:component:19, Terminal Server
-opencomputers:card:10, Data Card (Tier 1)
-opencomputers:card:11, Data Card (Tier 2)
-opencomputers:card:12, Data Card (Tier 3)
-opencomputers:card:0, Debug Card
-opencomputers:card:1, Graphics Card (Tier 1)
-opencomputers:card:2, Graphics Card (Tier 2)
-opencomputers:card:3, Graphics Card (Tier 3)
-opencomputers:card:8, Internet Card
-opencomputers:card:9, Linked Card
-opencomputers:card:6, Network Card
-opencomputers:card:4, Redstone Card (Tier 1)
-opencomputers:card:7, Wireless Network Card (Tier 2)
-opencomputers:upgrade:32, Component Bus (Creative)
-opencomputers:upgrade:0, Angel Upgrade
-opencomputers:upgrade:1, Battery Upgrade (Tier 1)
-opencomputers:upgrade:2, Battery Upgrade (Tier 2)
-opencomputers:upgrade:3, Battery Upgrade (Tier 3)
-opencomputers:upgrade:4, Chunkloader Upgrade
-opencomputers:upgrade:5, Card Container (Tier 1)
-opencomputers:upgrade:6, Card Container (Tier 2)
-opencomputers:upgrade:7, Card Container (Tier 3)
-opencomputers:upgrade:8, Upgrade Container (Tier 1)
-opencomputers:upgrade:9, Upgrade Container (Tier 2)
-opencomputers:upgrade:10, Upgrade Container (Tier 3)
-opencomputers:upgrade:11, Crafting Upgrade
-opencomputers:upgrade:12, Database Upgrade (Tier 1)
-opencomputers:upgrade:13, Database Upgrade (Tier 2)
-opencomputers:upgrade:14, Database Upgrade (Tier 3)
-opencomputers:upgrade:15, Experience Upgrade
-opencomputers:upgrade:16, Generator Upgrade
-opencomputers:upgrade:27, Hover Upgrade (Tier 1)
-opencomputers:upgrade:28, Hover Upgrade (Tier 2)
-opencomputers:upgrade:17, Inventory Upgrade
-opencomputers:upgrade:18, Inventory Controller Upgrade
-opencomputers:upgrade:26, Leash Upgrade
-opencomputers:upgrade:30, MFU
-opencomputers:upgrade:19, Navigation Upgrade
-opencomputers:upgrade:20, Piston Upgrade
-opencomputers:upgrade:21, Sign I/O Upgrade
-opencomputers:upgrade:22, Solar Generator Upgrade
-opencomputers:upgrade:23, Tank Upgrade
-opencomputers:upgrade:24, Tank Controller Upgrade
-opencomputers:upgrade:25, Tractor Beam Upgrade
-opencomputers:upgrade:29, Trading Upgrade
-opencomputers:upgrade:31, Wireless Network Card (Tier 1)
-opencomputers:storage:0, EEPROM
-opencomputers:storage:1, Floppy Disk
-opencomputers:storage:2, Hard Disk Drive (Tier 1) (1MB)
-opencomputers:storage:3, Hard Disk Drive (Tier 2) (2MB)
-opencomputers:storage:4, Hard Disk Drive (Tier 3) (4MB)
-opencomputers:misc:1, Crecopter
-opencomputers:misc:0, Microcontroller
-opencomputers:misc:0, Creatix
-opencomputers:misc:0, Tablet
-opencomputers:misc:0, Hover Boots
-opencomputers:misc:0, EEPROM (Lua BIOS)
 enderstorage:ender_storage:0, Ender Chest
 enderstorage:ender_storage:1, Ender Tank
 enderstorage:ender_pouch, Ender Pouch
@@ -2331,6 +2180,157 @@ moreplanets:candy_cane:4, Pink Candy Cane
 moreplanets:candy_cane:5, Yellow Candy Cane
 moreplanets:candy_cane:6, Purple Candy Cane
 moreplanets:candy_cane:7, Rainbow Candy Cane
+opencomputers:adapter:0, Adapter
+opencomputers:assembler:0, Electronics Assembler
+opencomputers:cable:11250603, Cable
+opencomputers:capacitor:0, Capacitor
+opencomputers:case1:0, Computer Case (Tier 1)
+opencomputers:case3:0, Computer Case (Tier 3)
+opencomputers:case2:0, Computer Case (Tier 2)
+opencomputers:chameliumblock:0, Block of Chamelium
+opencomputers:charger:0, Charger
+opencomputers:disassembler:0, Disassembler
+opencomputers:diskdrive:0, Disk Drive
+opencomputers:geolyzer:0, Geolyzer
+opencomputers:hologram1:0, Hologram Projector (Tier 1)
+opencomputers:hologram2:0, Hologram Projector (Tier 2)
+opencomputers:keyboard:0, Keyboard
+opencomputers:motionsensor:0, Motion Sensor
+opencomputers:powerconverter:0, Power Converter
+opencomputers:powerdistributor:0, Power Distributor
+opencomputers:printer:0, 3D Printer
+opencomputers:raid:0, Raid
+opencomputers:redstone:0, Redstone I/O
+opencomputers:relay:0, Relay
+opencomputers:screen1:0, Screen (Tier 1)
+opencomputers:screen3:0, Screen (Tier 3)
+opencomputers:screen2:0, Screen (Tier 2)
+opencomputers:rack:0, Rack
+opencomputers:waypoint:0, Waypoint
+opencomputers:casecreative:0, Computer Case (Creative)
+opencomputers:microcontroller:0, Microcontroller
+opencomputers:print:0, 3D Print
+opencomputers:robotafterimage:0, Robot
+opencomputers:robot:0, robot.name
+opencomputers:endstone:0, End Stone
+opencomputers:netsplitter:0, Net Splitter
+opencomputers:transposer:0, Transposer
+opencomputers:carpetedcapacitor:0, Carpeted Capacitor
+opencomputers:material:1, Grog
+opencomputers:material:10, Arithmetic Logic Unit (ALU)
+opencomputers:material:15, Arrow Keys
+opencomputers:material:14, Button Group
+opencomputers:material:5, Card Base
+opencomputers:material:28, Chamelium
+opencomputers:material:3, Circuit Board
+opencomputers:material:11, Control Unit (CU)
+opencomputers:material:0, Cutting Wire
+opencomputers:material:29, Diamond Chip
+opencomputers:material:12, Disk Platter
+opencomputers:material:23, Drone Case (Tier 1)
+opencomputers:material:24, Drone Case (Tier 2)
+opencomputers:material:25, Drone Case (Creative)
+opencomputers:material:27, Ink Cartridge
+opencomputers:material:26, Ink Cartridge (Empty)
+opencomputers:material:13, Interweb
+opencomputers:material:7, Microchip (Tier 1)
+opencomputers:material:8, Microchip (Tier 2)
+opencomputers:material:9, Microchip (Tier 3)
+opencomputers:material:20, Microcontroller Case (Tier 1)
+opencomputers:material:21, Microcontroller Case (Tier 2)
+opencomputers:material:22, Microcontroller Case (Creative)
+opencomputers:material:16, Numeric Keypad
+opencomputers:material:4, Printed Circuit Board (PCB)
+opencomputers:material:2, Raw Circuit Board
+opencomputers:material:17, Tablet Case (Tier 1)
+opencomputers:material:18, Tablet Case (Tier 2)
+opencomputers:material:19, Tablet Case (Creative)
+opencomputers:material:6, Transistor
+opencomputers:tool:0, Analyzer
+opencomputers:tool:1, Network Debugger
+opencomputers:tool:4, OpenComputers Manual
+opencomputers:tool:5, Nanomachines
+opencomputers:tool:2, Remote Terminal
+opencomputers:tool:3, Texture Picker
+opencomputers:wrench, Scrench
+opencomputers:hoverboots, Hover Boots
+opencomputers:component:16, Accelerated Processing Unit (APU) (Tier 1)
+opencomputers:component:17, Accelerated Processing Unit (APU) (Tier 2)
+opencomputers:component:18, Accelerated Processing Unit (APU) (Creative)
+opencomputers:component:3, Component Bus (Tier 1)
+opencomputers:component:4, Component Bus (Tier 2)
+opencomputers:component:5, Component Bus (Tier 3)
+opencomputers:component:0, Central Processing Unit (CPU) (Tier 1)
+opencomputers:component:1, Central Processing Unit (CPU) (Tier 2)
+opencomputers:component:2, Central Processing Unit (CPU) (Tier 3)
+opencomputers:component:20, Disk Drive
+opencomputers:component:6, Memory (Tier 1)
+opencomputers:component:7, Memory (Tier 1.5)
+opencomputers:component:8, Memory (Tier 2)
+opencomputers:component:9, Memory (Tier 2.5)
+opencomputers:component:10, Memory (Tier 3)
+opencomputers:component:11, Memory (Tier 3.5)
+opencomputers:component:13, Server (Tier 1)
+opencomputers:component:14, Server (Tier 2)
+opencomputers:component:15, Server (Tier 3)
+opencomputers:component:12, Server (Creative)
+opencomputers:component:19, Terminal Server
+opencomputers:card:10, Data Card (Tier 1)
+opencomputers:card:11, Data Card (Tier 2)
+opencomputers:card:12, Data Card (Tier 3)
+opencomputers:card:0, Debug Card
+opencomputers:card:1, Graphics Card (Tier 1)
+opencomputers:card:2, Graphics Card (Tier 2)
+opencomputers:card:3, Graphics Card (Tier 3)
+opencomputers:card:8, Internet Card
+opencomputers:card:9, Linked Card
+opencomputers:card:6, Network Card
+opencomputers:card:4, Redstone Card (Tier 1)
+opencomputers:card:7, Wireless Network Card (Tier 2)
+opencomputers:upgrade:32, Component Bus (Creative)
+opencomputers:upgrade:0, Angel Upgrade
+opencomputers:upgrade:1, Battery Upgrade (Tier 1)
+opencomputers:upgrade:2, Battery Upgrade (Tier 2)
+opencomputers:upgrade:3, Battery Upgrade (Tier 3)
+opencomputers:upgrade:4, Chunkloader Upgrade
+opencomputers:upgrade:5, Card Container (Tier 1)
+opencomputers:upgrade:6, Card Container (Tier 2)
+opencomputers:upgrade:7, Card Container (Tier 3)
+opencomputers:upgrade:8, Upgrade Container (Tier 1)
+opencomputers:upgrade:9, Upgrade Container (Tier 2)
+opencomputers:upgrade:10, Upgrade Container (Tier 3)
+opencomputers:upgrade:11, Crafting Upgrade
+opencomputers:upgrade:12, Database Upgrade (Tier 1)
+opencomputers:upgrade:13, Database Upgrade (Tier 2)
+opencomputers:upgrade:14, Database Upgrade (Tier 3)
+opencomputers:upgrade:15, Experience Upgrade
+opencomputers:upgrade:16, Generator Upgrade
+opencomputers:upgrade:27, Hover Upgrade (Tier 1)
+opencomputers:upgrade:28, Hover Upgrade (Tier 2)
+opencomputers:upgrade:17, Inventory Upgrade
+opencomputers:upgrade:18, Inventory Controller Upgrade
+opencomputers:upgrade:26, Leash Upgrade
+opencomputers:upgrade:30, MFU
+opencomputers:upgrade:19, Navigation Upgrade
+opencomputers:upgrade:20, Piston Upgrade
+opencomputers:upgrade:21, Sign I/O Upgrade
+opencomputers:upgrade:22, Solar Generator Upgrade
+opencomputers:upgrade:23, Tank Upgrade
+opencomputers:upgrade:24, Tank Controller Upgrade
+opencomputers:upgrade:25, Tractor Beam Upgrade
+opencomputers:upgrade:29, Trading Upgrade
+opencomputers:upgrade:31, Wireless Network Card (Tier 1)
+opencomputers:storage:0, EEPROM
+opencomputers:storage:1, Floppy Disk
+opencomputers:storage:2, Hard Disk Drive (Tier 1) (1MB)
+opencomputers:storage:3, Hard Disk Drive (Tier 2) (2MB)
+opencomputers:storage:4, Hard Disk Drive (Tier 3) (4MB)
+opencomputers:misc:1, Crecopter
+opencomputers:misc:0, Microcontroller
+opencomputers:misc:0, Creatix
+opencomputers:misc:0, Tablet
+opencomputers:misc:0, Hover Boots
+opencomputers:misc:0, EEPROM (Lua BIOS)
 chisel:basalt:0, Basalt
 chisel:basalt:1, Basalt
 chisel:basalt:2, Basalt
@@ -2444,6 +2444,39 @@ chisel:glass:12, Glass
 chisel:glass:13, Glass
 chisel:glass:14, Glass
 chisel:glass:15, Glass
+chisel:glowstone:0, Glowstone
+chisel:glowstone:1, Glowstone
+chisel:glowstone:2, Glowstone
+chisel:glowstone:3, Glowstone
+chisel:glowstone:4, Glowstone
+chisel:glowstone:5, Glowstone
+chisel:glowstone:6, Glowstone
+chisel:glowstone:7, Glowstone
+chisel:glowstone:8, Glowstone
+chisel:glowstone:9, Glowstone
+chisel:glowstone:10, Glowstone
+chisel:glowstone:11, Glowstone
+chisel:glowstone:12, Glowstone
+chisel:glowstone:13, Glowstone
+chisel:glowstone:14, Glowstone
+chisel:glowstone:15, Glowstone
+chisel:glowstone1:0, Glowstone
+chisel:glowstone1:1, Glowstone
+chisel:glowstone1:2, Glowstone
+chisel:glowstone1:3, Glowstone
+chisel:glowstone1:4, Glowstone
+chisel:glowstone1:5, Glowstone
+chisel:glowstone1:6, Glowstone
+chisel:glowstone1:7, Glowstone
+chisel:glowstone1:8, Glowstone
+chisel:glowstone1:9, Glowstone
+chisel:glowstone1:10, Glowstone
+chisel:glowstone1:11, Glowstone
+chisel:glowstone1:12, Glowstone
+chisel:glowstone1:13, Glowstone
+chisel:glowstone1:14, Glowstone
+chisel:glowstone1:15, Glowstone
+chisel:glowstone2:0, Glowstone
 chisel:laboratory:0, Laboratory Block
 chisel:laboratory:1, Laboratory Block
 chisel:laboratory:2, Laboratory Block
@@ -3203,8 +3236,7 @@ galacticraftcore:parachute:15, Yellow Parachute
 galacticraftcore:prelaunch_checklist, Pre-Launch Checklist
 galacticraftcore:dungeonfinder, Dungeon Locator
 galacticraftcore:emergency_kit, Space Emergency Kit
-galacticraftcore:ic2compat, item.ic2compat.name
-galacticraftplanets:sludge, Bacterial Sludge
+galacticraftplanets:sludge, Sludge
 galacticraftplanets:bucket_sludge, Bacterial Sludge Bucket
 galacticraftplanets:treasure_t2, Tier 2 Treasure Chest
 galacticraftplanets:mars:0, Copper Ore
@@ -3555,7 +3587,7 @@ buildinggadgets:exchangertool, Exchanging Gadget
 buildinggadgets:copypastetool, Copy-Paste Gadget
 buildinggadgets:templatemanager, Template Manager
 buildinggadgets:template, Template
-buildinggadgets:destructiontool, item.buildinggadgets.destructiontool.name
+buildinggadgets:destructiontool, Destruction Gadget
 buildinggadgets:constructionblock, Construction Block
 buildinggadgets:constructionblockpowder, Construction Block Powder
 buildinggadgets:constructionpaste, Construction Paste
@@ -3567,504 +3599,6 @@ chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
 chisel:chisel_hitech, iChisel
 chisel:offsettool, Ender Offset Wand
-enderio:item_enderface, Enderface
-enderio:item_conduit_facade:0, Conduit Facade
-enderio:item_conduit_facade:1, Hardened Conduit Facade
-enderio:item_conduit_facade:2, Transparent Conduit Facade
-enderio:item_conduit_facade:3, Transparent Hardened Conduit Facade
-enderio:item_basic_capacitor:0, Basic Capacitor
-enderio:item_basic_capacitor:1, Double-Layer Capacitor
-enderio:item_basic_capacitor:2, Octadic Capacitor
-enderio:block_alloy:0, Electrical Steel Block
-enderio:block_alloy:1, Energetic Alloy Block
-enderio:block_alloy:2, Vibrant Alloy Block
-enderio:block_alloy:3, Redstone Alloy Block
-enderio:block_alloy:4, Conductive Iron Block
-enderio:block_alloy:5, Pulsating Iron Block
-enderio:block_alloy:6, Dark Steel Block
-enderio:block_alloy:7, Soularium Block
-enderio:block_alloy:8, End Steel Block
-enderio:block_alloy:9, Iron Alloy Block
-enderio:item_alloy_ingot:0, Electrical Steel Ingot
-enderio:item_alloy_ingot:1, Energetic Alloy Ingot
-enderio:item_alloy_ingot:2, Vibrant Alloy Ingot
-enderio:item_alloy_ingot:3, Redstone Alloy Ingot
-enderio:item_alloy_ingot:4, Conductive Iron Ingot
-enderio:item_alloy_ingot:5, Pulsating Iron Ingot
-enderio:item_alloy_ingot:6, Dark Steel Ingot
-enderio:item_alloy_ingot:7, Soularium Ingot
-enderio:item_alloy_ingot:8, End Steel Ingot
-enderio:item_alloy_ingot:9, Iron Alloy Ingot
-enderio:item_alloy_nugget:0, Electrical Steel Nugget
-enderio:item_alloy_nugget:1, Energetic Alloy Nugget
-enderio:item_alloy_nugget:2, Vibrant Alloy Nugget
-enderio:item_alloy_nugget:3, Redstone Alloy Nugget
-enderio:item_alloy_nugget:4, Conductive Iron Nugget
-enderio:item_alloy_nugget:5, Pulsating Iron Nugget
-enderio:item_alloy_nugget:6, Dark Steel Nugget
-enderio:item_alloy_nugget:7, Soularium Nugget
-enderio:item_alloy_nugget:8, End Steel Nugget
-enderio:item_alloy_nugget:9, Iron Alloy Nugget
-enderio:item_alloy_ball:0, Electrical Steel Grinding Ball
-enderio:item_alloy_ball:1, Energetic Alloy Grinding Ball
-enderio:item_alloy_ball:2, Vibrant Alloy Grinding Ball
-enderio:item_alloy_ball:3, Redstone Alloy Grinding Ball
-enderio:item_alloy_ball:4, Conductive Iron Grinding Ball
-enderio:item_alloy_ball:5, Pulsating Iron Grinding Ball
-enderio:item_alloy_ball:6, Dark Steel Grinding Ball
-enderio:item_alloy_ball:7, Soularium Grinding Ball
-enderio:item_alloy_ball:8, End Steel Grinding Ball
-enderio:item_alloy_ball:9, Iron Alloy Grinding Ball
-enderio:item_material:0, Simple Machine Chassis
-enderio:item_material:1, Industrial Machine Chassis
-enderio:item_material:2, Machine Parts
-enderio:item_material:3, Photovoltaic Plate
-enderio:item_material:4, Conduit Binder
-enderio:item_material:5, Silicon
-enderio:item_material:6, Glider Wing
-enderio:item_material:7, Glider Wings
-enderio:item_material:8, Nutritious Stick
-enderio:item_material:9, Wooden Gear
-enderio:item_material:10, Stone Gear
-enderio:item_material:11, Infinity Bimetal Gear
-enderio:item_material:12, Energized Bimetal Gear
-enderio:item_material:13, Vibrant Bimetal Gear
-enderio:item_material:14, Pulsating Crystal
-enderio:item_material:15, Vibrant Crystal
-enderio:item_material:16, Ender Crystal
-enderio:item_material:17, Enticing Crystal
-enderio:item_material:18, Weather Crystal
-enderio:item_material:19, Precient Crystal
-enderio:item_material:20, Grains of Infinity
-enderio:item_material:21, Flour
-enderio:item_material:22, Conduit Binder Composite
-enderio:item_material:23, Coal Powder
-enderio:item_material:24, Iron Powder
-enderio:item_material:25, Gold Powder
-enderio:item_material:26, Copper Powder
-enderio:item_material:27, Tin Powder
-enderio:item_material:28, Ender Pearl Powder
-enderio:item_material:29, Obsidian Powder
-enderio:item_material:31, Cobalt Powder
-enderio:item_material:32, Lapis Lazuli Powder
-enderio:item_material:33, Quartz Powder
-enderio:item_material:34, Grains of Prescience
-enderio:item_material:35, Grains of Vibrancy
-enderio:item_material:36, Grains of Piezallity
-enderio:item_material:37, Grains of the End
-enderio:item_material:38, Photovoltaic Composite
-enderio:item_material:40, Zombie Electrode
-enderio:item_material:41, Z-Logic Controller
-enderio:item_material:42, Frank'N'Zombie
-enderio:item_material:43, Ender Resonator
-enderio:item_material:44, Sentient Ender
-enderio:item_material:45, Skeletal Contractor
-enderio:item_material:46, Clippings and Trimmings
-enderio:item_material:47, Twigs and Prunings
-enderio:item_material:48, Organic Green Dye
-enderio:item_material:49, Organic Brown Dye
-enderio:item_material:50, Organic Black Dye
-enderio:item_material:51, Industrial Dye Blend
-enderio:item_material:52, Soul Attuned Dye Blend
-enderio:item_material:53, Soul Machine Chassis
-enderio:item_material:54, Enhanced Machine Chassis
-enderio:item_material:55, Soulless Machine Chassis
-enderio:item_material:56, Guardian Diode
-enderio:item_material:57, Signalum Grinding Ball
-enderio:item_material:58, Enderium Grinding Ball
-enderio:item_material:59, Lumium Grinding Ball
-enderio:item_material:60, Redstone Filter Base
-enderio:item_material:61, Confusing Powder
-enderio:item_material:62, Ender Fragment
-enderio:item_material:63, Withering Dust
-enderio:item_material:64, Remote Awareness Upgrade
-enderio:item_material:65, Wireless Energy Transmitter Dish Assembly
-enderio:item_material:66, End Steel Chassis
-enderio:item_material:67, Enhanced Dye Blend
-enderio:item_material:68, Enhanced Machine Parts
-enderio:item_material:69, Simple Machine Parts
-enderio:item_material:70, Cake Base
-enderio:item_material:71, Infinity Rod
-enderio:item_material:72, Nethercotta
-enderio:item_material:73, Dark Bimetal Gear
-enderio:item_material:74, Soul Powder
-enderio:item_material:75, Infinity Reagent
-enderio:item_broken_spawner:0, Broken Spawner
-enderio:block_infinity_fog:0, Infinity Dust
-enderio:block_dark_steel_anvil:0, Dark Steel Anvil
-enderio:block_dark_steel_anvil:1, Slightly Damaged Dark Steel Anvil
-enderio:block_dark_steel_anvil:2, Very Damaged Dark Steel Anvil
-enderio:block_dark_steel_ladder, Dark Steel Ladder
-enderio:block_dark_iron_bars, Dark Iron Bars
-enderio:block_dark_steel_trapdoor, Dark Steel Trapdoor
-enderio:block_dark_steel_door, Dark Steel Door
-enderio:block_reinforced_obsidian, Reinforced Obsidian
-enderio:block_self_resetting_lever5, Self-resetting Lever (5 seconds)
-enderio:block_self_resetting_lever10, Self-resetting Lever (10 seconds)
-enderio:block_self_resetting_lever30, Self-resetting Lever (30 seconds)
-enderio:block_self_resetting_lever60, Self-resetting Lever (1 Minute)
-enderio:block_self_resetting_lever300, Self-resetting Lever (5 Minutes)
-enderio:block_decoration1:0, Machine Chassis (decoration block)
-enderio:block_decoration1:1, Blank Machine (decoration block)
-enderio:block_decoration1:2, Machine Tops (decoration block)
-enderio:block_decoration1:3, Machine Sides (decoration block)
-enderio:block_decoration1:4, Machine Backs (decoration block)
-enderio:block_decoration1:5, Machine with sides (decoration block)
-enderio:block_decoration1:6, Machine width backs (decoration block)
-enderio:block_decoration1:7, Blank Soul Machine (decoration block)
-enderio:block_decoration1:8, Soul Machine Tops (decoration block)
-enderio:block_decoration1:9, Soul Machine Sides (decoration block)
-enderio:block_decoration1:10, Soul Machine Backs (decoration block)
-enderio:block_decoration1:11, Soul Machine with sides (decoration block)
-enderio:block_decoration1:12, Soul Machine width backs (decoration block)
-enderio:block_decoration1:13, Red Machine (decoration block)
-enderio:block_decoration1:14, Broken Spawner (decoration block)
-enderio:block_decoration1:15, Invisible Block (decoration block)
-enderio:block_decoration2:0, Alloy Smelter (decoration block)
-enderio:block_decoration2:1, Item Buffer (decoration block)
-enderio:block_decoration2:2, Power Buffer (decoration block)
-enderio:block_decoration2:3, Omni Buffer (decoration block)
-enderio:block_decoration2:4, Creative Buffer (decoration block)
-enderio:block_decoration2:5, Crafter (decoration block)
-enderio:block_decoration2:6, Painting Machine (decoration block)
-enderio:block_decoration2:7, Power Monitor (decoration block)
-enderio:block_decoration2:8, SAG Mill (decoration block)
-enderio:block_decoration2:9, Slice'N'Splice (decoration block)
-enderio:block_decoration2:10, Stirling Generator (decoration block)
-enderio:block_decoration2:11, Fluid Tank (decoration block)
-enderio:block_decoration2:12, Pressurized Fluid Tank (decoration block)
-enderio:block_decoration2:13, Travel Anchor (decoration block)
-enderio:block_decoration2:14, Vacuum Chest (decoration block)
-enderio:block_decoration2:15, Wireless Charger (decoration block)
-enderio:block_decoration3:0, XP Vacuum (decoration block)
-enderio:block_decoration3:1, Simple Alloy Smelter (decoration block)
-enderio:block_decoration3:2, Simple Stirling Generator (decoration block)
-enderio:block_decoration3:3, Wired Charger (decoration block)
-enderio:block_decoration3:4, Simple Sagmill (decoration block)
-enderio:block_industrial_insulation, Industrial Insulation
-enderio:block_end_iron_bars, End Steel Bars
-enderio:block_confusion_charge, Confusion Charge
-enderio:block_concussion_charge, Concussion Charge
-enderio:block_ender_charge, Ender Charge
-enderio:block_painted_slab, Painted Slab
-enderio:block_painted_stone_slab, Painted Stone Slab
-enderio:block_painted_pressure_plate:1, Wooden Pressure Plate (Silent)
-enderio:block_painted_pressure_plate:3, Stone Pressure Plate (Silent)
-enderio:block_painted_pressure_plate:5, Weighted Pressure Plate (Heavy) (Silent)
-enderio:block_painted_pressure_plate:7, Weighted Pressure Plate (Light) (Silent)
-enderio:block_painted_pressure_plate:8, Dark Pressure Plate
-enderio:block_painted_pressure_plate:9, Dark Pressure Plate (Silent)
-enderio:block_painted_pressure_plate:10, Soularium Pressure Plate
-enderio:block_painted_pressure_plate:11, Soularium Pressure Plate (Silent)
-enderio:block_painted_pressure_plate:12, Soularium Pressure Plate (Tuned)
-enderio:block_painted_pressure_plate:13, Soularium Pressure Plate (Tuned) (Silent)
-enderio:block_painted_wooden_door, Painted Wooden Door
-enderio:block_painted_iron_door, Painted Iron Door
-enderio:block_painted_dark_steel_door, Painted Dark Steel Door
-enderio:block_exit_rail, Exit Rail
-enderio:item_conduit_probe:0, Conduit Probe
-enderio:item_yeta_wrench, Yeta Wrench
-enderio:item_xp_transfer:0, Experience Rod
-enderio:item_cold_fire_igniter, Cold Fire Igniter
-enderio:item_coord_selector, Coordinate Selector
-enderio:item_location_printout, Location Printout
-enderio:item_travel_staff:0, Staff of Traveling
-enderio:item_travel_staff:0, Staff of Traveling
-enderio:item_rod_of_return:0, Rod of Return
-enderio:item_rod_of_return:0, Rod of Return
-enderio:item_magnet:0, Electromagnet
-enderio:item_magnet:0, Electromagnet
-enderio:block_enderman_skull:0, Enderman Head
-enderio:block_enderman_skull:2, Tormented Enderman Head
-enderio:item_ender_food:0, "Enderios"
-enderio:item_basic_item_filter:0, Basic Item Filter
-enderio:item_advanced_item_filter:0, Advanced Item Filter
-enderio:item_limited_item_filter:0, Limited Item Filter
-enderio:item_big_item_filter:0, Big Item Filter
-enderio:item_big_advanced_item_filter:0, Advanced Big Item Filter
-enderio:item_existing_item_filter:0, Existing Item Filter
-enderio:item_mod_item_filter:0, Mod Item Filter
-enderio:item_power_item_filter:0, Power Item Filter
-enderio:item_fluid_filter:0, Fluid Filter
-enderio:item_redstone_not_filter:0, Redstone NOT Filter
-enderio:item_redstone_or_filter:0, Redstone OR Filter
-enderio:item_redstone_and_filter:0, Redstone AND Filter
-enderio:item_redstone_nor_filter:0, Redstone NOR Filter
-enderio:item_redstone_nand_filter:0, Redstone NAND Filter
-enderio:item_redstone_xor_filter:0, Redstone XOR Filter
-enderio:item_redstone_xnor_filter:0, Redstone XNOR Filter
-enderio:item_redstone_toggle_filter:0, Redstone Toggle Latch Filter
-enderio:item_redstone_counting_filter:0, Redstone Counting Filter
-enderio:item_redstone_sensor_filter:0, Redstone Sensor Filter
-enderio:item_redstone_timer_filter:0, Redstone Timer Filter
-enderio:block_fused_quartz:0, Fused Quartz
-enderio:block_fused_quartz:1, Fused Quartz
-enderio:block_fused_quartz:2, Fused Quartz
-enderio:block_fused_quartz:3, Fused Quartz
-enderio:block_fused_quartz:4, Fused Quartz
-enderio:block_fused_quartz:5, Fused Quartz
-enderio:block_fused_quartz:6, Fused Quartz
-enderio:block_fused_quartz:7, Fused Quartz
-enderio:block_fused_quartz:8, Fused Quartz
-enderio:block_fused_quartz:9, Fused Quartz
-enderio:block_fused_quartz:10, Fused Quartz
-enderio:block_fused_quartz:11, Fused Quartz
-enderio:block_fused_quartz:12, Fused Quartz
-enderio:block_fused_quartz:13, Fused Quartz
-enderio:block_fused_quartz:14, Fused Quartz
-enderio:block_fused_quartz:15, Fused Quartz
-enderio:block_fused_glass:0, Quite Clear Glass
-enderio:block_fused_glass:1, Quite Clear Glass
-enderio:block_fused_glass:2, Quite Clear Glass
-enderio:block_fused_glass:3, Quite Clear Glass
-enderio:block_fused_glass:4, Quite Clear Glass
-enderio:block_fused_glass:5, Quite Clear Glass
-enderio:block_fused_glass:6, Quite Clear Glass
-enderio:block_fused_glass:7, Quite Clear Glass
-enderio:block_fused_glass:8, Quite Clear Glass
-enderio:block_fused_glass:9, Quite Clear Glass
-enderio:block_fused_glass:10, Quite Clear Glass
-enderio:block_fused_glass:11, Quite Clear Glass
-enderio:block_fused_glass:12, Quite Clear Glass
-enderio:block_fused_glass:13, Quite Clear Glass
-enderio:block_fused_glass:14, Quite Clear Glass
-enderio:block_fused_glass:15, Quite Clear Glass
-enderio:block_enlightened_fused_quartz:0, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:1, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:2, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:3, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:4, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:5, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:6, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:7, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:8, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:9, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:10, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:11, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:12, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:13, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:14, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:15, Enlightened Fused Quartz
-enderio:block_enlightened_fused_glass:0, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:1, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:2, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:3, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:4, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:5, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:6, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:7, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:8, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:9, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:10, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:11, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:12, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:13, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:14, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:15, Enlightened Clear Glass
-enderio:block_dark_fused_quartz:0, Dark Fused Quartz
-enderio:block_dark_fused_quartz:1, Dark Fused Quartz
-enderio:block_dark_fused_quartz:2, Dark Fused Quartz
-enderio:block_dark_fused_quartz:3, Dark Fused Quartz
-enderio:block_dark_fused_quartz:4, Dark Fused Quartz
-enderio:block_dark_fused_quartz:5, Dark Fused Quartz
-enderio:block_dark_fused_quartz:6, Dark Fused Quartz
-enderio:block_dark_fused_quartz:7, Dark Fused Quartz
-enderio:block_dark_fused_quartz:8, Dark Fused Quartz
-enderio:block_dark_fused_quartz:9, Dark Fused Quartz
-enderio:block_dark_fused_quartz:10, Dark Fused Quartz
-enderio:block_dark_fused_quartz:11, Dark Fused Quartz
-enderio:block_dark_fused_quartz:12, Dark Fused Quartz
-enderio:block_dark_fused_quartz:13, Dark Fused Quartz
-enderio:block_dark_fused_quartz:14, Dark Fused Quartz
-enderio:block_dark_fused_quartz:15, Dark Fused Quartz
-enderio:block_dark_fused_glass:0, Dark Clear Glass
-enderio:block_dark_fused_glass:1, Dark Clear Glass
-enderio:block_dark_fused_glass:2, Dark Clear Glass
-enderio:block_dark_fused_glass:3, Dark Clear Glass
-enderio:block_dark_fused_glass:4, Dark Clear Glass
-enderio:block_dark_fused_glass:5, Dark Clear Glass
-enderio:block_dark_fused_glass:6, Dark Clear Glass
-enderio:block_dark_fused_glass:7, Dark Clear Glass
-enderio:block_dark_fused_glass:8, Dark Clear Glass
-enderio:block_dark_fused_glass:9, Dark Clear Glass
-enderio:block_dark_fused_glass:10, Dark Clear Glass
-enderio:block_dark_fused_glass:11, Dark Clear Glass
-enderio:block_dark_fused_glass:12, Dark Clear Glass
-enderio:block_dark_fused_glass:13, Dark Clear Glass
-enderio:block_dark_fused_glass:14, Dark Clear Glass
-enderio:block_dark_fused_glass:15, Dark Clear Glass
-enderio:item_soul_vial, Soul Vial
-enderio:block_detector_block:0, Block Detector
-enderio:block_detector_block_silent:0, Block Detector (Silent)
-enderio:item_dark_steel_helmet, Dark Helm
-enderio:item_dark_steel_chestplate, Dark Plate
-enderio:item_dark_steel_leggings, Dark Leggings
-enderio:item_dark_steel_boots, Dark Boots
-enderio:item_dark_steel_sword, The Ender
-enderio:item_dark_steel_pickaxe, Dark Pick
-enderio:item_dark_steel_axe, Dark Axe
-enderio:item_dark_steel_bow, Dark Bow
-enderio:item_dark_steel_shears, Dark Shears
-enderio:item_dark_steel_treetap, Dark Treetap
-enderio:item_dark_steel_crook, Dark Crook
-enderio:item_inventory_charger_simple, Simple Inventory Charger
-enderio:item_inventory_charger_basic, Basic Inventory Charger
-enderio:item_inventory_charger, Inventory Charger
-enderio:item_inventory_charger_vibrant, Vibrant Inventory Charger
-enderio:item_end_steel_sword, The Ender Mk2
-enderio:item_end_steel_pickaxe, Ender Pickaxe
-enderio:item_end_steel_axe, Ender Axe
-enderio:item_end_steel_bow, Ender Bow
-enderio:item_end_steel_helmet, Ender Helm
-enderio:item_end_steel_chestplate, Ender Plate
-enderio:item_end_steel_leggings, Ender Leggings
-enderio:item_end_steel_boots, Ender Boots
-enderio:item_staff_of_levity:0, Staff of Levity
-enderio:item_staff_of_levity:0, Staff of Levity
-enderio:item_owl_egg, Owl Egg
-enderio:block_alloy_endergy:0, Crude Steel Block
-enderio:block_alloy_endergy:1, Crystalline Alloy Block
-enderio:block_alloy_endergy:2, Melodic Alloy Block
-enderio:block_alloy_endergy:3, Stellar Alloy Block
-enderio:block_alloy_endergy:4, Crystalline Pink Slime Block
-enderio:block_alloy_endergy:5, Energetic Silver Block
-enderio:block_alloy_endergy:6, Vivid Alloy Block
-enderio:item_alloy_endergy_ingot:0, Crude Steel Ingot
-enderio:item_alloy_endergy_ingot:1, Crystalline Alloy Ingot
-enderio:item_alloy_endergy_ingot:2, Melodic Alloy Ingot
-enderio:item_alloy_endergy_ingot:3, Stellar Alloy Ingot
-enderio:item_alloy_endergy_ingot:4, Crystalline Pink Slime Ingot
-enderio:item_alloy_endergy_ingot:5, Energetic Silver Ingot
-enderio:item_alloy_endergy_ingot:6, Vivid Alloy Ingot
-enderio:item_alloy_endergy_nugget:0, Crude Steel Nugget
-enderio:item_alloy_endergy_nugget:1, Crystalline Alloy Nugget
-enderio:item_alloy_endergy_nugget:2, Melodic Alloy Nugget
-enderio:item_alloy_endergy_nugget:3, Stellar Alloy Nugget
-enderio:item_alloy_endergy_nugget:4, Crystalline Pink Slime Nugget
-enderio:item_alloy_endergy_nugget:5, Energetic Silver Nugget
-enderio:item_alloy_endergy_nugget:6, Vivid Alloy Nugget
-enderio:item_alloy_endergy_ball:0, Crude Steel Grinding Ball
-enderio:item_alloy_endergy_ball:1, Crystalline Alloy Grinding Ball
-enderio:item_alloy_endergy_ball:2, Melodic Alloy Grinding Ball
-enderio:item_alloy_endergy_ball:3, Stellar Alloy Grinding Ball
-enderio:item_alloy_endergy_ball:4, Crystalline Pink Slime Grinding Ball
-enderio:item_alloy_endergy_ball:5, Energetic Silver Grinding Ball
-enderio:item_alloy_endergy_ball:6, Vivid Alloy Grinding Ball
-enderio:item_item_conduit:0, Item Conduit
-enderio:item_liquid_conduit:0, Fluid Conduit
-enderio:item_liquid_conduit:1, Pressurized Fluid Conduit
-enderio:item_liquid_conduit:2, Ender Fluid Conduit
-enderio:item_power_conduit:0, Energy Conduit
-enderio:item_power_conduit:1, Enhanced Energy Conduit
-enderio:item_power_conduit:2, Ender Energy Conduit
-enderio:item_redstone_conduit:0, Redstone Conduit
-enderio:item_extract_speed_upgrade:0, Extract Speed Upgrade
-enderio:item_extract_speed_downgrade:0, Extract Speed Downgrade
-enderio:item_me_conduit:0, ME Conduit
-enderio:item_me_conduit:1, Dense ME Conduit
-enderio:item_opencomputers_conduit:0, OC Conduit
-enderio:block_simple_furnace, Simple Powered Furnace
-enderio:block_simple_alloy_smelter, Simple Alloy Smelter
-enderio:block_alloy_smelter, Alloy Smelter
-enderio:block_enhanced_alloy_smelter, Enhanced Alloy Smelter
-enderio:block_buffer:0, Item Buffer
-enderio:block_buffer:1, Power Buffer
-enderio:block_buffer:2, Omni Buffer
-enderio:block_buffer:3, Creative Buffer
-enderio:block_enchanter, Enchanter
-enderio:block_farm_station, Farming Station
-enderio:block_combustion_generator, Combustion Generator
-enderio:block_enhanced_combustion_generator, Enhanced Combustion Generator
-enderio:block_simple_stirling_generator, Simple Stirling Generator
-enderio:block_stirling_generator, Stirling Generator
-enderio:block_zombie_generator, Zombie Generator
-enderio:block_franken_zombie_generator, Frank'n'Zombie Generator
-enderio:block_ender_generator, Ender Generator
-enderio:block_lava_generator, Lava Heat Exchanger
-enderio:block_killer_joe, Killer Joe
-enderio:block_electric_light:0, Electric Light
-enderio:block_electric_light:1, Electric Light (Inverted)
-enderio:block_electric_light:2, Light
-enderio:block_electric_light:3, Light (Inverted)
-enderio:block_electric_light:4, Wireless Light
-enderio:block_electric_light:5, Wireless Light (Inverted)
-enderio:block_attractor_obelisk, Attractor Obelisk
-enderio:block_aversion_obelisk, Aversion Obelisk
-enderio:block_inhibitor_obelisk, Inhibitor Obelisk
-enderio:block_relocator_obelisk, Relocator Obelisk
-enderio:block_weather_obelisk, Weather Obelisk
-enderio:block_experience_obelisk, Experience Obelisk
-enderio:block_painter, Painting Machine
-enderio:block_reservoir, Endervoir
-enderio:block_omni_reservoir, Omnivoir
-enderio:block_simple_sag_mill, Simple SAG Mill
-enderio:block_sag_mill, SAG Mill
-enderio:block_enhanced_sag_mill, Enhanced SAG Mill
-enderio:block_slice_and_splice, Slice'N'Splice
-enderio:block_solar_panel:0, Simple Photovoltaic Cell
-enderio:block_solar_panel:1, Photovoltaic Cell
-enderio:block_solar_panel:2, Advanced Photovoltaic Cell
-enderio:block_solar_panel:3, Vibrant Photovoltaic Cell
-enderio:block_soul_binder, Soul Binder
-enderio:block_powered_spawner, Powered Spawner
-enderio:block_vat, The Vat
-enderio:block_enhanced_vat, The Enhanced Vat
-enderio:block_wired_charger, Wired Charger
-enderio:block_enhanced_wired_charger, Enhanced Wired Charger
-enderio:block_simple_wired_charger, Simple Wired Charger
-enderio:block_wireless_charger, Wireless Charger
-enderio:block_normal_wireless_charger, Wireless Charging Antenna
-enderio:block_enhanced_wireless_charger, Enhanced Wireless Charging Antenna
-enderio:block_wireless_charger_extension, Wireless Charging Antenna Extension
-enderio:block_tank:0, Fluid Tank
-enderio:block_tank:1, Pressurized Fluid Tank
-enderio:block_transceiver, Dimensional Transceiver
-enderio:block_vacuum_chest, Vacuum Chest
-enderio:block_xp_vacuum, XP Vacuum
-enderio:block_travel_anchor, Travel Anchor
-enderio:block_tele_pad, Telepad Block
-enderio:block_dialing_device, Dialing Device
-enderio:block_impulse_hopper, Impulse Hopper
-enderio:block_crafter, Crafter
-enderio:block_simple_crafter, Simple Crafter
-enderio:block_creative_spawner, Creative Spawner
-enderio:block_cap_bank:0, Creative Capacitor Bank
-enderio:block_cap_bank:1, Basic Capacitor Bank
-enderio:block_cap_bank:1, Basic Capacitor Bank
-enderio:block_cap_bank:2, Capacitor Bank
-enderio:block_cap_bank:2, Capacitor Bank
-enderio:block_cap_bank:3, Vibrant Capacitor Bank
-enderio:block_cap_bank:3, Vibrant Capacitor Bank
-enderio:block_gauge, Energy Gauge
-enderio:block_power_monitor, Power Monitor
-enderio:block_advanced_power_monitor, Graphical Power Monitor
-enderio:item_capacitor_grainy, Grainy Capacitor
-enderio:item_capacitor_crystalline, Crystalline Capacitor
-enderio:item_capacitor_melodic, Melodic Capacitor
-enderio:item_capacitor_stellar, Stellar Capacitor
-enderio:item_capacitor_totemic, Totemic Capacitor
-enderio:item_endergy_conduit:0, Crude Energy Conduit
-enderio:item_endergy_conduit:1, Iron Energy Conduit
-enderio:item_endergy_conduit:2, Aluminium Energy Conduit
-enderio:item_endergy_conduit:3, Gold Energy Conduit
-enderio:item_endergy_conduit:4, Copper Energy Conduit
-enderio:item_endergy_conduit:5, Silver Energy Conduit
-enderio:item_endergy_conduit:6, Electrum Energy Conduit
-enderio:item_endergy_conduit:7, Energetic Silver Energy Conduit
-enderio:item_endergy_conduit:8, Crystalline Energy Conduit
-enderio:item_endergy_conduit:9, Crystalline Pink Slime Energy Conduit
-enderio:item_endergy_conduit:10, Melodic Energy Conduit
-enderio:item_endergy_conduit:11, Stellar Energy Conduit
-enderio:item_capacitor_silver, Silver Capacitor
-enderio:item_capacitor_energetic_silver, Endergetic Silver Capacitor
-enderio:item_capacitor_vivid, Endergised Capacitor
-enderio:item_stellar_alloy_sword, The Ender Mark IV
-enderio:item_stellar_alloy_pickaxe, Stellar Pickaxe
-enderio:item_stellar_alloy_axe, Stellar Axe
-enderio:item_stellar_alloy_helmet, Stellar Helmet
-enderio:item_stellar_alloy_boots, Stellar Boots
-enderio:item_stellar_alloy_chestplate, Stellar Chestplate
-enderio:item_stellar_alloy_leggings, Stellar Leggings
 deepmoblearning:machine_casing, Soot-covered Machine Casing
 deepmoblearning:infused_ingot_block, Glitch Infused Block
 deepmoblearning:simulation_chamber, Simulation Chamber
@@ -4579,150 +4113,6 @@ extraplanets:nitrogen_ice, Liquid Nitrogen Ice
 extraplanets:liquid_hydrocarbon, Liquid Hydrocarbon
 extraplanets:liquid_chocolate, Liquid Chocolate
 extraplanets:liquid_caramel, Liquid Caramel
-extraplanets:mercury_pickaxe, Mercury Pickaxe
-extraplanets:mercury_axe, Mercury Axe
-extraplanets:mercury_hoe, Mercury Hoe
-extraplanets:mercury_shovel, Mercury Shovel
-extraplanets:mercury_sword, Mercury Sword
-extraplanets:carbon_pickaxe, Carbon Pickaxe
-extraplanets:carbon_axe, Carbon Axe
-extraplanets:carbon_hoe, Carbon Hoe
-extraplanets:carbon_shovel, Carbon Shovel
-extraplanets:carbon_sword, Carbon Sword
-extraplanets:uranium_pickaxe, Uranium Pickaxe
-extraplanets:uranium_axe, Uranium Axe
-extraplanets:uranium_hoe, Uranium Hoe
-extraplanets:uranium_shovel, Uranium Shovel
-extraplanets:uranium_sword, Uranium Sword
-extraplanets:palladium_pickaxe, Palladium Pickaxe
-extraplanets:palladium_axe, Palladium Axe
-extraplanets:palladium_hoe, Palladium Hoe
-extraplanets:palladium_shovel, Palladium Shovel
-extraplanets:palladium_sword, Palladium Sword
-extraplanets:red_gem_pickaxe, Red Gem Pickaxe
-extraplanets:red_gem_axe, Red Gem Axe
-extraplanets:red_gem_hoe, Red Gem Hoe
-extraplanets:red_gem_shovel, Red Gem Shovel
-extraplanets:red_gem_sword, Red Gem Sword
-extraplanets:magnesium_pickaxe, Magnesium Pickaxe
-extraplanets:magnesium_axe, Magnesium Axe
-extraplanets:magnesium_hoe, Magnesium Hoe
-extraplanets:magnesium_shovel, Magnesium Shovel
-extraplanets:magnesium_sword, Magnesium Sword
-extraplanets:crystal_pickaxe, Crystal Pickaxe
-extraplanets:crystal_axe, Crystal Axe
-extraplanets:crystal_hoe, Crystal Hoe
-extraplanets:crystal_shovel, Crystal Shovel
-extraplanets:crystal_sword, Crystal Sword
-extraplanets:white_gem_pickaxe, White Gem Pickaxe
-extraplanets:white_gem_axe, White Gem Axe
-extraplanets:white_gem_hoe, White Gem Hoe
-extraplanets:white_gem_shovel, White Gem Shovel
-extraplanets:white_gem_sword, White Gem Sword
-extraplanets:blue_gem_pickaxe, Blue Gem Pickaxe
-extraplanets:blue_gem_axe, Blue Gem Axe
-extraplanets:blue_gem_hoe, Blue Gem Hoe
-extraplanets:blue_gem_shovel, Blue Gem Shovel
-extraplanets:blue_gem_sword, Blue Gem Sword
-extraplanets:zinc_pickaxe, Zinc Pickaxe
-extraplanets:zinc_axe, Zinc Axe
-extraplanets:zinc_hoe, Zinc Hoe
-extraplanets:zinc_shovel, Zinc Shovel
-extraplanets:zinc_sword, Zinc Sword
-extraplanets:tungsten_pickaxe, Tungsten Pickaxe
-extraplanets:tungsten_axe, Tungsten Axe
-extraplanets:tungsten_hoe, Tungsten Hoe
-extraplanets:tungsten_shovel, Tungsten Shovel
-extraplanets:tungsten_sword, Tungsten Sword
-extraplanets:blue_diamond_pickaxe, Blue Diamond Pickaxe
-extraplanets:blue_diamond_axe, Blue Diamond Axe
-extraplanets:blue_diamond_hoe, Blue Diamond Hoe
-extraplanets:blue_diamond_shovel, Blue Diamond Shovel
-extraplanets:blue_diamond_sword, Blue Diamond Sword
-extraplanets:red_diamond_pickaxe, Red Diamond Pickaxe
-extraplanets:red_diamond_axe, Red Diamond Axe
-extraplanets:red_diamond_hoe, Red Diamond Hoe
-extraplanets:red_diamond_shovel, Red Diamond Shovel
-extraplanets:red_diamond_sword, Red Diamond Sword
-extraplanets:purple_diamond_pickaxe, Purple Diamond Pickaxe
-extraplanets:purple_diamond_axe, Purple Diamond Axe
-extraplanets:purple_diamond_hoe, Purple Diamond Hoe
-extraplanets:purple_diamond_shovel, Purple Diamond Shovel
-extraplanets:purple_diamond_sword, Purple Diamond Sword
-extraplanets:yellow_diamond_pickaxe, Yellow Diamond Pickaxe
-extraplanets:yellow_diamond_axe, Yellow Diamond Axe
-extraplanets:yellow_diamond_hoe, Yellow Diamond Hoe
-extraplanets:yellow_diamond_shovel, Yellow Diamond Shovel
-extraplanets:yellow_diamond_sword, Yellow Diamond Sword
-extraplanets:green_diamond_pickaxe, Green Diamond Pickaxe
-extraplanets:green_diamond_axe, Green Diamond Axe
-extraplanets:green_diamond_hoe, Green Diamond Hoe
-extraplanets:green_diamond_shovel, Green Diamond Shovel
-extraplanets:green_diamond_sword, Green Diamond Sword
-extraplanets:mercury_helmet, Mercury Helmet
-extraplanets:mercury_chest, Mercury Chestplate
-extraplanets:mercury_legings, Mercury Leggings
-extraplanets:mercury_boots, Mercury Boots
-extraplanets:carbon_helmet, Carbon Helmet
-extraplanets:carbon_chest, Carbon Chestplate
-extraplanets:carbon_legings, Carbon Leggings
-extraplanets:carbon_boots, Carbon Boots
-extraplanets:uranium_helmet, Uranium Helmet
-extraplanets:uranium_chest, Uranium Chestplate
-extraplanets:uranium_legings, Uranium Leggings
-extraplanets:uranium_boots, Uranium Boots
-extraplanets:palladium_helmet, Palladium Helmet
-extraplanets:palladium_chest, Palladium Chestplate
-extraplanets:palladium_legings, Palladium Leggings
-extraplanets:palladium_boots, Palladium Boots
-extraplanets:red_gem_helmet, Red Gem Helmet
-extraplanets:red_gem_chest, Red Gem Chestplate
-extraplanets:red_gem_legings, Red Gem Leggings
-extraplanets:red_gem_boots, Red Gem Boots
-extraplanets:magnesium_helmet, Magnesium Helmet
-extraplanets:magnesium_chest, Magnesium Chestplate
-extraplanets:magnesium_legings, Magnesium Leggings
-extraplanets:magnesium_boots, Magnesium Boots
-extraplanets:crystal_helmet, Crystal Helmet
-extraplanets:crystal_chest, Crystal Chestplate
-extraplanets:crystal_legings, Crystal Leggings
-extraplanets:crystal_boots, Crystal Boots
-extraplanets:white_gem_helmet, White Gem Helmet
-extraplanets:white_gem_chest, White Gem Chestplate
-extraplanets:white_gem_legings, White Gem Leggings
-extraplanets:white_gem_boots, White Gem Boots
-extraplanets:zinc_helmet, Zinc Helmet
-extraplanets:zinc_chest, Zinc Chestplate
-extraplanets:zinc_legings, Zinc Leggings
-extraplanets:zinc_boots, Zinc Boots
-extraplanets:blue_gem_helmet, Blue Gem Helmet
-extraplanets:blue_gem_chest, Blue Gem Chestplate
-extraplanets:blue_gem_legings, Blue Gem Leggings
-extraplanets:blue_gem_boots, Blue Gem Boots
-extraplanets:tungsten_helmet, Tungsten Helmet
-extraplanets:tungsten_chest, Tungsten Chestplate
-extraplanets:tungsten_legings, Tungsten Leggings
-extraplanets:tungsten_boots, Tungsten Boots
-extraplanets:blue_diamond_helmet, Blue Diamond Helmet
-extraplanets:blue_diamond_chest, Blue Diamond Chestplate
-extraplanets:blue_diamond_legings, Blue Diamond Leggings
-extraplanets:blue_diamond_boots, Blue Diamond Boots
-extraplanets:red_diamond_helmet, Red Diamond Helmet
-extraplanets:red_diamond_chest, Red Diamond Chestplate
-extraplanets:red_diamond_legings, Red Diamond Leggings
-extraplanets:red_diamond_boots, Red Diamond Boots
-extraplanets:purple_diamond_helmet, Purple Diamond Helmet
-extraplanets:purple_diamond_chest, Purple Diamond Chestplate
-extraplanets:purple_diamond_legings, Purple Diamond Leggings
-extraplanets:purple_diamond_boots, Purple Diamond Boots
-extraplanets:yellow_diamond_helmet, Yellow Diamond Helmet
-extraplanets:yellow_diamond_chest, Yellow Diamond Chestplate
-extraplanets:yellow_diamond_legings, Yellow Diamond Leggings
-extraplanets:yellow_diamond_boots, Yellow Diamond Boots
-extraplanets:green_diamond_helmet, Green Diamond Helmet
-extraplanets:green_diamond_chest, Green Diamond Chestplate
-extraplanets:green_diamond_legings, Green Diamond Leggings
-extraplanets:green_diamond_boots, Green Diamond Boots
 extraplanets:tier1_space_suit_helmet, Tier 1 Space Suit Helmet
 extraplanets:tier1_space_suit_chest, Tier 1 Space Suit Chestplate
 extraplanets:tier1_space_suit_jetpack_chest, Tier 1 Space Suit Jetpack Chestplate
@@ -5068,82 +4458,414 @@ funkylocomotion:frame_0:0, Frame Block
 funkylocomotion:wrench:0, Wrench
 funkylocomotion:wrench:1, iWrench
 funkylocomotion:wrench:2, Wrench Hammer
-ironbackpacks:backpack:0, Basic Backpack
-ironbackpacks:backpack:0, Iron Backpack
-ironbackpacks:backpack:0, Iron Backpack
-ironbackpacks:backpack:0, Gold Backpack
-ironbackpacks:backpack:0, Gold Backpack
-ironbackpacks:backpack:0, Diamond Backpack
-ironbackpacks:backpack:0, Diamond Backpack
-ironbackpacks:upgrade:0, Blank Upgrade
-ironbackpacks:upgrade:0, Damage Bar Upgrade
-ironbackpacks:upgrade:0, Latch Upgrade
-ironbackpacks:upgrade:0, Extra Upgrade Point
-ironbackpacks:upgrade:0, Everlasting Upgrade
-ironjetpacks:strap, Leather Strap
-ironjetpacks:basic_coil, Basic Coil
-ironjetpacks:advanced_coil, Advanced Coil
-ironjetpacks:creative_cell, Energy Cell
-ironjetpacks:wood_cell, Energy Cell
-ironjetpacks:copper_cell, Energy Cell
-ironjetpacks:stone_cell, Energy Cell
-ironjetpacks:bronze_cell, Energy Cell
-ironjetpacks:iron_cell, Energy Cell
-ironjetpacks:silver_cell, Energy Cell
-ironjetpacks:electrum_cell, Energy Cell
-ironjetpacks:gold_cell, Energy Cell
-ironjetpacks:invar_cell, Energy Cell
-ironjetpacks:steel_cell, Energy Cell
-ironjetpacks:diamond_cell, Energy Cell
-ironjetpacks:platinum_cell, Energy Cell
-ironjetpacks:emerald_cell, Energy Cell
-ironjetpacks:creative_thruster, Thruster
-ironjetpacks:wood_thruster, Thruster
-ironjetpacks:copper_thruster, Thruster
-ironjetpacks:stone_thruster, Thruster
-ironjetpacks:bronze_thruster, Thruster
-ironjetpacks:iron_thruster, Thruster
-ironjetpacks:silver_thruster, Thruster
-ironjetpacks:electrum_thruster, Thruster
-ironjetpacks:gold_thruster, Thruster
-ironjetpacks:invar_thruster, Thruster
-ironjetpacks:steel_thruster, Thruster
-ironjetpacks:diamond_thruster, Thruster
-ironjetpacks:platinum_thruster, Thruster
-ironjetpacks:emerald_thruster, Thruster
-ironjetpacks:creative_capacitor, Capacitor
-ironjetpacks:wood_capacitor, Capacitor
-ironjetpacks:copper_capacitor, Capacitor
-ironjetpacks:stone_capacitor, Capacitor
-ironjetpacks:bronze_capacitor, Capacitor
-ironjetpacks:iron_capacitor, Capacitor
-ironjetpacks:silver_capacitor, Capacitor
-ironjetpacks:electrum_capacitor, Capacitor
-ironjetpacks:gold_capacitor, Capacitor
-ironjetpacks:invar_capacitor, Capacitor
-ironjetpacks:steel_capacitor, Capacitor
-ironjetpacks:diamond_capacitor, Capacitor
-ironjetpacks:platinum_capacitor, Capacitor
-ironjetpacks:emerald_capacitor, Capacitor
-ironjetpacks:creative_jetpack, Jetpack
-ironjetpacks:wood_jetpack, Jetpack
-ironjetpacks:copper_jetpack, Jetpack
-ironjetpacks:stone_jetpack, Jetpack
-ironjetpacks:bronze_jetpack, Jetpack
-ironjetpacks:iron_jetpack, Jetpack
-ironjetpacks:silver_jetpack, Jetpack
-ironjetpacks:electrum_jetpack, Jetpack
-ironjetpacks:gold_jetpack, Jetpack
-ironjetpacks:invar_jetpack, Jetpack
-ironjetpacks:steel_jetpack, Jetpack
-ironjetpacks:diamond_jetpack, Jetpack
-ironjetpacks:platinum_jetpack, Jetpack
-ironjetpacks:emerald_jetpack, Jetpack
-matc:inferiumcrystal, §eInferium Infusion Crystal
-matc:prudentiumcrystal, §2Prudentium Infusion Crystal
-matc:intermediumcrystal, §6Intermedium Infusion Crystal
-matc:superiumcrystal, §9Superium Infusion Crystal
-matc:supremiumcrystal, §cSupremium Infusion Crystal
+slabmachines:workbench_slab, Crafting Slab
+slabmachines:furnace_slab, Furnace Slab
+slabmachines:chest_slab, Chest Slab
+slabmachines:trapped_chest_slab, Trapped Chest Slab
+slabmachines:note_slab, Note Slab
+slabmachines:tnt_slab, Tnt Slab
+mekanism:electricbow, Electric Bow
+mekanism:dust:0, Iron Dust
+mekanism:dust:1, Gold Dust
+mekanism:dust:2, Osmium Dust
+mekanism:dust:3, Copper Dust
+mekanism:dust:4, Tin Dust
+mekanism:dust:5, Silver Dust
+mekanism:dust:6, Lead Dust
+mekanism:ingot:0, Refined Obsidian Ingot
+mekanism:ingot:1, Osmium Ingot
+mekanism:ingot:2, Bronze Ingot
+mekanism:ingot:3, Glowstone Ingot
+mekanism:ingot:4, Steel Ingot
+mekanism:ingot:5, Copper Ingot
+mekanism:ingot:6, Tin Ingot
+mekanism:nugget:0, Refined Obsidian Nugget
+mekanism:nugget:1, Osmium Nugget
+mekanism:nugget:2, Bronze Nugget
+mekanism:nugget:3, Glowstone Nugget
+mekanism:nugget:4, Steel Nugget
+mekanism:nugget:5, Copper Nugget
+mekanism:nugget:6, Tin Nugget
+mekanism:energytablet, Energy Tablet
+mekanism:speedupgrade, Speed Upgrade
+mekanism:energyupgrade, Energy Upgrade
+mekanism:filterupgrade, Filter Upgrade
+mekanism:mufflingupgrade, Muffling Upgrade
+mekanism:gasupgrade, Gas Upgrade
+mekanism:anchorupgrade, Anchor Upgrade
+mekanism:robit, Robit
+mekanism:atomicdisassembler, Atomic Disassembler
+mekanism:enrichedalloy, Enriched Alloy
+mekanism:reinforcedalloy, Reinforced Alloy
+mekanism:atomicalloy, Atomic Alloy
+mekanism:itemproxy, item.ItemProxy.name
+mekanism:controlcircuit:0, Basic Control Circuit
+mekanism:controlcircuit:1, Advanced Control Circuit
+mekanism:controlcircuit:2, Elite Control Circuit
+mekanism:controlcircuit:3, Ultimate Control Circuit
+mekanism:enrichediron, Enriched Iron
+mekanism:compressedcarbon, Compressed Carbon
+mekanism:compressedredstone, Compressed Redstone
+mekanism:compresseddiamond, Compressed Diamond
+mekanism:compressedobsidian, Compressed Obsidian
+mekanism:portableteleporter, Portable Teleporter
+mekanism:teleportationcore, Teleportation Core
+mekanism:clump:0, Iron Clump
+mekanism:clump:1, Gold Clump
+mekanism:clump:2, Osmium Clump
+mekanism:clump:3, Copper Clump
+mekanism:clump:4, Tin Clump
+mekanism:clump:5, Silver Clump
+mekanism:clump:6, Lead Clump
+mekanism:dirtydust:0, Dirty Iron Dust
+mekanism:dirtydust:1, Dirty Gold Dust
+mekanism:dirtydust:2, Dirty Osmium Dust
+mekanism:dirtydust:3, Dirty Copper Dust
+mekanism:dirtydust:4, Dirty Tin Dust
+mekanism:dirtydust:5, Dirty Silver Dust
+mekanism:dirtydust:6, Dirty Lead Dust
+mekanism:configurator, Configurator
+mekanism:networkreader, Network Reader
+mekanism:walkietalkie, Walkie-Talkie
+mekanism:jetpack, Jetpack
+mekanism:dictionary, Dictionary
+mekanism:gasmask, Gas Mask
+mekanism:scubatank, Scuba Tank
+mekanism:balloon:0, §8Black Balloon
+mekanism:balloon:1, §cRed Balloon
+mekanism:balloon:2, §2Green Balloon
+mekanism:balloon:3, §6Brown Balloon
+mekanism:balloon:4, §1Blue Balloon
+mekanism:balloon:5, §5Purple Balloon
+mekanism:balloon:6, §3Cyan Balloon
+mekanism:balloon:7, §7Light Grey Balloon
+mekanism:balloon:8, §8Grey Balloon
+mekanism:balloon:9, §dPink Balloon
+mekanism:balloon:10, §aLime Balloon
+mekanism:balloon:11, §eYellow Balloon
+mekanism:balloon:12, §9Light Blue Balloon
+mekanism:balloon:13, §dMagenta Balloon
+mekanism:balloon:14, §6Orange Balloon
+mekanism:balloon:15, §fWhite Balloon
+mekanism:shard:0, Iron Shard
+mekanism:shard:1, Gold Shard
+mekanism:shard:2, Osmium Shard
+mekanism:shard:3, Copper Shard
+mekanism:shard:4, Tin Shard
+mekanism:shard:5, Silver Shard
+mekanism:shard:6, Lead Shard
+mekanism:electrolyticcore, Electrolytic Core
+mekanism:sawdust, Sawdust
+mekanism:salt, Salt
+mekanism:crystal:0, Iron Crystal
+mekanism:crystal:1, Gold Crystal
+mekanism:crystal:2, Osmium Crystal
+mekanism:crystal:3, Copper Crystal
+mekanism:crystal:4, Tin Crystal
+mekanism:crystal:5, Silver Crystal
+mekanism:crystal:6, Lead Crystal
+mekanism:freerunners, Free Runners
+mekanism:armoredjetpack, Armored Jetpack
+mekanism:configurationcard, Configuration Card
+mekanism:craftingformula, Crafting Formula
+mekanism:seismicreader, Seismic Reader
+mekanism:substrate, Substrate
+mekanism:polyethene:0, HDPE Pellet
+mekanism:polyethene:1, HDPE Rod
+mekanism:polyethene:2, HDPE Sheet
+mekanism:polyethene:3, PlaStick
+mekanism:biofuel, Bio Fuel
+mekanism:flamethrower, Flamethrower
+mekanism:gaugedropper, Gauge Dropper
+mekanism:tierinstaller:0, Basic Tier Installer
+mekanism:tierinstaller:1, Advanced Tier Installer
+mekanism:tierinstaller:2, Elite Tier Installer
+mekanism:tierinstaller:3, Ultimate Tier Installer
+mekanism:otherdust:0, Diamond Dust
+mekanism:otherdust:1, Steel Dust
+mekanism:otherdust:3, Sulfur Dust
+mekanism:otherdust:4, Lithium Dust
+mekanism:otherdust:5, Refined Obsidian Dust
+mekanism:otherdust:6, Obsidian Dust
+mekanism:basicblock:0, Osmium Block
+mekanism:basicblock:1, Bronze Block
+mekanism:basicblock:2, Refined Obsidian
+mekanism:basicblock:3, Charcoal Block
+mekanism:basicblock:4, Refined Glowstone
+mekanism:basicblock:5, Steel Block
+mekanism:basicblock:6, Basic Bin
+mekanism:basicblock:6, Advanced Bin
+mekanism:basicblock:6, Elite Bin
+mekanism:basicblock:6, Ultimate Bin
+mekanism:basicblock:6, Creative Bin
+mekanism:basicblock:7, Teleporter Frame
+mekanism:basicblock:8, Steel Casing
+mekanism:basicblock:9, Dynamic Tank
+mekanism:basicblock:10, Structural Glass
+mekanism:basicblock:11, Dynamic Valve
+mekanism:basicblock:12, Copper Block
+mekanism:basicblock:13, Tin Block
+mekanism:basicblock:14, Thermal Evaporation Controller
+mekanism:basicblock:15, Thermal Evaporation Valve
+mekanism:basicblock2:0, Thermal Evaporation Block
+mekanism:basicblock2:1, Induction Casing
+mekanism:basicblock2:2, Induction Port
+mekanism:basicblock2:3, Basic Induction Cell
+mekanism:basicblock2:3, Advanced Induction Cell
+mekanism:basicblock2:3, Elite Induction Cell
+mekanism:basicblock2:3, Ultimate Induction Cell
+mekanism:basicblock2:4, Basic Induction Provider
+mekanism:basicblock2:4, Advanced Induction Provider
+mekanism:basicblock2:4, Elite Induction Provider
+mekanism:basicblock2:4, Ultimate Induction Provider
+mekanism:basicblock2:5, Superheating Element
+mekanism:basicblock2:6, Pressure Disperser
+mekanism:basicblock2:7, Boiler Casing
+mekanism:basicblock2:8, Boiler Valve
+mekanism:basicblock2:9, Security Desk
+mekanism:machineblock:0, Enrichment Chamber
+mekanism:machineblock:1, Osmium Compressor
+mekanism:machineblock:2, Combiner
+mekanism:machineblock:3, Crusher
+mekanism:machineblock:4, Digital Miner
+mekanism:machineblock:5, Basic Smelting Factory
+mekanism:machineblock:5, Basic Enriching Factory
+mekanism:machineblock:5, Basic Crushing Factory
+mekanism:machineblock:5, Basic Compressing Factory
+mekanism:machineblock:5, Basic Combining Factory
+mekanism:machineblock:5, Basic Purifying Factory
+mekanism:machineblock:5, Basic Injecting Factory
+mekanism:machineblock:5, Basic Infusing Factory
+mekanism:machineblock:6, Advanced Smelting Factory
+mekanism:machineblock:6, Advanced Enriching Factory
+mekanism:machineblock:6, Advanced Crushing Factory
+mekanism:machineblock:6, Advanced Compressing Factory
+mekanism:machineblock:6, Advanced Combining Factory
+mekanism:machineblock:6, Advanced Purifying Factory
+mekanism:machineblock:6, Advanced Injecting Factory
+mekanism:machineblock:6, Advanced Infusing Factory
+mekanism:machineblock:7, Elite Smelting Factory
+mekanism:machineblock:7, Elite Enriching Factory
+mekanism:machineblock:7, Elite Crushing Factory
+mekanism:machineblock:7, Elite Compressing Factory
+mekanism:machineblock:7, Elite Combining Factory
+mekanism:machineblock:7, Elite Purifying Factory
+mekanism:machineblock:7, Elite Injecting Factory
+mekanism:machineblock:7, Elite Infusing Factory
+mekanism:machineblock:8, Metallurgic Infuser
+mekanism:machineblock:9, Purification Chamber
+mekanism:machineblock:10, Energized Smelter
+mekanism:machineblock:11, Teleporter
+mekanism:machineblock:12, Electric Pump
+mekanism:machineblock:13, Personal Chest
+mekanism:machineblock:14, Chargepad
+mekanism:machineblock:15, Logistical Sorter
+mekanism:machineblock2:0, Rotary Condensentrator
+mekanism:machineblock2:1, Chemical Oxidizer
+mekanism:machineblock2:2, Chemical Infuser
+mekanism:machineblock2:3, Chemical Injection Chamber
+mekanism:machineblock2:4, Electrolytic Separator
+mekanism:machineblock2:5, Precision Sawmill
+mekanism:machineblock2:6, Chemical Dissolution Chamber
+mekanism:machineblock2:7, Chemical Washer
+mekanism:machineblock2:8, Chemical Crystallizer
+mekanism:machineblock2:9, Seismic Vibrator
+mekanism:machineblock2:10, Pressurized Reaction Chamber
+mekanism:machineblock2:11, Basic Fluid Tank
+mekanism:machineblock2:11, Advanced Fluid Tank
+mekanism:machineblock2:11, Elite Fluid Tank
+mekanism:machineblock2:11, Ultimate Fluid Tank
+mekanism:machineblock2:11, Creative Fluid Tank
+mekanism:machineblock2:12, Fluidic Plenisher
+mekanism:machineblock2:13, Laser
+mekanism:machineblock2:14, Laser Amplifier
+mekanism:machineblock2:15, Laser Tractor Beam
+mekanism:machineblock3:0, Quantum Entangloporter
+mekanism:machineblock3:1, Solar Neutron Activator
+mekanism:machineblock3:3, Oredictionificator
+mekanism:machineblock3:4, Resistive Heater
+mekanism:machineblock3:5, Formulaic Assemblicator
+mekanism:machineblock3:6, Fuelwood Heater
+mekanism:oreblock:0, Osmium Ore
+mekanism:oreblock:1, Copper Ore
+mekanism:oreblock:2, Tin Ore
+mekanism:energycube:0, Basic Energy Cube
+mekanism:energycube:0, Basic Energy Cube
+mekanism:energycube:0, Advanced Energy Cube
+mekanism:energycube:0, Advanced Energy Cube
+mekanism:energycube:0, Elite Energy Cube
+mekanism:energycube:0, Elite Energy Cube
+mekanism:energycube:0, Ultimate Energy Cube
+mekanism:energycube:0, Ultimate Energy Cube
+mekanism:energycube:0, Creative Energy Cube
+mekanism:energycube:0, Creative Energy Cube
+mekanism:transmitter:0, Basic Universal Cable
+mekanism:transmitter:0, Advanced Universal Cable
+mekanism:transmitter:0, Elite Universal Cable
+mekanism:transmitter:0, Ultimate Universal Cable
+mekanism:transmitter:1, Basic Mechanical Pipe
+mekanism:transmitter:1, Advanced Mechanical Pipe
+mekanism:transmitter:1, Elite Mechanical Pipe
+mekanism:transmitter:1, Ultimate Mechanical Pipe
+mekanism:transmitter:2, Basic Pressurized Tube
+mekanism:transmitter:2, Advanced Pressurized Tube
+mekanism:transmitter:2, Elite Pressurized Tube
+mekanism:transmitter:2, Ultimate Pressurized Tube
+mekanism:transmitter:3, Basic Logistical Transporter
+mekanism:transmitter:3, Advanced Logistical Transporter
+mekanism:transmitter:3, Elite Logistical Transporter
+mekanism:transmitter:3, Ultimate Logistical Transporter
+mekanism:transmitter:4, Restrictive Transporter
+mekanism:transmitter:5, Diversion Transporter
+mekanism:transmitter:6, Basic Thermodynamic Conductor
+mekanism:transmitter:6, Advanced Thermodynamic Conductor
+mekanism:transmitter:6, Elite Thermodynamic Conductor
+mekanism:transmitter:6, Ultimate Thermodynamic Conductor
+mekanism:obsidiantnt, Obsidian TNT
+mekanism:boundingblock, Bounding Block
+mekanism:gastank:0, Basic Gas Tank
+mekanism:gastank:0, Advanced Gas Tank
+mekanism:gastank:0, Elite Gas Tank
+mekanism:gastank:0, Ultimate Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:gastank:0, Creative Gas Tank
+mekanism:cardboardbox, Cardboard Box
+mekanism:glowpanel:0, §8Black Glow Panel
+mekanism:glowpanel:1, §cRed Glow Panel
+mekanism:glowpanel:2, §2Green Glow Panel
+mekanism:glowpanel:3, §6Brown Glow Panel
+mekanism:glowpanel:4, §1Blue Glow Panel
+mekanism:glowpanel:5, §5Purple Glow Panel
+mekanism:glowpanel:6, §3Cyan Glow Panel
+mekanism:glowpanel:7, §7Light Grey Glow Panel
+mekanism:glowpanel:8, §8Grey Glow Panel
+mekanism:glowpanel:9, §dPink Glow Panel
+mekanism:glowpanel:10, §aLime Glow Panel
+mekanism:glowpanel:11, §eYellow Glow Panel
+mekanism:glowpanel:12, §9Light Blue Glow Panel
+mekanism:glowpanel:13, §dMagenta Glow Panel
+mekanism:glowpanel:14, §6Orange Glow Panel
+mekanism:glowpanel:15, §fWhite Glow Panel
+mekanism:plasticblock:0, §8Black Plastic Block
+mekanism:plasticblock:1, §cRed Plastic Block
+mekanism:plasticblock:2, §2Green Plastic Block
+mekanism:plasticblock:3, §6Brown Plastic Block
+mekanism:plasticblock:4, §1Blue Plastic Block
+mekanism:plasticblock:5, §5Purple Plastic Block
+mekanism:plasticblock:6, §3Cyan Plastic Block
+mekanism:plasticblock:7, §7Light Grey Plastic Block
+mekanism:plasticblock:8, §8Grey Plastic Block
+mekanism:plasticblock:9, §dPink Plastic Block
+mekanism:plasticblock:10, §aLime Plastic Block
+mekanism:plasticblock:11, §eYellow Plastic Block
+mekanism:plasticblock:12, §9Light Blue Plastic Block
+mekanism:plasticblock:13, §dMagenta Plastic Block
+mekanism:plasticblock:14, §6Orange Plastic Block
+mekanism:plasticblock:15, §fWhite Plastic Block
+mekanism:slickplasticblock:0, §8Black Slick Plastic Block
+mekanism:slickplasticblock:1, §cRed Slick Plastic Block
+mekanism:slickplasticblock:2, §2Green Slick Plastic Block
+mekanism:slickplasticblock:3, §6Brown Slick Plastic Block
+mekanism:slickplasticblock:4, §1Blue Slick Plastic Block
+mekanism:slickplasticblock:5, §5Purple Slick Plastic Block
+mekanism:slickplasticblock:6, §3Cyan Slick Plastic Block
+mekanism:slickplasticblock:7, §7Light Grey Slick Plastic Block
+mekanism:slickplasticblock:8, §8Grey Slick Plastic Block
+mekanism:slickplasticblock:9, §dPink Slick Plastic Block
+mekanism:slickplasticblock:10, §aLime Slick Plastic Block
+mekanism:slickplasticblock:11, §eYellow Slick Plastic Block
+mekanism:slickplasticblock:12, §9Light Blue Slick Plastic Block
+mekanism:slickplasticblock:13, §dMagenta Slick Plastic Block
+mekanism:slickplasticblock:14, §6Orange Slick Plastic Block
+mekanism:slickplasticblock:15, §fWhite Slick Plastic Block
+mekanism:glowplasticblock:0, §8Black Plastic Glow Block
+mekanism:glowplasticblock:1, §cRed Plastic Glow Block
+mekanism:glowplasticblock:2, §2Green Plastic Glow Block
+mekanism:glowplasticblock:3, §6Brown Plastic Glow Block
+mekanism:glowplasticblock:4, §1Blue Plastic Glow Block
+mekanism:glowplasticblock:5, §5Purple Plastic Glow Block
+mekanism:glowplasticblock:6, §3Cyan Plastic Glow Block
+mekanism:glowplasticblock:7, §7Light Grey Plastic Glow Block
+mekanism:glowplasticblock:8, §8Grey Plastic Glow Block
+mekanism:glowplasticblock:9, §dPink Plastic Glow Block
+mekanism:glowplasticblock:10, §aLime Plastic Glow Block
+mekanism:glowplasticblock:11, §eYellow Plastic Glow Block
+mekanism:glowplasticblock:12, §9Light Blue Plastic Glow Block
+mekanism:glowplasticblock:13, §dMagenta Plastic Glow Block
+mekanism:glowplasticblock:14, §6Orange Plastic Glow Block
+mekanism:glowplasticblock:15, §fWhite Plastic Glow Block
+mekanism:reinforcedplasticblock:0, §8Black Reinforced Plastic Block
+mekanism:reinforcedplasticblock:1, §cRed Reinforced Plastic Block
+mekanism:reinforcedplasticblock:2, §2Green Reinforced Plastic Block
+mekanism:reinforcedplasticblock:3, §6Brown Reinforced Plastic Block
+mekanism:reinforcedplasticblock:4, §1Blue Reinforced Plastic Block
+mekanism:reinforcedplasticblock:5, §5Purple Reinforced Plastic Block
+mekanism:reinforcedplasticblock:6, §3Cyan Reinforced Plastic Block
+mekanism:reinforcedplasticblock:7, §7Light Grey Reinforced Plastic Block
+mekanism:reinforcedplasticblock:8, §8Grey Reinforced Plastic Block
+mekanism:reinforcedplasticblock:9, §dPink Reinforced Plastic Block
+mekanism:reinforcedplasticblock:10, §aLime Reinforced Plastic Block
+mekanism:reinforcedplasticblock:11, §eYellow Reinforced Plastic Block
+mekanism:reinforcedplasticblock:12, §9Light Blue Reinforced Plastic Block
+mekanism:reinforcedplasticblock:13, §dMagenta Reinforced Plastic Block
+mekanism:reinforcedplasticblock:14, §6Orange Reinforced Plastic Block
+mekanism:reinforcedplasticblock:15, §fWhite Reinforced Plastic Block
+mekanism:roadplasticblock:0, §8Black Plastic Road
+mekanism:roadplasticblock:1, §cRed Plastic Road
+mekanism:roadplasticblock:2, §2Green Plastic Road
+mekanism:roadplasticblock:3, §6Brown Plastic Road
+mekanism:roadplasticblock:4, §1Blue Plastic Road
+mekanism:roadplasticblock:5, §5Purple Plastic Road
+mekanism:roadplasticblock:6, §3Cyan Plastic Road
+mekanism:roadplasticblock:7, §7Light Grey Plastic Road
+mekanism:roadplasticblock:8, §8Grey Plastic Road
+mekanism:roadplasticblock:9, §dPink Plastic Road
+mekanism:roadplasticblock:10, §aLime Plastic Road
+mekanism:roadplasticblock:11, §eYellow Plastic Road
+mekanism:roadplasticblock:12, §9Light Blue Plastic Road
+mekanism:roadplasticblock:13, §dMagenta Plastic Road
+mekanism:roadplasticblock:14, §6Orange Plastic Road
+mekanism:roadplasticblock:15, §fWhite Plastic Road
+mekanism:plasticfence:0, §8Black Plastic Barrier
+mekanism:plasticfence:1, §cRed Plastic Barrier
+mekanism:plasticfence:2, §2Green Plastic Barrier
+mekanism:plasticfence:3, §6Brown Plastic Barrier
+mekanism:plasticfence:4, §1Blue Plastic Barrier
+mekanism:plasticfence:5, §5Purple Plastic Barrier
+mekanism:plasticfence:6, §3Cyan Plastic Barrier
+mekanism:plasticfence:7, §7Light Grey Plastic Barrier
+mekanism:plasticfence:8, §8Grey Plastic Barrier
+mekanism:plasticfence:9, §dPink Plastic Barrier
+mekanism:plasticfence:10, §aLime Plastic Barrier
+mekanism:plasticfence:11, §eYellow Plastic Barrier
+mekanism:plasticfence:12, §9Light Blue Plastic Barrier
+mekanism:plasticfence:13, §dMagenta Plastic Barrier
+mekanism:plasticfence:14, §6Orange Plastic Barrier
+mekanism:plasticfence:15, §fWhite Plastic Barrier
+mekanism:saltblock, Salt Block
+teslacorelib:base_addon, Base Addon
+teslacorelib:energy_tier1, Energy Upgrade I
+teslacorelib:energy_tier2, Energy Upgrade II
+teslacorelib:machine_case, Machine Case
+teslacorelib:speed_tier1, Speed Upgrade I
+teslacorelib:speed_tier2, Speed Upgrade II
+teslacorelib:battery:0, Tesla Battery
+teslacorelib:battery:0, Tesla Battery
+teslacorelib:wrench, Tesla Wrench
 matteroverdrive:dilithium_ore, Dilithium Ore
 matteroverdrive:tritanium_ore, Tritanium Ore
 matteroverdrive:tritanium_block, Tritanium Block
@@ -5316,12 +5038,47 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
-slabmachines:workbench_slab, Crafting Slab
-slabmachines:furnace_slab, Furnace Slab
-slabmachines:chest_slab, Chest Slab
-slabmachines:trapped_chest_slab, Trapped Chest Slab
-slabmachines:note_slab, Note Slab
-slabmachines:tnt_slab, Tnt Slab
+ironbackpacks:backpack:0, Basic Backpack
+ironbackpacks:backpack:0, Iron Backpack
+ironbackpacks:backpack:0, Iron Backpack
+ironbackpacks:backpack:0, Gold Backpack
+ironbackpacks:backpack:0, Gold Backpack
+ironbackpacks:backpack:0, Diamond Backpack
+ironbackpacks:backpack:0, Diamond Backpack
+ironbackpacks:upgrade:0, Blank Upgrade
+ironbackpacks:upgrade:0, Damage Bar Upgrade
+ironbackpacks:upgrade:0, Latch Upgrade
+ironbackpacks:upgrade:0, Extra Upgrade Point
+ironbackpacks:upgrade:0, Everlasting Upgrade
+ironjetpacks:strap, Leather Strap
+ironjetpacks:basic_coil, Basic Coil
+ironjetpacks:advanced_coil, Advanced Coil
+ironjetpacks:electric-potato_cell, Energy Cell
+ironjetpacks:electric-potato_thruster, Thruster
+ironjetpacks:electric-potato_capacitor, Capacitor
+ironjetpacks:electric-potato_jetpack, Jetpack
+mekanismgenerators:solarpanel, Solar Panel
+mekanismgenerators:hohlraum, Hohlraum
+mekanismgenerators:turbineblade, Turbine Blade
+mekanismgenerators:generator:0, Heat Generator
+mekanismgenerators:generator:1, Solar Generator
+mekanismgenerators:generator:3, Gas-Burning Generator
+mekanismgenerators:generator:4, Bio-Generator
+mekanismgenerators:generator:5, Advanced Solar Generator
+mekanismgenerators:generator:6, Wind Generator
+mekanismgenerators:generator:7, Turbine Rotor
+mekanismgenerators:generator:8, Rotational Complex
+mekanismgenerators:generator:9, Electromagnetic Coil
+mekanismgenerators:generator:10, Turbine Casing
+mekanismgenerators:generator:11, Turbine Valve
+mekanismgenerators:generator:12, Turbine Vent
+mekanismgenerators:generator:13, Saturating Condenser
+mekanismgenerators:reactor:0, Reactor Controller
+mekanismgenerators:reactor:1, Reactor Frame
+mekanismgenerators:reactor:2, Reactor Port
+mekanismgenerators:reactor:3, Reactor Logic Adapter
+mekanismgenerators:reactorglass:0, Reactor Glass
+mekanismgenerators:reactorglass:1, Laser Focus Matrix
 powersuits:powerarmor_head, Power Armor Helmet
 powersuits:powerarmor_torso, Power Armor Chestplate
 powersuits:powerarmor_legs, Power Armor Leggings
@@ -5351,90 +5108,74 @@ powersuits:powerarmorcomponent:20, Computer Chip
 powersuits:powerarmorcomponent:21, Insulated Rubber Hose
 powersuits:tinkertable, Power Armor Tinker Table
 powersuits:luxcapacitor, Lux Capacitor
-teslacorelib:base_addon, Base Addon
-teslacorelib:energy_tier1, Energy Upgrade I
-teslacorelib:energy_tier2, Energy Upgrade II
-teslacorelib:machine_case, Machine Case
-teslacorelib:speed_tier1, Speed Upgrade I
-teslacorelib:speed_tier2, Speed Upgrade II
-teslacorelib:battery:0, Tesla Battery
-teslacorelib:battery:0, Tesla Battery
-teslacorelib:wrench, Tesla Wrench
-teslathingies:dung_block, Dung Block
-teslathingies:dung_bricks, Dung Bricks
-teslathingies:tf-liquidxp_block, Liquid XP
-teslathingies:tf-molten_tesla_block, Molten Tesla
-teslathingies:tf-sewage_block, Sewage
-teslathingies:animal_age_filter_adult, Animal Filter (adults)
-teslathingies:animal_age_filter_baby, Animal Filter (baby)
-teslathingies:animal_filter, Animal Filter
-teslathingies:animal_package, Animal Package
-teslathingies:ash, Ash
-teslathingies:liquidxp_collector, XP Orb Collector Addon
-teslathingies:addon_range_tier1, Range Addon I
-teslathingies:addon_range_tier2, Range Addon II
-teslathingies:tesla_plant_seeds, Tesla Plant Seeds (WIP)
-teslathingies:teslified_obsidian, Teslified Obsidian
-teslathingies:void_storage_addon, Void Storage Addon
-teslathingies:xp_tank_addon, Player XP Addon
-teslathingies:animal_farm, Animal Farm
-teslathingies:animal_gym, Animal Gym
-teslathingies:animal_releaser, Animal Releaser
-teslathingies:compound_maker, Compound Maker
-teslathingies:crop_cloner, Crop Cloner
-teslathingies:crop_farm, Crop Farm
-teslathingies:electric_butcher, Electric Butcher
-teslathingies:fluid_burner, Fluid Burner
-teslathingies:fluid_solidifier, Fluid Solidifier
-teslathingies:incinerator, Incinerator
-teslathingies:fluid_compound_producer, Fluid Compound Producer
-teslathingies:item_compound_producer, Item Compound Producer
-teslathingies:item_liquefier, Item Liquefier
-teslathingies:liquidxp_storage, Liquid XP Storage
-teslathingies:misc_farmer, Farmer Machine
-teslathingies:multi_tank, Multi Tank (WIP)
-teslathingies:simple_tank, Simple Tank (WIP)
-teslathingies:powder_maker, Powder Maker
-teslathingies:powered_kiln, Powered Kiln
-teslathingies:pump, Powered Pump
-teslathingies:sewer, Sewer
-teslathingies:tree_farm, Tree Farm
-teslathingies:augmented_gold, Augmented Gold Lump
-teslathingies:augmented_iron, Augmented Iron Lump
-teslathingies:augmented_lapis, Augmented Lapis Lump
-teslathingies:augmented_diamond, Augmented Diamond Lump
-teslathingies:augmented_redstone, Augmented Redstone Lump
-teslathingies:augmented_emerald, Augmented Emerald Lump
-teslathingies:augmented_coal, Augmented Coal Lump
-teslathingies:augmented_copper, Augmented Copper Lump
-teslathingies:augmented_tin, Augmented Tin Lump
-teslathingies:augmented_titanium, Augmented Titanium Lump
-teslathingies:augmented_aluminum, Augmented Aluminium Lump
-teslathingies:augmented_mercury, Augmented Mercury Lump
-teslathingies:augmented_uranium, Augmented Uranium Lump
-teslathingies:augmented_nickel, Augmented Nickel Lump
-teslathingies:augmented_magnesium, Augmented Magnesium Lump
-teslathingies:augmented_zinc, Augmented Zinc Lump
-teslathingies:augmented_tungsten, Augmented Tungsten Lump
-teslathingies:augmented_platinum, Augmented Platinum Lump
-teslathingies:lump_gold, Teslified Gold Lump
-teslathingies:lump_iron, Teslified Iron Lump
-teslathingies:lump_lapis, Teslified Lapis Lump
-teslathingies:lump_diamond, Teslified Diamond Lump
-teslathingies:lump_redstone, Teslified Redstone Lump
-teslathingies:lump_emerald, Teslified Emerald Lump
-teslathingies:lump_coal, Teslified Coal Lump
-teslathingies:lump_copper, Teslified Copper Lump
-teslathingies:lump_tin, Teslified Tin Lump
-teslathingies:lump_titanium, Teslified Titanium Lump
-teslathingies:lump_aluminum, Teslified Aluminium Lump
-teslathingies:lump_mercury, Teslified Mercury Lump
-teslathingies:lump_uranium, Teslified Uranium Lump
-teslathingies:lump_nickel, Teslified Nickel Lump
-teslathingies:lump_magnesium, Teslified Magnesium Lump
-teslathingies:lump_zinc, Teslified Zinc Lump
-teslathingies:lump_tungsten, Teslified Tungsten Lump
-teslathingies:lump_platinum, Teslified Platinum Lump
+planetprogression:telescope, Telescope
+planetprogression:telescope_fake_block, tile.telescope_fake_block.name
+planetprogression:satellite_builder, Satellite Builder
+planetprogression:satellite_controller, Satellite Controller
+planetprogression:item_satellite_rocket:1, Satellite Rocket
+planetprogression:satellite_module_basic, Basic Satellite Module
+planetprogression:satellite_basic, Basic Satellite
+planetprogression:research_paper_0, Research Paper
+planetprogression:research_paper_1, Research Paper
+planetprogression:research_paper_2, Research Paper
+planetprogression:research_paper_3, Research Paper
+planetprogression:research_paper_4, Research Paper
+planetprogression:research_paper_5, Research Paper
+planetprogression:research_paper_6, Research Paper
+planetprogression:research_paper_7, Research Paper
+planetprogression:research_paper_8, Research Paper
+planetprogression:research_paper_9, Research Paper
+planetprogression:research_paper_10, Research Paper
+planetprogression:research_paper_11, Research Paper
+planetprogression:research_paper_12, Research Paper
+planetprogression:research_paper_13, Research Paper
+planetprogression:research_paper_14, Research Paper
+planetprogression:research_paper_15, Research Paper
+planetprogression:research_paper_16, Research Paper
+planetprogression:research_paper_17, Research Paper
+planetprogression:research_paper_18, Research Paper
+planetprogression:research_paper_19, Research Paper
+planetprogression:research_paper_20, Research Paper
+planetprogression:research_paper_21, Research Paper
+planetprogression:research_paper_22, Research Paper
+planetprogression:research_paper_23, Research Paper
+planetprogression:research_paper_24, Research Paper
+planetprogression:research_paper_25, Research Paper
+planetprogression:research_paper_26, Research Paper
+planetprogression:research_paper_27, Research Paper
+planetprogression:research_paper_28, Research Paper
+planetprogression:research_paper_29, Research Paper
+planetprogression:research_paper_30, Research Paper
+planetprogression:research_paper_31, Research Paper
+planetprogression:research_paper_32, Research Paper
+planetprogression:research_paper_33, Research Paper
+planetprogression:research_paper_34, Research Paper
+planetprogression:research_paper_35, Research Paper
+planetprogression:research_paper_36, Research Paper
+planetprogression:research_paper_37, Research Paper
+planetprogression:research_paper_38, Research Paper
+planetprogression:research_paper_39, Research Paper
+planetprogression:research_paper_40, Research Paper
+planetprogression:research_paper_41, Research Paper
+planetprogression:research_paper_42, Research Paper
+planetprogression:research_paper_43, Research Paper
+planetprogression:research_paper_44, Research Paper
+planetprogression:research_paper_45, Research Paper
+planetprogression:research_paper_46, Research Paper
+planetprogression:research_paper_47, Research Paper
+planetprogression:research_paper_48, Research Paper
+planetprogression:research_paper_49, Research Paper
+planetprogression:research_paper_50, Research Paper
+planetprogression:research_paper_51, Research Paper
+planetprogression:research_paper_52, Research Paper
+planetprogression:research_paper_53, Research Paper
+planetprogression:research_paper_54, Research Paper
+planetprogression:research_paper_55, Research Paper
+planetprogression:research_paper_56, Research Paper
+planetprogression:research_paper_57, Research Paper
+planetprogression:research_paper_58, Research Paper
+planetprogression:research_paper_59, Research Paper
+planetprogression:research_paper_60, Research Paper
 scannable:scanner, Scanner
 scannable:module_blank, Blank Scanner Module
 scannable:module_range, Scanner Module: Range
@@ -5517,6 +5258,78 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
+vehicle:small_engine:0, Small Engine
+vehicle:small_engine:1, Small Engine
+vehicle:small_engine:2, Small Engine
+vehicle:small_engine:3, Small Engine
+vehicle:small_engine:4, Small Engine
+vehicle:large_engine:0, Large Engine
+vehicle:large_engine:1, Large Engine
+vehicle:large_engine:2, Large Engine
+vehicle:large_engine:3, Large Engine
+vehicle:large_engine:4, Large Engine
+vehicle:electric_engine:0, Electric Engine
+vehicle:electric_engine:1, Electric Engine
+vehicle:electric_engine:2, Electric Engine
+vehicle:electric_engine:3, Electric Engine
+vehicle:electric_engine:4, Electric Engine
+vehicle:panel, Panel
+vehicle:wheel, Wheel
+vehicle:atv_body, item.atv_body.name
+vehicle:handle_bar, Handle Bars
+vehicle:dune_buggy_body, item.dune_buggy_body.name
+vehicle:dune_buggy_handle_bar, item.dune_buggy_handle_bar.name
+vehicle:dune_buggy_wheel, item.dune_buggy_wheel.name
+vehicle:go_kart_body, item.go_kart_body.name
+vehicle:go_kart_steering_wheel, Steering Wheel
+vehicle:shopping_cart_body, item.shopping_cart_body.name
+vehicle:mini_bike_body, item.mini_bike_body.name
+vehicle:mini_bike_handle_bar, item.mini_bike_handle_bar.name
+vehicle:bumper_car_body, item.bumper_car_body.name
+vehicle:jet_ski_body, item.jet_ski_body.name
+vehicle:speed_boat_body, item.speed_boat_body.name
+vehicle:aluminum_boat_body, item.aluminum_boat_body.name
+vehicle:smart_car_body, item.smart_car_body.name
+vehicle:lawn_mower_body, item.lawn_mower_body.name
+vehicle:moped_body, item.moped_body.name
+vehicle:moped_mud_guard, item.moped_mud_guard.name
+vehicle:moped_handle_bar, item.moped_handle_bar.name
+vehicle:sports_plane_body, item.sports_plane_body.name
+vehicle:sports_plane_wing, item.sports_plane_wing.name
+vehicle:sports_plane_wheel_cover, item.sports_plane_wheel_cover.name
+vehicle:sports_plane_leg, item.sports_plane_leg.name
+vehicle:sports_plane_propeller, item.sports_plane_propeller.name
+vehicle:golf_cart_body, item.golf_cart_body.name
+vehicle:off_roader_body, item.off_roader_body.name
+vehicle:trailer_body, item.trailer_body.name
+vehicle:tow_bar, Tow Bar
+vehicle:spray_can:0, Spray Can
+vehicle:jerry_can, Jerry Can
+vehicle:industrial_jerry_can, Industrial Jerry Can
+vehicle:fuel_port_closed, item.fuel_port_closed.name
+vehicle:fuel_port_body, item.fuel_port_body.name
+vehicle:fuel_port_lid, item.fuel_port_lid.name
+vehicle:fuel_port_2_closed, item.fuel_port_2_closed.name
+vehicle:fuel_port_2_pipe, item.fuel_port_2_pipe.name
+vehicle:wrench, Wrench
+vehicle:key, Key
+vehicle:key_hole, item.key_hole.name
+vehicle:models, item.models.name
+vehicle:couch_helicopter_arm, item.couch_helicopter_arm.name
+vehicle:couch_helicopter_skid, item.couch_helicopter_skid.name
+vehicle:traffic_cone, Traffic Cone
+vehicle:boost_pad, Boost Pad
+vehicle:boost_ramp, Boost Ramp
+vehicle:steep_boost_ramp, Steep Boost Ramp
+vehicle:gas_pump, Gas Pump
+vehicle:fluid_extractor, Fluid Extractor
+vehicle:fluid_mixer, Fluid Mixer
+vehicle:fluid_pipe, Fluid Pipe
+vehicle:fluid_pump, Fluid Pump
+vehicle:fuel_drum, Fuel Drum
+vehicle:industrial_fuel_drum, Industrial Fuel Drum
+vehicle:workstation, Workstation
+vehicle:vehicle_crate, Vehicle Crate
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -6074,15 +5887,82 @@ teslacorelib:gear_diamond, Diamond Gear
 teslacorelib:gear_gold, Gold Gear
 teslacorelib:gear_iron, Iron Gear
 teslacorelib:gear_stone, Stone Gear
-teslacorelib:powder_diamond, Diamond Powder
 teslacorelib:powder_emerald, Emerald Powder
-teslacorelib:powder_mercury, Mercury Powder
-teslacorelib:powder_uranium, Uranium Powder
-teslacorelib:powder_nickel, Nickel Powder
-teslacorelib:powder_magnesium, Magnesium Powder
-teslacorelib:powder_zinc, Zinc Powder
-teslacorelib:powder_tungsten, Tungsten Powder
-teslacorelib:powder_platinum, Platinum Powder
+agricraft:seed_analyzer, Seed Analyzer
+agricraft:peripheral, Computer Controlled Seed Analyzer
+agricraft:sprinkler, Sprinkler
+agricraft:crop_sticks, Crop Sticks
+agricraft:journal, Agricultural Journal
+agricraft:trowel, Gardening Trowel
+agricraft:debugger, Debugger
+agricraft:rake:0, Wooden Hand Rake
+agricraft:rake:1, Iron Hand Rake
+agricraft:clipper, Clipper
+agricraft:clipping, Clipping
+agricraft:agri_nugget:0, Emerald Nugget
+agricraft:agri_nugget:1, Diamond Nugget
+agricraft:agri_nugget:2, Quartz Shard
+agricraft:agri_nugget:3, Iron Nugget
+agricraft:agri_nugget:4, Copper Nugget
+agricraft:agri_nugget:5, Tin Nugget
+agricraft:agri_nugget:6, Lead Nugget
+agricraft:agri_nugget:7, Silver Nugget
+agricraft:agri_nugget:8, Aluminum Nugget
+agricraft:agri_nugget:9, Nickel Nugget
+agricraft:agri_nugget:10, Platinum Nugget
+agricraft:agri_nugget:11, Osmium Nugget
+agricraft:agri_nugget:12, Unknown Fragment
+agricraft:magnifying_glass, Magnifying Glass
+quark:glowstone_dust_block, tile.glowstone_dust_block.name
+quark:gunpowder_block, tile.gunpowder_block.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:witch_hat, item.witch_hat.name
 quark:pirate_hat, item.pirate_hat.name
 quark:marble:0, Marble
 quark:marble:1, Polished Marble
@@ -6227,40 +6107,7 @@ quark:birch_button, tile.birch_button.name
 quark:jungle_button, tile.jungle_button.name
 quark:acacia_button, tile.acacia_button.name
 quark:dark_oak_button, tile.dark_oak_button.name
-quark:charcoal_block, tile.charcoal_block.name
 quark:glass_item_frame, item.glass_item_frame.name
-quark:glowstone_dust_block, tile.glowstone_dust_block.name
-quark:gunpowder_block, tile.gunpowder_block.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
 quark:chute, tile.chute.name
 quark:sugar_block, tile.sugar_block.name
 quark:redstone_randomizer, tile.redstone_randomizer.name
@@ -6270,30 +6117,19 @@ quark:ender_watcher, tile.ender_watcher.name
 quark:iron_rod, tile.iron_rod.name
 quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
 quark:rain_detector, tile.rain_detector.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:witch_hat, item.witch_hat.name
 heartdrops:heart, item.heart.name
 heartdrops:golden_heart, item.golden_heart.name
 betterbuilderswands:wandstone, Stone Wand
 betterbuilderswands:wandiron, Iron Wand
 betterbuilderswands:wanddiamond, Diamond Wand
 betterbuilderswands:wandunbreakable, Unbreakable Wand
+theoneprobe:probe, The One Probe
+theoneprobe:creativeprobe, The Creative Probe
+theoneprobe:probenote, The One Probe Read Me
+theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
+theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
+theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
+theoneprobe:probe_goggles, The One Probe (Bauble)
 davincisvessels:securedbed, Secured Bed
 davincisvessels:marker, Ship's Helm
 davincisvessels:floater, Floater
@@ -6321,676 +6157,164 @@ davincisvessels:stickybuffer, Sticky Buffer
 davincisvessels:engine, Steam Engine
 davincisvessels:crate_wood, Wooden Crate
 davincisvessels:anchorpoint, Anchor Point
-valkyrielib:guide, Digital Guide
-valkyrielib:modifier_component, Modifier Component
-valkyrielib:modifier_speed, Speed Modifier
-environmentaltech:litherite, Litherite
-environmentaltech:litherite_paver, Litherite Paver
-environmentaltech:litherite_bricks, Litherite Bricks
-environmentaltech:litherite_tiles, Litherite Tiles
-environmentaltech:litherite_stairs, Litherite Stairs
-environmentaltech:litherite_brick_stairs, Litherite Brick Stairs
-environmentaltech:litherite_tile_stairs, Litherite Tile Stairs
-environmentaltech:litherite_slab:0, Litherite Slab
-environmentaltech:litherite_paver_slab:0, Litherite Paver Slab
-environmentaltech:litherite_brick_slab:0, Litherite Brick Slab
-environmentaltech:litherite_tile_slab:0, Litherite Tile Slab
-environmentaltech:erodium, Erodium
-environmentaltech:erodium_paver, Erodium Paver
-environmentaltech:erodium_bricks, Erodium Bricks
-environmentaltech:erodium_tiles, Erodium Tiles
-environmentaltech:erodium_stairs, Erodium Stairs
-environmentaltech:erodium_brick_stairs, Erodium Brick Stairs
-environmentaltech:erodium_tile_stairs, Erodium Tile Stairs
-environmentaltech:erodium_slab:0, Erodium Slab
-environmentaltech:erodium_paver_slab:0, Erodium Paver Slab
-environmentaltech:erodium_brick_slab:0, Erodium Brick Slab
-environmentaltech:erodium_tile_slab:0, Erodium Tile Slab
-environmentaltech:kyronite, Kyronite
-environmentaltech:kyronite_paver, Kyronite Paver
-environmentaltech:kyronite_bricks, Kyronite Bricks
-environmentaltech:kyronite_tiles, Kyronite Tiles
-environmentaltech:kyronite_stairs, Kyronite Stairs
-environmentaltech:kyronite_brick_stairs, Kyronite Brick Stairs
-environmentaltech:kyronite_tile_stairs, Kyronite Tile Stairs
-environmentaltech:kyronite_slab:0, Kyronite Slab
-environmentaltech:kyronite_paver_slab:0, Kyronite Paver Slab
-environmentaltech:kyronite_brick_slab:0, Kyronite Brick Slab
-environmentaltech:kyronite_tile_slab:0, Kyronite Tile Slab
-environmentaltech:pladium, Pladium
-environmentaltech:pladium_paver, Pladium Paver
-environmentaltech:pladium_bricks, Pladium Bricks
-environmentaltech:pladium_tiles, Pladium Tiles
-environmentaltech:pladium_stairs, Pladium Stairs
-environmentaltech:pladium_brick_stairs, Pladium Brick Stairs
-environmentaltech:pladium_tile_stairs, Pladium Tile Stairs
-environmentaltech:pladium_slab:0, Pladium Slab
-environmentaltech:pladium_paver_slab:0, Pladium Paver Slab
-environmentaltech:pladium_brick_slab:0, Pladium Brick Slab
-environmentaltech:pladium_tile_slab:0, Pladium Tile Slab
-environmentaltech:ionite, Ionite
-environmentaltech:ionite_paver, Ionite Paver
-environmentaltech:ionite_bricks, Ionite Bricks
-environmentaltech:ionite_tiles, Ionite Tiles
-environmentaltech:ionite_stairs, Ionite Stairs
-environmentaltech:ionite_brick_stairs, Ionite Brick Stairs
-environmentaltech:ionite_tile_stairs, Ionite Tile Stairs
-environmentaltech:ionite_slab:0, Ionite Slab
-environmentaltech:ionite_paver_slab:0, Ionite Paver Slab
-environmentaltech:ionite_brick_slab:0, Ionite Brick Slab
-environmentaltech:ionite_tile_slab:0, Ionite Tile Slab
-environmentaltech:aethium, Aethium
-environmentaltech:aethium_paver, Aethium Paver
-environmentaltech:aethium_bricks, Aethium Bricks
-environmentaltech:aethium_tiles, Aethium Tiles
-environmentaltech:aethium_stairs, Aethium Stairs
-environmentaltech:aethium_brick_stairs, Aethium Brick Stairs
-environmentaltech:aethium_tile_stairs, Aethium Tile Stairs
-environmentaltech:aethium_slab:0, Aethium Slab
-environmentaltech:aethium_paver_slab:0, Aethium Paver Slab
-environmentaltech:aethium_brick_slab:0, Aethium Brick Slab
-environmentaltech:aethium_tile_slab:0, Aethium Tile Slab
-environmentaltech:lonsdaleite, Lonsdaleite
-environmentaltech:lonsdaleite_paver, Lonsdaleite Paver
-environmentaltech:lonsdaleite_bricks, Lonsdaleite Bricks
-environmentaltech:lonsdaleite_tiles, Lonsdaleite Tiles
-environmentaltech:lonsdaleite_stairs, Lonsdaleite Stairs
-environmentaltech:lonsdaleite_brick_stairs, Lonsdaleite Brick Stairs
-environmentaltech:lonsdaleite_tile_stairs, Lonsdaleite Tile Stairs
-environmentaltech:lonsdaleite_slab:0, Lonsdaleite Slab
-environmentaltech:lonsdaleite_paver_slab:0, Lonsdaleite Paver Slab
-environmentaltech:lonsdaleite_brick_slab:0, Lonsdaleite Brick Slab
-environmentaltech:lonsdaleite_tile_slab:0, Lonsdaleite Tile Slab
-environmentaltech:mica, Mica
-environmentaltech:litherite_crystal, Litherite Crystal
-environmentaltech:erodium_crystal, Erodium Crystal
-environmentaltech:kyronite_crystal, Kyronite Crystal
-environmentaltech:pladium_crystal, Pladium Crystal
-environmentaltech:ionite_crystal, Ionite Crystal
-environmentaltech:aethium_crystal, Aethium Crystal
-environmentaltech:lonsdaleite_crystal, Lonsdaleite Crystal
-environmentaltech:interconnect, Interconnect
-environmentaltech:tool_multiblock_assembler, Assembler
-environmentaltech:connector, Connector
-environmentaltech:modifier_null, Null Modifier
-environmentaltech:modifier_speed, Speed Modifier
-environmentaltech:structure_frame_1, Structure Frame Tier 1
-environmentaltech:structure_frame_2, Structure Frame Tier 2
-environmentaltech:structure_frame_3, Structure Frame Tier 3
-environmentaltech:structure_frame_4, Structure Frame Tier 4
-environmentaltech:structure_frame_5, Structure Frame Tier 5
-environmentaltech:structure_frame_6, Structure Frame Tier 6
-environmentaltech:structure_panel, Structure Panel
-environmentaltech:structure_panel_clear, Clear Structure Panel
-environmentaltech:lightning_rod, Lightning Rod
-environmentaltech:lightning_rod_insulated, Insulated Lightning Rod
-environmentaltech:lightning_cont_1, Lightning Controller Tier 1
-environmentaltech:lightning_cont_2, Lightning Controller Tier 2
-environmentaltech:lightning_cont_3, Lightning Controller Tier 3
-environmentaltech:lightning_cont_4, Lightning Controller Tier 4
-environmentaltech:lightning_cont_5, Lightning Controller Tier 5
-environmentaltech:lightning_cont_6, Lightning Controller Tier 6
-environmentaltech:solar_cont_1, Solar Array Controller Tier 1
-environmentaltech:solar_cont_2, Solar Array Controller Tier 2
-environmentaltech:solar_cont_3, Solar Array Controller Tier 3
-environmentaltech:solar_cont_4, Solar Array Controller Tier 4
-environmentaltech:solar_cont_5, Solar Array Controller Tier 5
-environmentaltech:solar_cont_6, Solar Array Controller Tier 6
-environmentaltech:solar_cell_litherite, Litherite Solar Cell
-environmentaltech:solar_cell_erodium, Erodium Solar Cell
-environmentaltech:solar_cell_kyronite, Kyronite Solar Cell
-environmentaltech:solar_cell_pladium, Pladium Solar Cell
-environmentaltech:solar_cell_ionite, Ionite Solar Cell
-environmentaltech:solar_cell_aethium, Aethium Solar Cell
-environmentaltech:modifier_piezo, Piezo Modifier
-environmentaltech:photovoltaic_cell, Photovoltaic Cell
-environmentaltech:thermal_cell, Thermal Cell
-environmentaltech:laser_core, Laser Core
-environmentaltech:laser_lens, Clear Laser Lens
-environmentaltech:laser_lens_crystal, Crystal Laser Lens
-environmentaltech:laser_lens_colored:0, White Laser Lens
-environmentaltech:laser_lens_colored:1, Orange Laser Lens
-environmentaltech:laser_lens_colored:2, Magenta Laser Lens
-environmentaltech:laser_lens_colored:3, Light Blue Laser Lens
-environmentaltech:laser_lens_colored:4, Yellow Laser Lens
-environmentaltech:laser_lens_colored:5, Lime Laser Lens
-environmentaltech:laser_lens_colored:6, Pink Laser Lens
-environmentaltech:laser_lens_colored:7, Gray Laser Lens
-environmentaltech:laser_lens_colored:8, Light Gray Laser Lens
-environmentaltech:laser_lens_colored:9, Cyan Laser Lens
-environmentaltech:laser_lens_colored:10, Purple Laser Lens
-environmentaltech:laser_lens_colored:11, Blue Laser Lens
-environmentaltech:laser_lens_colored:12, Brown Laser Lens
-environmentaltech:laser_lens_colored:13, Green Laser Lens
-environmentaltech:laser_lens_colored:14, Red Laser Lens
-environmentaltech:laser_lens_colored:15, Black Laser Lens
-environmentaltech:modifier_accuracy, Accuracy Modifier
-environmentaltech:diode, Diode
-environmentaltech:void_ore_miner_cont_1, Void Ore Miner Controller Tier 1
-environmentaltech:void_ore_miner_cont_2, Void Ore Miner Controller Tier 2
-environmentaltech:void_ore_miner_cont_3, Void Ore Miner Controller Tier 3
-environmentaltech:void_ore_miner_cont_4, Void Ore Miner Controller Tier 4
-environmentaltech:void_ore_miner_cont_5, Void Ore Miner Controller Tier 5
-environmentaltech:void_ore_miner_cont_6, Void Ore Miner Controller Tier 6
-environmentaltech:void_res_miner_cont_1, Void Resource Miner Controller Tier 1
-environmentaltech:void_res_miner_cont_2, Void Resource Miner Controller Tier 2
-environmentaltech:void_res_miner_cont_3, Void Resource Miner Controller Tier 3
-environmentaltech:void_res_miner_cont_4, Void Resource Miner Controller Tier 4
-environmentaltech:void_res_miner_cont_5, Void Resource Miner Controller Tier 5
-environmentaltech:void_res_miner_cont_6, Void Resource Miner Controller Tier 6
-environmentaltech:void_botanic_miner_cont_1, Void Botanic Miner Controller Tier 1
-environmentaltech:void_botanic_miner_cont_2, Void Botanic Miner Controller Tier 2
-environmentaltech:void_botanic_miner_cont_3, Void Botanic Miner Controller Tier 3
-environmentaltech:void_botanic_miner_cont_4, Void Botanic Miner Controller Tier 4
-environmentaltech:void_botanic_miner_cont_5, Void Botanic Miner Controller Tier 5
-environmentaltech:void_botanic_miner_cont_6, Void Botanic Miner Controller Tier 6
-environmentaltech:modifier_creative_flight, Creative Flight Modifier
-environmentaltech:modifier_flight_speed, Flight Speed Modifier
-environmentaltech:modifier_haste, Haste Modifier
-environmentaltech:modifier_strength, Strength Modifier
-environmentaltech:modifier_jump_boost, Jump Boost Modifier
-environmentaltech:modifier_regeneration, Regen Modifier
-environmentaltech:modifier_resistance, Resistance Modifier
-environmentaltech:modifier_fire_resistance, Fire Resistance Modifier
-environmentaltech:modifier_water_breathing, Water Breathing Modifier
-environmentaltech:modifier_invisibility, Invisibility Modifier
-environmentaltech:modifier_night_vision, Night Vision Modifier
-environmentaltech:modifier_health_boost, Health Boost Modifier
-environmentaltech:modifier_absorption, Absoption Modifier
-environmentaltech:modifier_saturation, Saturation Modifier
-environmentaltech:modifier_glowing, Glowing Modifier
-environmentaltech:modifier_luck, Luck Modifier
-environmentaltech:nano_cont_ranged_1, Ranged Nano Bot Beacon Tier 1
-environmentaltech:nano_cont_ranged_2, Ranged Nano Bot Beacon Tier 2
-environmentaltech:nano_cont_ranged_3, Ranged Nano Bot Beacon Tier 3
-environmentaltech:nano_cont_ranged_4, Ranged Nano Bot Beacon Tier 4
-environmentaltech:nano_cont_ranged_5, Ranged Nano Bot Beacon Tier 5
-environmentaltech:nano_cont_ranged_6, Ranged Nano Bot Beacon Tier 6
-environmentaltech:nano_cont_personal_1, Personal Nano Bot Beacon Tier 1
-environmentaltech:nano_cont_personal_2, Personal Nano Bot Beacon Tier 2
-environmentaltech:nano_cont_personal_3, Personal Nano Bot Beacon Tier 3
-environmentaltech:nano_cont_personal_4, Personal Nano Bot Beacon Tier 4
-environmentaltech:nano_cont_personal_5, Personal Nano Bot Beacon Tier 5
-environmentaltech:nano_cont_personal_6, Personal Nano Bot Beacon Tier 6
-mysticalagriculture:storage:0, §eBlock of Inferium Essence
-mysticalagriculture:storage:1, §aBlock of Prudentium Essence
-mysticalagriculture:storage:2, §6Block of Intermedium Essence
-mysticalagriculture:storage:3, §bBlock of Superium Essence
-mysticalagriculture:storage:4, §cBlock of Supremium Essence
-mysticalagriculture:storage:5, Block of Prosperity
-mysticalagriculture:ingot_storage:0, Block of Base Essence
-mysticalagriculture:ingot_storage:1, §eBlock of Inferium
-mysticalagriculture:ingot_storage:2, §aBlock of Prudentium
-mysticalagriculture:ingot_storage:3, §6Block of Intermedium
-mysticalagriculture:ingot_storage:4, §bBlock of Superium
-mysticalagriculture:ingot_storage:5, §cBlock of Supremium
-mysticalagriculture:ingot_storage:6, §dBlock of Soulium
-mysticalagriculture:coal_block:0, §eBlock of Inferium Coal
-mysticalagriculture:coal_block:1, §aBlock of Prudentium Coal
-mysticalagriculture:coal_block:2, §6Block of Intermedium Coal
-mysticalagriculture:coal_block:3, §bBlock of Superium Coal
-mysticalagriculture:coal_block:4, §cBlock of Supremium Coal
-mysticalagriculture:soulstone:0, Soulstone
-mysticalagriculture:soulstone:1, Cobbled Soulstone
-mysticalagriculture:soulstone:2, Polished Soulstone
-mysticalagriculture:soulstone:3, Soulstone Bricks
-mysticalagriculture:soulstone:4, Cracked Soulstone Bricks
-mysticalagriculture:soulstone:5, Chiseled Soulstone
-mysticalagriculture:soulstone:6, Soulstone Slab Block
-mysticalagriculture:soulstone_slab:0, Soulstone Slab
-mysticalagriculture:cobbled_soulstone_slab:0, Cobbled Soulstone Slab
-mysticalagriculture:soulstone_brick_slab:0, Soulstone Brick Slab
-mysticalagriculture:cobbled_soulstone_stairs, Cobbled Soulstone Stairs
-mysticalagriculture:soulstone_brick_stairs, Soulstone Brick Stairs
-mysticalagriculture:cobbled_soulstone_wall, Cobbled Soulstone Wall
-mysticalagriculture:soulstone_brick_wall, Soulstone Brick Wall
-mysticalagriculture:soul_glass, Soul Glass
-mysticalagriculture:soul_glass_pane, Soul Glass Pane
-mysticalagriculture:inferium_furnace, §eInferium Furnace
-mysticalagriculture:prudentium_furnace, §aPrudentium Furnace
-mysticalagriculture:intermedium_furnace, §6Intermedium Furnace
-mysticalagriculture:superium_furnace, §bSuperium Furnace
-mysticalagriculture:supremium_furnace, §cSupremium Furnace
-mysticalagriculture:ultimate_furnace, §8Ultimate Furnace
-mysticalagriculture:prosperity_ore, Prosperity Ore
-mysticalagriculture:nether_prosperity_ore, Nether Prosperity Ore
-mysticalagriculture:end_prosperity_ore, End Prosperity Ore
-mysticalagriculture:inferium_ore, §eInferium Ore
-mysticalagriculture:nether_inferium_ore, §eNether Inferium Ore
-mysticalagriculture:end_inferium_ore, §eEnd Inferium Ore
-mysticalagriculture:growth_accelerator, §eGrowth Accelerator
-mysticalagriculture:mystical_machine_frame, Mystical Machine Frame
-mysticalagriculture:glowstone_lamp, Glowstone Lamp
-mysticalagriculture:seed_reprocessor, Seed Reprocessor
-mysticalagriculture:witherproof_block, Witherproof Block
-mysticalagriculture:witherproof_glass, Witherproof Glass
-mysticalagriculture:tinkering_table:0, Tinkering Table
-mysticalagriculture:tinkering_table:1, Tinkering Table
-mysticalagriculture:tinkering_table:2, Tinkering Table
-mysticalagriculture:tinkering_table:3, Tinkering Table
-mysticalagriculture:tinkering_table:4, Tinkering Table
-mysticalagriculture:tier1_inferium_crop, Tier 1 Inferium Crop
-mysticalagriculture:tier2_inferium_crop, Tier 2 Inferium Crop
-mysticalagriculture:tier3_inferium_crop, Tier 3 Inferium Crop
-mysticalagriculture:tier4_inferium_crop, Tier 4 Inferium Crop
-mysticalagriculture:tier5_inferium_crop, Tier 5 Inferium Crop
-mysticalagriculture:stone_crop, Stone Crop
-mysticalagriculture:dirt_crop, Dirt Crop
-mysticalagriculture:nature_crop, Nature Crop
-mysticalagriculture:wood_crop, Wood Crop
-mysticalagriculture:water_crop, Water Crop
-mysticalagriculture:ice_crop, Ice Crop
-mysticalagriculture:fire_crop, Fire Crop
-mysticalagriculture:dye_crop, Dye Crop
-mysticalagriculture:nether_crop, Nether Crop
-mysticalagriculture:coal_crop, Coal Crop
-mysticalagriculture:iron_crop, Iron Crop
-mysticalagriculture:nether_quartz_crop, Nether Quartz Crop
-mysticalagriculture:glowstone_crop, Glowstone Crop
-mysticalagriculture:redstone_crop, Redstone Crop
-mysticalagriculture:obsidian_crop, Obsidian Crop
-mysticalagriculture:gold_crop, Gold Crop
-mysticalagriculture:lapis_lazuli_crop, Lapis Lazuli Crop
-mysticalagriculture:end_crop, End Crop
-mysticalagriculture:experience_crop, Experience Crop
-mysticalagriculture:diamond_crop, Diamond Crop
-mysticalagriculture:emerald_crop, Emerald Crop
-mysticalagriculture:zombie_crop, Zombie Crop
-mysticalagriculture:pig_crop, Pig Crop
-mysticalagriculture:chicken_crop, Chicken Crop
-mysticalagriculture:cow_crop, Cow Crop
-mysticalagriculture:sheep_crop, Sheep Crop
-mysticalagriculture:slime_crop, Slime Crop
-mysticalagriculture:skeleton_crop, Skeleton Crop
-mysticalagriculture:creeper_crop, Creeper Crop
-mysticalagriculture:spider_crop, Spider Crop
-mysticalagriculture:rabbit_crop, Rabbit Crop
-mysticalagriculture:guardian_crop, Guardian Crop
-mysticalagriculture:blaze_crop, Blaze Crop
-mysticalagriculture:ghast_crop, Ghast Crop
-mysticalagriculture:enderman_crop, Enderman Crop
-mysticalagriculture:wither_skeleton_crop, Wither Skeleton Crop
-mysticalagriculture:silicon_crop, Silicon Crop
-mysticalagriculture:aluminum_crop, Aluminum Crop
-mysticalagriculture:tin_crop, Tin Crop
-mysticalagriculture:bronze_crop, Bronze Crop
-mysticalagriculture:lead_crop, Lead Crop
-mysticalagriculture:titanium_crop, Titanium Crop
-mysticalagriculture:grains_of_infinity_crop, Grains of Infinity Crop
-mysticalagriculture:electrical_steel_crop, Electrical Steel Crop
-mysticalagriculture:redstone_alloy_crop, Redstone Alloy Crop
-mysticalagriculture:conductive_iron_crop, Conductive Iron Crop
-mysticalagriculture:soularium_crop, Soularium Crop
-mysticalagriculture:dark_steel_crop, Dark Steel Crop
-mysticalagriculture:pulsating_iron_crop, Pulsating Iron Crop
-mysticalagriculture:energetic_alloy_crop, Energetic Alloy Crop
-mysticalagriculture:vibrant_alloy_crop, Vibrant Alloy Crop
-mysticalagriculture:end_steel_crop, End Steel Crop
-mysticalagriculture:marble_crop, Marble Crop
-mysticalagriculture:limestone_crop, Limestone Crop
-mysticalagriculture:basalt_crop, Basalt Crop
-mysticalagriculture:meteoric_iron_crop, Meteoric Iron Crop
-mysticalagriculture:desh_crop, Desh Crop
-mysticalagriculture:ender_biotite_crop, Ender Biotite Crop
-mysticalagriculture:sky_stone_crop, Sky Stone Crop
-mysticalagriculture:certus_quartz_crop, Certus Quartz Crop
-mysticalagriculture:fluix_crop, Fluix Crop
-mysticalagriculture:miners_torch, Miner's Torch
-mysticalagriculture:crafting:0, §eInferium Essence
-mysticalagriculture:crafting:1, §aPrudentium Essence
-mysticalagriculture:crafting:2, §6Intermedium Essence
-mysticalagriculture:crafting:3, §bSuperium Essence
-mysticalagriculture:crafting:4, §cSupremium Essence
-mysticalagriculture:crafting:5, Prosperity Shard
-mysticalagriculture:crafting:6, Nature Cluster
-mysticalagriculture:crafting:7, Dye Cluster
-mysticalagriculture:crafting:8, Nether Cluster
-mysticalagriculture:crafting:9, End Cluster
-mysticalagriculture:crafting:14, Blank Record
-mysticalagriculture:crafting:15, Blank Skull
-mysticalagriculture:crafting:16, Base Crafting Seed
-mysticalagriculture:crafting:17, Tier 1 Crafting Seed
-mysticalagriculture:crafting:18, Tier 2 Crafting Seed
-mysticalagriculture:crafting:19, Tier 3 Crafting Seed
-mysticalagriculture:crafting:20, Tier 4 Crafting Seed
-mysticalagriculture:crafting:21, Tier 5 Crafting Seed
-mysticalagriculture:crafting:22, Mystical Stick
-mysticalagriculture:crafting:23, Mystical String
-mysticalagriculture:crafting:24, Mystical Feather
-mysticalagriculture:crafting:28, Soul Dust
-mysticalagriculture:crafting:29, §dSoulium Dust
-mysticalagriculture:crafting:32, Base Essence Ingot
-mysticalagriculture:crafting:33, §eInferium Ingot
-mysticalagriculture:crafting:34, §aPrudentium Ingot
-mysticalagriculture:crafting:35, §6Intermedium Ingot
-mysticalagriculture:crafting:36, §bSuperium Ingot
-mysticalagriculture:crafting:37, §cSupremium Ingot
-mysticalagriculture:crafting:38, §dSoulium Ingot
-mysticalagriculture:crafting:39, Base Essence Nugget
-mysticalagriculture:crafting:40, §eInferium Nugget
-mysticalagriculture:crafting:41, §aPrudentium Nugget
-mysticalagriculture:crafting:42, §6Intermedium Nugget
-mysticalagriculture:crafting:43, §bSuperium Nugget
-mysticalagriculture:crafting:44, §cSupremium Nugget
-mysticalagriculture:crafting:45, §dSoulium Nugget
-mysticalagriculture:crafting:48, Theoretical Infinite Water Source
-mysticalagriculture:crafting:50, §eInferium Fertilization Core
-mysticalagriculture:crafting:51, §aPrudentium Fertilization Core
-mysticalagriculture:crafting:52, §6Intermedium Fertilization Core
-mysticalagriculture:crafting:53, §bSuperium Fertilization Core
-mysticalagriculture:crafting:54, §cSupremium Fertilization Core
-mysticalagriculture:infusion_crystal, Infusion Crystal
-mysticalagriculture:master_infusion_crystal, §cMaster Infusion Crystal
-mysticalagriculture:core_remover, §cCore Remover
-mysticalagriculture:fertilized_essence, §dFertilized Essence
-mysticalagriculture:mystical_fertilizer, §dMystical Fertilizer
-mysticalagriculture:inferium_apple, §eInferium Apple
-mysticalagriculture:prudentium_apple, §aPrudentium Apple
-mysticalagriculture:intermedium_apple, §6Intermedium Apple
-mysticalagriculture:superium_apple, §bSuperium Apple
-mysticalagriculture:supremium_apple, §cSupremium Apple
-mysticalagriculture:coal:0, §eInferium Coal
-mysticalagriculture:coal:1, §aPrudentium Coal
-mysticalagriculture:coal:2, §6Intermedium Coal
-mysticalagriculture:coal:3, §bSuperium Coal
-mysticalagriculture:coal:4, §cSupremium Coal
-mysticalagriculture:watering_can:0, §eInferium Watering Can
-mysticalagriculture:watering_can:1, §aPrudentium Watering Can
-mysticalagriculture:watering_can:2, §6Intermedium Watering Can
-mysticalagriculture:watering_can:3, §bSuperium Watering Can
-mysticalagriculture:watering_can:4, §cSupremium Watering Can
-mysticalagriculture:soulium_dagger, §dSoulium Dagger
-mysticalagriculture:xp_droplet, Experience Droplet
-mysticalagriculture:chunk:0, Tier 1 Mob Chunk
-mysticalagriculture:chunk:1, Tier 2 Mob Chunk
-mysticalagriculture:chunk:2, Tier 3 Mob Chunk
-mysticalagriculture:chunk:3, Tier 4 Mob Chunk
-mysticalagriculture:chunk:4, Tier 5 Mob Chunk
-mysticalagriculture:chunk:5, Experience Chunk
-mysticalagriculture:chunk:6, Zombie Chunk
-mysticalagriculture:chunk:7, Pig Chunk
-mysticalagriculture:chunk:8, Chicken Chunk
-mysticalagriculture:chunk:9, Cow Chunk
-mysticalagriculture:chunk:10, Sheep Chunk
-mysticalagriculture:chunk:11, Slime Chunk
-mysticalagriculture:chunk:12, Skeleton Chunk
-mysticalagriculture:chunk:13, Creeper Chunk
-mysticalagriculture:chunk:14, Spider Chunk
-mysticalagriculture:chunk:15, Rabbit Chunk
-mysticalagriculture:chunk:16, Guardian Chunk
-mysticalagriculture:chunk:17, Blaze Chunk
-mysticalagriculture:chunk:18, Ghast Chunk
-mysticalagriculture:chunk:19, Enderman Chunk
-mysticalagriculture:chunk:20, Wither Skeleton Chunk
-mysticalagriculture:stone_essence, Stone Essence
-mysticalagriculture:dirt_essence, Dirt Essence
-mysticalagriculture:nature_essence, Nature Essence
-mysticalagriculture:wood_essence, Wood Essence
-mysticalagriculture:water_essence, Water Essence
-mysticalagriculture:ice_essence, Ice Essence
-mysticalagriculture:fire_essence, Fire Essence
-mysticalagriculture:dye_essence, Dye Essence
-mysticalagriculture:nether_essence, Nether Essence
-mysticalagriculture:coal_essence, Coal Essence
-mysticalagriculture:iron_essence, Iron Essence
-mysticalagriculture:nether_quartz_essence, Nether Quartz Essence
-mysticalagriculture:glowstone_essence, Glowstone Essence
-mysticalagriculture:redstone_essence, Redstone Essence
-mysticalagriculture:obsidian_essence, Obsidian Essence
-mysticalagriculture:gold_essence, Gold Essence
-mysticalagriculture:lapis_lazuli_essence, Lapis Lazuli Essence
-mysticalagriculture:end_essence, End Essence
-mysticalagriculture:experience_essence, Experience Essence
-mysticalagriculture:diamond_essence, Diamond Essence
-mysticalagriculture:emerald_essence, Emerald Essence
-mysticalagriculture:zombie_essence, Zombie Essence
-mysticalagriculture:pig_essence, Pig Essence
-mysticalagriculture:chicken_essence, Chicken Essence
-mysticalagriculture:cow_essence, Cow Essence
-mysticalagriculture:sheep_essence, Sheep Essence
-mysticalagriculture:slime_essence, Slime Essence
-mysticalagriculture:skeleton_essence, Skeleton Essence
-mysticalagriculture:creeper_essence, Creeper Essence
-mysticalagriculture:spider_essence, Spider Essence
-mysticalagriculture:rabbit_essence, Rabbit Essence
-mysticalagriculture:guardian_essence, Guardian Essence
-mysticalagriculture:blaze_essence, Blaze Essence
-mysticalagriculture:ghast_essence, Ghast Essence
-mysticalagriculture:enderman_essence, Enderman Essence
-mysticalagriculture:wither_skeleton_essence, Wither Skeleton Essence
-mysticalagriculture:silicon_essence, Silicon Essence
-mysticalagriculture:aluminum_essence, Aluminum Essence
-mysticalagriculture:tin_essence, Tin Essence
-mysticalagriculture:bronze_essence, Bronze Essence
-mysticalagriculture:lead_essence, Lead Essence
-mysticalagriculture:titanium_essence, Titanium Essence
-mysticalagriculture:grains_of_infinity_essence, Grains of Infinity Essence
-mysticalagriculture:electrical_steel_essence, Electrical Steel Essence
-mysticalagriculture:redstone_alloy_essence, Redstone Alloy Essence
-mysticalagriculture:conductive_iron_essence, Conductive Iron Essence
-mysticalagriculture:soularium_essence, Soularium Essence
-mysticalagriculture:dark_steel_essence, Dark Steel Essence
-mysticalagriculture:pulsating_iron_essence, Pulsating Iron Essence
-mysticalagriculture:energetic_alloy_essence, Energetic Alloy Essence
-mysticalagriculture:vibrant_alloy_essence, Vibrant Alloy Essence
-mysticalagriculture:end_steel_essence, End Steel Essence
-mysticalagriculture:marble_essence, Marble Essence
-mysticalagriculture:limestone_essence, Limestone Essence
-mysticalagriculture:basalt_essence, Basalt Essence
-mysticalagriculture:meteoric_iron_essence, Meteoric Iron Essence
-mysticalagriculture:desh_essence, Desh Essence
-mysticalagriculture:ender_biotite_essence, Ender Biotite Essence
-mysticalagriculture:sky_stone_essence, Sky Stone Essence
-mysticalagriculture:certus_quartz_essence, Certus Quartz Essence
-mysticalagriculture:fluix_essence, Fluix Essence
-mysticalagriculture:tier1_inferium_seeds, Inferium Seeds
-mysticalagriculture:tier2_inferium_seeds, Inferium Seeds
-mysticalagriculture:tier3_inferium_seeds, Inferium Seeds
-mysticalagriculture:tier4_inferium_seeds, Inferium Seeds
-mysticalagriculture:tier5_inferium_seeds, Inferium Seeds
-mysticalagriculture:stone_seeds, Stone Seeds
-mysticalagriculture:dirt_seeds, Dirt Seeds
-mysticalagriculture:nature_seeds, Nature Seeds
-mysticalagriculture:wood_seeds, Wood Seeds
-mysticalagriculture:water_seeds, Water Seeds
-mysticalagriculture:ice_seeds, Ice Seeds
-mysticalagriculture:fire_seeds, Fire Seeds
-mysticalagriculture:dye_seeds, Dye Seeds
-mysticalagriculture:nether_seeds, Nether Seeds
-mysticalagriculture:coal_seeds, Coal Seeds
-mysticalagriculture:iron_seeds, Iron Seeds
-mysticalagriculture:nether_quartz_seeds, Nether Quartz Seeds
-mysticalagriculture:glowstone_seeds, Glowstone Seeds
-mysticalagriculture:redstone_seeds, Redstone Seeds
-mysticalagriculture:obsidian_seeds, Obsidian Seeds
-mysticalagriculture:gold_seeds, Gold Seeds
-mysticalagriculture:lapis_lazuli_seeds, Lapis Lazuli Seeds
-mysticalagriculture:end_seeds, End Seeds
-mysticalagriculture:experience_seeds, Experience Seeds
-mysticalagriculture:diamond_seeds, Diamond Seeds
-mysticalagriculture:emerald_seeds, Emerald Seeds
-mysticalagriculture:zombie_seeds, Zombie Seeds
-mysticalagriculture:pig_seeds, Pig Seeds
-mysticalagriculture:chicken_seeds, Chicken Seeds
-mysticalagriculture:cow_seeds, Cow Seeds
-mysticalagriculture:sheep_seeds, Sheep Seeds
-mysticalagriculture:slime_seeds, Slime Seeds
-mysticalagriculture:skeleton_seeds, Skeleton Seeds
-mysticalagriculture:creeper_seeds, Creeper Seeds
-mysticalagriculture:spider_seeds, Spider Seeds
-mysticalagriculture:rabbit_seeds, Rabbit Seeds
-mysticalagriculture:guardian_seeds, Guardian Seeds
-mysticalagriculture:blaze_seeds, Blaze Seeds
-mysticalagriculture:ghast_seeds, Ghast Seeds
-mysticalagriculture:enderman_seeds, Enderman Seeds
-mysticalagriculture:wither_skeleton_seeds, Wither Skeleton Seeds
-mysticalagriculture:silicon_seeds, Silicon Seeds
-mysticalagriculture:aluminum_seeds, Aluminum Seeds
-mysticalagriculture:tin_seeds, Tin Seeds
-mysticalagriculture:bronze_seeds, Bronze Seeds
-mysticalagriculture:lead_seeds, Lead Seeds
-mysticalagriculture:titanium_seeds, Titanium Seeds
-mysticalagriculture:grains_of_infinity_seeds, Grains of Infinity Seeds
-mysticalagriculture:electrical_steel_seeds, Electrical Steel Seeds
-mysticalagriculture:redstone_alloy_seeds, Redstone Alloy Seeds
-mysticalagriculture:conductive_iron_seeds, Conductive Iron Seeds
-mysticalagriculture:soularium_seeds, Soularium Seeds
-mysticalagriculture:dark_steel_seeds, Dark Steel Seeds
-mysticalagriculture:pulsating_iron_seeds, Pulsating Iron Seeds
-mysticalagriculture:energetic_alloy_seeds, Energetic Alloy Seeds
-mysticalagriculture:vibrant_alloy_seeds, Vibrant Alloy Seeds
-mysticalagriculture:end_steel_seeds, End Steel Seeds
-mysticalagriculture:marble_seeds, Marble Seeds
-mysticalagriculture:limestone_seeds, Limestone Seeds
-mysticalagriculture:basalt_seeds, Basalt Seeds
-mysticalagriculture:meteoric_iron_seeds, Meteoric Iron Seeds
-mysticalagriculture:desh_seeds, Desh Seeds
-mysticalagriculture:ender_biotite_seeds, Ender Biotite Seeds
-mysticalagriculture:sky_stone_seeds, Sky Stone Seeds
-mysticalagriculture:certus_quartz_seeds, Certus Quartz Seeds
-mysticalagriculture:fluix_seeds, Fluix Seeds
-mysticalagriculture:gear:0, §eInferium Tool Core
-mysticalagriculture:gear:1, §aPrudentium Tool Core
-mysticalagriculture:gear:2, §6Intermedium Tool Core
-mysticalagriculture:gear:3, §bSuperium Tool Core
-mysticalagriculture:gear:4, §cSupremium Tool Core
-mysticalagriculture:gear:5, §eInferium Armor Core
-mysticalagriculture:gear:6, §aPrudentium Armor Core
-mysticalagriculture:gear:7, §6Intermedium Armor Core
-mysticalagriculture:gear:8, §bSuperium Armor Core
-mysticalagriculture:gear:9, §cSupremium Armor Core
-mysticalagriculture:gear:15, §eInferium Arrow Head
-mysticalagriculture:gear:16, §aPrudentium Arrow Head
-mysticalagriculture:gear:17, §6Intermedium Arrow Head
-mysticalagriculture:gear:18, §bSuperium Arrow Head
-mysticalagriculture:gear:19, §cSupremium Arrow Head
-mysticalagriculture:charm:0, Blank Charm
-mysticalagriculture:charm:1, Charm: Night Vision
-mysticalagriculture:charm:2, Charm: Absorption
-mysticalagriculture:charm:3, Charm: Wither Resistance
-mysticalagriculture:charm:4, Charm: Antivenom
-mysticalagriculture:charm:5, Charm: Fire Resistance
-mysticalagriculture:charm:6, Charm: Resistance
-mysticalagriculture:charm:7, Charm: Strength
-mysticalagriculture:charm:8, Charm: Strength 2
-mysticalagriculture:charm:9, Charm: Speed
-mysticalagriculture:charm:10, Charm: Jump Boost
-mysticalagriculture:charm:11, Charm: Miner's Vision
-mysticalagriculture:charm:12, Charm: Rainbow
-mysticalagriculture:charm:13, Charm: Quick Draw
-mysticalagriculture:charm:14, Charm: Triple Shot
-mysticalagriculture:charm:15, Charm: Mining AOE
-mysticalagriculture:charm:16, Charm: Attack AOE
-mysticalagriculture:charm:17, Charm: Tilling AOE
-mysticalagriculture:charm:18, Charm: Shearing AOE
-mysticalagriculture:charm:19, Charm: Reaping AOE
-mysticalagriculture:charm:20, Charm: Scything AOE
-mysticalagriculture:inferium_arrow, §eInferium Arrow
-mysticalagriculture:prudentium_arrow, §aPrudentium Arrow
-mysticalagriculture:intermedium_arrow, §6Intermedium Arrow
-mysticalagriculture:superium_arrow, §bSuperium Arrow
-mysticalagriculture:supremium_arrow, §cSupremium Arrow
-mysticalagriculture:inferium_sword, §eInferium Sword
-mysticalagriculture:inferium_pickaxe, §eInferium Pickaxe
-mysticalagriculture:inferium_shovel, §eInferium Shovel
-mysticalagriculture:inferium_axe, §eInferium Axe
-mysticalagriculture:inferium_hoe, §eInferium Hoe
-mysticalagriculture:inferium_shears, §eInferium Shears
-mysticalagriculture:inferium_bow, §eInferium Bow
-mysticalagriculture:inferium_sickle, §eInferium Sickle
-mysticalagriculture:inferium_scythe, §eInferium Scythe
-mysticalagriculture:inferium_fishing_rod, §eInferium Fishing Rod
-mysticalagriculture:prudentium_sword, §aPrudentium Sword
-mysticalagriculture:prudentium_pickaxe, §aPrudentium Pickaxe
-mysticalagriculture:prudentium_shovel, §aPrudentium Shovel
-mysticalagriculture:prudentium_axe, §aPrudentium Axe
-mysticalagriculture:prudentium_hoe, §aPrudentium Hoe
-mysticalagriculture:prudentium_shears, §aPrudentium Shears
-mysticalagriculture:prudentium_bow, §aPrudentium Bow
-mysticalagriculture:prudentium_sickle, §aPrudentium Sickle
-mysticalagriculture:prudentium_scythe, §aPrudentium Scythe
-mysticalagriculture:prudentium_fishing_rod, §aPrudentium Fishing Rod
-mysticalagriculture:intermedium_sword, §6Intermedium Sword
-mysticalagriculture:intermedium_pickaxe, §6Intermedium Pickaxe
-mysticalagriculture:intermedium_shovel, §6Intermedium Shovel
-mysticalagriculture:intermedium_axe, §6Intermedium Axe
-mysticalagriculture:intermedium_hoe, §6Intermedium Hoe
-mysticalagriculture:intermedium_shears, §6Intermedium Shears
-mysticalagriculture:intermedium_bow, §6Intermedium Bow
-mysticalagriculture:intermedium_sickle, §6Intermedium Sickle
-mysticalagriculture:intermedium_scythe, §6Intermedium Scythe
-mysticalagriculture:intermedium_fishing_rod, §6Intermedium Fishing Rod
-mysticalagriculture:superium_sword, §bSuperium Sword
-mysticalagriculture:superium_pickaxe, §bSuperium Pickaxe
-mysticalagriculture:superium_shovel, §bSuperium Shovel
-mysticalagriculture:superium_axe, §bSuperium Axe
-mysticalagriculture:superium_hoe, §bSuperium Hoe
-mysticalagriculture:superium_shears, §bSuperium Shears
-mysticalagriculture:superium_bow, §bSuperium Bow
-mysticalagriculture:superium_sickle, §bSuperium Sickle
-mysticalagriculture:superium_scythe, §bSuperium Scythe
-mysticalagriculture:superium_fishing_rod, §bSuperium Fishing Rod
-mysticalagriculture:supremium_sword, §cSupremium Sword
-mysticalagriculture:supremium_pickaxe, §cSupremium Pickaxe
-mysticalagriculture:supremium_shovel, §cSupremium Shovel
-mysticalagriculture:supremium_axe, §cSupremium Axe
-mysticalagriculture:supremium_hoe, §cSupremium Hoe
-mysticalagriculture:supremium_shears, §cSupremium Shears
-mysticalagriculture:supremium_bow, §cSupremium Bow
-mysticalagriculture:supremium_sickle, §cSupremium Sickle
-mysticalagriculture:supremium_scythe, §cSupremium Scythe
-mysticalagriculture:supremium_fishing_rod, §cSupremium Fishing Rod
-mysticalagriculture:inferium_helmet, §eInferium Helmet
-mysticalagriculture:inferium_chestplate, §eInferium Chestplate
-mysticalagriculture:inferium_leggings, §eInferium Leggings
-mysticalagriculture:inferium_boots, §eInferium Boots
-mysticalagriculture:prudentium_helmet, §aPrudentium Helmet
-mysticalagriculture:prudentium_chestplate, §aPrudentium Chestplate
-mysticalagriculture:prudentium_leggings, §aPrudentium Leggings
-mysticalagriculture:prudentium_boots, §aPrudentium Boots
-mysticalagriculture:intermedium_helmet, §6Intermedium Helmet
-mysticalagriculture:intermedium_chestplate, §6Intermedium Chestplate
-mysticalagriculture:intermedium_leggings, §6Intermedium Leggings
-mysticalagriculture:intermedium_boots, §6Intermedium Boots
-mysticalagriculture:superium_helmet, §bSuperium Helmet
-mysticalagriculture:superium_chestplate, §bSuperium Chestplate
-mysticalagriculture:superium_leggings, §bSuperium Leggings
-mysticalagriculture:superium_boots, §bSuperium Boots
-mysticalagriculture:supremium_helmet, §cSupremium Helmet
-mysticalagriculture:supremium_chestplate, §cSupremium Chestplate
-mysticalagriculture:supremium_leggings, §cSupremium Leggings
-mysticalagriculture:supremium_boots, §cSupremium Boots
-mysticalagradditions:storage:0, §5Block of Insanium Essence
-mysticalagradditions:storage:1, §5Block of Insanium
-mysticalagradditions:storage:2, §5Block of Insanium Coal
-mysticalagradditions:special:0, Nether Star Crux
-mysticalagradditions:special:1, Dragon Egg Crux
-mysticalagradditions:tinkering_table, Tinkering Table
-mysticalagradditions:tier6_inferium_crop, Tier 6 Inferium Crop
-mysticalagradditions:nether_star_crop, Nether Star Crop
-mysticalagradditions:dragon_egg_crop, Dragon Egg Crop
-mysticalagradditions:insanium:0, §5Insanium Essence
-mysticalagradditions:insanium:1, Tier 6 Crafting Seed
-mysticalagradditions:insanium:2, §5Insanium Ingot
-mysticalagradditions:insanium:3, §5Insanium Nugget
-mysticalagradditions:insanium:4, Tier 6 Mob Chunk
-mysticalagradditions:insanium:5, §5Insanium Coal
-mysticalagradditions:stuff:0, Nether Star Shard
-mysticalagradditions:stuff:1, Withering Soul
-mysticalagradditions:stuff:2, Dragon Egg Chunk
-mysticalagradditions:stuff:3, Dragon Scale
-mysticalagradditions:stuff:69, Creative Essence
-mysticalagradditions:nether_star_essence, Nether Star Essence
-mysticalagradditions:dragon_egg_essence, Dragon Egg Essence
-mysticalagradditions:tier6_inferium_seeds, Inferium Seeds
-mysticalagradditions:nether_star_seeds, Nether Star Seeds
-mysticalagradditions:dragon_egg_seeds, Dragon Egg Seeds
-mysticalagradditions:charm:0, Charm: Mining AOE
-mysticalagradditions:inferium_paxel, §eInferium Paxel
-mysticalagradditions:prudentium_paxel, §aPrudentium Paxel
-mysticalagradditions:intermedium_paxel, §6Intermedium Paxel
-mysticalagradditions:superium_paxel, §bSuperium Paxel
-mysticalagradditions:supremium_paxel, §cSupremium Paxel
+industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
+industrialforegoing:enchantment_refiner, Enchantment Sorter
+industrialforegoing:enchantment_extractor, Enchantment Extractor
+industrialforegoing:enchantment_aplicator, Enchantment Applicator
+industrialforegoing:mob_relocator, Mob Crusher
+industrialforegoing:potion_enervator, Potion Brewer
+industrialforegoing:animal_independence_selector, Animal Baby Separator
+industrialforegoing:animal_stock_increaser, Animal Feeder
+industrialforegoing:crop_sower, Plant Sower
+industrialforegoing:crop_enrich_material_injector, Plant Fertilizer
+industrialforegoing:crop_recolector, Plant Gatherer
+industrialforegoing:black_hole_unit, Black Hole Unit
+industrialforegoing:water_condensator, Water Condensator
+industrialforegoing:water_resources_collector, Resources Fisher
+industrialforegoing:animal_resource_harvester, Animal Rancher
+industrialforegoing:mob_slaughter_factory, Mob Slaughter Factory
+industrialforegoing:mob_duplicator, Mob Duplicator
+industrialforegoing:block_destroyer, Block Breaker
+industrialforegoing:block_placer, Block Placer
+industrialforegoing:tree_fluid_extractor, Tree Fluid Extractor
+industrialforegoing:latex_processing_unit, Latex Processing Unit
+industrialforegoing:sewage_composter_solidifier, Sewage Composter
+industrialforegoing:animal_byproduct_recolector, Animal Sewer
+industrialforegoing:sludge_refiner, Sludge Refiner
+industrialforegoing:mob_detector, Mob Detector
+industrialforegoing:lava_fabricator, Lava Fabricator
+industrialforegoing:bioreactor, Bioreactor
+industrialforegoing:biofuel_generator, Biofuel Generator
+industrialforegoing:laser_base, Laser Base
+industrialforegoing:laser_drill, Laser Drill
+industrialforegoing:ore_processor, Ore Processor
+industrialforegoing:black_hole_controller, Black Hole Controller
+industrialforegoing:dye_mixer, Dye Mixer
+industrialforegoing:enchantment_invoker, Enchantment Factory
+industrialforegoing:spores_recreator, Spores Recreator
+industrialforegoing:animal_growth_increaser, Animal Grower
+industrialforegoing:material_stonework_factory, Material StoneWork Factory
+industrialforegoing:black_hole_tank, Black Hole Tank
+industrialforegoing:resourceful_furnace, Resourceful Furnace
+industrialforegoing:villager_trade_exchanger, Villager Trade Exchanger
+industrialforegoing:energy_field_provider, Energy Field Provider
+industrialforegoing:oredictionary_converter, Ore Dictionary Converter
+industrialforegoing:protein_reactor, Protein Reactor
+industrialforegoing:protein_generator, Protein Generator
+industrialforegoing:hydrator, Hydrator
+industrialforegoing:wither_builder, Wither Builder
+industrialforegoing:fluid_pump, Fluid Pump
+industrialforegoing:fluid_crafter, Fluid Crafter
+industrialforegoing:plant_interactor, Plant Interactor
+industrialforegoing:item_splitter, Item Splitter
+industrialforegoing:fluiddictionary_converter, Fluid Dictionary Converter
+industrialforegoing:froster, Froster
+industrialforegoing:ore_washer, Washing Factory
+industrialforegoing:ore_fermenter, Fermentation Station
+industrialforegoing:ore_sieve, Fluid Sieving Machine
+industrialforegoing:pitiful_fuel_generator, Pitiful Fuel Generator
+industrialforegoing:tinydryrubber, Tiny Dry Rubber
+industrialforegoing:dryrubber, Dry Rubber
+industrialforegoing:plastic, Plastic
+industrialforegoing:fertilizer, Fertilizer
+industrialforegoing:meat_feeder, Meat Feeder
+industrialforegoing:mob_imprisonment_tool, Mob Imprisonment Tool
+industrialforegoing:laser_lens:0, White§r Laser Lens
+industrialforegoing:laser_lens:1, Orange§r Laser Lens
+industrialforegoing:laser_lens:2, Magenta§r Laser Lens
+industrialforegoing:laser_lens:3, Light Blue§r Laser Lens
+industrialforegoing:laser_lens:4, Yellow§r Laser Lens
+industrialforegoing:laser_lens:5, Lime§r Laser Lens
+industrialforegoing:laser_lens:6, Pink§r Laser Lens
+industrialforegoing:laser_lens:7, Gray§r Laser Lens
+industrialforegoing:laser_lens:8, Light Gray§r Laser Lens
+industrialforegoing:laser_lens:9, Cyan§r Laser Lens
+industrialforegoing:laser_lens:10, Purple§r Laser Lens
+industrialforegoing:laser_lens:11, Blue§r Laser Lens
+industrialforegoing:laser_lens:12, Brown§r Laser Lens
+industrialforegoing:laser_lens:13, Green§r Laser Lens
+industrialforegoing:laser_lens:14, Red§r Laser Lens
+industrialforegoing:laser_lens:15, Black§r Laser Lens
+industrialforegoing:laser_lens_inverted:0, White§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:1, Orange§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:2, Magenta§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:3, Light Blue§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:4, Yellow§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:5, Lime§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:6, Pink§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:7, Gray§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:8, Light Gray§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:9, Cyan§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:10, Purple§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:11, Blue§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:12, Brown§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:13, Green§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:14, Red§r Laser Lens (Inverted)
+industrialforegoing:laser_lens_inverted:15, Black§r Laser Lens (Inverted)
+industrialforegoing:straw, Straw
+industrialforegoing:conveyor_upgrade:0, Extraction Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:1, Insertion Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:2, Detection Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:3, Bouncing Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:4, Dropping Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:5, Blinking Conveyor Upgrade
+industrialforegoing:conveyor_upgrade:6, Splitting Conveyor Upgrade
+industrialforegoing:pink_slime, Pink Slime
+industrialforegoing:book_manual, Industrial Foregoing's Manual
+industrialforegoing:pink_slime_ingot, Pink Slime Ingot
+industrialforegoing:adult_filter, Adult Filter
+industrialforegoing:range_addon:0, Range Addon
+industrialforegoing:range_addon:1, Range Addon
+industrialforegoing:range_addon:2, Range Addon
+industrialforegoing:range_addon:3, Range Addon
+industrialforegoing:range_addon:4, Range Addon
+industrialforegoing:range_addon:5, Range Addon
+industrialforegoing:range_addon:6, Range Addon
+industrialforegoing:range_addon:7, Range Addon
+industrialforegoing:range_addon:8, Range Addon
+industrialforegoing:range_addon:9, Range Addon
+industrialforegoing:range_addon:10, Range Addon
+industrialforegoing:range_addon:11, Range Addon
+industrialforegoing:energy_field_addon, Energy Field Addon
+industrialforegoing:leaf_shearing, Leaf Shearing Addon
+industrialforegoing:itemstack_transfer_addon_pull:0, Itemstack Transfer Addon (Pull/Down)
+industrialforegoing:itemstack_transfer_addon_push:0, Itemstack Transfer Addon (Push/Down)
+industrialforegoing:fluid_transfer_addon_pull:0, Fluid Transfer Addon (Pull/Down)
+industrialforegoing:fluid_transfer_addon_push:0, Fluid Transfer Addon (Push/Down)
+industrialforegoing:fortune_addon, Fortune Addon
+industrialforegoing:artificial_dye:0, White§r Artificial Dye
+industrialforegoing:artificial_dye:1, Orange§r Artificial Dye
+industrialforegoing:artificial_dye:2, Magenta§r Artificial Dye
+industrialforegoing:artificial_dye:3, Light Blue§r Artificial Dye
+industrialforegoing:artificial_dye:4, Yellow§r Artificial Dye
+industrialforegoing:artificial_dye:5, Lime§r Artificial Dye
+industrialforegoing:artificial_dye:6, Pink§r Artificial Dye
+industrialforegoing:artificial_dye:7, Gray§r Artificial Dye
+industrialforegoing:artificial_dye:8, Light Gray§r Artificial Dye
+industrialforegoing:artificial_dye:9, Cyan§r Artificial Dye
+industrialforegoing:artificial_dye:10, Purple§r Artificial Dye
+industrialforegoing:artificial_dye:11, Blue§r Artificial Dye
+industrialforegoing:artificial_dye:12, Brown§r Artificial Dye
+industrialforegoing:artificial_dye:13, Green§r Artificial Dye
+industrialforegoing:artificial_dye:14, Red§r Artificial Dye
+industrialforegoing:artificial_dye:15, Black§r Artificial Dye
+industrialforegoing:conveyor:0, White§r Conveyor Belt
+industrialforegoing:conveyor:1, Orange§r Conveyor Belt
+industrialforegoing:conveyor:2, Magenta§r Conveyor Belt
+industrialforegoing:conveyor:3, Light Blue§r Conveyor Belt
+industrialforegoing:conveyor:4, Yellow§r Conveyor Belt
+industrialforegoing:conveyor:5, Lime§r Conveyor Belt
+industrialforegoing:conveyor:6, Pink§r Conveyor Belt
+industrialforegoing:conveyor:7, Gray§r Conveyor Belt
+industrialforegoing:conveyor:8, Light Gray§r Conveyor Belt
+industrialforegoing:conveyor:9, Cyan§r Conveyor Belt
+industrialforegoing:conveyor:10, Purple§r Conveyor Belt
+industrialforegoing:conveyor:11, Blue§r Conveyor Belt
+industrialforegoing:conveyor:12, Brown§r Conveyor Belt
+industrialforegoing:conveyor:13, Green§r Conveyor Belt
+industrialforegoing:conveyor:14, Red§r Conveyor Belt
+industrialforegoing:conveyor:15, Black§r Conveyor Belt
+industrialforegoing:black_hole_label, Black Hole Label
 xnet:xnet_manual, XNet Manual
 xnet:connector_upgrade, Connector Upgrade Kit
 xnet:facade, Facade
@@ -7125,6 +6449,9 @@ exnihilocreatio:item_ore_silver:3, Silver Ingot
 exnihilocreatio:item_ore_aluminium:0, Aluminium Ore Piece
 exnihilocreatio:item_ore_aluminium:1, Aluminium Ore Chunk
 exnihilocreatio:item_ore_aluminium:2, Aluminium Ore Dust
+exnihilocreatio:item_ore_osmium:0, Osmium Ore Piece
+exnihilocreatio:item_ore_osmium:1, Osmium Ore Chunk
+exnihilocreatio:item_ore_osmium:2, Osmium Ore Dust
 exnihilocreatio:item_ore_tritanium:0, Tritanium Ore Piece
 exnihilocreatio:item_ore_tritanium:1, Tritanium Ore Chunk
 exnihilocreatio:item_ore_tritanium:2, Tritanium Ore Dust
