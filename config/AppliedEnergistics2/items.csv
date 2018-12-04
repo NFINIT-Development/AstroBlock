@@ -96,13 +96,13 @@ minecraft:stone_slab:6, Nether Brick Slab
 minecraft:stone_slab:7, Quartz Slab
 minecraft:brick_block, Clay Bricks
 minecraft:tnt, TNT
-minecraft:bookshelf, Oak Bookshelf
+minecraft:bookshelf, Bookshelf
 minecraft:mossy_cobblestone, Mossy Cobblestone
 minecraft:obsidian, Obsidian
 minecraft:torch, Torch
 minecraft:mob_spawner, Monster Spawner
 minecraft:oak_stairs, Oak Plank Stairs
-minecraft:chest, Oak Chest
+minecraft:chest, Chest
 minecraft:diamond_ore, Diamond Ore
 minecraft:diamond_block, Block of Diamond
 minecraft:crafting_table, Crafting Table
@@ -113,7 +113,7 @@ minecraft:rail, Rail
 minecraft:stone_stairs, Cobblestone Stairs
 minecraft:lever, Lever
 minecraft:stone_pressure_plate, Stone Pressure Plate
-minecraft:wooden_pressure_plate, Oak Pressure Plate
+minecraft:wooden_pressure_plate, Wooden Pressure Plate
 minecraft:redstone_ore, Redstone Ore
 minecraft:redstone_torch, Redstone Torch
 minecraft:stone_button, Button
@@ -193,11 +193,11 @@ minecraft:command_block, Command Block
 minecraft:beacon, Beacon
 minecraft:cobblestone_wall:0, Cobblestone Wall
 minecraft:cobblestone_wall:1, Mossy Cobblestone Wall
-minecraft:wooden_button, Oak Button
+minecraft:wooden_button, Button
 minecraft:anvil:0, Anvil
 minecraft:anvil:1, Slightly Damaged Anvil
 minecraft:anvil:2, Very Damaged Anvil
-minecraft:trapped_chest, Oak Trapped Chest
+minecraft:trapped_chest, Trapped Chest
 minecraft:light_weighted_pressure_plate, Weighted Pressure Plate (Light)
 minecraft:heavy_weighted_pressure_plate, Weighted Pressure Plate (Heavy)
 minecraft:daylight_detector, Daylight Sensor
@@ -3014,6 +3014,7 @@ appliedenergistics2:part:220, ME Storage Bus
 appliedenergistics2:part:400, ME Storage Monitor
 appliedenergistics2:part:380, ME Terminal
 appliedenergistics2:part:80, ME Toggle Bus
+baubles:ring:0, Miner's Ring
 galacticraftcore:crude_oil_still, Crude Oil
 galacticraftcore:bucket_oil, Oil Bucket
 galacticraftcore:fuel, Fuel
@@ -3382,206 +3383,9 @@ galacticraftplanets:basic_item_venus:3, Isothermal Fabric
 galacticraftplanets:volcanic_pickaxe, Volcanic Pickaxe
 galacticraftplanets:key_t3:0, Tier 3 Dungeon Key
 galacticraftplanets:atomic_battery, Atomic Battery
-galaxyspace:machineframes:0, Based Machine Frame
-galaxyspace:machineframes:2, Advanced Machine Frame
-galaxyspace:assembly_machine, Assembly Machine
-galaxyspace:fuel_generator, Fuel Generator
-galaxyspace:wind_generator, Wind Turbine
-galaxyspace:modern_solarpanel, Hybrid Solar Panel
-galaxyspace:rocket_assembler, Rocket Assembly
-galaxyspace:universal_recycler, Universal Recycler
-galaxyspace:liquid_extractor, Liquid Extractor
-galaxyspace:hydroponic_base, Hydroponic Base
-galaxyspace:hydroponic_farm, Hydroponic Farm Block
-galaxyspace:gravitation_module, Gravity Module
-galaxyspace:radiation_stabiliser, Magnetic Field Generator
-galaxyspace:panel_controller, Controller Mini-panels
-galaxyspace:single_solarpanel, Solar Mini-Panel
-galaxyspace:modern_storage_module, Modern Energy Cluster
-galaxyspace:dungeon_blocks, Dungeon Brick
-galaxyspace:treasure_t4, Treasure Chest Tier 4
-galaxyspace:boss_spawner_ceres, tile.boss_spawner_ceres.name
-galaxyspace:futureglass_none, Future Glass
-galaxyspace:futureglass:0, Black Future Glass
-galaxyspace:futureglass:1, Red Future Glass
-galaxyspace:futureglass:2, Green Future Glass
-galaxyspace:futureglass:3, Brown Future Glass
-galaxyspace:futureglass:4, Blue Future Glass
-galaxyspace:futureglass:5, Purple Future Glass
-galaxyspace:futureglass:6, Cyan Future Glass
-galaxyspace:futureglass:7, Light gray Future Glass
-galaxyspace:futureglass:8, Gray Future Glass
-galaxyspace:futureglass:9, Pink Future Glass
-galaxyspace:futureglass:10, Lime Future Glass
-galaxyspace:futureglass:11, Yellow Future Glass
-galaxyspace:futureglass:12, Light blue Future Glass
-galaxyspace:futureglass:13, Magneta Future Glass
-galaxyspace:futureglass:14, Orange Future Glass
-galaxyspace:futureglass:15, White Future Glass
-galaxyspace:gsores:0, Cobalt Ore
-galaxyspace:gsores:1, Nickel Ore
-galaxyspace:gsores:2, Uranium Ore
-galaxyspace:decoblocks:0, Cobalt Decoration Block
-galaxyspace:decoblocks:1, Magnesium Decoration Block
-galaxyspace:decoblocks:2, Nickel Decoration Block
-galaxyspace:decoblocks:3, Copper Decoration Block
-galaxyspace:decoblocks:4, Cobalt Block
-galaxyspace:decoblocks:5, Nickel Block
-galaxyspace:decoblocks:6, Magnesium Block
-galaxyspace:surface_ice, Surface Ice
-galaxyspace:mercuryblocks:0, Mercury Surface Grunt
-galaxyspace:mercuryblocks:1, Mercury Subsurface Grunt
-galaxyspace:mercuryblocks:2, Mercury Stone
-galaxyspace:mercuryblocks:3, Nickel Ore
-galaxyspace:mercuryblocks:4, Iron Ore
-galaxyspace:mercuryblocks:5, Magnesium Ore
-galaxyspace:ceresblocks:0, Ceres Surface Grunt
-galaxyspace:ceresblocks:1, Ceres Subsurface Grunt
-galaxyspace:ceresblocks:2, Dolomite Ore
-galaxyspace:ceresblocks:3, Meteoric Iron Ore
-galaxyspace:ceresblocks:4, tile.ceres_dungeon_top.name
-galaxyspace:ceresblocks:5, tile.ceres_dungeon_floor.name
-galaxyspace:plutoblocks:0, Pluto Surface Grunt
-galaxyspace:plutoblocks:1, Pluto Surface Grunt
-galaxyspace:plutoblocks:2, Pluto Surface Grunt
-galaxyspace:plutoblocks:3, Pluto Surface Grunt
-galaxyspace:plutoblocks:4, Pluto Surface Grunt
-galaxyspace:plutoblocks:5, Pluto Stone
-galaxyspace:ioblocks:0, Io Surface Grunt
-galaxyspace:ioblocks:1, Io Stone
-galaxyspace:ioblocks:2, Io Ash
-galaxyspace:ioblocks:3, Copper Ore
-galaxyspace:ioblocks:4, Sulfur Ore
-galaxyspace:ioblocks:5, Volcanic Ore
-galaxyspace:europablocks:0, Europa Surface Ice
-galaxyspace:europablocks:1, Europa Stone
-galaxyspace:europablocks:2, Brown Europa Ice
-galaxyspace:europablocks:3, Emerald Ore
-galaxyspace:europablocks:4, Silicon Ore
-galaxyspace:europablocks:5, Aluminum Ore
-galaxyspace:europa_geyser, Europa Geyser
-galaxyspace:europa_uwgeyser, Europa Geyser
-galaxyspace:ganymedeblocks:0, Ganymede Surface Grunt
-galaxyspace:ganymedeblocks:1, Ganymede Stone
-galaxyspace:ganymedeblocks:2, Magnesium Ore
-galaxyspace:ganymedeblocks:3, Ilmenite Ore
-galaxyspace:callistoblocks:0, Callisto Surface Grunt
-galaxyspace:callistoblocks:1, Callisto Stone
-galaxyspace:enceladusblocks:0, Enceladus Ice
-galaxyspace:enceladusblocks:1, Enceladus Subsurface Grunt
-galaxyspace:enceladusblocks:2, Coal Ore
-galaxyspace:enceladus_crystal, Unknow Crystal
-galaxyspace:titanblocks:0, Titan Surface Grunt
-galaxyspace:titanblocks:1, Titan Subsurface Grunt
-galaxyspace:titanblocks:2, Titan Stone
-galaxyspace:mirandablocks:0, Miranda Surface Grunt
-galaxyspace:mirandablocks:1, Miranda Subsurface Grunt
-galaxyspace:mirandablocks:2, Miranda Stone
-galaxyspace:mirandablocks:3, Iron Ore
-galaxyspace:mirandablocks:4, Dolomite Ore
-galaxyspace:gs_basic:0, Blank Fuel Tank
-galaxyspace:gs_basic:1, Solar Flare Module
-galaxyspace:gs_basic:2, Solar Flare
-galaxyspace:gs_basic:3, Dolomite Crystal
-galaxyspace:gs_basic:4, Dolomite Meal
-galaxyspace:gs_basic:5, Modern Wafer
-galaxyspace:gs_basic:6, Hematite
-galaxyspace:gs_basic:7, Sulfur
-galaxyspace:gs_basic:8, Unknown Crystal Shard
-galaxyspace:gs_basic:9, Antiradiation Tablets
-galaxyspace:gs_basic:10, Schematics Box
-galaxyspace:gs_basic:11, Module "Electrolyse"
-galaxyspace:gs_basic:12, Volcanic Shard
-galaxyspace:gs_basic:13, Module "Expander"
-galaxyspace:gs_basic:14, Module "Stabilization"
-galaxyspace:gs_basic:15, Uranium
-galaxyspace:gs_basic:16, Prototype Controller Shield
-galaxyspace:gs_basic:17, Bucket with Ice
-galaxyspace:gs_basic:18, Emergency Portable Teleport
-galaxyspace:ingots:0, Cobalt Ingot
-galaxyspace:ingots:1, Magnesium Ingot
-galaxyspace:ingots:2, Nickel Ingot
-galaxyspace:hdp:0, Heavy Duty Plate
-galaxyspace:hdp:1, Heavy Duty Plate
-galaxyspace:compressed_plates:0, Compressed Coal
-galaxyspace:compressed_plates:1, Compressed Cobalt
-galaxyspace:compressed_plates:2, Compressed Magnesium
-galaxyspace:compressed_plates:3, Compressed Nickel
-galaxyspace:compressed_plates:4, Compressed "SDHC-120" Alloy
-galaxyspace:rocket_modules:0, Lander Tier 1
-galaxyspace:rocket_modules:1, Lander Tier 2
-galaxyspace:rocket_modules:2, Lander Tier 3
-galaxyspace:rocket_modules:3, Small Fuel Canister
-galaxyspace:rocket_parts:0, Durable Nose Cone
-galaxyspace:rocket_parts:1, Durable Rocket Body
-galaxyspace:rocket_parts:2, Durable Rocket Engine
-galaxyspace:rocket_parts:3, Heavy Booster
-galaxyspace:rocket_parts:4, Durable Rocket Vane
-galaxyspace:rocket_parts:5, Durable Nose Cone
-galaxyspace:rocket_parts:6, Durable Rocket Body
-galaxyspace:rocket_parts:7, Durable Rocket Engine
-galaxyspace:rocket_parts:8, Heavy Booster
-galaxyspace:rocket_parts:9, Durable Rocket Vane
-galaxyspace:rocket_parts:10, Durable Nose Cone
-galaxyspace:rocket_parts:11, Durable Rocket Body
-galaxyspace:rocket_parts:12, Durable Rocket Engine
-galaxyspace:rocket_parts:13, Heavy Booster
-galaxyspace:rocket_parts:14, Durable Rocket Vane
-galaxyspace:rocket_parts:15, Durable Nose Cone
-galaxyspace:rocket_parts:16, Durable Rocket Body
-galaxyspace:rocket_parts:17, Durable Rocket Engine
-galaxyspace:rocket_parts:18, Heavy Booster
-galaxyspace:rocket_parts:19, Durable Rocket Vane
-galaxyspace:schematics:0, NASA Workbench Schematic
-galaxyspace:schematics:1, NASA Workbench Schematic
-galaxyspace:schematics:2, NASA Workbench Schematic
-galaxyspace:schematics:3, NASA Workbench Schematic
-galaxyspace:schematics:4, NASA Workbench Schematic
-galaxyspace:schematics:5, NASA Workbench Schematic
-galaxyspace:schematics:6, NASA Workbench Schematic
-galaxyspace:dungeon_keys:0, Dungeon Key
-galaxyspace:advanced_battery, Advanced Battery
-galaxyspace:modern_battery, Modern Battery
-galaxyspace:extra_battery, Extra Battery
-galaxyspace:ultimate_battery, Ultimate Battery
-galaxyspace:oxygen_tank_4, Very Heavy Oxygen Tank
-galaxyspace:oxygen_tank_5, Ultra Oxygen Tank
-galaxyspace:oxygen_tank_6, Very Ultra Oxygen Tank
-galaxyspace:oxygen_tank_epp_1, Environmental Protection Oxygen Tank
-galaxyspace:rocket_tier_4:0, Tier 4 Rocket
-galaxyspace:rocket_tier_4:1, Tier 4 Rocket
-galaxyspace:rocket_tier_4:2, Tier 4 Rocket
-galaxyspace:rocket_tier_4:3, Tier 4 Rocket
-galaxyspace:rocket_tier_4:4, Tier 4 Rocket
-galaxyspace:rocket_tier_5:0, Tier 5 Rocket
-galaxyspace:rocket_tier_5:1, Tier 5 Rocket
-galaxyspace:rocket_tier_5:2, Tier 5 Rocket
-galaxyspace:rocket_tier_5:3, Tier 5 Rocket
-galaxyspace:rocket_tier_5:4, Tier 5 Rocket
-galaxyspace:space_suit_head, SpaceSuit Helmet
-galaxyspace:space_suit_chest, SpaceSuit Chestplate
-galaxyspace:space_suit_legs, SpaceSuit Leggins
-galaxyspace:space_suit_feet, SpaceSuit Boots
-galaxyspace:cobalt_helmet, Cobalt Helmet
-galaxyspace:cobalt_chest, Cobalt Chestplate
-galaxyspace:cobalt_legs, Cobalt Leggins
-galaxyspace:cobalt_boots, Cobalt Boots
-galaxyspace:cobalt_sword, Cobalt Sword
-galaxyspace:cobalt_axe, Cobalt Axe
-galaxyspace:cobalt_pickaxe, Cobalt Pickaxe
-galaxyspace:cobalt_spade, Cobalt Spade
-galaxyspace:cobalt_hoe, Cobalt Hoe
-galaxyspace:jetpack, Electric Jetpack
-galaxyspace:block_liquidethanemethane, tile.block_liquidethanemethane.name
-galaxyspace:proxima_b_blocks:0, tile.proxima_b_surface.name
-galaxyspace:proxima_b_blocks:1, tile.proxima_b_subsurface.name
-galaxyspace:proxima_b_blocks:2, tile.proxima_b_stone.name
-galaxyspace:proxima_b_blocks:3, tile.proxima_b_ice_surface.name
-galaxyspace:proxima_b_blocks:4, tile.proxima_b_ash_rock.name
-galaxyspace:proxima_b_log_1, tile.proxima_b_log_1.name
-galaxyspace:proxima_b_log_2, tile.proxima_b_log_2.name
-baubles:ring:0, Miner's Ring
 blankplanet:teleport, Black Hole Teleporter
+bonsaitrees:bonsaipot:0, Bonsai Pot
+bonsaitrees:bonsaipot:1, Hopping Bonsai Pot
 buildinggadgets:buildingtool, Building Gadget
 buildinggadgets:exchangertool, Exchanging Gadget
 buildinggadgets:copypastetool, Copy-Paste Gadget
@@ -5174,8 +4978,6 @@ planetprogression:research_paper_55, Research Paper
 planetprogression:research_paper_56, Research Paper
 planetprogression:research_paper_57, Research Paper
 planetprogression:research_paper_58, Research Paper
-planetprogression:research_paper_59, Research Paper
-planetprogression:research_paper_60, Research Paper
 scannable:scanner, Scanner
 scannable:module_blank, Blank Scanner Module
 scannable:module_range, Scanner Module: Range
@@ -5258,78 +5060,13 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-vehicle:small_engine:0, Small Engine
-vehicle:small_engine:1, Small Engine
-vehicle:small_engine:2, Small Engine
-vehicle:small_engine:3, Small Engine
-vehicle:small_engine:4, Small Engine
-vehicle:large_engine:0, Large Engine
-vehicle:large_engine:1, Large Engine
-vehicle:large_engine:2, Large Engine
-vehicle:large_engine:3, Large Engine
-vehicle:large_engine:4, Large Engine
-vehicle:electric_engine:0, Electric Engine
-vehicle:electric_engine:1, Electric Engine
-vehicle:electric_engine:2, Electric Engine
-vehicle:electric_engine:3, Electric Engine
-vehicle:electric_engine:4, Electric Engine
-vehicle:panel, Panel
-vehicle:wheel, Wheel
-vehicle:atv_body, item.atv_body.name
-vehicle:handle_bar, Handle Bars
-vehicle:dune_buggy_body, item.dune_buggy_body.name
-vehicle:dune_buggy_handle_bar, item.dune_buggy_handle_bar.name
-vehicle:dune_buggy_wheel, item.dune_buggy_wheel.name
-vehicle:go_kart_body, item.go_kart_body.name
-vehicle:go_kart_steering_wheel, Steering Wheel
-vehicle:shopping_cart_body, item.shopping_cart_body.name
-vehicle:mini_bike_body, item.mini_bike_body.name
-vehicle:mini_bike_handle_bar, item.mini_bike_handle_bar.name
-vehicle:bumper_car_body, item.bumper_car_body.name
-vehicle:jet_ski_body, item.jet_ski_body.name
-vehicle:speed_boat_body, item.speed_boat_body.name
-vehicle:aluminum_boat_body, item.aluminum_boat_body.name
-vehicle:smart_car_body, item.smart_car_body.name
-vehicle:lawn_mower_body, item.lawn_mower_body.name
-vehicle:moped_body, item.moped_body.name
-vehicle:moped_mud_guard, item.moped_mud_guard.name
-vehicle:moped_handle_bar, item.moped_handle_bar.name
-vehicle:sports_plane_body, item.sports_plane_body.name
-vehicle:sports_plane_wing, item.sports_plane_wing.name
-vehicle:sports_plane_wheel_cover, item.sports_plane_wheel_cover.name
-vehicle:sports_plane_leg, item.sports_plane_leg.name
-vehicle:sports_plane_propeller, item.sports_plane_propeller.name
-vehicle:golf_cart_body, item.golf_cart_body.name
-vehicle:off_roader_body, item.off_roader_body.name
-vehicle:trailer_body, item.trailer_body.name
-vehicle:tow_bar, Tow Bar
-vehicle:spray_can:0, Spray Can
-vehicle:jerry_can, Jerry Can
-vehicle:industrial_jerry_can, Industrial Jerry Can
-vehicle:fuel_port_closed, item.fuel_port_closed.name
-vehicle:fuel_port_body, item.fuel_port_body.name
-vehicle:fuel_port_lid, item.fuel_port_lid.name
-vehicle:fuel_port_2_closed, item.fuel_port_2_closed.name
-vehicle:fuel_port_2_pipe, item.fuel_port_2_pipe.name
-vehicle:wrench, Wrench
-vehicle:key, Key
-vehicle:key_hole, item.key_hole.name
-vehicle:models, item.models.name
-vehicle:couch_helicopter_arm, item.couch_helicopter_arm.name
-vehicle:couch_helicopter_skid, item.couch_helicopter_skid.name
-vehicle:traffic_cone, Traffic Cone
-vehicle:boost_pad, Boost Pad
-vehicle:boost_ramp, Boost Ramp
-vehicle:steep_boost_ramp, Steep Boost Ramp
-vehicle:gas_pump, Gas Pump
-vehicle:fluid_extractor, Fluid Extractor
-vehicle:fluid_mixer, Fluid Mixer
-vehicle:fluid_pipe, Fluid Pipe
-vehicle:fluid_pump, Fluid Pump
-vehicle:fuel_drum, Fuel Drum
-vehicle:industrial_fuel_drum, Industrial Fuel Drum
-vehicle:workstation, Workstation
-vehicle:vehicle_crate, Vehicle Crate
+ultimatecobblegen:cobblegenerator, Cobblestone Generator
+ultimatecobblegen:gravelgenerator, Gravel Generator
+ultimatecobblegen:sandgenerator, Sand Generator
+ultimatecobblegen:dirtgenerator, Dirt Generator
+ultimatecobblegen:grassgenerator, Grass Generator
+ultimatecobblegen:fungusgenerator, Mycelium Generator
+ultimatecobblegen:dustgenerator, Dust Generator
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -5913,210 +5650,6 @@ agricraft:agri_nugget:10, Platinum Nugget
 agricraft:agri_nugget:11, Osmium Nugget
 agricraft:agri_nugget:12, Unknown Fragment
 agricraft:magnifying_glass, Magnifying Glass
-quark:glowstone_dust_block, tile.glowstone_dust_block.name
-quark:gunpowder_block, tile.gunpowder_block.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:witch_hat, item.witch_hat.name
-quark:pirate_hat, item.pirate_hat.name
-quark:marble:0, Marble
-quark:marble:1, Polished Marble
-quark:stone_marble_slab:0, Marble Slab
-quark:stone_marble_stairs, tile.stone_marble_stairs.name
-quark:marble_wall, tile.marble_wall.name
-quark:limestone:0, Limestone
-quark:limestone:1, Polished Limestone
-quark:stone_limestone_slab:0, Limestone Slab
-quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
-quark:limestone_wall, tile.limestone_wall.name
-quark:crystal:0, White Cave Crystal
-quark:crystal:1, Red Cave Crystal
-quark:crystal:2, Orange Cave Crystal
-quark:crystal:3, Yellow Cave Crystal
-quark:crystal:4, Green Cave Crystal
-quark:crystal:5, Blue Cave Crystal
-quark:crystal:6, Indigo Cave Crystal
-quark:crystal:7, Violet Cave Crystal
-quark:biome_cobblestone:0, Brimstone
-quark:biome_cobblestone:1, Permafrost
-quark:fire_stone_slab:0, Brimstone Slab
-quark:fire_stone_stairs, tile.fire_stone_stairs.name
-quark:icy_stone_slab:0, Permafrost Slab
-quark:icy_stone_stairs, tile.icy_stone_stairs.name
-quark:fire_stone_wall, tile.fire_stone_wall.name
-quark:icy_stone_wall, tile.icy_stone_wall.name
-quark:glowcelium, tile.glowcelium.name
-quark:glowshroom, tile.glowshroom.name
-quark:stone_speleothem, tile.stone_speleothem.name
-quark:granite_speleothem, tile.granite_speleothem.name
-quark:diorite_speleothem, tile.diorite_speleothem.name
-quark:andesite_speleothem, tile.andesite_speleothem.name
-quark:netherrack_speleothem, tile.netherrack_speleothem.name
-quark:basalt_speleothem, tile.basalt_speleothem.name
-quark:marble_speleothem, tile.marble_speleothem.name
-quark:limestone_speleothem, tile.limestone_speleothem.name
-quark:soul_bead, item.soul_bead.name
-quark:biotite_ore, tile.biotite_ore.name
-quark:biotite_block:0, Block of Biotite
-quark:biotite_block:1, Chiseled Biotite Block
-quark:biotite_block:2, Pillar Biotite Block
-quark:biotite, item.biotite.name
-quark:biotite_slab:0, Biotite Slab
-quark:biotite_stairs, tile.biotite_stairs.name
-quark:biotite_wall, tile.biotite_wall.name
-quark:basalt:0, Basalt
-quark:basalt:1, Polished Basalt
-quark:stone_basalt_slab:0, Basalt Slab
-quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
-quark:basalt_wall, tile.basalt_wall.name
-quark:smoker, tile.smoker.name
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern, tile.paper_lantern.name
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:candle:0, White Candle
-quark:candle:1, Orange Candle
-quark:candle:2, Magenta Candle
-quark:candle:3, Light Blue Candle
-quark:candle:4, Yellow Candle
-quark:candle:5, Lime Candle
-quark:candle:6, Pink Candle
-quark:candle:7, Gray Candle
-quark:candle:8, Light Gray Candle
-quark:candle:9, Cyan Candle
-quark:candle:10, Purple Candle
-quark:candle:11, Blue Candle
-quark:candle:12, Brown Candle
-quark:candle:13, Green Candle
-quark:candle:14, Red Candle
-quark:candle:15, Black Candle
-quark:tallow, item.tallow.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:glass_item_frame, item.glass_item_frame.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
 heartdrops:heart, item.heart.name
 heartdrops:golden_heart, item.golden_heart.name
 betterbuilderswands:wandstone, Stone Wand
@@ -6315,6 +5848,164 @@ industrialforegoing:conveyor:13, Green§r Conveyor Belt
 industrialforegoing:conveyor:14, Red§r Conveyor Belt
 industrialforegoing:conveyor:15, Black§r Conveyor Belt
 industrialforegoing:black_hole_label, Black Hole Label
+rftools:smartwrench, Smart Wrench
+rftools:rftools_manual, RFTools Manual
+rftools:rftools_shape_manual, RFTools Shape Manual
+rftools:dimensional_shard, Dimensional Shard
+rftools:shard_wand, Shard Wand
+rftools:infused_diamond, Infused Diamond
+rftools:infused_enderpearl, Infused Enderpearl
+rftools:syringe, Syringe
+rftools:peace_essence, Peace Essence
+rftools:developers_delight, Developers Delight
+rftools:network_monitor, RF Network Monitor
+rftools:modifier_module, Modifier
+rftools:storage_module_tablet, Storage Tablet
+rftools:storage_module:0, Tier 1 Storage Module
+rftools:storage_module:1, Tier 2 Storage Module
+rftools:storage_module:2, Tier 3 Storage Module
+rftools:storage_module:6, Remote Storage Module
+rftools:oredict_module, Ore Dictionary Type Module
+rftools:generic_module, Generic Type Module
+rftools:filter_module, Filter Module
+rftools:teleport_probe, Teleporter Probe
+rftools:charged_porter, Charged Porter
+rftools:advanced_charged_porter, Advanced Charged Porter
+rftools:text_module, Text Screen Module
+rftools:inventory_module, Inventory Screen Module
+rftools:inventoryplus_module, Inventory Plus Screen Module
+rftools:energy_module, Energy Screen Module
+rftools:energyplus_module, Energy Plus Screen Module
+rftools:clock_module, Clock Screen Module
+rftools:fluid_module, Fluid Screen Module
+rftools:fluidplus_module, Fluid Plus Screen Module
+rftools:machineinformation_module, Machine Information Screen Module
+rftools:computer_module, Computer Screen Module
+rftools:button_module, Button Screen Module
+rftools:elevator_button_module, Elevator Button Screen Module
+rftools:redstone_module, Redstone Screen Module
+rftools:counter_module, Counter Screen Module
+rftools:counterplus_module, Counter Plus Screen Module
+rftools:storage_control_module, Storage Control Screen Module
+rftools:dump_module, Dump Screen Module
+rftools:space_chamber_card, Space Chamber Card
+rftools:shape_card:0, Shape Card
+rftools:shape_card:1, Shape Card (Void)
+rftools:shape_card:2, Shape Card (Quarry)
+rftools:shape_card:3, Shape Card (Silk Quarry)
+rftools:shape_card:4, Shape Card (Fortune Quarry)
+rftools:shape_card:5, Shape Card (Clearing Quarry)
+rftools:shape_card:6, Shape Card (Clearing Silk Quarry)
+rftools:shape_card:7, Shape Card (Clearing Fortune Quarry)
+rftools:shape_card:8, Shape Card (Pump)
+rftools:shape_card:9, Shape Card (Clearing Pump)
+rftools:shape_card:10, Shape Card (Placing Liquids)
+rftools:powercell_card, Powercell Card
+rftools:regeneration_module, Regeneration Environmental Module
+rftools:regenerationplus_module, Regeneration Plus Environmental Module
+rftools:speed_module, Speed Environmental Module
+rftools:speedplus_module, Speed Plus Environmental Module
+rftools:haste_module, Haste Environmental Module
+rftools:hasteplus_module, Haste Plus Environmental Module
+rftools:saturation_module, Saturation Environmental Module
+rftools:saturationplus_module, Saturation Plus Environmental Module
+rftools:featherfalling_module, Feather Falling Environmental Module
+rftools:featherfallingplus_module, Feather Falling Plus Environmental Module
+rftools:flight_module, Flight Environmental Module
+rftools:peaceful_module, Peaceful Environmental Module
+rftools:waterbreathing_module, Water Breathing Environmental Module
+rftools:nightvision_module, Night Vision Environmental Module
+rftools:blindness_module, Blindness Environmental Module
+rftools:weakness_module, Weakness Environmental Module
+rftools:poison_module, Poison Environmental Module
+rftools:slowness_module, Slowness Environmental Module
+rftools:glowing_module, Glowing Environmental Module
+rftools:luck_module, Luck Environmental Module
+rftools:noteleport_module, No Teleport Environmental Module
+rftools:orphaning_card, Orphaning Card
+rftools:security_card, Security Card
+rftools:machine_frame, Machine Frame
+rftools:machine_base, Machine Base
+rftools:dimensional_shard_ore:0, Dimensional Shard Ore
+rftools:dimensional_shard_ore:1, Dimensional Shard Ore
+rftools:dimensional_shard_ore:2, Dimensional Shard Ore
+rftools:coalgenerator, Coal Generator
+rftools:crafter1, Crafter Tier 1
+rftools:crafter2, Crafter Tier 2
+rftools:crafter3, Crafter Tier 3
+rftools:modular_storage, Modular Storage
+rftools:remote_storage, Remote Storage
+rftools:storage_terminal, Storage Terminal
+rftools:level_emitter, Level Emitter
+rftools:matter_transmitter, Matter Transmitter
+rftools:matter_receiver, Matter Receiver
+rftools:dialing_device, Dialing Device
+rftools:simple_dialer, Simple Dialer
+rftools:destination_analyzer, Destination Analyzer
+rftools:matter_booster, Matter Booster
+rftools:screen, Screen
+rftools:creative_screen, Creative Screen
+rftools:screen_controller, Screen Controller
+rftools:redstone_transmitter_block, Redstone Transmitter
+rftools:redstone_receiver_block, Redstone Receiver
+rftools:sequencer_block, Sequencer
+rftools:counter_block, Counter
+rftools:logic_block, Logic Gate
+rftools:invchecker_block, Inventory Checker
+rftools:sensor_block, Sensor
+rftools:analog_block, Analog
+rftools:digit_block, Digit
+rftools:wire_block, Wire
+rftools:timer_block, Timer
+rftools:machine_infuser, Machine Infuser
+rftools:space_chamber, Space Chamber Corner Block
+rftools:space_chamber_controller, Space Chamber Controller Block
+rftools:support_block, Support Block
+rftools:builder, Builder
+rftools:composer, Composer
+rftools:locator, Locator
+rftools:projector, Projector
+rftools:scanner, Scanner
+rftools:remote_scanner, Remote Scanner
+rftools:powercell, Powercell
+rftools:powercell_advanced, Advanced Powercell
+rftools:powercell_creative, Creative Powercell
+rftools:powercell_simple, Simple Powercell
+rftools:relay, Power Relay
+rftools:rf_monitor, RF Monitor
+rftools:liquid_monitor, Liquid Monitor
+rftools:shield_block1, Shield Projector Tier 1
+rftools:shield_block2, Shield Projector Tier 2
+rftools:shield_block3, Shield Projector Tier 3
+rftools:shield_block4, Shield Projector Tier 4
+rftools:invisible_shield_block, Invisible Shield Block
+rftools:notick_invisible_shield_block, Invisible Shield Block
+rftools:invisible_shield_block_opaque, Invisible Shield Block
+rftools:notick_invisible_shield_block_opaque, Invisible Shield Block
+rftools:shield_template_block:0, Shield Template
+rftools:shield_template_block:1, Shield Template
+rftools:shield_template_block:2, Shield Template
+rftools:shield_template_block:3, Shield Template
+rftools:solid_shield_block, Solid Shield Block
+rftools:notick_solid_shield_block, Solid Shield Block
+rftools:camo_shield_block, Camo Shield Block
+rftools:notick_camo_shield_block, Camo Shield Block
+rftools:solid_shield_block_opaque, Solid Shield Block
+rftools:notick_solid_shield_block_opaque, Solid Shield Block
+rftools:camo_shield_block_opaque, Camo Shield Block
+rftools:notick_camo_shield_block_opaque, Camo Shield Block
+rftools:environmental_controller, Environmental Controller
+rftools:spawner, Spawner
+rftools:matter_beamer, Matter Beamer
+rftools:block_protector, Block Protector
+rftools:item_filter, Item Filter
+rftools:security_manager, Security Manager
+rftools:endergenic, Endergenic Generator
+rftools:pearl_injector, Pearl Injector
+rftools:ender_monitor, Ender Monitor
+rftools:storage_scanner, Storage Scanner
+rftools:elevator, Elevator
+rftools:booster, Booster
 xnet:xnet_manual, XNet Manual
 xnet:connector_upgrade, Connector Upgrade Kit
 xnet:facade, Facade
@@ -6406,6 +6097,29 @@ openmodularturrets:teleporter_turret, Teleporter Turret
 openmodularturrets:laser_turret, Laser Turret
 openmodularturrets:rail_gun_turret, Rail Gun Turret
 openmodularturrets:lever_block, Basic Turret Base Crank
+rftoolscontrol:rftoolscontrol_manual, RFTools Control Manual
+rftoolscontrol:program_card, Program Card
+rftoolscontrol:cpu_core_500, CPU Core B500
+rftoolscontrol:cpu_core_1000, CPU Core S1000
+rftoolscontrol:cpu_core_2000, CPU Core EX2000
+rftoolscontrol:ram_chip, RAM Chip 8E
+rftoolscontrol:network_card, Network Card
+rftoolscontrol:advanced_network_card, Advanced Network Card
+rftoolscontrol:card_base, Card Base
+rftoolscontrol:crafting_card, Crafting Card
+rftoolscontrol:token, Token
+rftoolscontrol:network_identifier, Network Identifier
+rftoolscontrol:graphics_card, Graphics Card
+rftoolscontrol:variable_module, Variable Screen Module
+rftoolscontrol:interaction_module, Interaction Screen Module
+rftoolscontrol:console_module, Console Screen Module
+rftoolscontrol:vectorart_module, Vector Art Screen Module
+rftoolscontrol:programmer, Programmer
+rftoolscontrol:processor, Processor
+rftoolscontrol:node, Node
+rftoolscontrol:craftingstation, Crafting Station
+rftoolscontrol:workbench, Workbench
+rftoolscontrol:tank, Multi Tank
 storagenetwork:master, Storage Network Master
 storagenetwork:request, Storage Request Table
 storagenetwork:kabel, Storage Cable
