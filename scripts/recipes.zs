@@ -1,6 +1,11 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<inventorygenerators:inv_end_gen>);
+recipes.remove(<inventorygenerators:inv_halitosis_gen>);
+recipes.remove(<inventorygenerators:inv_nether_star_gen>);
+recipes.remove(<inventorygenerators:inv_furnace_gen>);
+recipes.remove(<minecraft:furnace>);
 recipes.remove(<galacticraftcore:refinery>);
 recipes.remove(<extraplanets:tier1_space_suit_boots>);
 recipes.remove(<extraplanets:tier1_space_suit_legings>);
@@ -22,6 +27,9 @@ recipes.remove(<exnihilocreatio:block_end_cake>);
 recipes.remove(<storagenetwork:kabel>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<minecraft:slime_ball>, [[<minecraft:dye:2>, <minecraft:sugar>, <minecraft:dye:2>],[<minecraft:sugar>, <appliedenergistics2:material:46>, <minecraft:sugar>], [<minecraft:dye:2>, <minecraft:sugar>, <minecraft:dye:2>]]);
+recipes.addShaped(<minecraft:furnace>, [[<slabmachines:furnace_slab>, <slabmachines:furnace_slab>, <slabmachines:furnace_slab>],[<slabmachines:furnace_slab>, null, <slabmachines:furnace_slab>], [<slabmachines:furnace_slab>, <slabmachines:furnace_slab>, <slabmachines:furnace_slab>]]);
+recipes.addShapeless(<industrialforegoing:pink_slime>, [<ore:slimeball>,<industrialforegoing:laser_lens_inverted:6>]);
 recipes.addShaped(<storagenetwork:kabel> * 4, [[null, null, null],[null, <appliedenergistics2:part:140>, <galacticraftcore:basic_item:9>], [null, <galacticraftcore:basic_item:9>, null]]);
 recipes.addShaped(<galacticraftcore:refinery>, [[<ore:ingotLead>, <mekanism:machineblock2:11>.anyDamage(), <ore:ingotLead>],[<ore:compressedSteel>, <mekanism:machineblock2:11>.anyDamage(), <ore:compressedSteel>], [<galacticraftplanets:item_basic_asteroids>, <minecraft:furnace>, <galacticraftplanets:item_basic_asteroids>]]);
 recipes.addShaped(<extraplanets:tier1_radiation_layer>, [[null, <minecraft:iron_ingot>, null],[<ore:ingotLead>, <minecraft:paper>, <ore:ingotLead>], [null, <minecraft:iron_ingot>, null]]);

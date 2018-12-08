@@ -1,0 +1,18 @@
+{
+  "key": {
+    "id": "astroblock",
+    "category": "global"
+  },
+  "content": {
+    "title": "Welcome to AstroBlock!",
+    "body": "Greetings Beta Tester!\nThis appears to be your first time using this guide.",
+    "audio": "astroblock",
+    "autoplay": true
+  },
+  "sortingIndex": 0,
+  "requirements": [],
+  "autoAdd": true,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

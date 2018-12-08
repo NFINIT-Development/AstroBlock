@@ -666,6 +666,34 @@ danknull:dank_null_panel:5, Emerald /dank/null Panel
 enderstorage:ender_storage:0, Ender Chest
 enderstorage:ender_storage:1, Ender Tank
 enderstorage:ender_pouch, Ender Pouch
+exsartagine:pan, Frying Pan
+exsartagine:smelter, Smelter
+exsartagine:pot, Cooking Pot
+exsartagine:range, Cooking Range
+exsartagine:egg.boiled, Boiled Egg
+exsartagine:beans.boiled, Cooked Beans
+exsartagine:potato.boiled, Cooked Potato
+exsartagine:salt, Salt
+exsartagine:flour, Flour
+exsartagine:curd, Curd
+exsartagine:yeast, Yeast
+exsartagine:dough, Dough
+exsartagine:pizzaplain, Plain Pizza
+exsartagine:pizzachicken, Chicken Pizza
+exsartagine:pizzachickenraw, Uncooked Chicken Pizza
+exsartagine:pizzafish, Fish Pizza
+exsartagine:pizzafishraw, Uncooked Fish Pizza
+exsartagine:pizzameat, Meat Pizza
+exsartagine:pizzameatraw, Uncooked Meat Pizza
+exsartagine:pizzasweet, Sweet Pizza
+exsartagine:pizzasweetraw, Uncooked Sweet Pizza
+exsartagine:doughpizza, Pizza Dough
+exsartagine:doughbread, Bread Dough
+exsartagine:breadfine, Fine Bread
+exsartagine:breadmeat, Meat Roll
+exsartagine:breadmeatraw, Raw Meat Roll
+exsartagine:breadveggie, Vegetable Bread
+exsartagine:breadveggieraw, Raw Vegetable Bread
 ftbg:guide_book, FTB Guidebook
 malisisdoors:wood_sliding_door, Wooden Glass Door
 malisisdoors:iron_sliding_door, Iron Glass Door
@@ -3403,6 +3431,27 @@ chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
 chisel:chisel_hitech, iChisel
 chisel:offsettool, Ender Offset Wand
+claybucket:unfiredclaybucket, Unfired Clay Bucket
+claybucket:claybucket:0, Clay Bucket
+claybucket:claybucket:1, Water Clay Bucket
+claybucket:claybucket:2, Lava Clay Bucket
+inventorygenerators:inv_culinary_gen, Inventory Culinary Generator
+inventorygenerators:inv_death_gen, Inventory Death Generator
+inventorygenerators:inv_end_gen, Inventory End Generator
+inventorygenerators:inv_explosive_gen, Inventory Explosive Generator
+inventorygenerators:inv_furnace_gen, Inventory Furnace Generator
+inventorygenerators:inv_halitosis_gen, Inventory Halitosis Generator
+inventorygenerators:inv_frosty_gen, Inventory Frosty Generator
+inventorygenerators:inv_magmatic_gen, Inventory Magmatic Generator
+inventorygenerators:inv_nether_star_gen, Inventory Nether Star Generator
+inventorygenerators:inv_overclocked_gen, Inventory Overclocked Generator
+inventorygenerators:inv_pink_gen, Inventory Pink Generator
+inventorygenerators:inv_potion_gen, Inventory Potion Generator
+inventorygenerators:inv_slimey_gen, Inventory Slimey Generator
+inventorygenerators:inv_survivalist_gen, Inventory Survivalist Generator
+inventorygenerators:auto_pull_upgrade, Auto Pull Upgrade
+inventorygenerators:no_effect_upgrade, No Effect Upgrade
+inventorygenerators:speed_upgrade, Speed Upgrade
 deepmoblearning:machine_casing, Soot-covered Machine Casing
 deepmoblearning:infused_ingot_block, Glitch Infused Block
 deepmoblearning:simulation_chamber, Simulation Chamber
@@ -3528,6 +3577,158 @@ exnihilocreatio:block_auto_sifter, Auto Sifter
 exnihilocreatio:block_end_cake, End Cake
 exnihilocreatio:block_crucible:0, Unfired Crucible
 exnihilocreatio:block_crucible:1, Crucible
+excompressum:compressed_block:0, Compressed Dust
+excompressum:compressed_block:1, Compressed Cobblestone
+excompressum:compressed_block:2, Compressed Gravel
+excompressum:compressed_block:3, Compressed Sand
+excompressum:compressed_block:4, Compressed Dirt
+excompressum:compressed_block:5, Compressed Flint
+excompressum:compressed_block:6, Compressed Nether Gravel
+excompressum:compressed_block:7, Compressed Ender Gravel
+excompressum:compressed_block:8, Compressed Soul Sand
+excompressum:compressed_block:9, Compressed Netherrack
+excompressum:compressed_block:10, Compressed End Stone
+excompressum:heavy_sieve:0, Heavy Oak Sieve
+excompressum:heavy_sieve:1, Heavy Spruce Sieve
+excompressum:heavy_sieve:2, Heavy Birch Sieve
+excompressum:heavy_sieve:3, Heavy Jungle Sieve
+excompressum:heavy_sieve:4, Heavy Acacia Sieve
+excompressum:heavy_sieve:5, Heavy Dark Oak Sieve
+excompressum:wooden_crucible:0, Oak Crucible
+excompressum:wooden_crucible:1, Spruce Crucible
+excompressum:wooden_crucible:2, Birch Crucible
+excompressum:wooden_crucible:3, Jungle Crucible
+excompressum:wooden_crucible:4, Acacia Crucible
+excompressum:wooden_crucible:5, Dark Oak Crucible
+excompressum:bait:0, Wolf Bait
+excompressum:bait:1, Ocelot Bait
+excompressum:bait:2, Cow Bait
+excompressum:bait:3, Pig Bait
+excompressum:bait:4, Chicken Bait
+excompressum:bait:5, Sheep Bait
+excompressum:bait:6, Squid Bait
+excompressum:bait:7, Rabbit Bait
+excompressum:bait:8, Horse Bait
+excompressum:bait:9, Donkey Bait
+excompressum:bait:10, Polar Bear Bait
+excompressum:bait:11, Llama Bait
+excompressum:bait:12, Parrot Bait
+excompressum:auto_hammer, Auto Hammer
+excompressum:auto_compressed_hammer, Auto Compressed Hammer
+excompressum:auto_sieve, Auto Sieve
+excompressum:auto_heavy_sieve, Auto Heavy Sieve
+excompressum:auto_compressor, Auto Compressor
+excompressum:auto_compressor_rationing, Auto Compressor (Rationing)
+excompressum:chicken_stick, Chicken Stick
+excompressum:compressed_hammer_wood, Compressed Wooden Hammer
+excompressum:compressed_hammer_stone, Compressed Stone Hammer
+excompressum:compressed_hammer_iron, Compressed Iron Hammer
+excompressum:compressed_hammer_gold, Compressed Gold Hammer
+excompressum:compressed_hammer_diamond, Compressed Diamond Hammer
+excompressum:double_compressed_diamond_hammer, Double Compressed Diamond Hammer
+excompressum:compressed_crook, Compressed Crook
+excompressum:iron_mesh, Iron Mesh
+excompressum:wood_chippings, Wood Chippings
+excompressum:uncompressed_coal, Uncompressed Coal
+excompressum:bat_zapper, Bat Zapper
+excompressum:ore_smasher, Ore Smasher
+excompressum:ugly_steel_plating, Ugly Steel Plating
+extendedcrafting:storage:0, Block of Black Iron
+extendedcrafting:storage:1, Block of Luminessence
+extendedcrafting:storage:2, Block of Nether Stars
+extendedcrafting:storage:3, Block of Crystaltine
+extendedcrafting:storage:4, Block of The Ultimate
+extendedcrafting:storage:5, Block of Ender
+extendedcrafting:storage:6, Block of Ender Stars
+extendedcrafting:storage:7, Block of Enhanced Ender
+extendedcrafting:frame, Black Iron Frame
+extendedcrafting:lamp:0, Black Iron Lamp
+extendedcrafting:lamp:1, Black Iron Lamp
+extendedcrafting:trimmed:0, Block of Black Iron
+extendedcrafting:trimmed:1, Block of Black Iron
+extendedcrafting:trimmed:2, Block of Black Iron
+extendedcrafting:trimmed:3, Block of Black Iron
+extendedcrafting:trimmed:4, Block of Black Iron
+extendedcrafting:trimmed:5, Block of Black Iron
+extendedcrafting:crafting_table, Crafting Table
+extendedcrafting:pedestal, Pedestal
+extendedcrafting:crafting_core, Crafting Core
+extendedcrafting:interface, Automation Interface
+extendedcrafting:table_basic, Basic Crafting Table
+extendedcrafting:table_advanced, Advanced Crafting Table
+extendedcrafting:table_elite, Elite Crafting Table
+extendedcrafting:table_ultimate, Ultimate Crafting Table
+extendedcrafting:compressor, Quantum Compressor
+extendedcrafting:ender_alternator, Ender Alternator
+extendedcrafting:ender_crafter, Ender Crafter
+extendedcrafting:guide, Extended Crafting Guide
+extendedcrafting:material:0, Black Iron Ingot
+extendedcrafting:material:1, Black Iron Nugget
+extendedcrafting:material:2, Black Iron Slate
+extendedcrafting:material:3, Black Iron Rod
+extendedcrafting:material:7, Luminessence
+extendedcrafting:material:8, Basic Catalyst
+extendedcrafting:material:9, Advanced Catalyst
+extendedcrafting:material:10, Elite Catalyst
+extendedcrafting:material:11, Ultimate Catalyst
+extendedcrafting:material:12, Crystaltine Catalyst
+extendedcrafting:material:13, The Ultimate Catalyst
+extendedcrafting:material:14, Basic Component
+extendedcrafting:material:15, Advanced Component
+extendedcrafting:material:16, Elite Component
+extendedcrafting:material:17, Ultimate Component
+extendedcrafting:material:18, Crystaltine Component
+extendedcrafting:material:19, The Ultimate Component
+extendedcrafting:material:24, Crystaltine Ingot
+extendedcrafting:material:25, Crystaltine Nugget
+extendedcrafting:material:32, The Ultimate Ingot
+extendedcrafting:material:33, The Ultimate Nugget
+extendedcrafting:material:36, Ender Ingot
+extendedcrafting:material:37, Ender Nugget
+extendedcrafting:material:40, Ender Star
+extendedcrafting:material:41, Ender Star Nugget
+extendedcrafting:material:48, Enhanced Ender Ingot
+extendedcrafting:material:49, Enhanced Ender Nugget
+extendedcrafting:material:128, Diamond Nugget
+extendedcrafting:material:129, Emerald Nugget
+extendedcrafting:material:140, Nether Star Nugget
+extendedcrafting:handheld_table, Handheld Crafting Table
+extendedcrafting:recipe_maker:0, Recipe Maker
+extendedcrafting:singularity:0, Coal Singularity
+extendedcrafting:singularity:1, Iron Singularity
+extendedcrafting:singularity:2, Lapis Lazuli Singularity
+extendedcrafting:singularity:3, Redstone Singularity
+extendedcrafting:singularity:4, Glowstone Singularity
+extendedcrafting:singularity:5, Gold Singularity
+extendedcrafting:singularity:6, Diamond Singularity
+extendedcrafting:singularity:7, Emerald Singularity
+extendedcrafting:singularity:16, Aluminum Singularity
+extendedcrafting:singularity:17, Copper Singularity
+extendedcrafting:singularity:18, Tin Singularity
+extendedcrafting:singularity:19, Bronze Singularity
+extendedcrafting:singularity:20, Zinc Singularity
+extendedcrafting:singularity:21, Brass Singularity
+extendedcrafting:singularity:22, Silver Singularity
+extendedcrafting:singularity:23, Lead Singularity
+extendedcrafting:singularity:24, Steel Singularity
+extendedcrafting:singularity:25, Nickel Singularity
+extendedcrafting:singularity:26, Constantan Singularity
+extendedcrafting:singularity:27, Electrum Singularity
+extendedcrafting:singularity:28, Invar Singularity
+extendedcrafting:singularity:29, Mithril Singularity
+extendedcrafting:singularity:30, Tungsten Singularity
+extendedcrafting:singularity:31, Titanium Singularity
+extendedcrafting:singularity:32, Uranium Singularity
+extendedcrafting:singularity:33, Chrome Singularity
+extendedcrafting:singularity:34, Platinum Singularity
+extendedcrafting:singularity:35, Iridium Singularity
+extendedcrafting:singularity:48, Signalum Singularity
+extendedcrafting:singularity:49, Lumium Singularity
+extendedcrafting:singularity:50, Enderium Singularity
+extendedcrafting:singularity:64, Ardite Singularity
+extendedcrafting:singularity:65, Cobalt Singularity
+extendedcrafting:singularity:66, Manyullyn Singularity
+extendedcrafting:singularity_ultimate, The Ultimate Singularity
 extraplanets:mercury:0, Mercury Surface Rock
 extraplanets:mercury:1, Mercury Sub-Surface Rock
 extraplanets:mercury:2, Mercury Stone
@@ -4239,6 +4440,9 @@ extraplanets:oxygen_tank_heavy_full_light_blue, Heavy Oxygen Tank
 extraplanets:oxygen_tank_heavy_full_magenta, Heavy Oxygen Tank
 extraplanets:oxygen_tank_heavy_full_orange, Heavy Oxygen Tank
 extraplanets:oxygen_tank_heavy_full_white, Heavy Oxygen Tank
+fluidfunnel:funnel, Funnel
+fluidfunnel:tank, Tank
+fluidfunnel:tap, Tap
 ftbquests:screen, Task Screen
 ftbquests:progress_detector, Quest Progress Detector
 ftbquests:progress_screen, Progress Screen
@@ -4670,80 +4874,6 @@ teslacorelib:speed_tier2, Speed Upgrade II
 teslacorelib:battery:0, Tesla Battery
 teslacorelib:battery:0, Tesla Battery
 teslacorelib:wrench, Tesla Wrench
-matteroverdrive:dilithium_ore, Dilithium Ore
-matteroverdrive:tritanium_ore, Tritanium Ore
-matteroverdrive:tritanium_block, Tritanium Block
-matteroverdrive:machine_hull, Machine Hull
-matteroverdrive:decomposer, Matter Decomposer
-matteroverdrive:matter_recycler, Matter Recycler
-matteroverdrive:replicator, Matter Replicator
-matteroverdrive:matter_pipe, Matter Transport Pipe
-matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
-matteroverdrive:network_pipe, Matter Network Cable
-matteroverdrive:network_router, Matter Network Router
-matteroverdrive:matter_analyzer, Matter Analyzer
-matteroverdrive:pattern_monitor, Pattern Monitor
-matteroverdrive:pattern_storage, Pattern Storage
-matteroverdrive:network_switch, Matter Network Switch
-matteroverdrive:solar_panel, Solar Panel
-matteroverdrive:gravitational_anomaly, Gravitational Anomaly
-matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
-matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
-matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
-matteroverdrive:fusion_reactor_io, Fusion Reactor IO
-matteroverdrive:matter_plasma, tile.null.name
-matteroverdrive:molten_tritanium, tile.null.name
-matteroverdrive:tritanium_crate, Tritanium Crate
-matteroverdrive:tritanium_crate_white, White Tritanium Crate
-matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
-matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
-matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
-matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
-matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
-matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
-matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
-matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
-matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
-matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
-matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
-matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
-matteroverdrive:tritanium_crate_green, Green Tritanium Crate
-matteroverdrive:tritanium_crate_red, Red Tritanium Crate
-matteroverdrive:tritanium_crate_black, Black Tritanium Crate
-matteroverdrive:inscriber, Molecular Inscriber
-matteroverdrive:contract_market, Contract Market
-matteroverdrive:android_spawner, Rogue Android Spawner
-matteroverdrive:spacetime_accelerator, Space-Time Accelerator
-matteroverdrive:pylon, Dimensional Pylon
-matteroverdrive:transporter, Transporter
-matteroverdrive:star_map, Star Map
-matteroverdrive:holo_sign, Holographic Sign
-matteroverdrive:weapon_station, Weapon Station
-matteroverdrive:android_station, Android Station
-matteroverdrive:charging_station, Charging Station
-matteroverdrive:decorative.stripes, Yellow Stripes
-matteroverdrive:decorative.coils, Coils
-matteroverdrive:decorative.clean, Tritanium Smooth Plate
-matteroverdrive:decorative.vent.dark, Dark Vent
-matteroverdrive:decorative.vent.bright, Vent
-matteroverdrive:decorative.holo_matrix, Holographic Matrix
-matteroverdrive:decorative.tritanium_plate, Tritanium Plate
-matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
-matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
-matteroverdrive:decorative.matter_tube, Matter Tube
-matteroverdrive:decorative.beams, Tritanium Grate
-matteroverdrive:decorative.floor_tiles, Floor Tiles
-matteroverdrive:decorative.floor_tile_white, White Floor Tiles
-matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
-matteroverdrive:decorative.floor_noise, Linoleum Floor
-matteroverdrive:decorative.white_plate, Soft Wall Plates
-matteroverdrive:decorative.separator, Tritanium Rail
-matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
-matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
-matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
-matteroverdrive:microwave, Microwave
-matteroverdrive:industrial_glass, Industrial Glass
-matteroverdrive:bounding_box, Bounding Block
 matteroverdrive:dilithium_crystal, Dilithium Crystal
 matteroverdrive:tritanium_ingot, Tritanium Ingot
 matteroverdrive:tritanium_nugget, Tritanium Nugget
@@ -4842,6 +4972,80 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
+matteroverdrive:dilithium_ore, Dilithium Ore
+matteroverdrive:tritanium_ore, Tritanium Ore
+matteroverdrive:tritanium_block, Tritanium Block
+matteroverdrive:machine_hull, Machine Hull
+matteroverdrive:decomposer, Matter Decomposer
+matteroverdrive:matter_recycler, Matter Recycler
+matteroverdrive:replicator, Matter Replicator
+matteroverdrive:matter_pipe, Matter Transport Pipe
+matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
+matteroverdrive:network_pipe, Matter Network Cable
+matteroverdrive:network_router, Matter Network Router
+matteroverdrive:matter_analyzer, Matter Analyzer
+matteroverdrive:pattern_monitor, Pattern Monitor
+matteroverdrive:pattern_storage, Pattern Storage
+matteroverdrive:network_switch, Matter Network Switch
+matteroverdrive:solar_panel, Solar Panel
+matteroverdrive:gravitational_anomaly, Gravitational Anomaly
+matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
+matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
+matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
+matteroverdrive:fusion_reactor_io, Fusion Reactor IO
+matteroverdrive:matter_plasma, tile.null.name
+matteroverdrive:molten_tritanium, tile.null.name
+matteroverdrive:tritanium_crate, Tritanium Crate
+matteroverdrive:tritanium_crate_white, White Tritanium Crate
+matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
+matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
+matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
+matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
+matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
+matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
+matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
+matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
+matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
+matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
+matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
+matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
+matteroverdrive:tritanium_crate_green, Green Tritanium Crate
+matteroverdrive:tritanium_crate_red, Red Tritanium Crate
+matteroverdrive:tritanium_crate_black, Black Tritanium Crate
+matteroverdrive:inscriber, Molecular Inscriber
+matteroverdrive:contract_market, Contract Market
+matteroverdrive:android_spawner, Rogue Android Spawner
+matteroverdrive:spacetime_accelerator, Space-Time Accelerator
+matteroverdrive:pylon, Dimensional Pylon
+matteroverdrive:transporter, Transporter
+matteroverdrive:star_map, Star Map
+matteroverdrive:holo_sign, Holographic Sign
+matteroverdrive:weapon_station, Weapon Station
+matteroverdrive:android_station, Android Station
+matteroverdrive:charging_station, Charging Station
+matteroverdrive:decorative.stripes, Yellow Stripes
+matteroverdrive:decorative.coils, Coils
+matteroverdrive:decorative.clean, Tritanium Smooth Plate
+matteroverdrive:decorative.vent.dark, Dark Vent
+matteroverdrive:decorative.vent.bright, Vent
+matteroverdrive:decorative.holo_matrix, Holographic Matrix
+matteroverdrive:decorative.tritanium_plate, Tritanium Plate
+matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
+matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
+matteroverdrive:decorative.matter_tube, Matter Tube
+matteroverdrive:decorative.beams, Tritanium Grate
+matteroverdrive:decorative.floor_tiles, Floor Tiles
+matteroverdrive:decorative.floor_tile_white, White Floor Tiles
+matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
+matteroverdrive:decorative.floor_noise, Linoleum Floor
+matteroverdrive:decorative.white_plate, Soft Wall Plates
+matteroverdrive:decorative.separator, Tritanium Rail
+matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
+matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
+matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
+matteroverdrive:microwave, Microwave
+matteroverdrive:industrial_glass, Industrial Glass
+matteroverdrive:bounding_box, Bounding Block
 ironbackpacks:backpack:0, Basic Backpack
 ironbackpacks:backpack:0, Iron Backpack
 ironbackpacks:backpack:0, Iron Backpack
@@ -4854,13 +5058,186 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
+ironchest:iron_chest:0, Iron Chest
+ironchest:iron_chest:1, Gold Chest
+ironchest:iron_chest:2, Diamond Chest
+ironchest:iron_chest:3, Copper Chest
+ironchest:iron_chest:4, Silver Chest
+ironchest:iron_chest:5, Crystal Chest
+ironchest:iron_chest:6, Obsidian Chest
+ironchest:iron_chest:7, DirtChest 9000!
+ironchest:iron_shulker_box_white:0, White Iron Shulker Box
+ironchest:iron_shulker_box_white:1, White Gold Shulker Box
+ironchest:iron_shulker_box_white:2, White Diamond Shulker Box
+ironchest:iron_shulker_box_white:3, White Copper Shulker Box
+ironchest:iron_shulker_box_white:4, White Silver Shulker Box
+ironchest:iron_shulker_box_white:5, White Crystal Shulker Box
+ironchest:iron_shulker_box_white:6, White Obsidian Shulker Box
+ironchest:iron_shulker_box_orange:0, Orange Iron Shulker Box
+ironchest:iron_shulker_box_orange:1, Orange Gold Shulker Box
+ironchest:iron_shulker_box_orange:2, Orange Diamond Shulker Box
+ironchest:iron_shulker_box_orange:3, Orange Copper Shulker Box
+ironchest:iron_shulker_box_orange:4, Orange Silver Shulker Box
+ironchest:iron_shulker_box_orange:5, Orange Crystal Shulker Box
+ironchest:iron_shulker_box_orange:6, Orange Obsidian Shulker Box
+ironchest:iron_shulker_box_magenta:0, Magenta Iron Shulker Box
+ironchest:iron_shulker_box_magenta:1, Magenta Gold Shulker Box
+ironchest:iron_shulker_box_magenta:2, Magenta Diamond Shulker Box
+ironchest:iron_shulker_box_magenta:3, Magenta Copper Shulker Box
+ironchest:iron_shulker_box_magenta:4, Magenta Silver Shulker Box
+ironchest:iron_shulker_box_magenta:5, Magenta Crystal Shulker Box
+ironchest:iron_shulker_box_magenta:6, Magenta Obsidian Shulker Box
+ironchest:iron_shulker_box_light_blue:0, Light Blue Iron Shulker Box
+ironchest:iron_shulker_box_light_blue:1, Light Blue Gold Shulker Box
+ironchest:iron_shulker_box_light_blue:2, Light Blue Diamond Shulker Box
+ironchest:iron_shulker_box_light_blue:3, Light Blue Copper Shulker Box
+ironchest:iron_shulker_box_light_blue:4, Light Blue Silver Shulker Box
+ironchest:iron_shulker_box_light_blue:5, Light Blue Crystal Shulker Box
+ironchest:iron_shulker_box_light_blue:6, Light Blue Obsidian Shulker Box
+ironchest:iron_shulker_box_yellow:0, Yellow Iron Shulker Box
+ironchest:iron_shulker_box_yellow:1, Yellow Gold Shulker Box
+ironchest:iron_shulker_box_yellow:2, Yellow Diamond Shulker Box
+ironchest:iron_shulker_box_yellow:3, Yellow Copper Shulker Box
+ironchest:iron_shulker_box_yellow:4, Yellow Silver Shulker Box
+ironchest:iron_shulker_box_yellow:5, Yellow Crystal Shulker Box
+ironchest:iron_shulker_box_yellow:6, Yellow Obsidian Shulker Box
+ironchest:iron_shulker_box_lime:0, Lime Iron Shulker Box
+ironchest:iron_shulker_box_lime:1, Lime Gold Shulker Box
+ironchest:iron_shulker_box_lime:2, Lime Diamond Shulker Box
+ironchest:iron_shulker_box_lime:3, Lime Copper Shulker Box
+ironchest:iron_shulker_box_lime:4, Lime Silver Shulker Box
+ironchest:iron_shulker_box_lime:5, Lime Crystal Shulker Box
+ironchest:iron_shulker_box_lime:6, Lime Obsidian Shulker Box
+ironchest:iron_shulker_box_pink:0, Pink Iron Shulker Box
+ironchest:iron_shulker_box_pink:1, Pink Gold Shulker Box
+ironchest:iron_shulker_box_pink:2, Pink Diamond Shulker Box
+ironchest:iron_shulker_box_pink:3, Pink Copper Shulker Box
+ironchest:iron_shulker_box_pink:4, Pink Silver Shulker Box
+ironchest:iron_shulker_box_pink:5, Pink Crystal Shulker Box
+ironchest:iron_shulker_box_pink:6, Pink Obsidian Shulker Box
+ironchest:iron_shulker_box_gray:0, Gray Iron Shulker Box
+ironchest:iron_shulker_box_gray:1, Gray Gold Shulker Box
+ironchest:iron_shulker_box_gray:2, Gray Diamond Shulker Box
+ironchest:iron_shulker_box_gray:3, Gray Copper Shulker Box
+ironchest:iron_shulker_box_gray:4, Gray Silver Shulker Box
+ironchest:iron_shulker_box_gray:5, Gray Crystal Shulker Box
+ironchest:iron_shulker_box_gray:6, Gray Obsidian Shulker Box
+ironchest:iron_shulker_box_silver:0, Silver Iron Shulker Box
+ironchest:iron_shulker_box_silver:1, Silver Gold Shulker Box
+ironchest:iron_shulker_box_silver:2, Silver Diamond Shulker Box
+ironchest:iron_shulker_box_silver:3, Silver Copper Shulker Box
+ironchest:iron_shulker_box_silver:4, Silver Silver Shulker Box
+ironchest:iron_shulker_box_silver:5, Silver Crystal Shulker Box
+ironchest:iron_shulker_box_silver:6, Silver Obsidian Shulker Box
+ironchest:iron_shulker_box_cyan:0, Cyan Iron Shulker Box
+ironchest:iron_shulker_box_cyan:1, Cyan Gold Shulker Box
+ironchest:iron_shulker_box_cyan:2, Cyan Diamond Shulker Box
+ironchest:iron_shulker_box_cyan:3, Cyan Copper Shulker Box
+ironchest:iron_shulker_box_cyan:4, Cyan Silver Shulker Box
+ironchest:iron_shulker_box_cyan:5, Cyan Crystal Shulker Box
+ironchest:iron_shulker_box_cyan:6, Cyan Obsidian Shulker Box
+ironchest:iron_shulker_box_purple:0, Purple Iron Shulker Box
+ironchest:iron_shulker_box_purple:1, Purple Gold Shulker Box
+ironchest:iron_shulker_box_purple:2, Purple Diamond Shulker Box
+ironchest:iron_shulker_box_purple:3, Purple Copper Shulker Box
+ironchest:iron_shulker_box_purple:4, Purple Silver Shulker Box
+ironchest:iron_shulker_box_purple:5, Purple Crystal Shulker Box
+ironchest:iron_shulker_box_purple:6, Purple Obsidian Shulker Box
+ironchest:iron_shulker_box_blue:0, Blue Iron Shulker Box
+ironchest:iron_shulker_box_blue:1, Blue Gold Shulker Box
+ironchest:iron_shulker_box_blue:2, Blue Diamond Shulker Box
+ironchest:iron_shulker_box_blue:3, Blue Copper Shulker Box
+ironchest:iron_shulker_box_blue:4, Blue Silver Shulker Box
+ironchest:iron_shulker_box_blue:5, Blue Crystal Shulker Box
+ironchest:iron_shulker_box_blue:6, Blue Obsidian Shulker Box
+ironchest:iron_shulker_box_brown:0, Brown Iron Shulker Box
+ironchest:iron_shulker_box_brown:1, Brown Gold Shulker Box
+ironchest:iron_shulker_box_brown:2, Brown Diamond Shulker Box
+ironchest:iron_shulker_box_brown:3, Brown Copper Shulker Box
+ironchest:iron_shulker_box_brown:4, Brown Silver Shulker Box
+ironchest:iron_shulker_box_brown:5, Brown Crystal Shulker Box
+ironchest:iron_shulker_box_brown:6, Brown Obsidian Shulker Box
+ironchest:iron_shulker_box_green:0, Green Iron Shulker Box
+ironchest:iron_shulker_box_green:1, Green Gold Shulker Box
+ironchest:iron_shulker_box_green:2, Green Diamond Shulker Box
+ironchest:iron_shulker_box_green:3, Green Copper Shulker Box
+ironchest:iron_shulker_box_green:4, Green Silver Shulker Box
+ironchest:iron_shulker_box_green:5, Green Crystal Shulker Box
+ironchest:iron_shulker_box_green:6, Green Obsidian Shulker Box
+ironchest:iron_shulker_box_red:0, Red Iron Shulker Box
+ironchest:iron_shulker_box_red:1, Red Gold Shulker Box
+ironchest:iron_shulker_box_red:2, Red Diamond Shulker Box
+ironchest:iron_shulker_box_red:3, Red Copper Shulker Box
+ironchest:iron_shulker_box_red:4, Red Silver Shulker Box
+ironchest:iron_shulker_box_red:5, Red Crystal Shulker Box
+ironchest:iron_shulker_box_red:6, Red Obsidian Shulker Box
+ironchest:iron_shulker_box_black:0, Black Iron Shulker Box
+ironchest:iron_shulker_box_black:1, Black Gold Shulker Box
+ironchest:iron_shulker_box_black:2, Black Diamond Shulker Box
+ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
+ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
+ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
+ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironjetpacks:strap, Leather Strap
 ironjetpacks:basic_coil, Basic Coil
 ironjetpacks:advanced_coil, Advanced Coil
-ironjetpacks:electric-potato_cell, Energy Cell
-ironjetpacks:electric-potato_thruster, Thruster
-ironjetpacks:electric-potato_capacitor, Capacitor
-ironjetpacks:electric-potato_jetpack, Jetpack
+ironjetpacks:creative_cell, Energy Cell
+ironjetpacks:copper_cell, Energy Cell
+ironjetpacks:bronze_cell, Energy Cell
+ironjetpacks:iron_cell, Energy Cell
+ironjetpacks:silver_cell, Energy Cell
+ironjetpacks:gold_cell, Energy Cell
+ironjetpacks:steel_cell, Energy Cell
+ironjetpacks:diamond_cell, Energy Cell
+ironjetpacks:platinum_cell, Energy Cell
+ironjetpacks:creative_thruster, Thruster
+ironjetpacks:copper_thruster, Thruster
+ironjetpacks:bronze_thruster, Thruster
+ironjetpacks:iron_thruster, Thruster
+ironjetpacks:silver_thruster, Thruster
+ironjetpacks:gold_thruster, Thruster
+ironjetpacks:steel_thruster, Thruster
+ironjetpacks:diamond_thruster, Thruster
+ironjetpacks:platinum_thruster, Thruster
+ironjetpacks:creative_capacitor, Capacitor
+ironjetpacks:copper_capacitor, Capacitor
+ironjetpacks:bronze_capacitor, Capacitor
+ironjetpacks:iron_capacitor, Capacitor
+ironjetpacks:silver_capacitor, Capacitor
+ironjetpacks:gold_capacitor, Capacitor
+ironjetpacks:steel_capacitor, Capacitor
+ironjetpacks:diamond_capacitor, Capacitor
+ironjetpacks:platinum_capacitor, Capacitor
+ironjetpacks:creative_jetpack, Jetpack
+ironjetpacks:copper_jetpack, Jetpack
+ironjetpacks:bronze_jetpack, Jetpack
+ironjetpacks:iron_jetpack, Jetpack
+ironjetpacks:silver_jetpack, Jetpack
+ironjetpacks:gold_jetpack, Jetpack
+ironjetpacks:steel_jetpack, Jetpack
+ironjetpacks:diamond_jetpack, Jetpack
+ironjetpacks:platinum_jetpack, Jetpack
+loreexpansion:lore_journal:0, Journal
+loreexpansion:lore_journal:1, Journal
+loreexpansion:lore_scrap:0, Lore Page
 mekanismgenerators:solarpanel, Solar Panel
 mekanismgenerators:hohlraum, Hohlraum
 mekanismgenerators:turbineblade, Turbine Blade
@@ -5060,6 +5437,60 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
+csam:sharpened_bone, Sharpened Bone
+csam:sharpened_flint, Sharpened Flint
+csam:chain, Chain
+csam:clay_sword_head, Clay Sword Head
+csam:clay_pickaxe_head, Clay Pickaxe Head
+csam:clay_axe_head, Clay Axe Head
+csam:clay_hoe_head, Clay Hoe Head
+csam:clay_shovel_head, Clay Shovel Head
+csam:terracotta_sword_head, Terracotta Sword Head
+csam:terracotta_pickaxe_head, Terracotta Pickaxe Head
+csam:terracotta_axe_head, Terracotta Axe Head
+csam:terracotta_hoe_head, Terracotta Hoe Head
+csam:terracotta_shovel_head, Terracotta Shovel Head
+csam:bone_knife, Bone Knife
+csam:bone_pick, Bone Pick
+csam:bone_hatchet, Bone Hatchet
+csam:bone_hoe, Bone Hoe
+csam:flint_knife, Flint Knife
+csam:flint_pick, Flint Pick
+csam:flint_hatchet, Flint Hatchet
+csam:flint_hoe, Flint Hoe
+csam:flint_spade, Flint Spade
+csam:netherrack_sword, Netherrack Sword
+csam:netherrack_pickaxe, Netherrack Pickaxe
+csam:netherrack_axe, Netherrack Axe
+csam:netherrack_hoe, Netherrack Hoe
+csam:netherrack_shovel, Netherrack Shovel
+csam:quartz_sword, Quartz Sword
+csam:quartz_pickaxe, Quartz Pickaxe
+csam:quartz_axe, Quartz Axe
+csam:quartz_hoe, Quartz Hoe
+csam:quartz_shovel, Quartz Shovel
+csam:sandstone_sword, Sandstone Sword
+csam:sandstone_pickaxe, Sandstone Pickaxe
+csam:sandstone_axe, Sandstone Axe
+csam:sandstone_hoe, Sandstone Hoe
+csam:sandstone_shovel, Sandstone Shovel
+csam:terracotta_sword, Terracotta Sword
+csam:terracotta_pickaxe, Terracotta Pickaxe
+csam:terracotta_axe, Terracotta Axe
+csam:terracotta_hoe, Terracotta Hoe
+csam:terracotta_shovel, Terracotta Spade
+csam:crude_shield, Crude Shield
+csam:cactus_stew, Cactus Stew
+csam:nether_wart_stew, Nether Wart Stew
+csam:carrot_soup, Carrot Soup
+csam:potato_soup, Potato Soup
+csam:scrap_wood_planks, Scrap Wood Planks
+csam:scrap_wood_stairs, Scrap Wood Stairs
+csam:mud_brick_wet, Wet Mud Bricks
+csam:mud_brick, Mud Bricks
+csam:mud_brick_stairs, Mud Brick Stairs
+csam:mud_brick_slab:0, Mud Brick Slab
+csam:scrap_wood_slab:0, Scrap Wood Slab
 ultimatecobblegen:cobblegenerator, Cobblestone Generator
 ultimatecobblegen:gravelgenerator, Gravel Generator
 ultimatecobblegen:sandgenerator, Sand Generator
@@ -5619,6 +6050,24 @@ xtones:zyth:12, Zyth
 xtones:zyth:13, Zyth
 xtones:zyth:14, Zyth
 xtones:zyth:15, Zyth
+totemexpansion:totem_head_undying, Totem of Undying Head
+totemexpansion:totem_falling, Totem of Ascending
+totemexpansion:totem_head_plummeting, Totem of Ascending Head
+totemexpansion:totem_lava, Totem of Smouldering
+totemexpansion:totem_head_lava, Totem of Smouldering Head
+totemexpansion:totem_breathing, Totem of Breathing
+totemexpansion:totem_head_breathing, Totem of Breathing Head
+totemexpansion:totem_explode, Totem of Defusing
+totemexpansion:totem_head_explode, Totem of Defusing Head
+totemexpansion:totem_repair, Totem of Repairing
+totemexpansion:totem_head_repair, Totem of Repairing Head
+totemexpansion:totem_spelunking, Totem of Spelunking
+totemexpansion:totem_head_spelunking, Totem of Spelunking Head
+totemexpansion:totem_time, Totem of Advancing
+totemexpansion:totem_head_time, Totem of Advancing Head
+totemexpansion:totem_recalling, Totem of Recalling
+totemexpansion:totem_head_recalling, Totem of Recalling Head
+totemexpansion:totem_base, Totem Base
 ocsensors:sensor, tile.ocsensors.sensor.name
 teslacorelib:gear_diamond, Diamond Gear
 teslacorelib:gear_gold, Gold Gear
@@ -5627,6 +6076,54 @@ teslacorelib:gear_stone, Stone Gear
 teslacorelib:powder_emerald, Emerald Powder
 agricraft:seed_analyzer, Seed Analyzer
 agricraft:peripheral, Computer Controlled Seed Analyzer
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
 agricraft:sprinkler, Sprinkler
 agricraft:crop_sticks, Crop Sticks
 agricraft:journal, Agricultural Journal
@@ -5636,6 +6133,33 @@ agricraft:rake:0, Wooden Hand Rake
 agricraft:rake:1, Iron Hand Rake
 agricraft:clipper, Clipper
 agricraft:clipping, Clipping
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
+agricraft:agri_seed:0, Generic Seeds
 agricraft:agri_nugget:0, Emerald Nugget
 agricraft:agri_nugget:1, Diamond Nugget
 agricraft:agri_nugget:2, Quartz Shard
@@ -5663,33 +6187,6 @@ theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
 theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
 theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
 theoneprobe:probe_goggles, The One Probe (Bauble)
-davincisvessels:securedbed, Secured Bed
-davincisvessels:marker, Ship's Helm
-davincisvessels:floater, Floater
-davincisvessels:balloon:0, Air Balloon
-davincisvessels:balloon:1, Orange Air Balloon
-davincisvessels:balloon:2, Magenta Air Balloon
-davincisvessels:balloon:3, Light Blue Air Balloon
-davincisvessels:balloon:4, Yellow Air Balloon
-davincisvessels:balloon:5, Lime Air Balloon
-davincisvessels:balloon:6, Pink Air Balloon
-davincisvessels:balloon:7, Gray Air Balloon
-davincisvessels:balloon:8, Silver Air Balloon
-davincisvessels:balloon:9, Cyan Air Balloon
-davincisvessels:balloon:10, Purple Air Balloon
-davincisvessels:balloon:11, Blue Air Balloon
-davincisvessels:balloon:12, Brown Air Balloon
-davincisvessels:balloon:13, Green Air Balloon
-davincisvessels:balloon:14, Red Air Balloon
-davincisvessels:balloon:15, Black Air Balloon
-davincisvessels:gauge:0, Measurement Gauges
-davincisvessels:gauge:1, Extended Measurement Gauges
-davincisvessels:seat, Passenger Seat
-davincisvessels:buffer, Shore Buffer
-davincisvessels:stickybuffer, Sticky Buffer
-davincisvessels:engine, Steam Engine
-davincisvessels:crate_wood, Wooden Crate
-davincisvessels:anchorpoint, Anchor Point
 industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
 industrialforegoing:enchantment_refiner, Enchantment Sorter
 industrialforegoing:enchantment_extractor, Enchantment Extractor
@@ -5795,6 +6292,14 @@ industrialforegoing:conveyor_upgrade:6, Splitting Conveyor Upgrade
 industrialforegoing:pink_slime, Pink Slime
 industrialforegoing:book_manual, Industrial Foregoing's Manual
 industrialforegoing:pink_slime_ingot, Pink Slime Ingot
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
+industrialforegoing:infinity_drill:0, Infinity Drill
 industrialforegoing:adult_filter, Adult Filter
 industrialforegoing:range_addon:0, Range Addon
 industrialforegoing:range_addon:1, Range Addon
@@ -6006,6 +6511,8 @@ rftools:ender_monitor, Ender Monitor
 rftools:storage_scanner, Storage Scanner
 rftools:elevator, Elevator
 rftools:booster, Booster
+minicoal:minicoal, Mini Coal
+minicoal:minicharcoal, Mini Charcoal
 xnet:xnet_manual, XNet Manual
 xnet:connector_upgrade, Connector Upgrade Kit
 xnet:facade, Facade
@@ -6097,6 +6604,46 @@ openmodularturrets:teleporter_turret, Teleporter Turret
 openmodularturrets:laser_turret, Laser Turret
 openmodularturrets:rail_gun_turret, Rail Gun Turret
 openmodularturrets:lever_block, Basic Turret Base Crank
+redstonic:iron_head, Iron Drill Head
+redstonic:gold_head, Gold Drill Head
+redstonic:diamond_head, Diamond Drill Head
+redstonic:ultimate_head, Ultimate Drill Head
+redstonic:heavy_head, Heavy Drill Head
+redstonic:blazer_head, Blazer Drill Head
+redstonic:silky_head, Silky Drill Head
+redstonic:fortuitous_head, Fortuitous Drill Head
+redstonic:iron_body, Iron Drill Body
+redstonic:ultimate_body, Ultimate Drill Body
+redstonic:iron_blade, Iron Sword Blade
+redstonic:diamond_blade, Diamond Sword Blade
+redstonic:wood_handle, Wooden Sword Handle
+redstonic:iron_handle, Iron Sword Handle
+redstonic:energy1_drill_augment, Energy Drill Augment
+redstonic:energy2_drill_augment, Energy 2 Drill Augment
+redstonic:speed1_drill_augment, Speed Drill Augment
+redstonic:speed2_drill_augment, Speed 2 Drill Augment
+redstonic:heavy_drill_augment, Heavy Drill Augment
+redstonic:luck_sword_augment, Lucky Sword Augment
+redstonic:berserk1_sword_augment, Berserk Sword Augment
+redstonic:berserk2_sword_augment, Berserk 2 Sword Augment
+redstonic:redstonicdrill, Redstonic Drill
+redstonic:redstonicsword, Redstonic Sword
+redstonic:basic_energy, Basic Battery
+redstonic:energized_energy, Energized Battery
+redstonic:great_energy, Great Battery
+redstonic:infinite_energy, Infinite Battery
+redstonic:material:0, Iron Gear
+redstonic:material:101, Vibrantium Ingot
+redstonic:material:201, Electronic Board
+redstonic:material:202, Advanced Electronic Board
+redstonic:material:203, Redstone Stick
+redstonic:energizer:0, Energizer
+redstonic:energizer:8, Energizer (Full)
+redstonic:excerptor, Redstonic Excerptor
+redstonic:modifier, Redstonic Modifier
+redstonic:charger, Redstonic Charger
+redstonic:driller, Redstonic Driller
+redstonic:compounder, Redstonic Compounder
 rftoolscontrol:rftoolscontrol_manual, RFTools Control Manual
 rftoolscontrol:program_card, Program Card
 rftoolscontrol:cpu_core_500, CPU Core B500
@@ -6120,6 +6667,25 @@ rftoolscontrol:node, Node
 rftoolscontrol:craftingstation, Crafting Station
 rftoolscontrol:workbench, Workbench
 rftoolscontrol:tank, Multi Tank
+valkyrielib:guide, Digital Guide
+valkyrielib:modifier_component, Modifier Component
+valkyrielib:modifier_speed, Speed Modifier
+simplegenerators:combustion_simple, Simple Combustion Generator
+simplegenerators:combustion_upgradable, Upgradable Combustion Gen
+simplegenerators:culinary_simple, Simple Culinary Generator
+simplegenerators:culinary_upgradable, Upgradable Culinary Gen
+simplegenerators:ender_simple, Simple Ender Generator
+simplegenerators:ender_upgradable, Upgradable Ender Gen
+simplegenerators:nether_simple, Simple Nether Generator
+simplegenerators:nether_upgradable, Upgradable Nether Gen
+simplegenerators:soul_simple, Simple Soul Generator
+simplegenerators:soul_upgradable, Upgradable Soul Generator
+simplegenerators:geothermal_simple, Simple Geothermal Generator
+simplegenerators:geothermal_upgradable, Upgradable Geothermal Gen
+simplegenerators:fluid_combustion_simple, Simple Fluid Combustion Generator
+simplegenerators:fluid_combustion_upgradable, Upgradable Fluid Combustion Gen
+simplegenerators:turbine_simple, Simple Turbine Generator
+simplegenerators:turbine_upgradable, Upgradable Turbine Generator
 storagenetwork:master, Storage Network Master
 storagenetwork:request, Storage Request Table
 storagenetwork:kabel, Storage Cable
@@ -6173,3 +6739,4 @@ exnihilocreatio:item_ore_lead:0, Lead Ore Piece
 exnihilocreatio:item_ore_lead:1, Lead Ore Chunk
 exnihilocreatio:item_ore_lead:2, Lead Ore Dust
 guideapi:deepmoblearning-deepguide, item.guideapi.book.deepmoblearning.deepguide.name
+guideapi:inventorygenerators-guide_book, item.guideapi.book.inventorygenerators.guide_book.name

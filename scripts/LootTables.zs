@@ -1,5 +1,4 @@
 #Name: LootTables.zs
-#Author: Feed the Beast
 
 import loottweaker.vanilla.loot.LootTables;
 import loottweaker.vanilla.loot.LootTable;
@@ -25,6 +24,7 @@ val commonReward = common.addPool("commonReward", 1, 1, 0, 0);
 	commonReward.addItemEntry(<galacticraftcore:canister:1> * 3, 1);
 	commonReward.addItemEntry(<galacticraftcore:basic_block_core:4> * 32, 1);
 	commonReward.addItemEntry(<galacticraftcore:basic_block_core:3> * 32, 1);
+	commonReward.addItemEntry(<inventorygenerators:inv_survivalist_gen>, 1);
 
 	#uncommon lootcrate
 val uncommon = LootTables.getTable("ftbquests:lootcrates/uncommon");
@@ -37,6 +37,11 @@ val uncommonReward = uncommon.addPool("uncommonReward", 1, 2, 0, 0);
 	uncommonReward.addItemEntry(<minecraft:dye:4> * 9, 1);
 	uncommonReward.addItemEntry(<galacticraftcore:battery> , 1);
 	uncommonReward.addItemEntry(<storagenetwork:kabel> * 4 , 1);
+	uncommonReward.addItemEntry(<inventorygenerators:inv_furnace_gen>, 1);
+	uncommonReward.addItemEntry(<matteroverdrive:tritanium_crate_blue> * 3, 1);
+	uncommonReward.addItemEntry(<matteroverdrive:tritanium_crate_purple> * 3, 1);
+	uncommonReward.addItemEntry(<matteroverdrive:tritanium_crate_green> * 3, 1);
+
 
 	#rare lootcrate
 val rare = LootTables.getTable("ftbquests:lootcrates/rare");
@@ -46,11 +51,23 @@ val rareReward = rare.addPool("rareReward", 1, 1, 0, 0);
 	rareReward.addItemEntry(<galacticraftcore:oxygen_tank_heavy_full> , 1);
 	rareReward.addItemEntry(<matteroverdrive:plasma_core>, 1);
 	rareReward.addItemEntry(<matteroverdrive:forcefield_emitter>, 1);
+	rareReward.addItemEntry(<inventorygenerators:inv_slimey_gen>, 1);
+	rareReward.addItemEntry(<inventorygenerators:inv_potion_gen>, 1);
+	rareReward.addItemEntry(<inventorygenerators:inv_pink_gen>, 1);
+	rareReward.addItemEntry(<inventorygenerators:inv_overclocked_gen>, 1);
+	rareReward.addItemEntry(<inventorygenerators:inv_magmatic_gen>, 1);
+	rareReward.addItemEntry(<inventorygenerators:inv_frosty_gen>, 1);
+	rareReward.addItemEntry(<inventorygenerators:inv_explosive_gen>, 1);
+	rareReward.addItemEntry(<inventorygenerators:inv_death_gen>, 1);
+	rareReward.addItemEntry(<inventorygenerators:inv_culinary_gen>, 1);
 
 	#epic lootcrate
 val epic = LootTables.getTable("ftbquests:lootcrates/epic");
 val epicReward = epic.addPool("epicReward", 1, 1, 0, 0);
 	epicReward.addItemEntry(<galacticraftcore:solar:4>, 1);
+	epicReward.addItemEntry(<inventorygenerators:inv_nether_star_gen>, 1);
+	epicReward.addItemEntry(<inventorygenerators:inv_halitosis_gen>, 1);
+	epicReward.addItemEntry(<inventorygenerators:inv_end_gen>, 1);
 
 
 	#legendary lootcrate

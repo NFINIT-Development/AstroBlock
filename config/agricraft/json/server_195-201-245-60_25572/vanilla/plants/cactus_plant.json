@@ -6,10 +6,10 @@
   "seed_name": "Cactus Seeds",
   "seed_items": [
     {
-      "item": "agricraft:agri_seed",
+      "item": "exnihilocreatio:item_seed_cactus",
       "meta": 0,
       "tags": "",
-      "ignoreMeta": false,
+      "ignoreMeta": true,
       "ignoreTags": [
         "*"
       ],
