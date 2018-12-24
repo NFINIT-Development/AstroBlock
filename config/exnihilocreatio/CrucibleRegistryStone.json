@@ -1,42 +1,18 @@
 {
-  "ore:sand": {
+  "minecraft:cobblestone:0": {
     "fluid": "lava",
-    "amount": 100
+    "amount": 25
   },
-  "ore:stone": {
+  "minecraft:stone:1": {
     "fluid": "lava",
-    "amount": 250
+    "amount": 25
   },
-  "ore:gravel": {
+  "minecraft:stone:3": {
     "fluid": "lava",
-    "amount": 200
+    "amount": 25
   },
-  "ore:cobblestone": {
+  "minecraft:stone:5": {
     "fluid": "lava",
-    "amount": 250
-  },
-  "ore:netherrack": {
-    "fluid": "lava",
-    "amount": 1000
-  },
-  "exnihilocreatio:block_dust:0": {
-    "fluid": "lava",
-    "amount": 50
-  },
-  "ore:obsidian": {
-    "fluid": "lava",
-    "amount": 1000
-  },
-    "galacticraftplanets:asteroids_block:0": {
-    "fluid": "oil",
-    "amount": 100
-  },
-    "galacticraftplanets:asteroids_block:1": {
-    "fluid": "oil",
-    "amount": 100
-  },
-    "galacticraftplanets:asteroids_block:2": {
-    "fluid": "oil",
-    "amount": 100
+    "amount": 25
   }
 }

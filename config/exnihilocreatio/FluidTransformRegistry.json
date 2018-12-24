@@ -2,7 +2,7 @@
   {
     "inputFluid": "water",
     "outputFluid": "witchwater",
-    "duration": 12000,
+    "duration": 52000,
     "transformingBlocks": [
       "minecraft:mycelium:0"
     ],

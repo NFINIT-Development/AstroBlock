@@ -694,7 +694,6 @@ exsartagine:breadmeat, Meat Roll
 exsartagine:breadmeatraw, Raw Meat Roll
 exsartagine:breadveggie, Vegetable Bread
 exsartagine:breadveggieraw, Raw Vegetable Bread
-ftbg:guide_book, FTB Guidebook
 malisisdoors:wood_sliding_door, Wooden Glass Door
 malisisdoors:iron_sliding_door, Iron Glass Door
 malisisdoors:jail_door, Jail Door
@@ -2359,6 +2358,296 @@ opencomputers:misc:0, Creatix
 opencomputers:misc:0, Tablet
 opencomputers:misc:0, Hover Boots
 opencomputers:misc:0, EEPROM (Lua BIOS)
+sonarcore:reinforcedstoneblock, Reinforced Stone
+sonarcore:reinforcedstonestairs, Reinforced Stone Stairs
+sonarcore:reinforcedstonefence, Reinforced Stone Fence
+sonarcore:reinforcedstonegate, Reinforced Stone Gate
+sonarcore:reinforcedstonebrick, Reinforced Stone Brick
+sonarcore:reinforcedstonebrickstairs, Reinforced Stone Brick Stairs
+sonarcore:reinforcedstonebrickfence, Reinforced Stone Brick Fence
+sonarcore:reinforcedstonebrickgate, Reinforced Stone Brick Gate
+sonarcore:reinforceddirtblock, Reinforced Dirt
+sonarcore:reinforceddirtstairs, Reinforced Dirt Stairs
+sonarcore:reinforceddirtfence, Reinforced Dirt Fence
+sonarcore:reinforceddirtgate, Reinforced Dirt Gate
+sonarcore:reinforceddirtbrick, Reinforced Dirt Brick
+sonarcore:reinforceddirtbrickstairs, Reinforced Dirt Brick Stairs
+sonarcore:reinforceddirtbrickfence, Reinforced Dirt Brick Fence
+sonarcore:reinforceddirtbrickgate, Reinforced Dirt Brick Gate
+sonarcore:stablestone_normal, Stable Stone
+sonarcore:stablestonerimmed_normal, Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_normal, Rimmed Black Stable Stone
+sonarcore:stablestone_black, Black Stable Stone
+sonarcore:stablestonerimmed_black, Black Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_black, Black Rimmed Black Stable Stone
+sonarcore:stablestone_blue, Blue Stable Stone
+sonarcore:stablestonerimmed_blue, Blue Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_blue, Blue Rimmed Black Stable Stone
+sonarcore:stablestone_brown, Brown Stable Stone
+sonarcore:stablestonerimmed_brown, Brown Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_brown, Brown Rimmed Black Stable Stone
+sonarcore:stablestone_cyan, Cyan Stable Stone
+sonarcore:stablestonerimmed_cyan, Cyan Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_cyan, Cyan Rimmed Black Stable Stone
+sonarcore:stablestone_green, Green Stable Stone
+sonarcore:stablestonerimmed_green, Green Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_green, Green Rimmed Black Stable Stone
+sonarcore:stablestone_lightblue, Light Blue Stable Stone
+sonarcore:stablestonerimmed_lightblue, Light Blue Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_lightblue, Light Blue Rimmed Black Stable Stone
+sonarcore:stablestone_lightgrey, Light Stable Stone
+sonarcore:stablestonerimmed_lightgrey, Light Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_lightgrey, Light Rimmed Black Stable Stone
+sonarcore:stablestone_lime, Lime Stable Stone
+sonarcore:stablestonerimmed_lime, Lime Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_lime, Lime Rimmed Black Stable Stone
+sonarcore:stablestone_magenta, Magenta Stable Stone
+sonarcore:stablestonerimmed_magenta, Magenta Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_magenta, Magenta Rimmed Black Stable Stone
+sonarcore:stablestone_orange, Orange Stable Stone
+sonarcore:stablestonerimmed_orange, Orange Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_orange, Orange Rimmed Black Stable Stone
+sonarcore:stablestone_pink, Pink Stable Stone
+sonarcore:stablestonerimmed_pink, Pink Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_pink, Pink Rimmed Black Stable Stone
+sonarcore:stablestone_plain, Plain Stable Stone
+sonarcore:stablestonerimmed_plain, Plain Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_plain, Plain Rimmed Black Stable Stone
+sonarcore:stablestone_purple, Purple Stable Stone
+sonarcore:stablestonerimmed_purple, Purple Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_purple, Purple Rimmed Black Stable Stone
+sonarcore:stablestone_red, Red Stable Stone
+sonarcore:stablestonerimmed_red, Red Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_red, Red Rimmed Black Stable Stone
+sonarcore:stablestone_yellow, Yellow Stable Stone
+sonarcore:stablestonerimmed_yellow, Yellow Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_yellow, Yellow Rimmed Black  Stable Stone
+sonarcore:stableglass, Stable Glass
+sonarcore:clearstableglass, Clear Stable Glass
+practicallogistics2:hammer, Forging Hammer
+practicallogistics2:hammer_air, Forging Hammer
+practicallogistics2:sapphireore, Sapphire Ore
+practicallogistics2:inforeader, Info Reader
+practicallogistics2:inventoryreader, Inventory Reader
+practicallogistics2:fluidreader, Fluid Reader
+practicallogistics2:energyreader, Energy Reader
+practicallogistics2:networkreader, Network Reader
+practicallogistics2:array, Array
+practicallogistics2:entitynode, Entity Node
+practicallogistics2:transfernode, Transfer Node
+practicallogistics2:redstonenode, Redstone Node
+practicallogistics2:clock, Clock
+practicallogistics2:redstonesignaller, Redstone Signaller
+practicallogistics2:minidisplay, Mini Display
+practicallogistics2:displayscreen, Display Screen
+practicallogistics2:largedisplayscreen, Large Display Screen
+practicallogistics2:holographicdisplay, Holographic Display
+practicallogistics2:advancedholographicdisplay, Advanced Holographic Display
+practicallogistics2:datacable, Data Cable
+practicallogistics2:redstonecable, Redstone Cable
+practicallogistics2:node, Node
+practicallogistics2:dataemitter, Data Emitter
+practicallogistics2:datareceiver, Data Receiver
+practicallogistics2:redstoneemitter, Wireless Redstone Emitter
+practicallogistics2:redstonereceiver, Wireless Redstone Receiver
+practicallogistics2:sapphire, Sapphire
+practicallogistics2:sapphiredust, Sapphire Dust
+practicallogistics2:stoneplate, Stone Plate
+practicallogistics2:signallingplate, Signalling Plate
+practicallogistics2:wirelessplate, Wireless Plate
+practicallogistics2:etchedplate, Etched Plate
+practicallogistics2:transceiver, Transceiver
+practicallogistics2:entitytransceiver, Entity Transceiver
+practicallogistics2:wirelessstorage, Wireless Storage Reader
+practicallogistics2:operator, Operator Tool
+practicallogistics2:plguide, Practical Logistics Guide
+rafradek_tf2_weapons:placer:0, Spawn Scout
+rafradek_tf2_weapons:placer:1, Spawn Soldier
+rafradek_tf2_weapons:placer:2, Spawn Pyro
+rafradek_tf2_weapons:placer:3, Spawn Demoman
+rafradek_tf2_weapons:placer:4, Spawn Heavy
+rafradek_tf2_weapons:placer:5, Spawn Engineer
+rafradek_tf2_weapons:placer:6, Spawn Medic
+rafradek_tf2_weapons:placer:7, Spawn Sniper
+rafradek_tf2_weapons:placer:8, Spawn Spy
+rafradek_tf2_weapons:placer:9, Spawn Scout
+rafradek_tf2_weapons:placer:10, Spawn Soldier
+rafradek_tf2_weapons:placer:11, Spawn Pyro
+rafradek_tf2_weapons:placer:12, Spawn Demoman
+rafradek_tf2_weapons:placer:13, Spawn Heavy
+rafradek_tf2_weapons:placer:14, Spawn Engineer
+rafradek_tf2_weapons:placer:15, Spawn Medic
+rafradek_tf2_weapons:placer:16, Spawn Sniper
+rafradek_tf2_weapons:placer:17, Spawn Spy
+rafradek_tf2_weapons:placer:36, Spawn Scout
+rafradek_tf2_weapons:placer:37, Spawn Soldier
+rafradek_tf2_weapons:placer:38, Spawn Pyro
+rafradek_tf2_weapons:placer:39, Spawn Demoman
+rafradek_tf2_weapons:placer:40, Spawn Heavy
+rafradek_tf2_weapons:placer:41, Spawn Engineer
+rafradek_tf2_weapons:placer:42, Spawn Medic
+rafradek_tf2_weapons:placer:43, Spawn Sniper
+rafradek_tf2_weapons:placer:44, Spawn Spy
+rafradek_tf2_weapons:placer:26, Spawn Saxton Hale
+rafradek_tf2_weapons:placer:27, Spawn Saxton Hale (hostile)
+rafradek_tf2_weapons:placer:28, Spawn Monoculus
+rafradek_tf2_weapons:placer:29, Spawn Horseless Headless Horsemann
+rafradek_tf2_weapons:placer:30, Spawn Merasmus
+rafradek_tf2_weapons:disguise_kit, Disguise Kit
+rafradek_tf2_weapons:building_box:18, Sentry Box
+rafradek_tf2_weapons:building_box:19, Sentry Box
+rafradek_tf2_weapons:building_box:20, Dispenser Box
+rafradek_tf2_weapons:building_box:21, Dispenser Box
+rafradek_tf2_weapons:building_box:22, Teleporter Box
+rafradek_tf2_weapons:building_box:23, Teleporter Box
+rafradek_tf2_weapons:sandvich, Sandvich
+rafradek_tf2_weapons:chocolate, Dalokohs Bar
+rafradek_tf2_weapons:horn, Horn
+rafradek_tf2_weapons:ammo:1, Shotgun Shell
+rafradek_tf2_weapons:ammo:4, Revolver Round
+rafradek_tf2_weapons:ammo:6, Rifle Round
+rafradek_tf2_weapons:ammo:7, Rocket
+rafradek_tf2_weapons:ammo:8, Grenade
+rafradek_tf2_weapons:ammo:11, Stickybomb
+rafradek_tf2_weapons:ammo:13, Flare
+rafradek_tf2_weapons:ammo:14, Ball
+rafradek_tf2_weapons:ammo_box:1, Ammo Box
+rafradek_tf2_weapons:ammo_fire, item.tf2ammo.name
+rafradek_tf2_weapons:ammo_medigun, item.tf2ammo.name
+rafradek_tf2_weapons:ammo_pistol, item.tf2ammo.name
+rafradek_tf2_weapons:ammo_minigun, item.tf2ammo.name
+rafradek_tf2_weapons:ammo_smg, item.tf2ammo.name
+rafradek_tf2_weapons:ammo_syringe, item.tf2ammo.name
+rafradek_tf2_weapons:ammo_belt, Ammo Belt
+rafradek_tf2_weapons:scout_shoes, Scout Shoes
+rafradek_tf2_weapons:mantreads, Mantreads
+rafradek_tf2_weapons:gunboats, Gunboats
+rafradek_tf2_weapons:statue, statue
+rafradek_tf2_weapons:token:0, Scout Token
+rafradek_tf2_weapons:token:1, Soldier Token
+rafradek_tf2_weapons:token:2, Pyro Token
+rafradek_tf2_weapons:token:3, Demoman Token
+rafradek_tf2_weapons:token:4, Heavy Token
+rafradek_tf2_weapons:token:5, Engineer Token
+rafradek_tf2_weapons:token:6, Medic Token
+rafradek_tf2_weapons:token:7, Sniper Token
+rafradek_tf2_weapons:token:8, Spy Token
+rafradek_tf2_weapons:itemtf2:0, Copper Ingot
+rafradek_tf2_weapons:itemtf2:1, Lead Ingot
+rafradek_tf2_weapons:itemtf2:2, Australium Ingot
+rafradek_tf2_weapons:itemtf2:3, Scrap Metal
+rafradek_tf2_weapons:itemtf2:4, Reclaimed Metal
+rafradek_tf2_weapons:itemtf2:5, Refined Metal
+rafradek_tf2_weapons:itemtf2:6, Australium Nugget
+rafradek_tf2_weapons:itemtf2:7, Mann Co. Supply Crate Key
+rafradek_tf2_weapons:itemtf2:11, Logic Board
+rafradek_tf2_weapons:robotpart:0, Battle-Worn Robot Money Furnace
+rafradek_tf2_weapons:robotpart:1, Battle-Worn Robot Taunt Processor
+rafradek_tf2_weapons:robotpart:2, Battle-Worn Robot KB-808
+rafradek_tf2_weapons:robotpart:3, Reinforced Robot Emotion Detector
+rafradek_tf2_weapons:robotpart:4, Reinforced Robot Bomb Stabilizer
+rafradek_tf2_weapons:robotpart:5, Pristine Robot Brainstorm Bulb
+rafradek_tf2_weapons:robotpart:6, Pristine Robot Currency Digester
+rafradek_tf2_weapons:target, Target
+rafradek_tf2_weapons:killstreakkit, item.null.name
+rafradek_tf2_weapons:strangifier, Strangifier
+rafradek_tf2_weapons:killstreakfabricator, item.null.name
+rafradek_tf2_weapons:eventmaker:0, Beginner Tour of Duty Ticket
+rafradek_tf2_weapons:eventmaker:1, Intermediate Tour of Duty Ticket
+rafradek_tf2_weapons:eventmaker:2, Advanced Tour of Duty Ticket
+rafradek_tf2_weapons:eventmaker:3, Expert Tour of Duty Ticket
+rafradek_tf2_weapons:eventmaker:4, Nightmare Tour of Duty Ticket
+rafradek_tf2_weapons:shield, item.tf2usable.name
+rafradek_tf2_weapons:sniperrifle, item.tf2usable.name
+rafradek_tf2_weapons:airblast, item.tf2usable.name
+rafradek_tf2_weapons:medigun, item.tf2usable.name
+rafradek_tf2_weapons:flamethrower, item.tf2usable.name
+rafradek_tf2_weapons:jetpacktrigger, item.tf2usable.name
+rafradek_tf2_weapons:stickybomb, item.tf2usable.name
+rafradek_tf2_weapons:cosmetic, item.tf2usable.name
+rafradek_tf2_weapons:jar, item.tf2usable.name
+rafradek_tf2_weapons:huntsman, item.tf2usable.name
+rafradek_tf2_weapons:melee, item.tf2usable.name
+rafradek_tf2_weapons:bullet, item.tf2usable.name
+rafradek_tf2_weapons:bonk, item.tf2usable.name
+rafradek_tf2_weapons:crate, item.tf2usable.name
+rafradek_tf2_weapons:wrangler, item.tf2usable.name
+rafradek_tf2_weapons:pda, item.tf2usable.name
+rafradek_tf2_weapons:wrench, item.tf2usable.name
+rafradek_tf2_weapons:cleaver, item.tf2usable.name
+rafradek_tf2_weapons:knife, item.tf2usable.name
+rafradek_tf2_weapons:parachute, item.tf2usable.name
+rafradek_tf2_weapons:sapper, item.tf2usable.name
+rafradek_tf2_weapons:backpackgeneric, item.tf2usable.name
+rafradek_tf2_weapons:cloak, item.tf2usable.name
+rafradek_tf2_weapons:backpack, item.tf2usable.name
+rafradek_tf2_weapons:jetpack, item.tf2usable.name
+rafradek_tf2_weapons:minigun, item.tf2usable.name
+rafradek_tf2_weapons:projectile, item.tf2usable.name
+rafradek_tf2_weapons:tf2workbench, TF2 Crafting Table
+rafradek_tf2_weapons:ammo_furnace, Ammo Furnace
+rafradek_tf2_weapons:upgrade_station, Upgrade Station
+rafradek_tf2_weapons:copper_ore, Copper Ore
+rafradek_tf2_weapons:lead_ore, Lead Ore
+rafradek_tf2_weapons:australium_ore, Australium Ore
+rafradek_tf2_weapons:australium_block, Australium Block
+rafradek_tf2_weapons:overhead_door, tile.blockOverhead.name
+chisel:blockaluminum:0, Block of Aluminum
+chisel:blockaluminum:1, Block of Aluminum
+chisel:blockaluminum:2, Block of Aluminum
+chisel:blockaluminum:3, Block of Aluminum
+chisel:blockaluminum:4, Block of Aluminum
+chisel:blockaluminum:5, Block of Aluminum
+chisel:blockaluminum:6, Block of Aluminum
+chisel:andesite:0, Andesite
+chisel:andesite:1, Andesite
+chisel:andesite:2, Andesite
+chisel:andesite:3, Andesite
+chisel:andesite:4, Andesite
+chisel:andesite:5, Andesite
+chisel:andesite:6, Andesite
+chisel:andesite:7, Andesite
+chisel:andesite:8, Andesite
+chisel:andesite:9, Andesite
+chisel:andesite:10, Andesite
+chisel:andesite:11, Andesite
+chisel:andesite:12, Andesite
+chisel:andesite:13, Andesite
+chisel:andesite:14, Andesite
+chisel:andesite:15, Andesite
+chisel:andesite1:0, Andesite
+chisel:andesite1:1, Andesite
+chisel:andesite1:2, Andesite
+chisel:andesite1:3, Andesite
+chisel:andesite1:4, Andesite
+chisel:andesite1:5, Andesite
+chisel:andesite1:6, Andesite
+chisel:andesite1:7, Andesite
+chisel:andesite1:8, Andesite
+chisel:andesite1:9, Andesite
+chisel:andesite1:10, Andesite
+chisel:andesite1:11, Andesite
+chisel:andesite1:12, Andesite
+chisel:andesite1:13, Andesite
+chisel:andesite1:14, Andesite
+chisel:andesite1:15, Andesite
+chisel:andesite2:0, Andesite
+chisel:antiblock:0, Antiblock
+chisel:antiblock:1, Antiblock
+chisel:antiblock:2, Antiblock
+chisel:antiblock:3, Antiblock
+chisel:antiblock:4, Antiblock
+chisel:antiblock:5, Antiblock
+chisel:antiblock:6, Antiblock
+chisel:antiblock:7, Antiblock
+chisel:antiblock:8, Antiblock
+chisel:antiblock:9, Antiblock
+chisel:antiblock:10, Antiblock
+chisel:antiblock:11, Antiblock
+chisel:antiblock:12, Antiblock
+chisel:antiblock:13, Antiblock
+chisel:antiblock:14, Antiblock
+chisel:antiblock:15, Antiblock
 chisel:basalt:0, Basalt
 chisel:basalt:1, Basalt
 chisel:basalt:2, Basalt
@@ -2393,6 +2682,193 @@ chisel:basalt2:4, Basalt
 chisel:basalt2:5, Basalt
 chisel:basalt2:6, Basalt
 chisel:basalt2:7, Basalt
+chisel:bookshelf_oak:0, Oak Bookshelf
+chisel:bookshelf_oak:1, Oak Bookshelf
+chisel:bookshelf_oak:2, Oak Bookshelf
+chisel:bookshelf_oak:3, Oak Bookshelf
+chisel:bookshelf_oak:4, Oak Bookshelf
+chisel:bookshelf_oak:5, Oak Bookshelf
+chisel:bookshelf_oak:6, Oak Bookshelf
+chisel:bookshelf_oak:7, Oak Bookshelf
+chisel:bookshelf_oak:8, Oak Bookshelf
+chisel:bookshelf_oak:9, Oak Bookshelf
+chisel:bookshelf_spruce:0, Spruce Bookshelf
+chisel:bookshelf_spruce:1, Spruce Bookshelf
+chisel:bookshelf_spruce:2, Spruce Bookshelf
+chisel:bookshelf_spruce:3, Spruce Bookshelf
+chisel:bookshelf_spruce:4, Spruce Bookshelf
+chisel:bookshelf_spruce:5, Spruce Bookshelf
+chisel:bookshelf_spruce:6, Spruce Bookshelf
+chisel:bookshelf_spruce:7, Spruce Bookshelf
+chisel:bookshelf_spruce:8, Spruce Bookshelf
+chisel:bookshelf_spruce:9, Spruce Bookshelf
+chisel:bookshelf_birch:0, Birch Bookshelf
+chisel:bookshelf_birch:1, Birch Bookshelf
+chisel:bookshelf_birch:2, Birch Bookshelf
+chisel:bookshelf_birch:3, Birch Bookshelf
+chisel:bookshelf_birch:4, Birch Bookshelf
+chisel:bookshelf_birch:5, Birch Bookshelf
+chisel:bookshelf_birch:6, Birch Bookshelf
+chisel:bookshelf_birch:7, Birch Bookshelf
+chisel:bookshelf_birch:8, Birch Bookshelf
+chisel:bookshelf_birch:9, Birch Bookshelf
+chisel:bookshelf_jungle:0, Jungle Bookshelf
+chisel:bookshelf_jungle:1, Jungle Bookshelf
+chisel:bookshelf_jungle:2, Jungle Bookshelf
+chisel:bookshelf_jungle:3, Jungle Bookshelf
+chisel:bookshelf_jungle:4, Jungle Bookshelf
+chisel:bookshelf_jungle:5, Jungle Bookshelf
+chisel:bookshelf_jungle:6, Jungle Bookshelf
+chisel:bookshelf_jungle:7, Jungle Bookshelf
+chisel:bookshelf_jungle:8, Jungle Bookshelf
+chisel:bookshelf_jungle:9, Jungle Bookshelf
+chisel:bookshelf_acacia:0, Acacia Bookshelf
+chisel:bookshelf_acacia:1, Acacia Bookshelf
+chisel:bookshelf_acacia:2, Acacia Bookshelf
+chisel:bookshelf_acacia:3, Acacia Bookshelf
+chisel:bookshelf_acacia:4, Acacia Bookshelf
+chisel:bookshelf_acacia:5, Acacia Bookshelf
+chisel:bookshelf_acacia:6, Acacia Bookshelf
+chisel:bookshelf_acacia:7, Acacia Bookshelf
+chisel:bookshelf_acacia:8, Acacia Bookshelf
+chisel:bookshelf_acacia:9, Acacia Bookshelf
+chisel:bookshelf_darkoak:0, Dark Oak Bookshelf
+chisel:bookshelf_darkoak:1, Dark Oak Bookshelf
+chisel:bookshelf_darkoak:2, Dark Oak Bookshelf
+chisel:bookshelf_darkoak:3, Dark Oak Bookshelf
+chisel:bookshelf_darkoak:4, Dark Oak Bookshelf
+chisel:bookshelf_darkoak:5, Dark Oak Bookshelf
+chisel:bookshelf_darkoak:6, Dark Oak Bookshelf
+chisel:bookshelf_darkoak:7, Dark Oak Bookshelf
+chisel:bookshelf_darkoak:8, Dark Oak Bookshelf
+chisel:bookshelf_darkoak:9, Dark Oak Bookshelf
+chisel:bricks:0, Bricks
+chisel:bricks:1, Bricks
+chisel:bricks:2, Bricks
+chisel:bricks:3, Bricks
+chisel:bricks:4, Bricks
+chisel:bricks:5, Bricks
+chisel:bricks:6, Bricks
+chisel:bricks:7, Bricks
+chisel:bricks:8, Bricks
+chisel:bricks:9, Bricks
+chisel:bricks:10, Bricks
+chisel:bricks:11, Bricks
+chisel:bricks:12, Bricks
+chisel:bricks:13, Bricks
+chisel:bricks:14, Bricks
+chisel:bricks:15, Bricks
+chisel:bricks1:0, Bricks
+chisel:bricks1:1, Bricks
+chisel:bricks1:2, Bricks
+chisel:bricks1:3, Bricks
+chisel:bricks1:4, Bricks
+chisel:bricks1:5, Bricks
+chisel:bricks1:6, Bricks
+chisel:bricks1:7, Bricks
+chisel:bricks1:8, Bricks
+chisel:bricks1:9, Bricks
+chisel:bricks2:0, Bricks
+chisel:bricks2:1, Bricks
+chisel:bricks2:2, Bricks
+chisel:bricks2:3, Bricks
+chisel:bricks2:4, Bricks
+chisel:bricks2:5, Bricks
+chisel:blockbronze:0, Block of Bronze
+chisel:blockbronze:1, Block of Bronze
+chisel:blockbronze:2, Block of Bronze
+chisel:blockbronze:3, Block of Bronze
+chisel:blockbronze:4, Block of Bronze
+chisel:blockbronze:5, Block of Bronze
+chisel:blockbronze:6, Block of Bronze
+chisel:brownstone:0, Brownstone
+chisel:brownstone:1, Brownstone
+chisel:brownstone:2, Brownstone
+chisel:brownstone:3, Brownstone
+chisel:brownstone:4, Brownstone
+chisel:brownstone:5, Brownstone
+chisel:brownstone:6, Brownstone
+chisel:brownstone:7, Brownstone
+chisel:brownstone:8, Brownstone
+chisel:brownstone:9, Brownstone
+chisel:carpet_black:0, Black Wool
+chisel:carpet_black:1, Black Wool
+chisel:carpet_red:0, Red Wool
+chisel:carpet_red:1, Red Wool
+chisel:carpet_green:0, Green Wool
+chisel:carpet_green:1, Green Wool
+chisel:carpet_brown:0, Brown Wool
+chisel:carpet_brown:1, Brown Wool
+chisel:carpet_blue:0, Blue Wool
+chisel:carpet_blue:1, Blue Wool
+chisel:carpet_purple:0, Purple Wool
+chisel:carpet_purple:1, Purple Wool
+chisel:carpet_cyan:0, Cyan Wool
+chisel:carpet_cyan:1, Cyan Wool
+chisel:carpet_lightgray:0, Light Gray Wool
+chisel:carpet_lightgray:1, Light Gray Wool
+chisel:carpet_gray:0, Gray Wool
+chisel:carpet_gray:1, Gray Wool
+chisel:carpet_pink:0, Pink Wool
+chisel:carpet_pink:1, Pink Wool
+chisel:carpet_lime:0, Lime Wool
+chisel:carpet_lime:1, Lime Wool
+chisel:carpet_yellow:0, Yellow Wool
+chisel:carpet_yellow:1, Yellow Wool
+chisel:carpet_lightblue:0, Light Blue Wool
+chisel:carpet_lightblue:1, Light Blue Wool
+chisel:carpet_magenta:0, Magenta Wool
+chisel:carpet_magenta:1, Magenta Wool
+chisel:carpet_orange:0, Orange Wool
+chisel:carpet_orange:1, Orange Wool
+chisel:carpet_white:0, Wool
+chisel:carpet_white:1, Wool
+chisel:block_charcoal:0, Block of Charcoal
+chisel:block_charcoal:1, Block of Charcoal
+chisel:block_charcoal:2, Block of Charcoal
+chisel:block_charcoal:3, Block of Charcoal
+chisel:block_charcoal:4, Block of Charcoal
+chisel:block_charcoal:5, Block of Charcoal
+chisel:block_charcoal:6, Block of Charcoal
+chisel:block_charcoal:7, Block of Charcoal
+chisel:block_charcoal:8, Block of Charcoal
+chisel:block_charcoal:9, Block of Charcoal
+chisel:block_charcoal:10, Block of Charcoal
+chisel:block_charcoal:11, Block of Charcoal
+chisel:block_charcoal:12, Block of Charcoal
+chisel:block_charcoal:13, Block of Charcoal
+chisel:block_charcoal:14, Block of Charcoal
+chisel:block_charcoal:15, Block of Charcoal
+chisel:block_charcoal1:0, Block of Charcoal
+chisel:block_charcoal1:1, Block of Charcoal
+chisel:block_charcoal1:2, Block of Charcoal
+chisel:block_charcoal1:3, Block of Charcoal
+chisel:block_charcoal1:4, Block of Charcoal
+chisel:block_charcoal1:5, Block of Charcoal
+chisel:block_charcoal1:6, Block of Charcoal
+chisel:block_charcoal1:7, Block of Charcoal
+chisel:block_charcoal1:8, Block of Charcoal
+chisel:block_charcoal1:9, Block of Charcoal
+chisel:block_charcoal1:10, Block of Charcoal
+chisel:block_charcoal1:11, Block of Charcoal
+chisel:block_charcoal1:12, Block of Charcoal
+chisel:block_charcoal1:13, Block of Charcoal
+chisel:block_charcoal1:14, Block of Charcoal
+chisel:block_charcoal1:15, Block of Charcoal
+chisel:block_charcoal2:0, Block of Charcoal
+chisel:block_charcoal2:1, Block of Charcoal
+chisel:cloud:0, Cloud
+chisel:cloud:1, Cloud
+chisel:cloud:2, Cloud
+chisel:cloud:3, Cloud
+chisel:cloud:4, Cloud
+chisel:blockcobalt:0, Block of Cobalt
+chisel:blockcobalt:1, Block of Cobalt
+chisel:blockcobalt:2, Block of Cobalt
+chisel:blockcobalt:3, Block of Cobalt
+chisel:blockcobalt:4, Block of Cobalt
+chisel:blockcobalt:5, Block of Cobalt
+chisel:blockcobalt:6, Block of Cobalt
 chisel:cobblestone:0, Cobblestone
 chisel:cobblestone:1, Cobblestone
 chisel:cobblestone:2, Cobblestone
@@ -2429,6 +2905,788 @@ chisel:cobblestone2:6, Cobblestone
 chisel:cobblestone2:7, Cobblestone
 chisel:cobblestone2:8, Cobblestone
 chisel:cobblestone2:9, Cobblestone
+chisel:block_coal:0, Block of Coal
+chisel:block_coal:1, Block of Coal
+chisel:block_coal:2, Block of Coal
+chisel:block_coal:3, Block of Coal
+chisel:block_coal:4, Block of Coal
+chisel:block_coal:5, Block of Coal
+chisel:block_coal:6, Block of Coal
+chisel:block_coal:7, Block of Coal
+chisel:block_coal:8, Block of Coal
+chisel:block_coal:9, Block of Coal
+chisel:block_coal:10, Block of Coal
+chisel:block_coal:11, Block of Coal
+chisel:block_coal:12, Block of Coal
+chisel:block_coal:13, Block of Coal
+chisel:block_coal:14, Block of Coal
+chisel:block_coal:15, Block of Coal
+chisel:block_coal1:0, Block of Coal
+chisel:block_coal1:1, Block of Coal
+chisel:block_coal1:2, Block of Coal
+chisel:block_coal1:3, Block of Coal
+chisel:block_coal1:4, Block of Coal
+chisel:block_coal1:5, Block of Coal
+chisel:block_coal1:6, Block of Coal
+chisel:block_coal1:7, Block of Coal
+chisel:block_coal1:8, Block of Coal
+chisel:block_coal1:9, Block of Coal
+chisel:block_coal1:10, Block of Coal
+chisel:block_coal1:11, Block of Coal
+chisel:block_coal1:12, Block of Coal
+chisel:block_coal1:13, Block of Coal
+chisel:block_coal1:14, Block of Coal
+chisel:block_coal1:15, Block of Coal
+chisel:block_coal2:0, Block of Coal
+chisel:block_coal2:1, Block of Coal
+chisel:block_coal_coke:0, Block of Coal Coke
+chisel:block_coal_coke:1, Block of Coal Coke
+chisel:block_coal_coke:2, Block of Coal Coke
+chisel:block_coal_coke:3, Block of Coal Coke
+chisel:block_coal_coke:4, Block of Coal Coke
+chisel:block_coal_coke:5, Block of Coal Coke
+chisel:block_coal_coke:6, Block of Coal Coke
+chisel:block_coal_coke:7, Block of Coal Coke
+chisel:block_coal_coke:8, Block of Coal Coke
+chisel:block_coal_coke:9, Block of Coal Coke
+chisel:block_coal_coke:10, Block of Coal Coke
+chisel:block_coal_coke:11, Block of Coal Coke
+chisel:block_coal_coke:12, Block of Coal Coke
+chisel:block_coal_coke:13, Block of Coal Coke
+chisel:block_coal_coke:14, Block of Coal Coke
+chisel:block_coal_coke:15, Block of Coal Coke
+chisel:block_coal_coke1:0, Block of Coal Coke
+chisel:block_coal_coke1:1, Block of Coal Coke
+chisel:block_coal_coke1:2, Block of Coal Coke
+chisel:block_coal_coke1:3, Block of Coal Coke
+chisel:block_coal_coke1:4, Block of Coal Coke
+chisel:block_coal_coke1:5, Block of Coal Coke
+chisel:block_coal_coke1:6, Block of Coal Coke
+chisel:block_coal_coke1:7, Block of Coal Coke
+chisel:block_coal_coke1:8, Block of Coal Coke
+chisel:block_coal_coke1:9, Block of Coal Coke
+chisel:block_coal_coke1:10, Block of Coal Coke
+chisel:block_coal_coke1:11, Block of Coal Coke
+chisel:block_coal_coke1:12, Block of Coal Coke
+chisel:block_coal_coke1:13, Block of Coal Coke
+chisel:block_coal_coke1:14, Block of Coal Coke
+chisel:block_coal_coke1:15, Block of Coal Coke
+chisel:block_coal_coke2:0, Block of Coal Coke
+chisel:block_coal_coke2:1, Block of Coal Coke
+chisel:cobblestonemossy:0, Mossy Cobblestone
+chisel:cobblestonemossy:1, Mossy Cobblestone
+chisel:cobblestonemossy:2, Mossy Cobblestone
+chisel:cobblestonemossy:3, Mossy Cobblestone
+chisel:cobblestonemossy:4, Mossy Cobblestone
+chisel:cobblestonemossy:5, Mossy Cobblestone
+chisel:cobblestonemossy:6, Mossy Cobblestone
+chisel:cobblestonemossy:7, Mossy Cobblestone
+chisel:cobblestonemossy:8, Mossy Cobblestone
+chisel:cobblestonemossy:9, Mossy Cobblestone
+chisel:cobblestonemossy:10, Mossy Cobblestone
+chisel:cobblestonemossy:11, Mossy Cobblestone
+chisel:cobblestonemossy:12, Mossy Cobblestone
+chisel:cobblestonemossy:13, Mossy Cobblestone
+chisel:cobblestonemossy:14, Mossy Cobblestone
+chisel:cobblestonemossy:15, Mossy Cobblestone
+chisel:cobblestonemossy1:0, Mossy Cobblestone
+chisel:cobblestonemossy1:1, Mossy Cobblestone
+chisel:cobblestonemossy1:2, Mossy Cobblestone
+chisel:cobblestonemossy1:3, Mossy Cobblestone
+chisel:cobblestonemossy1:4, Mossy Cobblestone
+chisel:cobblestonemossy1:5, Mossy Cobblestone
+chisel:cobblestonemossy1:6, Mossy Cobblestone
+chisel:cobblestonemossy1:7, Mossy Cobblestone
+chisel:cobblestonemossy1:8, Mossy Cobblestone
+chisel:cobblestonemossy1:9, Mossy Cobblestone
+chisel:cobblestonemossy1:10, Mossy Cobblestone
+chisel:cobblestonemossy1:11, Mossy Cobblestone
+chisel:cobblestonemossy1:12, Mossy Cobblestone
+chisel:cobblestonemossy1:13, Mossy Cobblestone
+chisel:cobblestonemossy1:14, Mossy Cobblestone
+chisel:cobblestonemossy1:15, Mossy Cobblestone
+chisel:cobblestonemossy2:0, Mossy Cobblestone
+chisel:concrete_black:0, Black Concrete
+chisel:concrete_black:1, Black Concrete
+chisel:concrete_black:2, Black Concrete
+chisel:concrete_black:3, Black Concrete
+chisel:concrete_black:4, Black Concrete
+chisel:concrete_black:5, Black Concrete
+chisel:concrete_black:6, Black Concrete
+chisel:concrete_black:7, Black Concrete
+chisel:concrete_black:8, Black Concrete
+chisel:concrete_black:9, Black Concrete
+chisel:concrete_black:10, Black Concrete
+chisel:concrete_black:11, Black Concrete
+chisel:concrete_black:12, Black Concrete
+chisel:concrete_black:13, Black Concrete
+chisel:concrete_black:14, Black Concrete
+chisel:concrete_black:15, Black Concrete
+chisel:concrete_black1:0, Black Concrete
+chisel:concrete_black1:1, Black Concrete
+chisel:concrete_black1:2, Black Concrete
+chisel:concrete_black1:3, Black Concrete
+chisel:concrete_black1:4, Black Concrete
+chisel:concrete_black1:5, Black Concrete
+chisel:concrete_black1:6, Black Concrete
+chisel:concrete_black1:7, Black Concrete
+chisel:concrete_black1:8, Black Concrete
+chisel:concrete_black1:9, Black Concrete
+chisel:concrete_black1:10, Black Concrete
+chisel:concrete_black1:11, Black Concrete
+chisel:concrete_black1:12, Black Concrete
+chisel:concrete_black1:13, Black Concrete
+chisel:concrete_black1:14, Black Concrete
+chisel:concrete_black1:15, Black Concrete
+chisel:concrete_black2:0, Black Concrete
+chisel:concrete_red:0, Red Concrete
+chisel:concrete_red:1, Red Concrete
+chisel:concrete_red:2, Red Concrete
+chisel:concrete_red:3, Red Concrete
+chisel:concrete_red:4, Red Concrete
+chisel:concrete_red:5, Red Concrete
+chisel:concrete_red:6, Red Concrete
+chisel:concrete_red:7, Red Concrete
+chisel:concrete_red:8, Red Concrete
+chisel:concrete_red:9, Red Concrete
+chisel:concrete_red:10, Red Concrete
+chisel:concrete_red:11, Red Concrete
+chisel:concrete_red:12, Red Concrete
+chisel:concrete_red:13, Red Concrete
+chisel:concrete_red:14, Red Concrete
+chisel:concrete_red:15, Red Concrete
+chisel:concrete_red1:0, Red Concrete
+chisel:concrete_red1:1, Red Concrete
+chisel:concrete_red1:2, Red Concrete
+chisel:concrete_red1:3, Red Concrete
+chisel:concrete_red1:4, Red Concrete
+chisel:concrete_red1:5, Red Concrete
+chisel:concrete_red1:6, Red Concrete
+chisel:concrete_red1:7, Red Concrete
+chisel:concrete_red1:8, Red Concrete
+chisel:concrete_red1:9, Red Concrete
+chisel:concrete_red1:10, Red Concrete
+chisel:concrete_red1:11, Red Concrete
+chisel:concrete_red1:12, Red Concrete
+chisel:concrete_red1:13, Red Concrete
+chisel:concrete_red1:14, Red Concrete
+chisel:concrete_red1:15, Red Concrete
+chisel:concrete_red2:0, Red Concrete
+chisel:concrete_green:0, Green Concrete
+chisel:concrete_green:1, Green Concrete
+chisel:concrete_green:2, Green Concrete
+chisel:concrete_green:3, Green Concrete
+chisel:concrete_green:4, Green Concrete
+chisel:concrete_green:5, Green Concrete
+chisel:concrete_green:6, Green Concrete
+chisel:concrete_green:7, Green Concrete
+chisel:concrete_green:8, Green Concrete
+chisel:concrete_green:9, Green Concrete
+chisel:concrete_green:10, Green Concrete
+chisel:concrete_green:11, Green Concrete
+chisel:concrete_green:12, Green Concrete
+chisel:concrete_green:13, Green Concrete
+chisel:concrete_green:14, Green Concrete
+chisel:concrete_green:15, Green Concrete
+chisel:concrete_green1:0, Green Concrete
+chisel:concrete_green1:1, Green Concrete
+chisel:concrete_green1:2, Green Concrete
+chisel:concrete_green1:3, Green Concrete
+chisel:concrete_green1:4, Green Concrete
+chisel:concrete_green1:5, Green Concrete
+chisel:concrete_green1:6, Green Concrete
+chisel:concrete_green1:7, Green Concrete
+chisel:concrete_green1:8, Green Concrete
+chisel:concrete_green1:9, Green Concrete
+chisel:concrete_green1:10, Green Concrete
+chisel:concrete_green1:11, Green Concrete
+chisel:concrete_green1:12, Green Concrete
+chisel:concrete_green1:13, Green Concrete
+chisel:concrete_green1:14, Green Concrete
+chisel:concrete_green1:15, Green Concrete
+chisel:concrete_green2:0, Green Concrete
+chisel:concrete_brown:0, Brown Concrete
+chisel:concrete_brown:1, Brown Concrete
+chisel:concrete_brown:2, Brown Concrete
+chisel:concrete_brown:3, Brown Concrete
+chisel:concrete_brown:4, Brown Concrete
+chisel:concrete_brown:5, Brown Concrete
+chisel:concrete_brown:6, Brown Concrete
+chisel:concrete_brown:7, Brown Concrete
+chisel:concrete_brown:8, Brown Concrete
+chisel:concrete_brown:9, Brown Concrete
+chisel:concrete_brown:10, Brown Concrete
+chisel:concrete_brown:11, Brown Concrete
+chisel:concrete_brown:12, Brown Concrete
+chisel:concrete_brown:13, Brown Concrete
+chisel:concrete_brown:14, Brown Concrete
+chisel:concrete_brown:15, Brown Concrete
+chisel:concrete_brown1:0, Brown Concrete
+chisel:concrete_brown1:1, Brown Concrete
+chisel:concrete_brown1:2, Brown Concrete
+chisel:concrete_brown1:3, Brown Concrete
+chisel:concrete_brown1:4, Brown Concrete
+chisel:concrete_brown1:5, Brown Concrete
+chisel:concrete_brown1:6, Brown Concrete
+chisel:concrete_brown1:7, Brown Concrete
+chisel:concrete_brown1:8, Brown Concrete
+chisel:concrete_brown1:9, Brown Concrete
+chisel:concrete_brown1:10, Brown Concrete
+chisel:concrete_brown1:11, Brown Concrete
+chisel:concrete_brown1:12, Brown Concrete
+chisel:concrete_brown1:13, Brown Concrete
+chisel:concrete_brown1:14, Brown Concrete
+chisel:concrete_brown1:15, Brown Concrete
+chisel:concrete_brown2:0, Brown Concrete
+chisel:concrete_blue:0, Blue Concrete
+chisel:concrete_blue:1, Blue Concrete
+chisel:concrete_blue:2, Blue Concrete
+chisel:concrete_blue:3, Blue Concrete
+chisel:concrete_blue:4, Blue Concrete
+chisel:concrete_blue:5, Blue Concrete
+chisel:concrete_blue:6, Blue Concrete
+chisel:concrete_blue:7, Blue Concrete
+chisel:concrete_blue:8, Blue Concrete
+chisel:concrete_blue:9, Blue Concrete
+chisel:concrete_blue:10, Blue Concrete
+chisel:concrete_blue:11, Blue Concrete
+chisel:concrete_blue:12, Blue Concrete
+chisel:concrete_blue:13, Blue Concrete
+chisel:concrete_blue:14, Blue Concrete
+chisel:concrete_blue:15, Blue Concrete
+chisel:concrete_blue1:0, Blue Concrete
+chisel:concrete_blue1:1, Blue Concrete
+chisel:concrete_blue1:2, Blue Concrete
+chisel:concrete_blue1:3, Blue Concrete
+chisel:concrete_blue1:4, Blue Concrete
+chisel:concrete_blue1:5, Blue Concrete
+chisel:concrete_blue1:6, Blue Concrete
+chisel:concrete_blue1:7, Blue Concrete
+chisel:concrete_blue1:8, Blue Concrete
+chisel:concrete_blue1:9, Blue Concrete
+chisel:concrete_blue1:10, Blue Concrete
+chisel:concrete_blue1:11, Blue Concrete
+chisel:concrete_blue1:12, Blue Concrete
+chisel:concrete_blue1:13, Blue Concrete
+chisel:concrete_blue1:14, Blue Concrete
+chisel:concrete_blue1:15, Blue Concrete
+chisel:concrete_blue2:0, Blue Concrete
+chisel:concrete_purple:0, Purple Concrete
+chisel:concrete_purple:1, Purple Concrete
+chisel:concrete_purple:2, Purple Concrete
+chisel:concrete_purple:3, Purple Concrete
+chisel:concrete_purple:4, Purple Concrete
+chisel:concrete_purple:5, Purple Concrete
+chisel:concrete_purple:6, Purple Concrete
+chisel:concrete_purple:7, Purple Concrete
+chisel:concrete_purple:8, Purple Concrete
+chisel:concrete_purple:9, Purple Concrete
+chisel:concrete_purple:10, Purple Concrete
+chisel:concrete_purple:11, Purple Concrete
+chisel:concrete_purple:12, Purple Concrete
+chisel:concrete_purple:13, Purple Concrete
+chisel:concrete_purple:14, Purple Concrete
+chisel:concrete_purple:15, Purple Concrete
+chisel:concrete_purple1:0, Purple Concrete
+chisel:concrete_purple1:1, Purple Concrete
+chisel:concrete_purple1:2, Purple Concrete
+chisel:concrete_purple1:3, Purple Concrete
+chisel:concrete_purple1:4, Purple Concrete
+chisel:concrete_purple1:5, Purple Concrete
+chisel:concrete_purple1:6, Purple Concrete
+chisel:concrete_purple1:7, Purple Concrete
+chisel:concrete_purple1:8, Purple Concrete
+chisel:concrete_purple1:9, Purple Concrete
+chisel:concrete_purple1:10, Purple Concrete
+chisel:concrete_purple1:11, Purple Concrete
+chisel:concrete_purple1:12, Purple Concrete
+chisel:concrete_purple1:13, Purple Concrete
+chisel:concrete_purple1:14, Purple Concrete
+chisel:concrete_purple1:15, Purple Concrete
+chisel:concrete_purple2:0, Purple Concrete
+chisel:concrete_cyan:0, Cyan Concrete
+chisel:concrete_cyan:1, Cyan Concrete
+chisel:concrete_cyan:2, Cyan Concrete
+chisel:concrete_cyan:3, Cyan Concrete
+chisel:concrete_cyan:4, Cyan Concrete
+chisel:concrete_cyan:5, Cyan Concrete
+chisel:concrete_cyan:6, Cyan Concrete
+chisel:concrete_cyan:7, Cyan Concrete
+chisel:concrete_cyan:8, Cyan Concrete
+chisel:concrete_cyan:9, Cyan Concrete
+chisel:concrete_cyan:10, Cyan Concrete
+chisel:concrete_cyan:11, Cyan Concrete
+chisel:concrete_cyan:12, Cyan Concrete
+chisel:concrete_cyan:13, Cyan Concrete
+chisel:concrete_cyan:14, Cyan Concrete
+chisel:concrete_cyan:15, Cyan Concrete
+chisel:concrete_cyan1:0, Cyan Concrete
+chisel:concrete_cyan1:1, Cyan Concrete
+chisel:concrete_cyan1:2, Cyan Concrete
+chisel:concrete_cyan1:3, Cyan Concrete
+chisel:concrete_cyan1:4, Cyan Concrete
+chisel:concrete_cyan1:5, Cyan Concrete
+chisel:concrete_cyan1:6, Cyan Concrete
+chisel:concrete_cyan1:7, Cyan Concrete
+chisel:concrete_cyan1:8, Cyan Concrete
+chisel:concrete_cyan1:9, Cyan Concrete
+chisel:concrete_cyan1:10, Cyan Concrete
+chisel:concrete_cyan1:11, Cyan Concrete
+chisel:concrete_cyan1:12, Cyan Concrete
+chisel:concrete_cyan1:13, Cyan Concrete
+chisel:concrete_cyan1:14, Cyan Concrete
+chisel:concrete_cyan1:15, Cyan Concrete
+chisel:concrete_cyan2:0, Cyan Concrete
+chisel:concrete_lightgray:0, Light Gray Concrete
+chisel:concrete_lightgray:1, Light Gray Concrete
+chisel:concrete_lightgray:2, Light Gray Concrete
+chisel:concrete_lightgray:3, Light Gray Concrete
+chisel:concrete_lightgray:4, Light Gray Concrete
+chisel:concrete_lightgray:5, Light Gray Concrete
+chisel:concrete_lightgray:6, Light Gray Concrete
+chisel:concrete_lightgray:7, Light Gray Concrete
+chisel:concrete_lightgray:8, Light Gray Concrete
+chisel:concrete_lightgray:9, Light Gray Concrete
+chisel:concrete_lightgray:10, Light Gray Concrete
+chisel:concrete_lightgray:11, Light Gray Concrete
+chisel:concrete_lightgray:12, Light Gray Concrete
+chisel:concrete_lightgray:13, Light Gray Concrete
+chisel:concrete_lightgray:14, Light Gray Concrete
+chisel:concrete_lightgray:15, Light Gray Concrete
+chisel:concrete_lightgray1:0, Light Gray Concrete
+chisel:concrete_lightgray1:1, Light Gray Concrete
+chisel:concrete_lightgray1:2, Light Gray Concrete
+chisel:concrete_lightgray1:3, Light Gray Concrete
+chisel:concrete_lightgray1:4, Light Gray Concrete
+chisel:concrete_lightgray1:5, Light Gray Concrete
+chisel:concrete_lightgray1:6, Light Gray Concrete
+chisel:concrete_lightgray1:7, Light Gray Concrete
+chisel:concrete_lightgray1:8, Light Gray Concrete
+chisel:concrete_lightgray1:9, Light Gray Concrete
+chisel:concrete_lightgray1:10, Light Gray Concrete
+chisel:concrete_lightgray1:11, Light Gray Concrete
+chisel:concrete_lightgray1:12, Light Gray Concrete
+chisel:concrete_lightgray1:13, Light Gray Concrete
+chisel:concrete_lightgray1:14, Light Gray Concrete
+chisel:concrete_lightgray1:15, Light Gray Concrete
+chisel:concrete_lightgray2:0, Light Gray Concrete
+chisel:concrete_gray:0, Gray Concrete
+chisel:concrete_gray:1, Gray Concrete
+chisel:concrete_gray:2, Gray Concrete
+chisel:concrete_gray:3, Gray Concrete
+chisel:concrete_gray:4, Gray Concrete
+chisel:concrete_gray:5, Gray Concrete
+chisel:concrete_gray:6, Gray Concrete
+chisel:concrete_gray:7, Gray Concrete
+chisel:concrete_gray:8, Gray Concrete
+chisel:concrete_gray:9, Gray Concrete
+chisel:concrete_gray:10, Gray Concrete
+chisel:concrete_gray:11, Gray Concrete
+chisel:concrete_gray:12, Gray Concrete
+chisel:concrete_gray:13, Gray Concrete
+chisel:concrete_gray:14, Gray Concrete
+chisel:concrete_gray:15, Gray Concrete
+chisel:concrete_gray1:0, Gray Concrete
+chisel:concrete_gray1:1, Gray Concrete
+chisel:concrete_gray1:2, Gray Concrete
+chisel:concrete_gray1:3, Gray Concrete
+chisel:concrete_gray1:4, Gray Concrete
+chisel:concrete_gray1:5, Gray Concrete
+chisel:concrete_gray1:6, Gray Concrete
+chisel:concrete_gray1:7, Gray Concrete
+chisel:concrete_gray1:8, Gray Concrete
+chisel:concrete_gray1:9, Gray Concrete
+chisel:concrete_gray1:10, Gray Concrete
+chisel:concrete_gray1:11, Gray Concrete
+chisel:concrete_gray1:12, Gray Concrete
+chisel:concrete_gray1:13, Gray Concrete
+chisel:concrete_gray1:14, Gray Concrete
+chisel:concrete_gray1:15, Gray Concrete
+chisel:concrete_gray2:0, Gray Concrete
+chisel:concrete_pink:0, Pink Concrete
+chisel:concrete_pink:1, Pink Concrete
+chisel:concrete_pink:2, Pink Concrete
+chisel:concrete_pink:3, Pink Concrete
+chisel:concrete_pink:4, Pink Concrete
+chisel:concrete_pink:5, Pink Concrete
+chisel:concrete_pink:6, Pink Concrete
+chisel:concrete_pink:7, Pink Concrete
+chisel:concrete_pink:8, Pink Concrete
+chisel:concrete_pink:9, Pink Concrete
+chisel:concrete_pink:10, Pink Concrete
+chisel:concrete_pink:11, Pink Concrete
+chisel:concrete_pink:12, Pink Concrete
+chisel:concrete_pink:13, Pink Concrete
+chisel:concrete_pink:14, Pink Concrete
+chisel:concrete_pink:15, Pink Concrete
+chisel:concrete_pink1:0, Pink Concrete
+chisel:concrete_pink1:1, Pink Concrete
+chisel:concrete_pink1:2, Pink Concrete
+chisel:concrete_pink1:3, Pink Concrete
+chisel:concrete_pink1:4, Pink Concrete
+chisel:concrete_pink1:5, Pink Concrete
+chisel:concrete_pink1:6, Pink Concrete
+chisel:concrete_pink1:7, Pink Concrete
+chisel:concrete_pink1:8, Pink Concrete
+chisel:concrete_pink1:9, Pink Concrete
+chisel:concrete_pink1:10, Pink Concrete
+chisel:concrete_pink1:11, Pink Concrete
+chisel:concrete_pink1:12, Pink Concrete
+chisel:concrete_pink1:13, Pink Concrete
+chisel:concrete_pink1:14, Pink Concrete
+chisel:concrete_pink1:15, Pink Concrete
+chisel:concrete_pink2:0, Pink Concrete
+chisel:concrete_lime:0, Lime Concrete
+chisel:concrete_lime:1, Lime Concrete
+chisel:concrete_lime:2, Lime Concrete
+chisel:concrete_lime:3, Lime Concrete
+chisel:concrete_lime:4, Lime Concrete
+chisel:concrete_lime:5, Lime Concrete
+chisel:concrete_lime:6, Lime Concrete
+chisel:concrete_lime:7, Lime Concrete
+chisel:concrete_lime:8, Lime Concrete
+chisel:concrete_lime:9, Lime Concrete
+chisel:concrete_lime:10, Lime Concrete
+chisel:concrete_lime:11, Lime Concrete
+chisel:concrete_lime:12, Lime Concrete
+chisel:concrete_lime:13, Lime Concrete
+chisel:concrete_lime:14, Lime Concrete
+chisel:concrete_lime:15, Lime Concrete
+chisel:concrete_lime1:0, Lime Concrete
+chisel:concrete_lime1:1, Lime Concrete
+chisel:concrete_lime1:2, Lime Concrete
+chisel:concrete_lime1:3, Lime Concrete
+chisel:concrete_lime1:4, Lime Concrete
+chisel:concrete_lime1:5, Lime Concrete
+chisel:concrete_lime1:6, Lime Concrete
+chisel:concrete_lime1:7, Lime Concrete
+chisel:concrete_lime1:8, Lime Concrete
+chisel:concrete_lime1:9, Lime Concrete
+chisel:concrete_lime1:10, Lime Concrete
+chisel:concrete_lime1:11, Lime Concrete
+chisel:concrete_lime1:12, Lime Concrete
+chisel:concrete_lime1:13, Lime Concrete
+chisel:concrete_lime1:14, Lime Concrete
+chisel:concrete_lime1:15, Lime Concrete
+chisel:concrete_lime2:0, Lime Concrete
+chisel:concrete_yellow:0, Yellow Concrete
+chisel:concrete_yellow:1, Yellow Concrete
+chisel:concrete_yellow:2, Yellow Concrete
+chisel:concrete_yellow:3, Yellow Concrete
+chisel:concrete_yellow:4, Yellow Concrete
+chisel:concrete_yellow:5, Yellow Concrete
+chisel:concrete_yellow:6, Yellow Concrete
+chisel:concrete_yellow:7, Yellow Concrete
+chisel:concrete_yellow:8, Yellow Concrete
+chisel:concrete_yellow:9, Yellow Concrete
+chisel:concrete_yellow:10, Yellow Concrete
+chisel:concrete_yellow:11, Yellow Concrete
+chisel:concrete_yellow:12, Yellow Concrete
+chisel:concrete_yellow:13, Yellow Concrete
+chisel:concrete_yellow:14, Yellow Concrete
+chisel:concrete_yellow:15, Yellow Concrete
+chisel:concrete_yellow1:0, Yellow Concrete
+chisel:concrete_yellow1:1, Yellow Concrete
+chisel:concrete_yellow1:2, Yellow Concrete
+chisel:concrete_yellow1:3, Yellow Concrete
+chisel:concrete_yellow1:4, Yellow Concrete
+chisel:concrete_yellow1:5, Yellow Concrete
+chisel:concrete_yellow1:6, Yellow Concrete
+chisel:concrete_yellow1:7, Yellow Concrete
+chisel:concrete_yellow1:8, Yellow Concrete
+chisel:concrete_yellow1:9, Yellow Concrete
+chisel:concrete_yellow1:10, Yellow Concrete
+chisel:concrete_yellow1:11, Yellow Concrete
+chisel:concrete_yellow1:12, Yellow Concrete
+chisel:concrete_yellow1:13, Yellow Concrete
+chisel:concrete_yellow1:14, Yellow Concrete
+chisel:concrete_yellow1:15, Yellow Concrete
+chisel:concrete_yellow2:0, Yellow Concrete
+chisel:concrete_lightblue:0, Light Blue Concrete
+chisel:concrete_lightblue:1, Light Blue Concrete
+chisel:concrete_lightblue:2, Light Blue Concrete
+chisel:concrete_lightblue:3, Light Blue Concrete
+chisel:concrete_lightblue:4, Light Blue Concrete
+chisel:concrete_lightblue:5, Light Blue Concrete
+chisel:concrete_lightblue:6, Light Blue Concrete
+chisel:concrete_lightblue:7, Light Blue Concrete
+chisel:concrete_lightblue:8, Light Blue Concrete
+chisel:concrete_lightblue:9, Light Blue Concrete
+chisel:concrete_lightblue:10, Light Blue Concrete
+chisel:concrete_lightblue:11, Light Blue Concrete
+chisel:concrete_lightblue:12, Light Blue Concrete
+chisel:concrete_lightblue:13, Light Blue Concrete
+chisel:concrete_lightblue:14, Light Blue Concrete
+chisel:concrete_lightblue:15, Light Blue Concrete
+chisel:concrete_lightblue1:0, Light Blue Concrete
+chisel:concrete_lightblue1:1, Light Blue Concrete
+chisel:concrete_lightblue1:2, Light Blue Concrete
+chisel:concrete_lightblue1:3, Light Blue Concrete
+chisel:concrete_lightblue1:4, Light Blue Concrete
+chisel:concrete_lightblue1:5, Light Blue Concrete
+chisel:concrete_lightblue1:6, Light Blue Concrete
+chisel:concrete_lightblue1:7, Light Blue Concrete
+chisel:concrete_lightblue1:8, Light Blue Concrete
+chisel:concrete_lightblue1:9, Light Blue Concrete
+chisel:concrete_lightblue1:10, Light Blue Concrete
+chisel:concrete_lightblue1:11, Light Blue Concrete
+chisel:concrete_lightblue1:12, Light Blue Concrete
+chisel:concrete_lightblue1:13, Light Blue Concrete
+chisel:concrete_lightblue1:14, Light Blue Concrete
+chisel:concrete_lightblue1:15, Light Blue Concrete
+chisel:concrete_lightblue2:0, Light Blue Concrete
+chisel:concrete_magenta:0, Magenta Concrete
+chisel:concrete_magenta:1, Magenta Concrete
+chisel:concrete_magenta:2, Magenta Concrete
+chisel:concrete_magenta:3, Magenta Concrete
+chisel:concrete_magenta:4, Magenta Concrete
+chisel:concrete_magenta:5, Magenta Concrete
+chisel:concrete_magenta:6, Magenta Concrete
+chisel:concrete_magenta:7, Magenta Concrete
+chisel:concrete_magenta:8, Magenta Concrete
+chisel:concrete_magenta:9, Magenta Concrete
+chisel:concrete_magenta:10, Magenta Concrete
+chisel:concrete_magenta:11, Magenta Concrete
+chisel:concrete_magenta:12, Magenta Concrete
+chisel:concrete_magenta:13, Magenta Concrete
+chisel:concrete_magenta:14, Magenta Concrete
+chisel:concrete_magenta:15, Magenta Concrete
+chisel:concrete_magenta1:0, Magenta Concrete
+chisel:concrete_magenta1:1, Magenta Concrete
+chisel:concrete_magenta1:2, Magenta Concrete
+chisel:concrete_magenta1:3, Magenta Concrete
+chisel:concrete_magenta1:4, Magenta Concrete
+chisel:concrete_magenta1:5, Magenta Concrete
+chisel:concrete_magenta1:6, Magenta Concrete
+chisel:concrete_magenta1:7, Magenta Concrete
+chisel:concrete_magenta1:8, Magenta Concrete
+chisel:concrete_magenta1:9, Magenta Concrete
+chisel:concrete_magenta1:10, Magenta Concrete
+chisel:concrete_magenta1:11, Magenta Concrete
+chisel:concrete_magenta1:12, Magenta Concrete
+chisel:concrete_magenta1:13, Magenta Concrete
+chisel:concrete_magenta1:14, Magenta Concrete
+chisel:concrete_magenta1:15, Magenta Concrete
+chisel:concrete_magenta2:0, Magenta Concrete
+chisel:concrete_orange:0, Orange Concrete
+chisel:concrete_orange:1, Orange Concrete
+chisel:concrete_orange:2, Orange Concrete
+chisel:concrete_orange:3, Orange Concrete
+chisel:concrete_orange:4, Orange Concrete
+chisel:concrete_orange:5, Orange Concrete
+chisel:concrete_orange:6, Orange Concrete
+chisel:concrete_orange:7, Orange Concrete
+chisel:concrete_orange:8, Orange Concrete
+chisel:concrete_orange:9, Orange Concrete
+chisel:concrete_orange:10, Orange Concrete
+chisel:concrete_orange:11, Orange Concrete
+chisel:concrete_orange:12, Orange Concrete
+chisel:concrete_orange:13, Orange Concrete
+chisel:concrete_orange:14, Orange Concrete
+chisel:concrete_orange:15, Orange Concrete
+chisel:concrete_orange1:0, Orange Concrete
+chisel:concrete_orange1:1, Orange Concrete
+chisel:concrete_orange1:2, Orange Concrete
+chisel:concrete_orange1:3, Orange Concrete
+chisel:concrete_orange1:4, Orange Concrete
+chisel:concrete_orange1:5, Orange Concrete
+chisel:concrete_orange1:6, Orange Concrete
+chisel:concrete_orange1:7, Orange Concrete
+chisel:concrete_orange1:8, Orange Concrete
+chisel:concrete_orange1:9, Orange Concrete
+chisel:concrete_orange1:10, Orange Concrete
+chisel:concrete_orange1:11, Orange Concrete
+chisel:concrete_orange1:12, Orange Concrete
+chisel:concrete_orange1:13, Orange Concrete
+chisel:concrete_orange1:14, Orange Concrete
+chisel:concrete_orange1:15, Orange Concrete
+chisel:concrete_orange2:0, Orange Concrete
+chisel:concrete_white:0, White Concrete
+chisel:concrete_white:1, White Concrete
+chisel:concrete_white:2, White Concrete
+chisel:concrete_white:3, White Concrete
+chisel:concrete_white:4, White Concrete
+chisel:concrete_white:5, White Concrete
+chisel:concrete_white:6, White Concrete
+chisel:concrete_white:7, White Concrete
+chisel:concrete_white:8, White Concrete
+chisel:concrete_white:9, White Concrete
+chisel:concrete_white:10, White Concrete
+chisel:concrete_white:11, White Concrete
+chisel:concrete_white:12, White Concrete
+chisel:concrete_white:13, White Concrete
+chisel:concrete_white:14, White Concrete
+chisel:concrete_white:15, White Concrete
+chisel:concrete_white1:0, White Concrete
+chisel:concrete_white1:1, White Concrete
+chisel:concrete_white1:2, White Concrete
+chisel:concrete_white1:3, White Concrete
+chisel:concrete_white1:4, White Concrete
+chisel:concrete_white1:5, White Concrete
+chisel:concrete_white1:6, White Concrete
+chisel:concrete_white1:7, White Concrete
+chisel:concrete_white1:8, White Concrete
+chisel:concrete_white1:9, White Concrete
+chisel:concrete_white1:10, White Concrete
+chisel:concrete_white1:11, White Concrete
+chisel:concrete_white1:12, White Concrete
+chisel:concrete_white1:13, White Concrete
+chisel:concrete_white1:14, White Concrete
+chisel:concrete_white1:15, White Concrete
+chisel:concrete_white2:0, White Concrete
+chisel:blockcopper:0, Block of Copper
+chisel:blockcopper:1, Block of Copper
+chisel:blockcopper:2, Block of Copper
+chisel:blockcopper:3, Block of Copper
+chisel:blockcopper:4, Block of Copper
+chisel:blockcopper:5, Block of Copper
+chisel:blockcopper:6, Block of Copper
+chisel:diamond:0, Block of Diamond
+chisel:diamond:1, Block of Diamond
+chisel:diamond:2, Block of Diamond
+chisel:diamond:3, Block of Diamond
+chisel:diamond:4, Block of Diamond
+chisel:diamond:5, Block of Diamond
+chisel:diamond:6, Block of Diamond
+chisel:diamond:7, Block of Diamond
+chisel:diamond:8, Block of Diamond
+chisel:diamond:9, Block of Diamond
+chisel:diamond:10, Block of Diamond
+chisel:diamond:11, Block of Diamond
+chisel:diorite:0, Diorite
+chisel:diorite:1, Diorite
+chisel:diorite:2, Diorite
+chisel:diorite:3, Diorite
+chisel:diorite:4, Diorite
+chisel:diorite:5, Diorite
+chisel:diorite:6, Diorite
+chisel:diorite:7, Diorite
+chisel:diorite:8, Diorite
+chisel:diorite:9, Diorite
+chisel:diorite:10, Diorite
+chisel:diorite:11, Diorite
+chisel:diorite:12, Diorite
+chisel:diorite:13, Diorite
+chisel:diorite:14, Diorite
+chisel:diorite:15, Diorite
+chisel:diorite1:0, Diorite
+chisel:diorite1:1, Diorite
+chisel:diorite1:2, Diorite
+chisel:diorite1:3, Diorite
+chisel:diorite1:4, Diorite
+chisel:diorite1:5, Diorite
+chisel:diorite1:6, Diorite
+chisel:diorite1:7, Diorite
+chisel:diorite1:8, Diorite
+chisel:diorite1:9, Diorite
+chisel:diorite1:10, Diorite
+chisel:diorite1:11, Diorite
+chisel:diorite1:12, Diorite
+chisel:diorite1:13, Diorite
+chisel:diorite1:14, Diorite
+chisel:diorite1:15, Diorite
+chisel:diorite2:0, Diorite
+chisel:dirt:0, Dirt
+chisel:dirt:1, Dirt
+chisel:dirt:2, Dirt
+chisel:dirt:3, Dirt
+chisel:dirt:4, Dirt
+chisel:dirt:5, Dirt
+chisel:dirt:6, Dirt
+chisel:dirt:7, Dirt
+chisel:dirt:8, Dirt
+chisel:dirt:9, Dirt
+chisel:dirt:10, Dirt
+chisel:dirt:11, Dirt
+chisel:dirt:12, Dirt
+chisel:dirt:13, Dirt
+chisel:dirt:14, Dirt
+chisel:dirt:15, Dirt
+chisel:blockelectrum:0, Block of Electrum
+chisel:blockelectrum:1, Block of Electrum
+chisel:blockelectrum:2, Block of Electrum
+chisel:blockelectrum:3, Block of Electrum
+chisel:blockelectrum:4, Block of Electrum
+chisel:blockelectrum:5, Block of Electrum
+chisel:blockelectrum:6, Block of Electrum
+chisel:emerald:0, Block of Emerald
+chisel:emerald:1, Block of Emerald
+chisel:emerald:2, Block of Emerald
+chisel:emerald:3, Block of Emerald
+chisel:emerald:4, Block of Emerald
+chisel:emerald:5, Block of Emerald
+chisel:emerald:6, Block of Emerald
+chisel:emerald:7, Block of Emerald
+chisel:emerald:8, Block of Emerald
+chisel:emerald:9, Block of Emerald
+chisel:emerald:10, Block of Emerald
+chisel:emerald:11, Block of Emerald
+chisel:emerald:12, Block of Emerald
+chisel:emerald:13, Block of Emerald
+chisel:purpur:0, Purpur Block
+chisel:purpur:1, Purpur Block
+chisel:purpur:2, Purpur Block
+chisel:purpur:3, Purpur Block
+chisel:purpur:4, Purpur Block
+chisel:purpur:5, Purpur Block
+chisel:purpur:6, Purpur Block
+chisel:purpur:7, Purpur Block
+chisel:purpur:8, Purpur Block
+chisel:purpur:9, Purpur Block
+chisel:purpur:10, Purpur Block
+chisel:purpur:11, Purpur Block
+chisel:purpur:12, Purpur Block
+chisel:purpur:13, Purpur Block
+chisel:purpur:14, Purpur Block
+chisel:purpur:15, Purpur Block
+chisel:purpur1:0, Purpur Block
+chisel:purpur1:1, Purpur Block
+chisel:purpur1:2, Purpur Block
+chisel:purpur1:3, Purpur Block
+chisel:purpur1:4, Purpur Block
+chisel:purpur1:5, Purpur Block
+chisel:purpur1:6, Purpur Block
+chisel:purpur1:7, Purpur Block
+chisel:purpur1:8, Purpur Block
+chisel:purpur1:9, Purpur Block
+chisel:purpur2:0, Purpur Block
+chisel:purpur2:1, Purpur Block
+chisel:purpur2:2, Purpur Block
+chisel:purpur2:3, Purpur Block
+chisel:purpur2:4, Purpur Block
+chisel:endstone:0, Endstone
+chisel:endstone:1, Endstone
+chisel:endstone:2, Endstone
+chisel:endstone:3, Endstone
+chisel:endstone:4, Endstone
+chisel:endstone:5, Endstone
+chisel:endstone:6, Endstone
+chisel:endstone:7, Endstone
+chisel:endstone:8, Endstone
+chisel:endstone:9, Endstone
+chisel:endstone:10, Endstone
+chisel:endstone:11, Endstone
+chisel:endstone:12, Endstone
+chisel:endstone:13, Endstone
+chisel:endstone:14, Endstone
+chisel:endstone:15, Endstone
+chisel:endstone1:0, Endstone
+chisel:endstone1:1, Endstone
+chisel:endstone1:2, Endstone
+chisel:endstone1:3, Endstone
+chisel:endstone1:4, Endstone
+chisel:endstone1:5, Endstone
+chisel:endstone1:6, Endstone
+chisel:endstone1:7, Endstone
+chisel:endstone1:8, Endstone
+chisel:endstone1:9, Endstone
+chisel:endstone2:0, Endstone
+chisel:endstone2:1, Endstone
+chisel:endstone2:2, Endstone
+chisel:endstone2:3, Endstone
+chisel:endstone2:4, Endstone
+chisel:endstone2:5, Endstone
+chisel:endstone2:6, Endstone
 chisel:factory:0, Factory Block
 chisel:factory:1, Factory Block
 chisel:factory:2, Factory Block
@@ -2472,6 +3730,102 @@ chisel:glass:12, Glass
 chisel:glass:13, Glass
 chisel:glass:14, Glass
 chisel:glass:15, Glass
+chisel:glassdyedblack:0, Black Stained Glass
+chisel:glassdyedblack:1, Black Stained Glass
+chisel:glassdyedblack:2, Black Stained Glass
+chisel:glassdyedblack:3, Black Stained Glass
+chisel:glassdyedblack:4, Black Stained Glass
+chisel:glassdyedblack:5, Black Stained Glass
+chisel:glassdyedred:0, Red Stained Glass
+chisel:glassdyedred:1, Red Stained Glass
+chisel:glassdyedred:2, Red Stained Glass
+chisel:glassdyedred:3, Red Stained Glass
+chisel:glassdyedred:4, Red Stained Glass
+chisel:glassdyedred:5, Red Stained Glass
+chisel:glassdyedgreen:0, Green Stained Glass
+chisel:glassdyedgreen:1, Green Stained Glass
+chisel:glassdyedgreen:2, Green Stained Glass
+chisel:glassdyedgreen:3, Green Stained Glass
+chisel:glassdyedgreen:4, Green Stained Glass
+chisel:glassdyedgreen:5, Green Stained Glass
+chisel:glassdyedbrown:0, Brown Stained Glass
+chisel:glassdyedbrown:1, Brown Stained Glass
+chisel:glassdyedbrown:2, Brown Stained Glass
+chisel:glassdyedbrown:3, Brown Stained Glass
+chisel:glassdyedbrown:4, Brown Stained Glass
+chisel:glassdyedbrown:5, Brown Stained Glass
+chisel:glassdyedblue:0, Blue Stained Glass
+chisel:glassdyedblue:1, Blue Stained Glass
+chisel:glassdyedblue:2, Blue Stained Glass
+chisel:glassdyedblue:3, Blue Stained Glass
+chisel:glassdyedblue:4, Blue Stained Glass
+chisel:glassdyedblue:5, Blue Stained Glass
+chisel:glassdyedpurple:0, Purple Stained Glass
+chisel:glassdyedpurple:1, Purple Stained Glass
+chisel:glassdyedpurple:2, Purple Stained Glass
+chisel:glassdyedpurple:3, Purple Stained Glass
+chisel:glassdyedpurple:4, Purple Stained Glass
+chisel:glassdyedpurple:5, Purple Stained Glass
+chisel:glassdyedcyan:0, Cyan Stained Glass
+chisel:glassdyedcyan:1, Cyan Stained Glass
+chisel:glassdyedcyan:2, Cyan Stained Glass
+chisel:glassdyedcyan:3, Cyan Stained Glass
+chisel:glassdyedcyan:4, Cyan Stained Glass
+chisel:glassdyedcyan:5, Cyan Stained Glass
+chisel:glassdyedlightgray:0, Light Gray Stained Glass
+chisel:glassdyedlightgray:1, Light Gray Stained Glass
+chisel:glassdyedlightgray:2, Light Gray Stained Glass
+chisel:glassdyedlightgray:3, Light Gray Stained Glass
+chisel:glassdyedlightgray:4, Light Gray Stained Glass
+chisel:glassdyedlightgray:5, Light Gray Stained Glass
+chisel:glassdyedgray:0, Gray Stained Glass
+chisel:glassdyedgray:1, Gray Stained Glass
+chisel:glassdyedgray:2, Gray Stained Glass
+chisel:glassdyedgray:3, Gray Stained Glass
+chisel:glassdyedgray:4, Gray Stained Glass
+chisel:glassdyedgray:5, Gray Stained Glass
+chisel:glassdyedpink:0, Pink Stained Glass
+chisel:glassdyedpink:1, Pink Stained Glass
+chisel:glassdyedpink:2, Pink Stained Glass
+chisel:glassdyedpink:3, Pink Stained Glass
+chisel:glassdyedpink:4, Pink Stained Glass
+chisel:glassdyedpink:5, Pink Stained Glass
+chisel:glassdyedlime:0, Lime Stained Glass
+chisel:glassdyedlime:1, Lime Stained Glass
+chisel:glassdyedlime:2, Lime Stained Glass
+chisel:glassdyedlime:3, Lime Stained Glass
+chisel:glassdyedlime:4, Lime Stained Glass
+chisel:glassdyedlime:5, Lime Stained Glass
+chisel:glassdyedyellow:0, Yellow Stained Glass
+chisel:glassdyedyellow:1, Yellow Stained Glass
+chisel:glassdyedyellow:2, Yellow Stained Glass
+chisel:glassdyedyellow:3, Yellow Stained Glass
+chisel:glassdyedyellow:4, Yellow Stained Glass
+chisel:glassdyedyellow:5, Yellow Stained Glass
+chisel:glassdyedlightblue:0, Light Blue Stained Glass
+chisel:glassdyedlightblue:1, Light Blue Stained Glass
+chisel:glassdyedlightblue:2, Light Blue Stained Glass
+chisel:glassdyedlightblue:3, Light Blue Stained Glass
+chisel:glassdyedlightblue:4, Light Blue Stained Glass
+chisel:glassdyedlightblue:5, Light Blue Stained Glass
+chisel:glassdyedmagenta:0, Magenta Stained Glass
+chisel:glassdyedmagenta:1, Magenta Stained Glass
+chisel:glassdyedmagenta:2, Magenta Stained Glass
+chisel:glassdyedmagenta:3, Magenta Stained Glass
+chisel:glassdyedmagenta:4, Magenta Stained Glass
+chisel:glassdyedmagenta:5, Magenta Stained Glass
+chisel:glassdyedorange:0, Orange Stained Glass
+chisel:glassdyedorange:1, Orange Stained Glass
+chisel:glassdyedorange:2, Orange Stained Glass
+chisel:glassdyedorange:3, Orange Stained Glass
+chisel:glassdyedorange:4, Orange Stained Glass
+chisel:glassdyedorange:5, Orange Stained Glass
+chisel:glassdyedwhite:0, White Stained Glass
+chisel:glassdyedwhite:1, White Stained Glass
+chisel:glassdyedwhite:2, White Stained Glass
+chisel:glassdyedwhite:3, White Stained Glass
+chisel:glassdyedwhite:4, White Stained Glass
+chisel:glassdyedwhite:5, White Stained Glass
 chisel:glowstone:0, Glowstone
 chisel:glowstone:1, Glowstone
 chisel:glowstone:2, Glowstone
@@ -2505,6 +3859,176 @@ chisel:glowstone1:13, Glowstone
 chisel:glowstone1:14, Glowstone
 chisel:glowstone1:15, Glowstone
 chisel:glowstone2:0, Glowstone
+chisel:blockgold:0, Block of Gold
+chisel:blockgold:1, Block of Gold
+chisel:blockgold:2, Block of Gold
+chisel:blockgold:3, Block of Gold
+chisel:blockgold:4, Block of Gold
+chisel:blockgold:5, Block of Gold
+chisel:blockgold:6, Block of Gold
+chisel:gold:0, Block of Gold
+chisel:gold:1, Block of Gold
+chisel:gold:2, Block of Gold
+chisel:gold:3, Block of Gold
+chisel:gold:4, Block of Gold
+chisel:gold:5, Block of Gold
+chisel:gold:6, Block of Gold
+chisel:gold:7, Block of Gold
+chisel:gold:8, Block of Gold
+chisel:gold:9, Block of Gold
+chisel:gold:10, Block of Gold
+chisel:gold:11, Block of Gold
+chisel:gold:12, Block of Gold
+chisel:gold:13, Block of Gold
+chisel:gold:14, Block of Gold
+chisel:granite:0, Granite
+chisel:granite:1, Granite
+chisel:granite:2, Granite
+chisel:granite:3, Granite
+chisel:granite:4, Granite
+chisel:granite:5, Granite
+chisel:granite:6, Granite
+chisel:granite:7, Granite
+chisel:granite:8, Granite
+chisel:granite:9, Granite
+chisel:granite:10, Granite
+chisel:granite:11, Granite
+chisel:granite:12, Granite
+chisel:granite:13, Granite
+chisel:granite:14, Granite
+chisel:granite:15, Granite
+chisel:granite1:0, Granite
+chisel:granite1:1, Granite
+chisel:granite1:2, Granite
+chisel:granite1:3, Granite
+chisel:granite1:4, Granite
+chisel:granite1:5, Granite
+chisel:granite1:6, Granite
+chisel:granite1:7, Granite
+chisel:granite1:8, Granite
+chisel:granite1:9, Granite
+chisel:granite1:10, Granite
+chisel:granite1:11, Granite
+chisel:granite1:12, Granite
+chisel:granite1:13, Granite
+chisel:granite1:14, Granite
+chisel:granite1:15, Granite
+chisel:granite2:0, Granite
+chisel:hardenedclay:0, Terracotta
+chisel:hardenedclay:1, Terracotta
+chisel:hardenedclay:2, Terracotta
+chisel:hardenedclay:3, Terracotta
+chisel:hardenedclay:4, Terracotta
+chisel:hardenedclay:5, Terracotta
+chisel:hardenedclay:6, Terracotta
+chisel:hardenedclay:7, Terracotta
+chisel:hardenedclay:8, Terracotta
+chisel:hardenedclay:9, Terracotta
+chisel:hardenedclay:10, Terracotta
+chisel:hardenedclay:11, Terracotta
+chisel:hardenedclay:12, Terracotta
+chisel:hardenedclay:13, Terracotta
+chisel:hardenedclay:14, Terracotta
+chisel:hardenedclay:15, Terracotta
+chisel:hardenedclay1:0, Terracotta
+chisel:hardenedclay1:1, Terracotta
+chisel:hardenedclay1:2, Terracotta
+chisel:hardenedclay1:3, Terracotta
+chisel:hardenedclay1:4, Terracotta
+chisel:hardenedclay1:5, Terracotta
+chisel:hardenedclay1:6, Terracotta
+chisel:hardenedclay1:7, Terracotta
+chisel:hardenedclay1:8, Terracotta
+chisel:hardenedclay1:9, Terracotta
+chisel:hardenedclay2:0, Terracotta
+chisel:hardenedclay2:1, Terracotta
+chisel:hardenedclay2:2, Terracotta
+chisel:hardenedclay2:3, Terracotta
+chisel:hardenedclay2:4, Terracotta
+chisel:hardenedclay2:5, Terracotta
+chisel:hardenedclay2:6, Terracotta
+chisel:ice:0, Ice
+chisel:ice:1, Ice
+chisel:ice:2, Ice
+chisel:ice:3, Ice
+chisel:ice:4, Ice
+chisel:ice:5, Ice
+chisel:ice:6, Ice
+chisel:ice:7, Ice
+chisel:ice:8, Ice
+chisel:ice:9, Ice
+chisel:ice:10, Ice
+chisel:ice:11, Ice
+chisel:ice:12, Ice
+chisel:ice:13, Ice
+chisel:ice:14, Ice
+chisel:ice:15, Ice
+chisel:ice1:0, Ice
+chisel:ice1:1, Ice
+chisel:ice1:2, Ice
+chisel:ice1:3, Ice
+chisel:ice1:4, Ice
+chisel:ice1:5, Ice
+chisel:ice1:6, Ice
+chisel:ice1:7, Ice
+chisel:ice1:8, Ice
+chisel:ice1:9, Ice
+chisel:ice1:10, Ice
+chisel:ice1:11, Ice
+chisel:ice1:12, Ice
+chisel:ice1:13, Ice
+chisel:ice1:14, Ice
+chisel:ice1:15, Ice
+chisel:ice2:0, Ice
+chisel:icepillar:0, Ice Pillar
+chisel:icepillar:1, Ice Pillar
+chisel:icepillar:2, Ice Pillar
+chisel:icepillar:3, Ice Pillar
+chisel:icepillar:4, Ice Pillar
+chisel:icepillar:5, Ice Pillar
+chisel:icepillar:6, Ice Pillar
+chisel:blockinvar:0, Block of Invar
+chisel:blockinvar:1, Block of Invar
+chisel:blockinvar:2, Block of Invar
+chisel:blockinvar:3, Block of Invar
+chisel:blockinvar:4, Block of Invar
+chisel:blockinvar:5, Block of Invar
+chisel:blockinvar:6, Block of Invar
+chisel:blockiron:0, Block of Iron
+chisel:blockiron:1, Block of Iron
+chisel:blockiron:2, Block of Iron
+chisel:blockiron:3, Block of Iron
+chisel:blockiron:4, Block of Iron
+chisel:blockiron:5, Block of Iron
+chisel:blockiron:6, Block of Iron
+chisel:iron:0, Block of Iron
+chisel:iron:1, Block of Iron
+chisel:iron:2, Block of Iron
+chisel:iron:3, Block of Iron
+chisel:iron:4, Block of Iron
+chisel:iron:5, Block of Iron
+chisel:iron:6, Block of Iron
+chisel:iron:7, Block of Iron
+chisel:iron:8, Block of Iron
+chisel:iron:9, Block of Iron
+chisel:iron:10, Block of Iron
+chisel:iron:11, Block of Iron
+chisel:iron:12, Block of Iron
+chisel:iron:13, Block of Iron
+chisel:iron:14, Block of Iron
+chisel:ironpane:0, Iron Bars
+chisel:ironpane:1, Iron Bars
+chisel:ironpane:2, Iron Bars
+chisel:ironpane:3, Iron Bars
+chisel:ironpane:4, Iron Bars
+chisel:ironpane:5, Iron Bars
+chisel:ironpane:6, Iron Bars
+chisel:ironpane:7, Iron Bars
+chisel:ironpane:8, Iron Bars
+chisel:ironpane:9, Iron Bars
+chisel:ironpane:10, Iron Bars
+chisel:ironpane:11, Iron Bars
+chisel:ironpane:12, Iron Bars
 chisel:laboratory:0, Laboratory Block
 chisel:laboratory:1, Laboratory Block
 chisel:laboratory:2, Laboratory Block
@@ -2521,6 +4045,55 @@ chisel:laboratory:12, Laboratory Block
 chisel:laboratory:13, Laboratory Block
 chisel:laboratory:14, Laboratory Block
 chisel:laboratory:15, Laboratory Block
+chisel:lapis:0, Lapis Lazuli Block
+chisel:lapis:1, Lapis Lazuli Block
+chisel:lapis:2, Lapis Lazuli Block
+chisel:lapis:3, Lapis Lazuli Block
+chisel:lapis:4, Lapis Lazuli Block
+chisel:lapis:5, Lapis Lazuli Block
+chisel:lapis:6, Lapis Lazuli Block
+chisel:lapis:7, Lapis Lazuli Block
+chisel:lapis:8, Lapis Lazuli Block
+chisel:lavastone:0, Lavastone
+chisel:lavastone:1, Lavastone
+chisel:lavastone:2, Lavastone
+chisel:lavastone:3, Lavastone
+chisel:lavastone:4, Lavastone
+chisel:lavastone:5, Lavastone
+chisel:lavastone:6, Lavastone
+chisel:lavastone:7, Lavastone
+chisel:lavastone:8, Lavastone
+chisel:lavastone:9, Lavastone
+chisel:lavastone:10, Lavastone
+chisel:lavastone:11, Lavastone
+chisel:lavastone:12, Lavastone
+chisel:lavastone:13, Lavastone
+chisel:lavastone:14, Lavastone
+chisel:lavastone:15, Lavastone
+chisel:lavastone1:0, Lavastone
+chisel:lavastone1:1, Lavastone
+chisel:lavastone1:2, Lavastone
+chisel:lavastone1:3, Lavastone
+chisel:lavastone1:4, Lavastone
+chisel:lavastone1:5, Lavastone
+chisel:lavastone1:6, Lavastone
+chisel:lavastone1:7, Lavastone
+chisel:lavastone1:8, Lavastone
+chisel:lavastone1:9, Lavastone
+chisel:lavastone1:10, Lavastone
+chisel:lavastone1:11, Lavastone
+chisel:lavastone1:12, Lavastone
+chisel:lavastone1:13, Lavastone
+chisel:lavastone1:14, Lavastone
+chisel:lavastone1:15, Lavastone
+chisel:lavastone2:0, Lavastone
+chisel:blocklead:0, Block of Lead
+chisel:blocklead:1, Block of Lead
+chisel:blocklead:2, Block of Lead
+chisel:blocklead:3, Block of Lead
+chisel:blocklead:4, Block of Lead
+chisel:blocklead:5, Block of Lead
+chisel:blocklead:6, Block of Lead
 chisel:limestone:0, Limestone
 chisel:limestone:1, Limestone
 chisel:limestone:2, Limestone
@@ -2605,6 +4178,352 @@ chisel:marblepillar:12, Marble Pillar
 chisel:marblepillar:13, Marble Pillar
 chisel:marblepillar:14, Marble Pillar
 chisel:marblepillar:15, Marble Pillar
+chisel:netherbrick:0, Nether Bricks
+chisel:netherbrick:1, Nether Bricks
+chisel:netherbrick:2, Nether Bricks
+chisel:netherbrick:3, Nether Bricks
+chisel:netherbrick:4, Nether Bricks
+chisel:netherbrick:5, Nether Bricks
+chisel:netherbrick:6, Nether Bricks
+chisel:netherbrick:7, Nether Bricks
+chisel:netherbrick:8, Nether Bricks
+chisel:netherbrick:9, Nether Bricks
+chisel:netherbrick:10, Nether Bricks
+chisel:netherbrick:11, Nether Bricks
+chisel:netherbrick:12, Nether Bricks
+chisel:netherbrick:13, Nether Bricks
+chisel:netherbrick:14, Nether Bricks
+chisel:netherbrick:15, Nether Bricks
+chisel:netherrack:0, Netherrack
+chisel:netherrack:1, Netherrack
+chisel:netherrack:2, Netherrack
+chisel:netherrack:3, Netherrack
+chisel:netherrack:4, Netherrack
+chisel:netherrack:5, Netherrack
+chisel:netherrack:6, Netherrack
+chisel:netherrack:7, Netherrack
+chisel:netherrack:8, Netherrack
+chisel:netherrack:9, Netherrack
+chisel:netherrack:10, Netherrack
+chisel:netherrack:11, Netherrack
+chisel:netherrack:12, Netherrack
+chisel:netherrack:13, Netherrack
+chisel:blocknickel:0, Block of Nickel
+chisel:blocknickel:1, Block of Nickel
+chisel:blocknickel:2, Block of Nickel
+chisel:blocknickel:3, Block of Nickel
+chisel:blocknickel:4, Block of Nickel
+chisel:blocknickel:5, Block of Nickel
+chisel:blocknickel:6, Block of Nickel
+chisel:obsidian:0, Obsidian
+chisel:obsidian:1, Obsidian
+chisel:obsidian:2, Obsidian
+chisel:obsidian:3, Obsidian
+chisel:obsidian:4, Obsidian
+chisel:obsidian:5, Obsidian
+chisel:obsidian:6, Obsidian
+chisel:obsidian:7, Obsidian
+chisel:obsidian:8, Obsidian
+chisel:obsidian:9, Obsidian
+chisel:obsidian:10, Obsidian
+chisel:obsidian:11, Obsidian
+chisel:obsidian:12, Obsidian
+chisel:obsidian:13, Obsidian
+chisel:obsidian:14, Obsidian
+chisel:paper:0, Paper Wall
+chisel:paper:1, Paper Wall
+chisel:paper:2, Paper Wall
+chisel:paper:3, Paper Wall
+chisel:paper:4, Paper Wall
+chisel:paper:5, Paper Wall
+chisel:paper:6, Paper Wall
+chisel:paper:7, Paper Wall
+chisel:paper:8, Paper Wall
+chisel:planks-oak:0, Oak Planks
+chisel:planks-oak:1, Oak Planks
+chisel:planks-oak:2, Oak Planks
+chisel:planks-oak:3, Oak Planks
+chisel:planks-oak:4, Oak Planks
+chisel:planks-oak:5, Oak Planks
+chisel:planks-oak:6, Oak Planks
+chisel:planks-oak:7, Oak Planks
+chisel:planks-oak:8, Oak Planks
+chisel:planks-oak:9, Oak Planks
+chisel:planks-oak:10, Oak Planks
+chisel:planks-oak:11, Oak Planks
+chisel:planks-oak:12, Oak Planks
+chisel:planks-oak:13, Oak Planks
+chisel:planks-oak:14, Oak Planks
+chisel:planks-spruce:0, Spruce Planks
+chisel:planks-spruce:1, Spruce Planks
+chisel:planks-spruce:2, Spruce Planks
+chisel:planks-spruce:3, Spruce Planks
+chisel:planks-spruce:4, Spruce Planks
+chisel:planks-spruce:5, Spruce Planks
+chisel:planks-spruce:6, Spruce Planks
+chisel:planks-spruce:7, Spruce Planks
+chisel:planks-spruce:8, Spruce Planks
+chisel:planks-spruce:9, Spruce Planks
+chisel:planks-spruce:10, Spruce Planks
+chisel:planks-spruce:11, Spruce Planks
+chisel:planks-spruce:12, Spruce Planks
+chisel:planks-spruce:13, Spruce Planks
+chisel:planks-spruce:14, Spruce Planks
+chisel:planks-birch:0, Birch Planks
+chisel:planks-birch:1, Birch Planks
+chisel:planks-birch:2, Birch Planks
+chisel:planks-birch:3, Birch Planks
+chisel:planks-birch:4, Birch Planks
+chisel:planks-birch:5, Birch Planks
+chisel:planks-birch:6, Birch Planks
+chisel:planks-birch:7, Birch Planks
+chisel:planks-birch:8, Birch Planks
+chisel:planks-birch:9, Birch Planks
+chisel:planks-birch:10, Birch Planks
+chisel:planks-birch:11, Birch Planks
+chisel:planks-birch:12, Birch Planks
+chisel:planks-birch:13, Birch Planks
+chisel:planks-birch:14, Birch Planks
+chisel:planks-jungle:0, Jungle Planks
+chisel:planks-jungle:1, Jungle Planks
+chisel:planks-jungle:2, Jungle Planks
+chisel:planks-jungle:3, Jungle Planks
+chisel:planks-jungle:4, Jungle Planks
+chisel:planks-jungle:5, Jungle Planks
+chisel:planks-jungle:6, Jungle Planks
+chisel:planks-jungle:7, Jungle Planks
+chisel:planks-jungle:8, Jungle Planks
+chisel:planks-jungle:9, Jungle Planks
+chisel:planks-jungle:10, Jungle Planks
+chisel:planks-jungle:11, Jungle Planks
+chisel:planks-jungle:12, Jungle Planks
+chisel:planks-jungle:13, Jungle Planks
+chisel:planks-jungle:14, Jungle Planks
+chisel:planks-acacia:0, Acacia Planks
+chisel:planks-acacia:1, Acacia Planks
+chisel:planks-acacia:2, Acacia Planks
+chisel:planks-acacia:3, Acacia Planks
+chisel:planks-acacia:4, Acacia Planks
+chisel:planks-acacia:5, Acacia Planks
+chisel:planks-acacia:6, Acacia Planks
+chisel:planks-acacia:7, Acacia Planks
+chisel:planks-acacia:8, Acacia Planks
+chisel:planks-acacia:9, Acacia Planks
+chisel:planks-acacia:10, Acacia Planks
+chisel:planks-acacia:11, Acacia Planks
+chisel:planks-acacia:12, Acacia Planks
+chisel:planks-acacia:13, Acacia Planks
+chisel:planks-acacia:14, Acacia Planks
+chisel:planks-dark-oak:0, Dark Oak Planks
+chisel:planks-dark-oak:1, Dark Oak Planks
+chisel:planks-dark-oak:2, Dark Oak Planks
+chisel:planks-dark-oak:3, Dark Oak Planks
+chisel:planks-dark-oak:4, Dark Oak Planks
+chisel:planks-dark-oak:5, Dark Oak Planks
+chisel:planks-dark-oak:6, Dark Oak Planks
+chisel:planks-dark-oak:7, Dark Oak Planks
+chisel:planks-dark-oak:8, Dark Oak Planks
+chisel:planks-dark-oak:9, Dark Oak Planks
+chisel:planks-dark-oak:10, Dark Oak Planks
+chisel:planks-dark-oak:11, Dark Oak Planks
+chisel:planks-dark-oak:12, Dark Oak Planks
+chisel:planks-dark-oak:13, Dark Oak Planks
+chisel:planks-dark-oak:14, Dark Oak Planks
+chisel:blockplatinum:0, Block of Platinum
+chisel:blockplatinum:1, Block of Platinum
+chisel:blockplatinum:2, Block of Platinum
+chisel:blockplatinum:3, Block of Platinum
+chisel:blockplatinum:4, Block of Platinum
+chisel:blockplatinum:5, Block of Platinum
+chisel:blockplatinum:6, Block of Platinum
+chisel:prismarine:0, Prismarine
+chisel:prismarine:1, Prismarine
+chisel:prismarine:2, Prismarine
+chisel:prismarine:3, Prismarine
+chisel:prismarine:4, Prismarine
+chisel:prismarine:5, Prismarine
+chisel:prismarine:6, Prismarine
+chisel:prismarine:7, Prismarine
+chisel:prismarine:8, Prismarine
+chisel:prismarine:9, Prismarine
+chisel:prismarine:10, Prismarine
+chisel:prismarine:11, Prismarine
+chisel:prismarine:12, Prismarine
+chisel:prismarine:13, Prismarine
+chisel:prismarine:14, Prismarine
+chisel:prismarine:15, Prismarine
+chisel:prismarine1:0, Prismarine
+chisel:prismarine1:1, Prismarine
+chisel:prismarine1:2, Prismarine
+chisel:prismarine1:3, Prismarine
+chisel:prismarine1:4, Prismarine
+chisel:prismarine1:5, Prismarine
+chisel:prismarine1:6, Prismarine
+chisel:prismarine1:7, Prismarine
+chisel:prismarine1:8, Prismarine
+chisel:prismarine1:9, Prismarine
+chisel:prismarine2:0, Prismarine
+chisel:prismarine2:1, Prismarine
+chisel:prismarine2:2, Prismarine
+chisel:prismarine2:3, Prismarine
+chisel:prismarine2:4, Prismarine
+chisel:prismarine2:5, Prismarine
+chisel:quartz:0, Block of Quartz
+chisel:quartz:1, Block of Quartz
+chisel:quartz:2, Block of Quartz
+chisel:quartz:3, Block of Quartz
+chisel:quartz:4, Block of Quartz
+chisel:quartz:5, Block of Quartz
+chisel:quartz:6, Block of Quartz
+chisel:quartz:7, Block of Quartz
+chisel:quartz:8, Block of Quartz
+chisel:quartz:9, Block of Quartz
+chisel:quartz:10, Block of Quartz
+chisel:quartz:11, Block of Quartz
+chisel:quartz:12, Block of Quartz
+chisel:quartz:13, Block of Quartz
+chisel:quartz:14, Block of Quartz
+chisel:quartz:15, Block of Quartz
+chisel:quartz1:0, Block of Quartz
+chisel:quartz1:1, Block of Quartz
+chisel:quartz1:2, Block of Quartz
+chisel:quartz1:3, Block of Quartz
+chisel:quartz1:4, Block of Quartz
+chisel:quartz1:5, Block of Quartz
+chisel:quartz1:6, Block of Quartz
+chisel:quartz1:7, Block of Quartz
+chisel:quartz1:8, Block of Quartz
+chisel:quartz1:9, Block of Quartz
+chisel:quartz1:10, Block of Quartz
+chisel:quartz1:11, Block of Quartz
+chisel:quartz1:12, Block of Quartz
+chisel:quartz1:13, Block of Quartz
+chisel:quartz1:14, Block of Quartz
+chisel:quartz1:15, Block of Quartz
+chisel:redstone:0, Block of Redstone
+chisel:redstone:1, Block of Redstone
+chisel:redstone:2, Block of Redstone
+chisel:redstone:3, Block of Redstone
+chisel:redstone:4, Block of Redstone
+chisel:redstone:5, Block of Redstone
+chisel:redstone:6, Block of Redstone
+chisel:redstone:7, Block of Redstone
+chisel:redstone:8, Block of Redstone
+chisel:redstone:9, Block of Redstone
+chisel:redstone:10, Block of Redstone
+chisel:redstone:11, Block of Redstone
+chisel:redstone:12, Block of Redstone
+chisel:redstone:13, Block of Redstone
+chisel:redstone:14, Block of Redstone
+chisel:redstone:15, Block of Redstone
+chisel:redstone1:0, Block of Redstone
+chisel:redstone1:1, Block of Redstone
+chisel:redstone1:2, Block of Redstone
+chisel:redstone1:3, Block of Redstone
+chisel:redstone1:4, Block of Redstone
+chisel:redstone1:5, Block of Redstone
+chisel:redstone1:6, Block of Redstone
+chisel:redstone1:7, Block of Redstone
+chisel:redstone1:8, Block of Redstone
+chisel:redstone1:9, Block of Redstone
+chisel:redstone1:10, Block of Redstone
+chisel:redstone1:11, Block of Redstone
+chisel:sandstoneyellow:0, Sandstone
+chisel:sandstoneyellow:1, Sandstone
+chisel:sandstoneyellow:2, Sandstone
+chisel:sandstoneyellow:3, Sandstone
+chisel:sandstoneyellow:4, Sandstone
+chisel:sandstoneyellow:5, Sandstone
+chisel:sandstoneyellow:6, Sandstone
+chisel:sandstoneyellow:7, Sandstone
+chisel:sandstoneyellow:8, Sandstone
+chisel:sandstoneyellow:9, Sandstone
+chisel:sandstoneyellow:10, Sandstone
+chisel:sandstoneyellow:11, Sandstone
+chisel:sandstoneyellow:12, Sandstone
+chisel:sandstoneyellow:13, Sandstone
+chisel:sandstoneyellow:14, Sandstone
+chisel:sandstoneyellow:15, Sandstone
+chisel:sandstoneyellow1:0, Sandstone
+chisel:sandstoneyellow1:1, Sandstone
+chisel:sandstoneyellow1:2, Sandstone
+chisel:sandstoneyellow1:3, Sandstone
+chisel:sandstoneyellow1:4, Sandstone
+chisel:sandstoneyellow1:5, Sandstone
+chisel:sandstoneyellow1:6, Sandstone
+chisel:sandstoneyellow1:7, Sandstone
+chisel:sandstoneyellow1:8, Sandstone
+chisel:sandstoneyellow1:9, Sandstone
+chisel:sandstoneyellow2:0, Sandstone
+chisel:sandstoneyellow2:1, Sandstone
+chisel:sandstoneyellow2:2, Sandstone
+chisel:sandstoneyellow2:3, Sandstone
+chisel:sandstoneyellow2:4, Sandstone
+chisel:sandstoneyellow2:5, Sandstone
+chisel:sandstoneyellow2:6, Sandstone
+chisel:sandstonered:0, Red Sandstone
+chisel:sandstonered:1, Red Sandstone
+chisel:sandstonered:2, Red Sandstone
+chisel:sandstonered:3, Red Sandstone
+chisel:sandstonered:4, Red Sandstone
+chisel:sandstonered:5, Red Sandstone
+chisel:sandstonered:6, Red Sandstone
+chisel:sandstonered:7, Red Sandstone
+chisel:sandstonered:8, Red Sandstone
+chisel:sandstonered:9, Red Sandstone
+chisel:sandstonered:10, Red Sandstone
+chisel:sandstonered:11, Red Sandstone
+chisel:sandstonered:12, Red Sandstone
+chisel:sandstonered:13, Red Sandstone
+chisel:sandstonered:14, Red Sandstone
+chisel:sandstonered:15, Red Sandstone
+chisel:sandstonered1:0, Red Sandstone
+chisel:sandstonered1:1, Red Sandstone
+chisel:sandstonered1:2, Red Sandstone
+chisel:sandstonered1:3, Red Sandstone
+chisel:sandstonered1:4, Red Sandstone
+chisel:sandstonered1:5, Red Sandstone
+chisel:sandstonered1:6, Red Sandstone
+chisel:sandstonered1:7, Red Sandstone
+chisel:sandstonered1:8, Red Sandstone
+chisel:sandstonered1:9, Red Sandstone
+chisel:sandstonered2:0, Red Sandstone
+chisel:sandstonered2:1, Red Sandstone
+chisel:sandstonered2:2, Red Sandstone
+chisel:sandstonered2:3, Red Sandstone
+chisel:sandstonered2:4, Red Sandstone
+chisel:sandstonered2:5, Red Sandstone
+chisel:sandstonered2:6, Red Sandstone
+chisel:sandstone-scribbles:0, Sandstone Scribbles
+chisel:sandstone-scribbles:1, Sandstone Scribbles
+chisel:sandstone-scribbles:2, Sandstone Scribbles
+chisel:sandstone-scribbles:3, Sandstone Scribbles
+chisel:sandstone-scribbles:4, Sandstone Scribbles
+chisel:sandstone-scribbles:5, Sandstone Scribbles
+chisel:sandstone-scribbles:6, Sandstone Scribbles
+chisel:sandstone-scribbles:7, Sandstone Scribbles
+chisel:sandstone-scribbles:8, Sandstone Scribbles
+chisel:sandstone-scribbles:9, Sandstone Scribbles
+chisel:sandstone-scribbles:10, Sandstone Scribbles
+chisel:sandstone-scribbles:11, Sandstone Scribbles
+chisel:sandstone-scribbles:12, Sandstone Scribbles
+chisel:sandstone-scribbles:13, Sandstone Scribbles
+chisel:sandstone-scribbles:14, Sandstone Scribbles
+chisel:sandstone-scribbles:15, Sandstone Scribbles
+chisel:blocksilver:0, Block of Silver
+chisel:blocksilver:1, Block of Silver
+chisel:blocksilver:2, Block of Silver
+chisel:blocksilver:3, Block of Silver
+chisel:blocksilver:4, Block of Silver
+chisel:blocksilver:5, Block of Silver
+chisel:blocksilver:6, Block of Silver
+chisel:blocksteel:0, Block of Steel
+chisel:blocksteel:1, Block of Steel
+chisel:blocksteel:2, Block of Steel
+chisel:blocksteel:3, Block of Steel
+chisel:blocksteel:4, Block of Steel
+chisel:blocksteel:5, Block of Steel
+chisel:blocksteel:6, Block of Steel
 chisel:stonebrick:0, Chiseled Stone
 chisel:stonebrick:1, Chiseled Stone
 chisel:stonebrick:2, Chiseled Stone
@@ -2669,6 +4588,45 @@ chisel:technicalnew:5, Factory Block
 chisel:technicalnew:6, Factory Block
 chisel:technicalnew:7, Factory Block
 chisel:technicalnew:8, Factory Block
+chisel:temple:0, Temple Block
+chisel:temple:1, Temple Block
+chisel:temple:2, Temple Block
+chisel:temple:3, Temple Block
+chisel:temple:4, Temple Block
+chisel:temple:5, Temple Block
+chisel:temple:6, Temple Block
+chisel:temple:7, Temple Block
+chisel:temple:8, Temple Block
+chisel:temple:9, Temple Block
+chisel:temple:10, Temple Block
+chisel:temple:11, Temple Block
+chisel:temple:12, Temple Block
+chisel:temple:13, Temple Block
+chisel:temple:14, Temple Block
+chisel:temple:15, Temple Block
+chisel:templemossy:0, Mossy Temple Block
+chisel:templemossy:1, Mossy Temple Block
+chisel:templemossy:2, Mossy Temple Block
+chisel:templemossy:3, Mossy Temple Block
+chisel:templemossy:4, Mossy Temple Block
+chisel:templemossy:5, Mossy Temple Block
+chisel:templemossy:6, Mossy Temple Block
+chisel:templemossy:7, Mossy Temple Block
+chisel:templemossy:8, Mossy Temple Block
+chisel:templemossy:9, Mossy Temple Block
+chisel:templemossy:10, Mossy Temple Block
+chisel:templemossy:11, Mossy Temple Block
+chisel:templemossy:12, Mossy Temple Block
+chisel:templemossy:13, Mossy Temple Block
+chisel:templemossy:14, Mossy Temple Block
+chisel:templemossy:15, Mossy Temple Block
+chisel:blocktin:0, Block of Tin
+chisel:blocktin:1, Block of Tin
+chisel:blocktin:2, Block of Tin
+chisel:blocktin:3, Block of Tin
+chisel:blocktin:4, Block of Tin
+chisel:blocktin:5, Block of Tin
+chisel:blocktin:6, Block of Tin
 chisel:tyrian:0, Tyrian
 chisel:tyrian:1, Tyrian
 chisel:tyrian:2, Tyrian
@@ -2685,6 +4643,23 @@ chisel:tyrian:12, Tyrian
 chisel:tyrian:13, Tyrian
 chisel:tyrian:14, Tyrian
 chisel:tyrian:15, Tyrian
+chisel:blockuranium:0, Block of Uranium
+chisel:blockuranium:1, Block of Uranium
+chisel:blockuranium:2, Block of Uranium
+chisel:blockuranium:3, Block of Uranium
+chisel:blockuranium:4, Block of Uranium
+chisel:blockuranium:5, Block of Uranium
+chisel:blockuranium:6, Block of Uranium
+chisel:valentines:0, Valentines' Block
+chisel:valentines:1, Valentines' Block
+chisel:valentines:2, Valentines' Block
+chisel:valentines:3, Valentines' Block
+chisel:valentines:4, Valentines' Block
+chisel:valentines:5, Valentines' Block
+chisel:valentines:6, Valentines' Block
+chisel:valentines:7, Valentines' Block
+chisel:valentines:8, Valentines' Block
+chisel:valentines:9, Valentines' Block
 chisel:voidstone:0, Voidstone
 chisel:voidstone:1, Voidstone
 chisel:voidstone:2, Voidstone
@@ -2716,6 +4691,71 @@ chisel:voidstonerunic:11, Runed Voidstone
 chisel:voidstonerunic:12, Runed Voidstone
 chisel:voidstonerunic:13, Runed Voidstone
 chisel:voidstonerunic:14, Runed Voidstone
+chisel:waterstone:0, Waterstone
+chisel:waterstone:1, Waterstone
+chisel:waterstone:2, Waterstone
+chisel:waterstone:3, Waterstone
+chisel:waterstone:4, Waterstone
+chisel:waterstone:5, Waterstone
+chisel:waterstone:6, Waterstone
+chisel:waterstone:7, Waterstone
+chisel:waterstone:8, Waterstone
+chisel:waterstone:9, Waterstone
+chisel:waterstone:10, Waterstone
+chisel:waterstone:11, Waterstone
+chisel:waterstone:12, Waterstone
+chisel:waterstone:13, Waterstone
+chisel:waterstone:14, Waterstone
+chisel:waterstone:15, Waterstone
+chisel:waterstone1:0, Waterstone
+chisel:waterstone1:1, Waterstone
+chisel:waterstone1:2, Waterstone
+chisel:waterstone1:3, Waterstone
+chisel:waterstone1:4, Waterstone
+chisel:waterstone1:5, Waterstone
+chisel:waterstone1:6, Waterstone
+chisel:waterstone1:7, Waterstone
+chisel:waterstone1:8, Waterstone
+chisel:waterstone1:9, Waterstone
+chisel:waterstone1:10, Waterstone
+chisel:waterstone1:11, Waterstone
+chisel:waterstone1:12, Waterstone
+chisel:waterstone1:13, Waterstone
+chisel:waterstone1:14, Waterstone
+chisel:waterstone1:15, Waterstone
+chisel:waterstone2:0, Waterstone
+chisel:wool_black:0, Black Wool
+chisel:wool_black:1, Black Wool
+chisel:wool_red:0, Red Wool
+chisel:wool_red:1, Red Wool
+chisel:wool_green:0, Green Wool
+chisel:wool_green:1, Green Wool
+chisel:wool_brown:0, Brown Wool
+chisel:wool_brown:1, Brown Wool
+chisel:wool_blue:0, Blue Wool
+chisel:wool_blue:1, Blue Wool
+chisel:wool_purple:0, Purple Wool
+chisel:wool_purple:1, Purple Wool
+chisel:wool_cyan:0, Cyan Wool
+chisel:wool_cyan:1, Cyan Wool
+chisel:wool_lightgray:0, Light Gray Wool
+chisel:wool_lightgray:1, Light Gray Wool
+chisel:wool_gray:0, Gray Wool
+chisel:wool_gray:1, Gray Wool
+chisel:wool_pink:0, Pink Wool
+chisel:wool_pink:1, Pink Wool
+chisel:wool_lime:0, Lime Wool
+chisel:wool_lime:1, Lime Wool
+chisel:wool_yellow:0, Yellow Wool
+chisel:wool_yellow:1, Yellow Wool
+chisel:wool_lightblue:0, Light Blue Wool
+chisel:wool_lightblue:1, Light Blue Wool
+chisel:wool_magenta:0, Magenta Wool
+chisel:wool_magenta:1, Magenta Wool
+chisel:wool_orange:0, Orange Wool
+chisel:wool_orange:1, Orange Wool
+chisel:wool_white:0, Wool
+chisel:wool_white:1, Wool
 forge:bucketfilled, %s Bucket
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
@@ -3431,10 +5471,8 @@ chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
 chisel:chisel_hitech, iChisel
 chisel:offsettool, Ender Offset Wand
-claybucket:unfiredclaybucket, Unfired Clay Bucket
-claybucket:claybucket:0, Clay Bucket
-claybucket:claybucket:1, Water Clay Bucket
-claybucket:claybucket:2, Lava Clay Bucket
+coroutil:repairing_block, Repairing Block
+coroutil:item_repairing_gel, Repairing Gel
 inventorygenerators:inv_culinary_gen, Inventory Culinary Generator
 inventorygenerators:inv_death_gen, Inventory Death Generator
 inventorygenerators:inv_end_gen, Inventory End Generator
@@ -3503,6 +5541,8 @@ deepmoblearning:pristine_matter_wither, Pristine Wither Matter
 deepmoblearning:pristine_matter_dragon, Pristine Ender Dragon Matter
 deepmoblearning:pristine_matter_shulker, Pristine Shulker Matter
 deepmoblearning:pristine_matter_guardian, Pristine Guardian Matter
+drones:drone_disruptor, Drone Disruptor
+drones:drone_constructor, Drone Constructor
 elevatorid:elevator_white, White Elevator
 elevatorid:elevator_orange, Orange Elevator
 elevatorid:elevator_magenta, Magenta Elevator
@@ -3519,6 +5559,15 @@ elevatorid:elevator_brown, Brown Elevator
 elevatorid:elevator_green, Green Elevator
 elevatorid:elevator_red, Red Elevator
 elevatorid:elevator_black, Black Elevator
+eplus:advanced_table, Advanced Enchantment Table
+eplus:decorative_book:0, Enchanting Plus Book
+eplus:decorative_book:1, Enchanting Book
+eplus:decorative_book:2, Prismarine Book
+eplus:decorative_book:3, Nether Book
+eplus:decorative_book:4, Tartarite Book
+eplus:decorative_book:5, Pale Book
+eplus:decorative_book:6, Metal Book
+eplus:table_upgrade, Table Upgrade
 exnihilocreatio:hammer_wood, Wooden Hammer
 exnihilocreatio:hammer_stone, Stone Hammer
 exnihilocreatio:hammer_iron, Iron Hammer
@@ -3633,102 +5682,6 @@ excompressum:uncompressed_coal, Uncompressed Coal
 excompressum:bat_zapper, Bat Zapper
 excompressum:ore_smasher, Ore Smasher
 excompressum:ugly_steel_plating, Ugly Steel Plating
-extendedcrafting:storage:0, Block of Black Iron
-extendedcrafting:storage:1, Block of Luminessence
-extendedcrafting:storage:2, Block of Nether Stars
-extendedcrafting:storage:3, Block of Crystaltine
-extendedcrafting:storage:4, Block of The Ultimate
-extendedcrafting:storage:5, Block of Ender
-extendedcrafting:storage:6, Block of Ender Stars
-extendedcrafting:storage:7, Block of Enhanced Ender
-extendedcrafting:frame, Black Iron Frame
-extendedcrafting:lamp:0, Black Iron Lamp
-extendedcrafting:lamp:1, Black Iron Lamp
-extendedcrafting:trimmed:0, Block of Black Iron
-extendedcrafting:trimmed:1, Block of Black Iron
-extendedcrafting:trimmed:2, Block of Black Iron
-extendedcrafting:trimmed:3, Block of Black Iron
-extendedcrafting:trimmed:4, Block of Black Iron
-extendedcrafting:trimmed:5, Block of Black Iron
-extendedcrafting:crafting_table, Crafting Table
-extendedcrafting:pedestal, Pedestal
-extendedcrafting:crafting_core, Crafting Core
-extendedcrafting:interface, Automation Interface
-extendedcrafting:table_basic, Basic Crafting Table
-extendedcrafting:table_advanced, Advanced Crafting Table
-extendedcrafting:table_elite, Elite Crafting Table
-extendedcrafting:table_ultimate, Ultimate Crafting Table
-extendedcrafting:compressor, Quantum Compressor
-extendedcrafting:ender_alternator, Ender Alternator
-extendedcrafting:ender_crafter, Ender Crafter
-extendedcrafting:guide, Extended Crafting Guide
-extendedcrafting:material:0, Black Iron Ingot
-extendedcrafting:material:1, Black Iron Nugget
-extendedcrafting:material:2, Black Iron Slate
-extendedcrafting:material:3, Black Iron Rod
-extendedcrafting:material:7, Luminessence
-extendedcrafting:material:8, Basic Catalyst
-extendedcrafting:material:9, Advanced Catalyst
-extendedcrafting:material:10, Elite Catalyst
-extendedcrafting:material:11, Ultimate Catalyst
-extendedcrafting:material:12, Crystaltine Catalyst
-extendedcrafting:material:13, The Ultimate Catalyst
-extendedcrafting:material:14, Basic Component
-extendedcrafting:material:15, Advanced Component
-extendedcrafting:material:16, Elite Component
-extendedcrafting:material:17, Ultimate Component
-extendedcrafting:material:18, Crystaltine Component
-extendedcrafting:material:19, The Ultimate Component
-extendedcrafting:material:24, Crystaltine Ingot
-extendedcrafting:material:25, Crystaltine Nugget
-extendedcrafting:material:32, The Ultimate Ingot
-extendedcrafting:material:33, The Ultimate Nugget
-extendedcrafting:material:36, Ender Ingot
-extendedcrafting:material:37, Ender Nugget
-extendedcrafting:material:40, Ender Star
-extendedcrafting:material:41, Ender Star Nugget
-extendedcrafting:material:48, Enhanced Ender Ingot
-extendedcrafting:material:49, Enhanced Ender Nugget
-extendedcrafting:material:128, Diamond Nugget
-extendedcrafting:material:129, Emerald Nugget
-extendedcrafting:material:140, Nether Star Nugget
-extendedcrafting:handheld_table, Handheld Crafting Table
-extendedcrafting:recipe_maker:0, Recipe Maker
-extendedcrafting:singularity:0, Coal Singularity
-extendedcrafting:singularity:1, Iron Singularity
-extendedcrafting:singularity:2, Lapis Lazuli Singularity
-extendedcrafting:singularity:3, Redstone Singularity
-extendedcrafting:singularity:4, Glowstone Singularity
-extendedcrafting:singularity:5, Gold Singularity
-extendedcrafting:singularity:6, Diamond Singularity
-extendedcrafting:singularity:7, Emerald Singularity
-extendedcrafting:singularity:16, Aluminum Singularity
-extendedcrafting:singularity:17, Copper Singularity
-extendedcrafting:singularity:18, Tin Singularity
-extendedcrafting:singularity:19, Bronze Singularity
-extendedcrafting:singularity:20, Zinc Singularity
-extendedcrafting:singularity:21, Brass Singularity
-extendedcrafting:singularity:22, Silver Singularity
-extendedcrafting:singularity:23, Lead Singularity
-extendedcrafting:singularity:24, Steel Singularity
-extendedcrafting:singularity:25, Nickel Singularity
-extendedcrafting:singularity:26, Constantan Singularity
-extendedcrafting:singularity:27, Electrum Singularity
-extendedcrafting:singularity:28, Invar Singularity
-extendedcrafting:singularity:29, Mithril Singularity
-extendedcrafting:singularity:30, Tungsten Singularity
-extendedcrafting:singularity:31, Titanium Singularity
-extendedcrafting:singularity:32, Uranium Singularity
-extendedcrafting:singularity:33, Chrome Singularity
-extendedcrafting:singularity:34, Platinum Singularity
-extendedcrafting:singularity:35, Iridium Singularity
-extendedcrafting:singularity:48, Signalum Singularity
-extendedcrafting:singularity:49, Lumium Singularity
-extendedcrafting:singularity:50, Enderium Singularity
-extendedcrafting:singularity:64, Ardite Singularity
-extendedcrafting:singularity:65, Cobalt Singularity
-extendedcrafting:singularity:66, Manyullyn Singularity
-extendedcrafting:singularity_ultimate, The Ultimate Singularity
 extraplanets:mercury:0, Mercury Surface Rock
 extraplanets:mercury:1, Mercury Sub-Surface Rock
 extraplanets:mercury:2, Mercury Stone
@@ -4874,6 +6827,80 @@ teslacorelib:speed_tier2, Speed Upgrade II
 teslacorelib:battery:0, Tesla Battery
 teslacorelib:battery:0, Tesla Battery
 teslacorelib:wrench, Tesla Wrench
+matteroverdrive:dilithium_ore, Dilithium Ore
+matteroverdrive:tritanium_ore, Tritanium Ore
+matteroverdrive:tritanium_block, Tritanium Block
+matteroverdrive:machine_hull, Machine Hull
+matteroverdrive:decomposer, Matter Decomposer
+matteroverdrive:matter_recycler, Matter Recycler
+matteroverdrive:replicator, Matter Replicator
+matteroverdrive:matter_pipe, Matter Transport Pipe
+matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
+matteroverdrive:network_pipe, Matter Network Cable
+matteroverdrive:network_router, Matter Network Router
+matteroverdrive:matter_analyzer, Matter Analyzer
+matteroverdrive:pattern_monitor, Pattern Monitor
+matteroverdrive:pattern_storage, Pattern Storage
+matteroverdrive:network_switch, Matter Network Switch
+matteroverdrive:solar_panel, Solar Panel
+matteroverdrive:gravitational_anomaly, Gravitational Anomaly
+matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
+matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
+matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
+matteroverdrive:fusion_reactor_io, Fusion Reactor IO
+matteroverdrive:matter_plasma, tile.null.name
+matteroverdrive:molten_tritanium, tile.null.name
+matteroverdrive:tritanium_crate, Tritanium Crate
+matteroverdrive:tritanium_crate_white, White Tritanium Crate
+matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
+matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
+matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
+matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
+matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
+matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
+matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
+matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
+matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
+matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
+matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
+matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
+matteroverdrive:tritanium_crate_green, Green Tritanium Crate
+matteroverdrive:tritanium_crate_red, Red Tritanium Crate
+matteroverdrive:tritanium_crate_black, Black Tritanium Crate
+matteroverdrive:inscriber, Molecular Inscriber
+matteroverdrive:contract_market, Contract Market
+matteroverdrive:android_spawner, Rogue Android Spawner
+matteroverdrive:spacetime_accelerator, Space-Time Accelerator
+matteroverdrive:pylon, Dimensional Pylon
+matteroverdrive:transporter, Transporter
+matteroverdrive:star_map, Star Map
+matteroverdrive:holo_sign, Holographic Sign
+matteroverdrive:weapon_station, Weapon Station
+matteroverdrive:android_station, Android Station
+matteroverdrive:charging_station, Charging Station
+matteroverdrive:decorative.stripes, Yellow Stripes
+matteroverdrive:decorative.coils, Coils
+matteroverdrive:decorative.clean, Tritanium Smooth Plate
+matteroverdrive:decorative.vent.dark, Dark Vent
+matteroverdrive:decorative.vent.bright, Vent
+matteroverdrive:decorative.holo_matrix, Holographic Matrix
+matteroverdrive:decorative.tritanium_plate, Tritanium Plate
+matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
+matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
+matteroverdrive:decorative.matter_tube, Matter Tube
+matteroverdrive:decorative.beams, Tritanium Grate
+matteroverdrive:decorative.floor_tiles, Floor Tiles
+matteroverdrive:decorative.floor_tile_white, White Floor Tiles
+matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
+matteroverdrive:decorative.floor_noise, Linoleum Floor
+matteroverdrive:decorative.white_plate, Soft Wall Plates
+matteroverdrive:decorative.separator, Tritanium Rail
+matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
+matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
+matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
+matteroverdrive:microwave, Microwave
+matteroverdrive:industrial_glass, Industrial Glass
+matteroverdrive:bounding_box, Bounding Block
 matteroverdrive:dilithium_crystal, Dilithium Crystal
 matteroverdrive:tritanium_ingot, Tritanium Ingot
 matteroverdrive:tritanium_nugget, Tritanium Nugget
@@ -4972,80 +6999,6 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
-matteroverdrive:dilithium_ore, Dilithium Ore
-matteroverdrive:tritanium_ore, Tritanium Ore
-matteroverdrive:tritanium_block, Tritanium Block
-matteroverdrive:machine_hull, Machine Hull
-matteroverdrive:decomposer, Matter Decomposer
-matteroverdrive:matter_recycler, Matter Recycler
-matteroverdrive:replicator, Matter Replicator
-matteroverdrive:matter_pipe, Matter Transport Pipe
-matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
-matteroverdrive:network_pipe, Matter Network Cable
-matteroverdrive:network_router, Matter Network Router
-matteroverdrive:matter_analyzer, Matter Analyzer
-matteroverdrive:pattern_monitor, Pattern Monitor
-matteroverdrive:pattern_storage, Pattern Storage
-matteroverdrive:network_switch, Matter Network Switch
-matteroverdrive:solar_panel, Solar Panel
-matteroverdrive:gravitational_anomaly, Gravitational Anomaly
-matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
-matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
-matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
-matteroverdrive:fusion_reactor_io, Fusion Reactor IO
-matteroverdrive:matter_plasma, tile.null.name
-matteroverdrive:molten_tritanium, tile.null.name
-matteroverdrive:tritanium_crate, Tritanium Crate
-matteroverdrive:tritanium_crate_white, White Tritanium Crate
-matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
-matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
-matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
-matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
-matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
-matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
-matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
-matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
-matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
-matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
-matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
-matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
-matteroverdrive:tritanium_crate_green, Green Tritanium Crate
-matteroverdrive:tritanium_crate_red, Red Tritanium Crate
-matteroverdrive:tritanium_crate_black, Black Tritanium Crate
-matteroverdrive:inscriber, Molecular Inscriber
-matteroverdrive:contract_market, Contract Market
-matteroverdrive:android_spawner, Rogue Android Spawner
-matteroverdrive:spacetime_accelerator, Space-Time Accelerator
-matteroverdrive:pylon, Dimensional Pylon
-matteroverdrive:transporter, Transporter
-matteroverdrive:star_map, Star Map
-matteroverdrive:holo_sign, Holographic Sign
-matteroverdrive:weapon_station, Weapon Station
-matteroverdrive:android_station, Android Station
-matteroverdrive:charging_station, Charging Station
-matteroverdrive:decorative.stripes, Yellow Stripes
-matteroverdrive:decorative.coils, Coils
-matteroverdrive:decorative.clean, Tritanium Smooth Plate
-matteroverdrive:decorative.vent.dark, Dark Vent
-matteroverdrive:decorative.vent.bright, Vent
-matteroverdrive:decorative.holo_matrix, Holographic Matrix
-matteroverdrive:decorative.tritanium_plate, Tritanium Plate
-matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
-matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
-matteroverdrive:decorative.matter_tube, Matter Tube
-matteroverdrive:decorative.beams, Tritanium Grate
-matteroverdrive:decorative.floor_tiles, Floor Tiles
-matteroverdrive:decorative.floor_tile_white, White Floor Tiles
-matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
-matteroverdrive:decorative.floor_noise, Linoleum Floor
-matteroverdrive:decorative.white_plate, Soft Wall Plates
-matteroverdrive:decorative.separator, Tritanium Rail
-matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
-matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
-matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
-matteroverdrive:microwave, Microwave
-matteroverdrive:industrial_glass, Industrial Glass
-matteroverdrive:bounding_box, Bounding Block
 ironbackpacks:backpack:0, Basic Backpack
 ironbackpacks:backpack:0, Iron Backpack
 ironbackpacks:backpack:0, Iron Backpack
@@ -5058,6 +7011,24 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -5178,24 +7149,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironjetpacks:strap, Leather Strap
 ironjetpacks:basic_coil, Basic Coil
 ironjetpacks:advanced_coil, Advanced Coil
@@ -5235,9 +7188,49 @@ ironjetpacks:gold_jetpack, Jetpack
 ironjetpacks:steel_jetpack, Jetpack
 ironjetpacks:diamond_jetpack, Jetpack
 ironjetpacks:platinum_jetpack, Jetpack
-loreexpansion:lore_journal:0, Journal
-loreexpansion:lore_journal:1, Journal
-loreexpansion:lore_scrap:0, Lore Page
+lcrdrfs:robo_dino_egg_item, T-R3X 1000 Egg
+lcrdrfs:crop_creeper_chilli_item, Creeper Chilli Crop
+lcrdrfs:robo_dino_part, T-R3X 1000 Part
+lcrdrfs:jetpack_spider_part, ARTHR0-BORG JETLINER 2000 Part
+lcrdrfs:robo_dino_control_module, T-R3X Control Module
+lcrdrfs:robo_dino_egg_crafted, Raw T-R3X 1000 Egg
+lcrdrfs:creeper_plasma, Laser Creeper Plasma
+lcrdrfs:plasma_power_unit, Plasma Power Unit
+lcrdrfs:laser_barrel, Laser Blaster Barrel
+lcrdrfs:laser_lens_unit, Laser Blaster Core
+lcrdrfs:laser_grip, Laser Blaster Grip
+lcrdrfs:laser_blaster, Laser Blaster
+lcrdrfs:empty_laser_blaster, Empty Laser Blaster
+lcrdrfs:jetpack, Armoured Jetpack
+lcrdrfs:jet_control_unit, Armoured Jet Pack Control Unit
+lcrdrfs:jet_stabliser, Armoured Jet Pack Stabliser
+lcrdrfs:jet_thruster, Armoured Jet Pack Thruster
+lcrdrfs:spider_jetpack, ARTHR0-BORG JETLINER Creation Module
+lcrdrfs:creepssile_ammo, Creepssile
+lcrdrfs:spray_can_black, Dino-Pimp Spray Black
+lcrdrfs:spray_can_red, Dino-Pimp Spray Red
+lcrdrfs:spray_can_green, Dino-Pimp Spray Green
+lcrdrfs:spray_can_brown, Dino-Pimp Spray Brown
+lcrdrfs:spray_can_blue, Dino-Pimp Spray Blue
+lcrdrfs:spray_can_purple, Dino-Pimp Spray Purple
+lcrdrfs:spray_can_cyan, Dino-Pimp Spray Cyan
+lcrdrfs:spray_can_silver, Dino-Pimp Spray Silver
+lcrdrfs:spray_can_gray, Dino-Pimp Spray Gray
+lcrdrfs:spray_can_pink, Dino-Pimp Spray Pink
+lcrdrfs:spray_can_lime, Dino-Pimp Spray Lime
+lcrdrfs:spray_can_yellow, Dino-Pimp Spray Yellow
+lcrdrfs:spray_can_lightblue, Dino-Pimp Spray Light Blue
+lcrdrfs:spray_can_magenta, Dino-Pimp Spray Magenta
+lcrdrfs:spray_can_orange, Dino-Pimp Spray Orange
+lcrdrfs:spray_can_white, Dino-Pimp Spray Natural
+lcrdrfs:creeper_chilli_crystal_shard, Creeper Chilli Crystal Shard
+lcrdrfs:creeper_chilli, Creeper Chilli
+lcrdrfs:creeper_chilli_powder, Creeper Chilli Powder
+lcrdrfs:creeper_chilli_sauce, Creeper Chilli Sauce
+lcrdrfs:creepssile_bazookoid, Creepssile Bazookoid
+lcrdrfs:bazookoid_chamber, Bazookoid Chamber
+lcrdrfs:bazookoid_grip, Bazookoid Grip
+lcrdrfs:bazookoid_ignition, Bazookoid Ignition
 mekanismgenerators:solarpanel, Solar Panel
 mekanismgenerators:hohlraum, Hohlraum
 mekanismgenerators:turbineblade, Turbine Blade
@@ -5291,11 +7284,6 @@ powersuits:tinkertable, Power Armor Tinker Table
 powersuits:luxcapacitor, Lux Capacitor
 planetprogression:telescope, Telescope
 planetprogression:telescope_fake_block, tile.telescope_fake_block.name
-planetprogression:satellite_builder, Satellite Builder
-planetprogression:satellite_controller, Satellite Controller
-planetprogression:item_satellite_rocket:1, Satellite Rocket
-planetprogression:satellite_module_basic, Basic Satellite Module
-planetprogression:satellite_basic, Basic Satellite
 planetprogression:research_paper_0, Research Paper
 planetprogression:research_paper_1, Research Paper
 planetprogression:research_paper_2, Research Paper
@@ -5437,66 +7425,15 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-csam:sharpened_bone, Sharpened Bone
-csam:sharpened_flint, Sharpened Flint
-csam:chain, Chain
-csam:clay_sword_head, Clay Sword Head
-csam:clay_pickaxe_head, Clay Pickaxe Head
-csam:clay_axe_head, Clay Axe Head
-csam:clay_hoe_head, Clay Hoe Head
-csam:clay_shovel_head, Clay Shovel Head
-csam:terracotta_sword_head, Terracotta Sword Head
-csam:terracotta_pickaxe_head, Terracotta Pickaxe Head
-csam:terracotta_axe_head, Terracotta Axe Head
-csam:terracotta_hoe_head, Terracotta Hoe Head
-csam:terracotta_shovel_head, Terracotta Shovel Head
-csam:bone_knife, Bone Knife
-csam:bone_pick, Bone Pick
-csam:bone_hatchet, Bone Hatchet
-csam:bone_hoe, Bone Hoe
-csam:flint_knife, Flint Knife
-csam:flint_pick, Flint Pick
-csam:flint_hatchet, Flint Hatchet
-csam:flint_hoe, Flint Hoe
-csam:flint_spade, Flint Spade
-csam:netherrack_sword, Netherrack Sword
-csam:netherrack_pickaxe, Netherrack Pickaxe
-csam:netherrack_axe, Netherrack Axe
-csam:netherrack_hoe, Netherrack Hoe
-csam:netherrack_shovel, Netherrack Shovel
-csam:quartz_sword, Quartz Sword
-csam:quartz_pickaxe, Quartz Pickaxe
-csam:quartz_axe, Quartz Axe
-csam:quartz_hoe, Quartz Hoe
-csam:quartz_shovel, Quartz Shovel
-csam:sandstone_sword, Sandstone Sword
-csam:sandstone_pickaxe, Sandstone Pickaxe
-csam:sandstone_axe, Sandstone Axe
-csam:sandstone_hoe, Sandstone Hoe
-csam:sandstone_shovel, Sandstone Shovel
-csam:terracotta_sword, Terracotta Sword
-csam:terracotta_pickaxe, Terracotta Pickaxe
-csam:terracotta_axe, Terracotta Axe
-csam:terracotta_hoe, Terracotta Hoe
-csam:terracotta_shovel, Terracotta Spade
-csam:crude_shield, Crude Shield
-csam:cactus_stew, Cactus Stew
-csam:nether_wart_stew, Nether Wart Stew
-csam:carrot_soup, Carrot Soup
-csam:potato_soup, Potato Soup
-csam:scrap_wood_planks, Scrap Wood Planks
-csam:scrap_wood_stairs, Scrap Wood Stairs
-csam:mud_brick_wet, Wet Mud Bricks
-csam:mud_brick, Mud Bricks
-csam:mud_brick_stairs, Mud Brick Stairs
-csam:mud_brick_slab:0, Mud Brick Slab
-csam:scrap_wood_slab:0, Scrap Wood Slab
 ultimatecobblegen:cobblegenerator, Cobblestone Generator
 ultimatecobblegen:gravelgenerator, Gravel Generator
 ultimatecobblegen:sandgenerator, Sand Generator
 ultimatecobblegen:dirtgenerator, Dirt Generator
 ultimatecobblegen:grassgenerator, Grass Generator
 ultimatecobblegen:fungusgenerator, Mycelium Generator
+ultimatecobblegen:obsidiangenerator, Obsidian Generator
+ultimatecobblegen:icegenerator, Ice Generator
+ultimatecobblegen:snowgenerator, Snow Generator
 ultimatecobblegen:dustgenerator, Dust Generator
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
@@ -6088,6 +8025,186 @@ agricraft:water_tank:0, Wooden Water Tank
 agricraft:water_tank:0, Wooden Water Tank
 agricraft:water_tank:0, Wooden Water Tank
 agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_tank:0, Wooden Water Tank
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
+agricraft:water_channel_normal:0, Wooden Irrigation Channel
 agricraft:water_channel_normal:0, Wooden Irrigation Channel
 agricraft:water_channel_normal:0, Wooden Irrigation Channel
 agricraft:water_channel_normal:0, Wooden Irrigation Channel
@@ -6112,6 +8229,186 @@ agricraft:water_channel_full:0, Wooden Irrigation Channel
 agricraft:water_channel_full:0, Wooden Irrigation Channel
 agricraft:water_channel_full:0, Wooden Irrigation Channel
 agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_full:0, Wooden Irrigation Channel
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
+agricraft:water_channel_valve:0, Wooden Channel Valve
 agricraft:water_channel_valve:0, Wooden Channel Valve
 agricraft:water_channel_valve:0, Wooden Channel Valve
 agricraft:water_channel_valve:0, Wooden Channel Valve
@@ -6187,6 +8484,110 @@ theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
 theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
 theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
 theoneprobe:probe_goggles, The One Probe (Bauble)
+factorytech:stackmover, Stack Mover
+factorytech:filtermover, Filtered Stack Mover
+factorytech:bulkmover, Bulk Stack Mover
+factorytech:autopuller, Auto Ejector
+factorytech:itempusher, Pulse Piston
+factorytech:sequenceplacer, Sequential Placer
+factorytech:watercollector, Water Collector
+factorytech:crate, Crate
+factorytech:conveyor, Transport Rollers
+factorytech:buffercrate, Buffer Crate
+factorytech:elevator, Fan Lift
+factorytech:bottomhatch, Lift Receiver
+factorytech:hatch, Insertion Hatch
+factorytech:rednotifier, Redstone Notifier
+factorytech:blockbreaker, Mounted Drill
+factorytech:inventorysensor, Inventory Sensor
+factorytech:interceptor, Item Drop Interceptor
+factorytech:realelevator, Elevator
+factorytech:pulser, Redstone Pulser
+factorytech:pulsecounter, Pulse Counter
+factorytech:planeshifter, Dimensional Shifter
+factorytech:batterygen, Electric Dynamo
+factorytech:coregen, Core Conversion Dynamo
+factorytech:mobfan, Mob Fan
+factorytech:compacthopper, Compact Hopper
+factorytech:oredrill, Drill Grinder
+factorytech:metalcutter, Metal Cutting Machine
+factorytech:autocrafter, Autocrafting Unit
+factorytech:circuitscribe, Circuit Scribe
+factorytech:saw, Chop Saw
+factorytech:pipe, Pipe
+factorytech:itemredis, Item Redistributor
+factorytech:tankblock, Stationary Tank
+factorytech:crucible, Crucible
+factorytech:compressor, Compression Chamber
+factorytech:fluidpuller, Extraction Pump
+factorytech:grindstone, Grindstone
+factorytech:centrifuge, Centrifuge
+factorytech:magcent, Magnetic Centrifuge
+factorytech:fluiddrill, Fluid Extraction Drill
+factorytech:agitator, Fluid Agitator
+factorytech:fridge, Refrigeration Unit
+factorytech:sluice, River Grate
+factorytech:autominer, Mining Machine
+factorytech:woodcutter, Woodcutter
+factorytech:iondisperser, Negative Ion Disperser
+factorytech:teslacoil, Tesla Coil
+factorytech:electroplater, Industrial Electroplater
+factorytech:charger, Core Charger
+factorytech:temperer, Tempering Oven
+factorytech:stabilizer, Stabilization Table
+factorytech:magnetizer, Magnetizer
+factorytech:energizer, Universal Supercharger
+factorytech:magnetblock, Stationary Magnet
+factorytech:spawner, Biosynthesis Unit
+factorytech:disassembler, Mob Disassembler
+factorytech:potionmixer, Potion Mixer
+factorytech:htfurnace, Electric Furnace
+factorytech:propfurnace, Propane Furnace
+factorytech:disruptor, Mob Disruptor
+factorytech:deepdrill, Terraneous Extractor
+factorytech:planter, Seed Disperser
+factorytech:reclaimer, Scrap Furnace
+factorytech:ore:0, Native Copper Ore
+factorytech:ore:1, Nickel Ore
+factorytech:oreblock:0, Block of Copper
+factorytech:oreblock:1, Block of Nickel
+factorytech:oreblock:2, Cupronickel Alloy Block
+factorytech:oreblock:3, Block of Invar
+factorytech:bricks:0, Sand Bricks
+factorytech:bricks:1, Earthy Bricks
+factorytech:bricks:2, Charred Bricks
+factorytech:bricks:3, Ashen Bricks
+factorytech:smokestack:0, Brick Smokestack
+factorytech:smokestack:1, Sand Brick Smokestack
+factorytech:smokestack:2, Earthy Brick Smokestack
+factorytech:smokestack:3, Charred Brick Smokestack
+factorytech:smokestack:4, Ashen Brick Smokestack
+factorytech:smokestack:5, Stone Smokestack
+factorytech:smokestack:6, Stone Brick Smokestack
+factorytech:smokestack:7, Solid Iron Smokestack
+factorytech:smokestack:8, Sheet Metal Smokestack
+factorytech:metal:0, Patterned Sheet Metal
+factorytech:metal:1, Riveted Sheet Metal
+factorytech:metal:2, Smooth Sheet Metal
+factorytech:metal:3, Rusted Sheet Metal
+factorytech:metal:4, Sheet Metal Siding
+factorytech:metal:5, Caution Striped Sheet Metal
+factorytech:scaffold, Scaffolding
+factorytech:decocoil, Decorative Coil
+factorytech:blowtorch, Mounted Blowtorch
+factorytech:handbook, item.factorytech.handbook.name
+factorytech:wrench, item.factorytech.wrench.name
+factorytech:fluidreader, item.factorytech.fluidreader.name
+factorytech:craftstopper, item.factorytech.craftstopper.name
+factorytech:core_unfinished, item.factorytech.core_unfinished.name
+factorytech:pressuregun, item.factorytech.pressuregun.name
+factorytech:elementsword, Element Sword
+factorytech:hardhat, Hard Hat
+factorytech:safetyvest, Safety Vest
+factorytech:workpants, Work Pants
+factorytech:steeltoeboots, Steel-Toe Boots
+factorytech:handpump, item.factorytech.handpump.name
+factorytech:tuningfork, item.factorytech.tuningfork.name
 industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
 industrialforegoing:enchantment_refiner, Enchantment Sorter
 industrialforegoing:enchantment_extractor, Enchantment Extractor
@@ -6215,8 +8616,6 @@ industrialforegoing:mob_detector, Mob Detector
 industrialforegoing:lava_fabricator, Lava Fabricator
 industrialforegoing:bioreactor, Bioreactor
 industrialforegoing:biofuel_generator, Biofuel Generator
-industrialforegoing:laser_base, Laser Base
-industrialforegoing:laser_drill, Laser Drill
 industrialforegoing:ore_processor, Ore Processor
 industrialforegoing:black_hole_controller, Black Hole Controller
 industrialforegoing:dye_mixer, Dye Mixer
@@ -6511,8 +8910,6 @@ rftools:ender_monitor, Ender Monitor
 rftools:storage_scanner, Storage Scanner
 rftools:elevator, Elevator
 rftools:booster, Booster
-minicoal:minicoal, Mini Coal
-minicoal:minicharcoal, Mini Charcoal
 xnet:xnet_manual, XNet Manual
 xnet:connector_upgrade, Connector Upgrade Kit
 xnet:facade, Facade
@@ -6540,6 +8937,9 @@ xnet:antenna_base, Antenna Base
 xnet:antenna_dish, Antenna Dish
 omlib:debug_tool:0, Debug Tool
 omlib:fake_sword, item.fake_sword.name
+openglasses:openglassesterminal, Glasses Terminal
+openglasses:openglasses:0, AR Glasses
+openglasses:openglasses:0, AR Glasses
 openmodularturrets:intermediate_tiered:0, Sensor (Tier 1)
 openmodularturrets:intermediate_tiered:1, Sensor (Tier 2)
 openmodularturrets:intermediate_tiered:2, Sensor (Tier 3)
@@ -6732,9 +9132,6 @@ exnihilocreatio:item_ore_aluminium:2, Aluminium Ore Dust
 exnihilocreatio:item_ore_osmium:0, Osmium Ore Piece
 exnihilocreatio:item_ore_osmium:1, Osmium Ore Chunk
 exnihilocreatio:item_ore_osmium:2, Osmium Ore Dust
-exnihilocreatio:item_ore_tritanium:0, Tritanium Ore Piece
-exnihilocreatio:item_ore_tritanium:1, Tritanium Ore Chunk
-exnihilocreatio:item_ore_tritanium:2, Tritanium Ore Dust
 exnihilocreatio:item_ore_lead:0, Lead Ore Piece
 exnihilocreatio:item_ore_lead:1, Lead Ore Chunk
 exnihilocreatio:item_ore_lead:2, Lead Ore Dust
