@@ -1,3 +1,15 @@
 {
-  "galacticraftcore:glowstone_torch": 1
+  "galacticraftcore:glowstone_torch": 1,
+  "mekanism:basicblock2:5": 10,
+  "rftools:booster": 20,
+  "moreplanets:nuclear_waste_tank": 50,
+  "moreplanets:glowing_iron_block": 50,
+  "moreplanets:space_portal": 5,
+  "minestrapp:portar:5": 10,
+  "mekanism:basicblock:4": 5,
+  "minestrapp:shimmerstone:7": 10,
+  "minestrapp:shimmerstone:8": 10,
+  "minestrapp:shimmerstone:9": 10,
+  "galacticraftcore:unlit_torch_lit": 1,
+  "minecraft:lava": 3
 }

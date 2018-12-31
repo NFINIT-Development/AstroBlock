@@ -1,1 +1,16 @@
-//Stones
+<minestrapp:m_gem:6>.addTooltip(format.yellow("Can be found on Earth"));
+<galacticraftplanets:asteroids_block:5>.addTooltip(format.yellow("Can be found inside asteroids"));
+<galacticraftplanets:asteroids_block:3>.addTooltip(format.yellow("Can be found inside asteroids"));
+<galacticraftplanets:asteroids_block:4>.addTooltip(format.yellow("Can be found inside asteroids"));
+<minecraft:lava_bucket>.addTooltip(format.yellow("Lava lakes can be found inside some hollow icy asteroid"));
+<minecraft:dirt:0>.addTooltip(format.yellow("Can be found inside hollow icy asteroid"));
+<minecraft:diamond_ore>.addTooltip(format.yellow("Can be found on Earth and inside asteroids"));
+<galacticraftcore:basic_block_core:8>.addTooltip(format.yellow("Can be found on Earth and inside asteroids"));
+<galacticraftcore:rocket_workbench>.addTooltip(format.yellow("Can be found in abandoned bases in the asteroids"));
+<minecraft:grass>.addTooltip(format.yellow("Can be found inside hollow icy asteroid"));
+<exnihilocreatio:item_material:2>.addTooltip(format.yellow("Right click a leaf with this to transform it into an infested leaf"));
+<galacticraftcore:fluid_tank>.addTooltip(format.yellow("Can be found in abandoned bases in the asteroids"));
+<minestrapp:m_ingot:4>.addTooltip(format.yellow("Its ore can be found on Earth"));
+<matteroverdrive:tritanium_ore>.addTooltip(format.yellow("Can be found on Earth"));
+<extraplanets:mercury:10>.addTooltip(format.yellow("Can be found on Mercury"));
+<galacticraftplanets:venus:8>.addTooltip(format.yellow("Can be found on Venus"));

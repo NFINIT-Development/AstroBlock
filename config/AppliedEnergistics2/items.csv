@@ -2461,137 +2461,6 @@ practicallogistics2:entitytransceiver, Entity Transceiver
 practicallogistics2:wirelessstorage, Wireless Storage Reader
 practicallogistics2:operator, Operator Tool
 practicallogistics2:plguide, Practical Logistics Guide
-rafradek_tf2_weapons:placer:0, Spawn Scout
-rafradek_tf2_weapons:placer:1, Spawn Soldier
-rafradek_tf2_weapons:placer:2, Spawn Pyro
-rafradek_tf2_weapons:placer:3, Spawn Demoman
-rafradek_tf2_weapons:placer:4, Spawn Heavy
-rafradek_tf2_weapons:placer:5, Spawn Engineer
-rafradek_tf2_weapons:placer:6, Spawn Medic
-rafradek_tf2_weapons:placer:7, Spawn Sniper
-rafradek_tf2_weapons:placer:8, Spawn Spy
-rafradek_tf2_weapons:placer:9, Spawn Scout
-rafradek_tf2_weapons:placer:10, Spawn Soldier
-rafradek_tf2_weapons:placer:11, Spawn Pyro
-rafradek_tf2_weapons:placer:12, Spawn Demoman
-rafradek_tf2_weapons:placer:13, Spawn Heavy
-rafradek_tf2_weapons:placer:14, Spawn Engineer
-rafradek_tf2_weapons:placer:15, Spawn Medic
-rafradek_tf2_weapons:placer:16, Spawn Sniper
-rafradek_tf2_weapons:placer:17, Spawn Spy
-rafradek_tf2_weapons:placer:36, Spawn Scout
-rafradek_tf2_weapons:placer:37, Spawn Soldier
-rafradek_tf2_weapons:placer:38, Spawn Pyro
-rafradek_tf2_weapons:placer:39, Spawn Demoman
-rafradek_tf2_weapons:placer:40, Spawn Heavy
-rafradek_tf2_weapons:placer:41, Spawn Engineer
-rafradek_tf2_weapons:placer:42, Spawn Medic
-rafradek_tf2_weapons:placer:43, Spawn Sniper
-rafradek_tf2_weapons:placer:44, Spawn Spy
-rafradek_tf2_weapons:placer:26, Spawn Saxton Hale
-rafradek_tf2_weapons:placer:27, Spawn Saxton Hale (hostile)
-rafradek_tf2_weapons:placer:28, Spawn Monoculus
-rafradek_tf2_weapons:placer:29, Spawn Horseless Headless Horsemann
-rafradek_tf2_weapons:placer:30, Spawn Merasmus
-rafradek_tf2_weapons:disguise_kit, Disguise Kit
-rafradek_tf2_weapons:building_box:18, Sentry Box
-rafradek_tf2_weapons:building_box:19, Sentry Box
-rafradek_tf2_weapons:building_box:20, Dispenser Box
-rafradek_tf2_weapons:building_box:21, Dispenser Box
-rafradek_tf2_weapons:building_box:22, Teleporter Box
-rafradek_tf2_weapons:building_box:23, Teleporter Box
-rafradek_tf2_weapons:sandvich, Sandvich
-rafradek_tf2_weapons:chocolate, Dalokohs Bar
-rafradek_tf2_weapons:horn, Horn
-rafradek_tf2_weapons:ammo:1, Shotgun Shell
-rafradek_tf2_weapons:ammo:4, Revolver Round
-rafradek_tf2_weapons:ammo:6, Rifle Round
-rafradek_tf2_weapons:ammo:7, Rocket
-rafradek_tf2_weapons:ammo:8, Grenade
-rafradek_tf2_weapons:ammo:11, Stickybomb
-rafradek_tf2_weapons:ammo:13, Flare
-rafradek_tf2_weapons:ammo:14, Ball
-rafradek_tf2_weapons:ammo_box:1, Ammo Box
-rafradek_tf2_weapons:ammo_fire, item.tf2ammo.name
-rafradek_tf2_weapons:ammo_medigun, item.tf2ammo.name
-rafradek_tf2_weapons:ammo_pistol, item.tf2ammo.name
-rafradek_tf2_weapons:ammo_minigun, item.tf2ammo.name
-rafradek_tf2_weapons:ammo_smg, item.tf2ammo.name
-rafradek_tf2_weapons:ammo_syringe, item.tf2ammo.name
-rafradek_tf2_weapons:ammo_belt, Ammo Belt
-rafradek_tf2_weapons:scout_shoes, Scout Shoes
-rafradek_tf2_weapons:mantreads, Mantreads
-rafradek_tf2_weapons:gunboats, Gunboats
-rafradek_tf2_weapons:statue, statue
-rafradek_tf2_weapons:token:0, Scout Token
-rafradek_tf2_weapons:token:1, Soldier Token
-rafradek_tf2_weapons:token:2, Pyro Token
-rafradek_tf2_weapons:token:3, Demoman Token
-rafradek_tf2_weapons:token:4, Heavy Token
-rafradek_tf2_weapons:token:5, Engineer Token
-rafradek_tf2_weapons:token:6, Medic Token
-rafradek_tf2_weapons:token:7, Sniper Token
-rafradek_tf2_weapons:token:8, Spy Token
-rafradek_tf2_weapons:itemtf2:0, Copper Ingot
-rafradek_tf2_weapons:itemtf2:1, Lead Ingot
-rafradek_tf2_weapons:itemtf2:2, Australium Ingot
-rafradek_tf2_weapons:itemtf2:3, Scrap Metal
-rafradek_tf2_weapons:itemtf2:4, Reclaimed Metal
-rafradek_tf2_weapons:itemtf2:5, Refined Metal
-rafradek_tf2_weapons:itemtf2:6, Australium Nugget
-rafradek_tf2_weapons:itemtf2:7, Mann Co. Supply Crate Key
-rafradek_tf2_weapons:itemtf2:11, Logic Board
-rafradek_tf2_weapons:robotpart:0, Battle-Worn Robot Money Furnace
-rafradek_tf2_weapons:robotpart:1, Battle-Worn Robot Taunt Processor
-rafradek_tf2_weapons:robotpart:2, Battle-Worn Robot KB-808
-rafradek_tf2_weapons:robotpart:3, Reinforced Robot Emotion Detector
-rafradek_tf2_weapons:robotpart:4, Reinforced Robot Bomb Stabilizer
-rafradek_tf2_weapons:robotpart:5, Pristine Robot Brainstorm Bulb
-rafradek_tf2_weapons:robotpart:6, Pristine Robot Currency Digester
-rafradek_tf2_weapons:target, Target
-rafradek_tf2_weapons:killstreakkit, item.null.name
-rafradek_tf2_weapons:strangifier, Strangifier
-rafradek_tf2_weapons:killstreakfabricator, item.null.name
-rafradek_tf2_weapons:eventmaker:0, Beginner Tour of Duty Ticket
-rafradek_tf2_weapons:eventmaker:1, Intermediate Tour of Duty Ticket
-rafradek_tf2_weapons:eventmaker:2, Advanced Tour of Duty Ticket
-rafradek_tf2_weapons:eventmaker:3, Expert Tour of Duty Ticket
-rafradek_tf2_weapons:eventmaker:4, Nightmare Tour of Duty Ticket
-rafradek_tf2_weapons:shield, item.tf2usable.name
-rafradek_tf2_weapons:sniperrifle, item.tf2usable.name
-rafradek_tf2_weapons:airblast, item.tf2usable.name
-rafradek_tf2_weapons:medigun, item.tf2usable.name
-rafradek_tf2_weapons:flamethrower, item.tf2usable.name
-rafradek_tf2_weapons:jetpacktrigger, item.tf2usable.name
-rafradek_tf2_weapons:stickybomb, item.tf2usable.name
-rafradek_tf2_weapons:cosmetic, item.tf2usable.name
-rafradek_tf2_weapons:jar, item.tf2usable.name
-rafradek_tf2_weapons:huntsman, item.tf2usable.name
-rafradek_tf2_weapons:melee, item.tf2usable.name
-rafradek_tf2_weapons:bullet, item.tf2usable.name
-rafradek_tf2_weapons:bonk, item.tf2usable.name
-rafradek_tf2_weapons:crate, item.tf2usable.name
-rafradek_tf2_weapons:wrangler, item.tf2usable.name
-rafradek_tf2_weapons:pda, item.tf2usable.name
-rafradek_tf2_weapons:wrench, item.tf2usable.name
-rafradek_tf2_weapons:cleaver, item.tf2usable.name
-rafradek_tf2_weapons:knife, item.tf2usable.name
-rafradek_tf2_weapons:parachute, item.tf2usable.name
-rafradek_tf2_weapons:sapper, item.tf2usable.name
-rafradek_tf2_weapons:backpackgeneric, item.tf2usable.name
-rafradek_tf2_weapons:cloak, item.tf2usable.name
-rafradek_tf2_weapons:backpack, item.tf2usable.name
-rafradek_tf2_weapons:jetpack, item.tf2usable.name
-rafradek_tf2_weapons:minigun, item.tf2usable.name
-rafradek_tf2_weapons:projectile, item.tf2usable.name
-rafradek_tf2_weapons:tf2workbench, TF2 Crafting Table
-rafradek_tf2_weapons:ammo_furnace, Ammo Furnace
-rafradek_tf2_weapons:upgrade_station, Upgrade Station
-rafradek_tf2_weapons:copper_ore, Copper Ore
-rafradek_tf2_weapons:lead_ore, Lead Ore
-rafradek_tf2_weapons:australium_ore, Australium Ore
-rafradek_tf2_weapons:australium_block, Australium Block
-rafradek_tf2_weapons:overhead_door, tile.blockOverhead.name
 chisel:blockaluminum:0, Block of Aluminum
 chisel:blockaluminum:1, Block of Aluminum
 chisel:blockaluminum:2, Block of Aluminum
@@ -5466,6 +5335,7 @@ buildinggadgets:constructionpaste, Construction Paste
 buildinggadgets:constructionpastecontainer, Paste Container
 buildinggadgets:constructionpastecontainert2, Paste Container T2
 buildinggadgets:constructionpastecontainert3, Paste Container T3
+champions:champion_egg, Spawn Champion
 chisel:auto_chisel, Auto Chisel
 chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
@@ -6071,6 +5941,60 @@ extraplanets:nitrogen_ice, Liquid Nitrogen Ice
 extraplanets:liquid_hydrocarbon, Liquid Hydrocarbon
 extraplanets:liquid_chocolate, Liquid Chocolate
 extraplanets:liquid_caramel, Liquid Caramel
+extraplanets:carbon_pickaxe, Carbon Pickaxe
+extraplanets:carbon_axe, Carbon Axe
+extraplanets:carbon_hoe, Carbon Hoe
+extraplanets:carbon_shovel, Carbon Shovel
+extraplanets:carbon_sword, Carbon Sword
+extraplanets:blue_diamond_pickaxe, Blue Diamond Pickaxe
+extraplanets:blue_diamond_axe, Blue Diamond Axe
+extraplanets:blue_diamond_hoe, Blue Diamond Hoe
+extraplanets:blue_diamond_shovel, Blue Diamond Shovel
+extraplanets:blue_diamond_sword, Blue Diamond Sword
+extraplanets:red_diamond_pickaxe, Red Diamond Pickaxe
+extraplanets:red_diamond_axe, Red Diamond Axe
+extraplanets:red_diamond_hoe, Red Diamond Hoe
+extraplanets:red_diamond_shovel, Red Diamond Shovel
+extraplanets:red_diamond_sword, Red Diamond Sword
+extraplanets:purple_diamond_pickaxe, Purple Diamond Pickaxe
+extraplanets:purple_diamond_axe, Purple Diamond Axe
+extraplanets:purple_diamond_hoe, Purple Diamond Hoe
+extraplanets:purple_diamond_shovel, Purple Diamond Shovel
+extraplanets:purple_diamond_sword, Purple Diamond Sword
+extraplanets:yellow_diamond_pickaxe, Yellow Diamond Pickaxe
+extraplanets:yellow_diamond_axe, Yellow Diamond Axe
+extraplanets:yellow_diamond_hoe, Yellow Diamond Hoe
+extraplanets:yellow_diamond_shovel, Yellow Diamond Shovel
+extraplanets:yellow_diamond_sword, Yellow Diamond Sword
+extraplanets:green_diamond_pickaxe, Green Diamond Pickaxe
+extraplanets:green_diamond_axe, Green Diamond Axe
+extraplanets:green_diamond_hoe, Green Diamond Hoe
+extraplanets:green_diamond_shovel, Green Diamond Shovel
+extraplanets:green_diamond_sword, Green Diamond Sword
+extraplanets:carbon_helmet, Carbon Helmet
+extraplanets:carbon_chest, Carbon Chestplate
+extraplanets:carbon_legings, Carbon Leggings
+extraplanets:carbon_boots, Carbon Boots
+extraplanets:blue_diamond_helmet, Blue Diamond Helmet
+extraplanets:blue_diamond_chest, Blue Diamond Chestplate
+extraplanets:blue_diamond_legings, Blue Diamond Leggings
+extraplanets:blue_diamond_boots, Blue Diamond Boots
+extraplanets:red_diamond_helmet, Red Diamond Helmet
+extraplanets:red_diamond_chest, Red Diamond Chestplate
+extraplanets:red_diamond_legings, Red Diamond Leggings
+extraplanets:red_diamond_boots, Red Diamond Boots
+extraplanets:purple_diamond_helmet, Purple Diamond Helmet
+extraplanets:purple_diamond_chest, Purple Diamond Chestplate
+extraplanets:purple_diamond_legings, Purple Diamond Leggings
+extraplanets:purple_diamond_boots, Purple Diamond Boots
+extraplanets:yellow_diamond_helmet, Yellow Diamond Helmet
+extraplanets:yellow_diamond_chest, Yellow Diamond Chestplate
+extraplanets:yellow_diamond_legings, Yellow Diamond Leggings
+extraplanets:yellow_diamond_boots, Yellow Diamond Boots
+extraplanets:green_diamond_helmet, Green Diamond Helmet
+extraplanets:green_diamond_chest, Green Diamond Chestplate
+extraplanets:green_diamond_legings, Green Diamond Leggings
+extraplanets:green_diamond_boots, Green Diamond Boots
 extraplanets:tier1_space_suit_helmet, Tier 1 Space Suit Helmet
 extraplanets:tier1_space_suit_chest, Tier 1 Space Suit Chestplate
 extraplanets:tier1_space_suit_jetpack_chest, Tier 1 Space Suit Jetpack Chestplate
@@ -6401,24 +6325,13 @@ ftbquests:progress_detector, Quest Progress Detector
 ftbquests:progress_screen, Progress Screen
 ftbquests:chest, Quest Chest
 ftbquests:book, Quest Book
-ftbquests:common_lootcrate, Loot Crate
-ftbquests:uncommon_lootcrate, Loot Crate
-ftbquests:rare_lootcrate, Loot Crate
-ftbquests:epic_lootcrate, Loot Crate
-ftbquests:legendary_lootcrate, Loot Crate
+ftbquests:lootcrate, Loot Crate
+ftbquests:common_lootcrate, Old Loot Crate
+ftbquests:uncommon_lootcrate, Old Loot Crate
+ftbquests:rare_lootcrate, Old Loot Crate
+ftbquests:epic_lootcrate, Old Loot Crate
+ftbquests:legendary_lootcrate, Old Loot Crate
 ftbquests:missing, Missing Item
-funkylocomotion:booster, Frame Booster
-funkylocomotion:frame_projector, Frame Projector
-funkylocomotion:pusher:0, Frame Pusher
-funkylocomotion:pusher:1, Frame Puller
-funkylocomotion:slider, Frame Slider
-funkylocomotion:teleporter, Frame Teleporter
-funkylocomotion:mass_frame_edge, Super-Frame Edge
-funkylocomotion:mass_frame_corner, Super-Frame Corner
-funkylocomotion:frame_0:0, Frame Block
-funkylocomotion:wrench:0, Wrench
-funkylocomotion:wrench:1, iWrench
-funkylocomotion:wrench:2, Wrench Hammer
 slabmachines:workbench_slab, Crafting Slab
 slabmachines:furnace_slab, Furnace Slab
 slabmachines:chest_slab, Chest Slab
@@ -6827,80 +6740,6 @@ teslacorelib:speed_tier2, Speed Upgrade II
 teslacorelib:battery:0, Tesla Battery
 teslacorelib:battery:0, Tesla Battery
 teslacorelib:wrench, Tesla Wrench
-matteroverdrive:dilithium_ore, Dilithium Ore
-matteroverdrive:tritanium_ore, Tritanium Ore
-matteroverdrive:tritanium_block, Tritanium Block
-matteroverdrive:machine_hull, Machine Hull
-matteroverdrive:decomposer, Matter Decomposer
-matteroverdrive:matter_recycler, Matter Recycler
-matteroverdrive:replicator, Matter Replicator
-matteroverdrive:matter_pipe, Matter Transport Pipe
-matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
-matteroverdrive:network_pipe, Matter Network Cable
-matteroverdrive:network_router, Matter Network Router
-matteroverdrive:matter_analyzer, Matter Analyzer
-matteroverdrive:pattern_monitor, Pattern Monitor
-matteroverdrive:pattern_storage, Pattern Storage
-matteroverdrive:network_switch, Matter Network Switch
-matteroverdrive:solar_panel, Solar Panel
-matteroverdrive:gravitational_anomaly, Gravitational Anomaly
-matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
-matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
-matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
-matteroverdrive:fusion_reactor_io, Fusion Reactor IO
-matteroverdrive:matter_plasma, tile.null.name
-matteroverdrive:molten_tritanium, tile.null.name
-matteroverdrive:tritanium_crate, Tritanium Crate
-matteroverdrive:tritanium_crate_white, White Tritanium Crate
-matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
-matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
-matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
-matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
-matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
-matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
-matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
-matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
-matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
-matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
-matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
-matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
-matteroverdrive:tritanium_crate_green, Green Tritanium Crate
-matteroverdrive:tritanium_crate_red, Red Tritanium Crate
-matteroverdrive:tritanium_crate_black, Black Tritanium Crate
-matteroverdrive:inscriber, Molecular Inscriber
-matteroverdrive:contract_market, Contract Market
-matteroverdrive:android_spawner, Rogue Android Spawner
-matteroverdrive:spacetime_accelerator, Space-Time Accelerator
-matteroverdrive:pylon, Dimensional Pylon
-matteroverdrive:transporter, Transporter
-matteroverdrive:star_map, Star Map
-matteroverdrive:holo_sign, Holographic Sign
-matteroverdrive:weapon_station, Weapon Station
-matteroverdrive:android_station, Android Station
-matteroverdrive:charging_station, Charging Station
-matteroverdrive:decorative.stripes, Yellow Stripes
-matteroverdrive:decorative.coils, Coils
-matteroverdrive:decorative.clean, Tritanium Smooth Plate
-matteroverdrive:decorative.vent.dark, Dark Vent
-matteroverdrive:decorative.vent.bright, Vent
-matteroverdrive:decorative.holo_matrix, Holographic Matrix
-matteroverdrive:decorative.tritanium_plate, Tritanium Plate
-matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
-matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
-matteroverdrive:decorative.matter_tube, Matter Tube
-matteroverdrive:decorative.beams, Tritanium Grate
-matteroverdrive:decorative.floor_tiles, Floor Tiles
-matteroverdrive:decorative.floor_tile_white, White Floor Tiles
-matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
-matteroverdrive:decorative.floor_noise, Linoleum Floor
-matteroverdrive:decorative.white_plate, Soft Wall Plates
-matteroverdrive:decorative.separator, Tritanium Rail
-matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
-matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
-matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
-matteroverdrive:microwave, Microwave
-matteroverdrive:industrial_glass, Industrial Glass
-matteroverdrive:bounding_box, Bounding Block
 matteroverdrive:dilithium_crystal, Dilithium Crystal
 matteroverdrive:tritanium_ingot, Tritanium Ingot
 matteroverdrive:tritanium_nugget, Tritanium Nugget
@@ -6999,6 +6838,80 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
+matteroverdrive:dilithium_ore, Dilithium Ore
+matteroverdrive:tritanium_ore, Tritanium Ore
+matteroverdrive:tritanium_block, Tritanium Block
+matteroverdrive:machine_hull, Machine Hull
+matteroverdrive:decomposer, Matter Decomposer
+matteroverdrive:matter_recycler, Matter Recycler
+matteroverdrive:replicator, Matter Replicator
+matteroverdrive:matter_pipe, Matter Transport Pipe
+matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
+matteroverdrive:network_pipe, Matter Network Cable
+matteroverdrive:network_router, Matter Network Router
+matteroverdrive:matter_analyzer, Matter Analyzer
+matteroverdrive:pattern_monitor, Pattern Monitor
+matteroverdrive:pattern_storage, Pattern Storage
+matteroverdrive:network_switch, Matter Network Switch
+matteroverdrive:solar_panel, Solar Panel
+matteroverdrive:gravitational_anomaly, Gravitational Anomaly
+matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
+matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
+matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
+matteroverdrive:fusion_reactor_io, Fusion Reactor IO
+matteroverdrive:matter_plasma, tile.null.name
+matteroverdrive:molten_tritanium, tile.null.name
+matteroverdrive:tritanium_crate, Tritanium Crate
+matteroverdrive:tritanium_crate_white, White Tritanium Crate
+matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
+matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
+matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
+matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
+matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
+matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
+matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
+matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
+matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
+matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
+matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
+matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
+matteroverdrive:tritanium_crate_green, Green Tritanium Crate
+matteroverdrive:tritanium_crate_red, Red Tritanium Crate
+matteroverdrive:tritanium_crate_black, Black Tritanium Crate
+matteroverdrive:inscriber, Molecular Inscriber
+matteroverdrive:contract_market, Contract Market
+matteroverdrive:android_spawner, Rogue Android Spawner
+matteroverdrive:spacetime_accelerator, Space-Time Accelerator
+matteroverdrive:pylon, Dimensional Pylon
+matteroverdrive:transporter, Transporter
+matteroverdrive:star_map, Star Map
+matteroverdrive:holo_sign, Holographic Sign
+matteroverdrive:weapon_station, Weapon Station
+matteroverdrive:android_station, Android Station
+matteroverdrive:charging_station, Charging Station
+matteroverdrive:decorative.stripes, Yellow Stripes
+matteroverdrive:decorative.coils, Coils
+matteroverdrive:decorative.clean, Tritanium Smooth Plate
+matteroverdrive:decorative.vent.dark, Dark Vent
+matteroverdrive:decorative.vent.bright, Vent
+matteroverdrive:decorative.holo_matrix, Holographic Matrix
+matteroverdrive:decorative.tritanium_plate, Tritanium Plate
+matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
+matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
+matteroverdrive:decorative.matter_tube, Matter Tube
+matteroverdrive:decorative.beams, Tritanium Grate
+matteroverdrive:decorative.floor_tiles, Floor Tiles
+matteroverdrive:decorative.floor_tile_white, White Floor Tiles
+matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
+matteroverdrive:decorative.floor_noise, Linoleum Floor
+matteroverdrive:decorative.white_plate, Soft Wall Plates
+matteroverdrive:decorative.separator, Tritanium Rail
+matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
+matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
+matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
+matteroverdrive:microwave, Microwave
+matteroverdrive:industrial_glass, Industrial Glass
+matteroverdrive:bounding_box, Bounding Block
 ironbackpacks:backpack:0, Basic Backpack
 ironbackpacks:backpack:0, Iron Backpack
 ironbackpacks:backpack:0, Iron Backpack
@@ -7152,44 +7065,108 @@ ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
 ironjetpacks:strap, Leather Strap
 ironjetpacks:basic_coil, Basic Coil
 ironjetpacks:advanced_coil, Advanced Coil
+ironjetpacks:elite_coil, Elite Coil
+ironjetpacks:ultimate_coil, Ultimate Coil
 ironjetpacks:creative_cell, Energy Cell
-ironjetpacks:copper_cell, Energy Cell
 ironjetpacks:bronze_cell, Energy Cell
+ironjetpacks:copper_cell, Energy Cell
+ironjetpacks:carbon_cell, Energy Cell
 ironjetpacks:iron_cell, Energy Cell
+ironjetpacks:lead_cell, Energy Cell
+ironjetpacks:mercury_cell, Energy Cell
+ironjetpacks:meteoric_cell, Energy Cell
 ironjetpacks:silver_cell, Energy Cell
+ironjetpacks:nickel_cell, Energy Cell
+ironjetpacks:palladium_cell, Energy Cell
+ironjetpacks:red_cell, Energy Cell
+ironjetpacks:uranium_cell, Energy Cell
 ironjetpacks:gold_cell, Energy Cell
+ironjetpacks:magnesium_cell, Energy Cell
+ironjetpacks:blue_cell, Energy Cell
+ironjetpacks:crystal_cell, Energy Cell
 ironjetpacks:steel_cell, Energy Cell
+ironjetpacks:white_cell, Energy Cell
+ironjetpacks:zinc_cell, Energy Cell
+ironjetpacks:dark_cell, Energy Cell
 ironjetpacks:diamond_cell, Energy Cell
+ironjetpacks:tungsten_cell, Energy Cell
 ironjetpacks:platinum_cell, Energy Cell
+ironjetpacks:ultimate_cell, Energy Cell
 ironjetpacks:creative_thruster, Thruster
-ironjetpacks:copper_thruster, Thruster
 ironjetpacks:bronze_thruster, Thruster
+ironjetpacks:copper_thruster, Thruster
+ironjetpacks:carbon_thruster, Thruster
 ironjetpacks:iron_thruster, Thruster
+ironjetpacks:lead_thruster, Thruster
+ironjetpacks:mercury_thruster, Thruster
+ironjetpacks:meteoric_thruster, Thruster
 ironjetpacks:silver_thruster, Thruster
+ironjetpacks:nickel_thruster, Thruster
+ironjetpacks:palladium_thruster, Thruster
+ironjetpacks:red_thruster, Thruster
+ironjetpacks:uranium_thruster, Thruster
 ironjetpacks:gold_thruster, Thruster
+ironjetpacks:magnesium_thruster, Thruster
+ironjetpacks:blue_thruster, Thruster
+ironjetpacks:crystal_thruster, Thruster
 ironjetpacks:steel_thruster, Thruster
+ironjetpacks:white_thruster, Thruster
+ironjetpacks:zinc_thruster, Thruster
+ironjetpacks:dark_thruster, Thruster
 ironjetpacks:diamond_thruster, Thruster
+ironjetpacks:tungsten_thruster, Thruster
 ironjetpacks:platinum_thruster, Thruster
+ironjetpacks:ultimate_thruster, Thruster
 ironjetpacks:creative_capacitor, Capacitor
-ironjetpacks:copper_capacitor, Capacitor
 ironjetpacks:bronze_capacitor, Capacitor
+ironjetpacks:copper_capacitor, Capacitor
+ironjetpacks:carbon_capacitor, Capacitor
 ironjetpacks:iron_capacitor, Capacitor
+ironjetpacks:lead_capacitor, Capacitor
+ironjetpacks:mercury_capacitor, Capacitor
+ironjetpacks:meteoric_capacitor, Capacitor
 ironjetpacks:silver_capacitor, Capacitor
+ironjetpacks:nickel_capacitor, Capacitor
+ironjetpacks:palladium_capacitor, Capacitor
+ironjetpacks:red_capacitor, Capacitor
+ironjetpacks:uranium_capacitor, Capacitor
 ironjetpacks:gold_capacitor, Capacitor
+ironjetpacks:magnesium_capacitor, Capacitor
+ironjetpacks:blue_capacitor, Capacitor
+ironjetpacks:crystal_capacitor, Capacitor
 ironjetpacks:steel_capacitor, Capacitor
+ironjetpacks:white_capacitor, Capacitor
+ironjetpacks:zinc_capacitor, Capacitor
+ironjetpacks:dark_capacitor, Capacitor
 ironjetpacks:diamond_capacitor, Capacitor
+ironjetpacks:tungsten_capacitor, Capacitor
 ironjetpacks:platinum_capacitor, Capacitor
+ironjetpacks:ultimate_capacitor, Capacitor
 ironjetpacks:creative_jetpack, Jetpack
-ironjetpacks:copper_jetpack, Jetpack
 ironjetpacks:bronze_jetpack, Jetpack
+ironjetpacks:copper_jetpack, Jetpack
+ironjetpacks:carbon_jetpack, Jetpack
 ironjetpacks:iron_jetpack, Jetpack
+ironjetpacks:lead_jetpack, Jetpack
+ironjetpacks:mercury_jetpack, Jetpack
+ironjetpacks:meteoric_jetpack, Jetpack
 ironjetpacks:silver_jetpack, Jetpack
+ironjetpacks:nickel_jetpack, Jetpack
+ironjetpacks:palladium_jetpack, Jetpack
+ironjetpacks:red_jetpack, Jetpack
+ironjetpacks:uranium_jetpack, Jetpack
 ironjetpacks:gold_jetpack, Jetpack
+ironjetpacks:magnesium_jetpack, Jetpack
+ironjetpacks:blue_jetpack, Jetpack
+ironjetpacks:crystal_jetpack, Jetpack
 ironjetpacks:steel_jetpack, Jetpack
+ironjetpacks:white_jetpack, Jetpack
+ironjetpacks:zinc_jetpack, Jetpack
+ironjetpacks:dark_jetpack, Jetpack
 ironjetpacks:diamond_jetpack, Jetpack
+ironjetpacks:tungsten_jetpack, Jetpack
 ironjetpacks:platinum_jetpack, Jetpack
-lcrdrfs:robo_dino_egg_item, T-R3X 1000 Egg
-lcrdrfs:crop_creeper_chilli_item, Creeper Chilli Crop
+ironjetpacks:ultimate_jetpack, Jetpack
 lcrdrfs:robo_dino_part, T-R3X 1000 Part
 lcrdrfs:jetpack_spider_part, ARTHR0-BORG JETLINER 2000 Part
 lcrdrfs:robo_dino_control_module, T-R3X Control Module
@@ -7231,6 +7208,8 @@ lcrdrfs:creepssile_bazookoid, Creepssile Bazookoid
 lcrdrfs:bazookoid_chamber, Bazookoid Chamber
 lcrdrfs:bazookoid_grip, Bazookoid Grip
 lcrdrfs:bazookoid_ignition, Bazookoid Ignition
+lcrdrfs:robo_dino_egg_item, T-R3X 1000 Egg
+lcrdrfs:crop_creeper_chilli_item, Creeper Chilli Crop
 mekanismgenerators:solarpanel, Solar Panel
 mekanismgenerators:hohlraum, Hohlraum
 mekanismgenerators:turbineblade, Turbine Blade
@@ -8011,466 +7990,6 @@ teslacorelib:gear_gold, Gold Gear
 teslacorelib:gear_iron, Iron Gear
 teslacorelib:gear_stone, Stone Gear
 teslacorelib:powder_emerald, Emerald Powder
-agricraft:seed_analyzer, Seed Analyzer
-agricraft:peripheral, Computer Controlled Seed Analyzer
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_tank:0, Wooden Water Tank
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_normal:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_full:0, Wooden Irrigation Channel
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:water_channel_valve:0, Wooden Channel Valve
-agricraft:sprinkler, Sprinkler
-agricraft:crop_sticks, Crop Sticks
-agricraft:journal, Agricultural Journal
-agricraft:trowel, Gardening Trowel
-agricraft:debugger, Debugger
-agricraft:rake:0, Wooden Hand Rake
-agricraft:rake:1, Iron Hand Rake
-agricraft:clipper, Clipper
-agricraft:clipping, Clipping
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_seed:0, Generic Seeds
-agricraft:agri_nugget:0, Emerald Nugget
-agricraft:agri_nugget:1, Diamond Nugget
-agricraft:agri_nugget:2, Quartz Shard
-agricraft:agri_nugget:3, Iron Nugget
-agricraft:agri_nugget:4, Copper Nugget
-agricraft:agri_nugget:5, Tin Nugget
-agricraft:agri_nugget:6, Lead Nugget
-agricraft:agri_nugget:7, Silver Nugget
-agricraft:agri_nugget:8, Aluminum Nugget
-agricraft:agri_nugget:9, Nickel Nugget
-agricraft:agri_nugget:10, Platinum Nugget
-agricraft:agri_nugget:11, Osmium Nugget
-agricraft:agri_nugget:12, Unknown Fragment
-agricraft:magnifying_glass, Magnifying Glass
 heartdrops:heart, item.heart.name
 heartdrops:golden_heart, item.golden_heart.name
 betterbuilderswands:wandstone, Stone Wand
@@ -8484,110 +8003,6 @@ theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
 theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
 theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
 theoneprobe:probe_goggles, The One Probe (Bauble)
-factorytech:stackmover, Stack Mover
-factorytech:filtermover, Filtered Stack Mover
-factorytech:bulkmover, Bulk Stack Mover
-factorytech:autopuller, Auto Ejector
-factorytech:itempusher, Pulse Piston
-factorytech:sequenceplacer, Sequential Placer
-factorytech:watercollector, Water Collector
-factorytech:crate, Crate
-factorytech:conveyor, Transport Rollers
-factorytech:buffercrate, Buffer Crate
-factorytech:elevator, Fan Lift
-factorytech:bottomhatch, Lift Receiver
-factorytech:hatch, Insertion Hatch
-factorytech:rednotifier, Redstone Notifier
-factorytech:blockbreaker, Mounted Drill
-factorytech:inventorysensor, Inventory Sensor
-factorytech:interceptor, Item Drop Interceptor
-factorytech:realelevator, Elevator
-factorytech:pulser, Redstone Pulser
-factorytech:pulsecounter, Pulse Counter
-factorytech:planeshifter, Dimensional Shifter
-factorytech:batterygen, Electric Dynamo
-factorytech:coregen, Core Conversion Dynamo
-factorytech:mobfan, Mob Fan
-factorytech:compacthopper, Compact Hopper
-factorytech:oredrill, Drill Grinder
-factorytech:metalcutter, Metal Cutting Machine
-factorytech:autocrafter, Autocrafting Unit
-factorytech:circuitscribe, Circuit Scribe
-factorytech:saw, Chop Saw
-factorytech:pipe, Pipe
-factorytech:itemredis, Item Redistributor
-factorytech:tankblock, Stationary Tank
-factorytech:crucible, Crucible
-factorytech:compressor, Compression Chamber
-factorytech:fluidpuller, Extraction Pump
-factorytech:grindstone, Grindstone
-factorytech:centrifuge, Centrifuge
-factorytech:magcent, Magnetic Centrifuge
-factorytech:fluiddrill, Fluid Extraction Drill
-factorytech:agitator, Fluid Agitator
-factorytech:fridge, Refrigeration Unit
-factorytech:sluice, River Grate
-factorytech:autominer, Mining Machine
-factorytech:woodcutter, Woodcutter
-factorytech:iondisperser, Negative Ion Disperser
-factorytech:teslacoil, Tesla Coil
-factorytech:electroplater, Industrial Electroplater
-factorytech:charger, Core Charger
-factorytech:temperer, Tempering Oven
-factorytech:stabilizer, Stabilization Table
-factorytech:magnetizer, Magnetizer
-factorytech:energizer, Universal Supercharger
-factorytech:magnetblock, Stationary Magnet
-factorytech:spawner, Biosynthesis Unit
-factorytech:disassembler, Mob Disassembler
-factorytech:potionmixer, Potion Mixer
-factorytech:htfurnace, Electric Furnace
-factorytech:propfurnace, Propane Furnace
-factorytech:disruptor, Mob Disruptor
-factorytech:deepdrill, Terraneous Extractor
-factorytech:planter, Seed Disperser
-factorytech:reclaimer, Scrap Furnace
-factorytech:ore:0, Native Copper Ore
-factorytech:ore:1, Nickel Ore
-factorytech:oreblock:0, Block of Copper
-factorytech:oreblock:1, Block of Nickel
-factorytech:oreblock:2, Cupronickel Alloy Block
-factorytech:oreblock:3, Block of Invar
-factorytech:bricks:0, Sand Bricks
-factorytech:bricks:1, Earthy Bricks
-factorytech:bricks:2, Charred Bricks
-factorytech:bricks:3, Ashen Bricks
-factorytech:smokestack:0, Brick Smokestack
-factorytech:smokestack:1, Sand Brick Smokestack
-factorytech:smokestack:2, Earthy Brick Smokestack
-factorytech:smokestack:3, Charred Brick Smokestack
-factorytech:smokestack:4, Ashen Brick Smokestack
-factorytech:smokestack:5, Stone Smokestack
-factorytech:smokestack:6, Stone Brick Smokestack
-factorytech:smokestack:7, Solid Iron Smokestack
-factorytech:smokestack:8, Sheet Metal Smokestack
-factorytech:metal:0, Patterned Sheet Metal
-factorytech:metal:1, Riveted Sheet Metal
-factorytech:metal:2, Smooth Sheet Metal
-factorytech:metal:3, Rusted Sheet Metal
-factorytech:metal:4, Sheet Metal Siding
-factorytech:metal:5, Caution Striped Sheet Metal
-factorytech:scaffold, Scaffolding
-factorytech:decocoil, Decorative Coil
-factorytech:blowtorch, Mounted Blowtorch
-factorytech:handbook, item.factorytech.handbook.name
-factorytech:wrench, item.factorytech.wrench.name
-factorytech:fluidreader, item.factorytech.fluidreader.name
-factorytech:craftstopper, item.factorytech.craftstopper.name
-factorytech:core_unfinished, item.factorytech.core_unfinished.name
-factorytech:pressuregun, item.factorytech.pressuregun.name
-factorytech:elementsword, Element Sword
-factorytech:hardhat, Hard Hat
-factorytech:safetyvest, Safety Vest
-factorytech:workpants, Work Pants
-factorytech:steeltoeboots, Steel-Toe Boots
-factorytech:handpump, item.factorytech.handpump.name
-factorytech:tuningfork, item.factorytech.tuningfork.name
 industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
 industrialforegoing:enchantment_refiner, Enchantment Sorter
 industrialforegoing:enchantment_extractor, Enchantment Extractor
@@ -9004,46 +8419,6 @@ openmodularturrets:teleporter_turret, Teleporter Turret
 openmodularturrets:laser_turret, Laser Turret
 openmodularturrets:rail_gun_turret, Rail Gun Turret
 openmodularturrets:lever_block, Basic Turret Base Crank
-redstonic:iron_head, Iron Drill Head
-redstonic:gold_head, Gold Drill Head
-redstonic:diamond_head, Diamond Drill Head
-redstonic:ultimate_head, Ultimate Drill Head
-redstonic:heavy_head, Heavy Drill Head
-redstonic:blazer_head, Blazer Drill Head
-redstonic:silky_head, Silky Drill Head
-redstonic:fortuitous_head, Fortuitous Drill Head
-redstonic:iron_body, Iron Drill Body
-redstonic:ultimate_body, Ultimate Drill Body
-redstonic:iron_blade, Iron Sword Blade
-redstonic:diamond_blade, Diamond Sword Blade
-redstonic:wood_handle, Wooden Sword Handle
-redstonic:iron_handle, Iron Sword Handle
-redstonic:energy1_drill_augment, Energy Drill Augment
-redstonic:energy2_drill_augment, Energy 2 Drill Augment
-redstonic:speed1_drill_augment, Speed Drill Augment
-redstonic:speed2_drill_augment, Speed 2 Drill Augment
-redstonic:heavy_drill_augment, Heavy Drill Augment
-redstonic:luck_sword_augment, Lucky Sword Augment
-redstonic:berserk1_sword_augment, Berserk Sword Augment
-redstonic:berserk2_sword_augment, Berserk 2 Sword Augment
-redstonic:redstonicdrill, Redstonic Drill
-redstonic:redstonicsword, Redstonic Sword
-redstonic:basic_energy, Basic Battery
-redstonic:energized_energy, Energized Battery
-redstonic:great_energy, Great Battery
-redstonic:infinite_energy, Infinite Battery
-redstonic:material:0, Iron Gear
-redstonic:material:101, Vibrantium Ingot
-redstonic:material:201, Electronic Board
-redstonic:material:202, Advanced Electronic Board
-redstonic:material:203, Redstone Stick
-redstonic:energizer:0, Energizer
-redstonic:energizer:8, Energizer (Full)
-redstonic:excerptor, Redstonic Excerptor
-redstonic:modifier, Redstonic Modifier
-redstonic:charger, Redstonic Charger
-redstonic:driller, Redstonic Driller
-redstonic:compounder, Redstonic Compounder
 rftoolscontrol:rftoolscontrol_manual, RFTools Control Manual
 rftoolscontrol:program_card, Program Card
 rftoolscontrol:cpu_core_500, CPU Core B500
@@ -9132,8 +8507,5 @@ exnihilocreatio:item_ore_aluminium:2, Aluminium Ore Dust
 exnihilocreatio:item_ore_osmium:0, Osmium Ore Piece
 exnihilocreatio:item_ore_osmium:1, Osmium Ore Chunk
 exnihilocreatio:item_ore_osmium:2, Osmium Ore Dust
-exnihilocreatio:item_ore_lead:0, Lead Ore Piece
-exnihilocreatio:item_ore_lead:1, Lead Ore Chunk
-exnihilocreatio:item_ore_lead:2, Lead Ore Dust
 guideapi:deepmoblearning-deepguide, item.guideapi.book.deepmoblearning.deepguide.name
 guideapi:inventorygenerators-guide_book, item.guideapi.book.inventorygenerators.guide_book.name

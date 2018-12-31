@@ -1,18 +1,18 @@
 {
   "minecraft:cobblestone:0": {
     "fluid": "lava",
-    "amount": 25
+    "amount": 100
   },
   "minecraft:stone:1": {
     "fluid": "lava",
-    "amount": 25
+    "amount": 100
   },
   "minecraft:stone:3": {
     "fluid": "lava",
-    "amount": 25
+    "amount": 100
   },
   "minecraft:stone:5": {
     "fluid": "lava",
-    "amount": 25
+    "amount": 100
   }
 }
