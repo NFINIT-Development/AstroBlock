@@ -1,6 +1,11 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<matteroverdrive:omni_tool>);
+recipes.remove(<matteroverdrive:plasma_shotgun>);
+recipes.remove(<matteroverdrive:phaser>);
+recipes.remove(<matteroverdrive:ion_sniper>);
+recipes.remove(<matteroverdrive:phaser_rifle>);
 recipes.remove(<minecraft:hopper>);
 recipes.remove(<galacticraftcore:fluid_tank>);
 recipes.remove(<mekanism:jetpack>);
@@ -69,13 +74,13 @@ recipes.remove(<exnihilocreatio:block_end_cake>);
 recipes.remove(<storagenetwork:kabel>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<exnihilocreatio:block_crucible:1>, [[<exnihilocreatio:item_material:1>, null, <exnihilocreatio:item_material:1>],[<exnihilocreatio:item_material:1>, <exnihilocreatio:item_doll>, <exnihilocreatio:item_material:1>], [<exnihilocreatio:item_material:1>, <exnihilocreatio:item_material:1>, <exnihilocreatio:item_material:1>]]);
 recipes.addShaped(<minecraft:hopper>, [[<galacticraftcore:basic_item:9>, null, <galacticraftcore:basic_item:9>],[<galacticraftcore:basic_item:9>, <minestrapp:pipe>, <galacticraftcore:basic_item:9>], [null, <galacticraftcore:basic_item:9>, null]]);
 recipes.addShaped(<minecraft:furnace>, [[null, null, null],[null, <slabmachines:furnace_slab>, null], [null, <slabmachines:furnace_slab>, null]]);
 recipes.addShaped(<mekanism:jetpack>, [[<lcrdrfs:jet_control_unit>, <mekanism:controlcircuit:1>, <lcrdrfs:jet_control_unit>],[<lcrdrfs:jet_thruster>, <mekanism:gastank>.withTag({tier: 0, mekData: {}}).onlyWithTag({tier: 0, mekData: {}}), <lcrdrfs:jet_thruster>], [<extraplanets:tier6_items:5>, <lcrdrfs:jet_control_unit>, <extraplanets:tier6_items:5>]]);
 recipes.addShaped(<lcrdrfs:jetpack>, [[null, <lcrdrfs:jet_control_unit>, null],[<lcrdrfs:jet_control_unit>, <ironjetpacks:platinum_jetpack>, <lcrdrfs:jet_control_unit>], [<lcrdrfs:jet_thruster>, <extraplanets:tier11_items:1>, <lcrdrfs:jet_thruster>]]);
 recipes.addShaped(<slabmachines:furnace_slab>, [[<minecraft:stone_slab:3>, <minecraft:stone_slab:3>, <minecraft:stone_slab:3>],[<minecraft:stone_slab:3>, null, <minecraft:stone_slab:3>], [<minecraft:stone_slab:3>, <minecraft:stone_slab:3>, <minecraft:stone_slab:3>]]);
 recipes.addShaped(<slabmachines:furnace_slab> * 2, [[null, null, null],[null, <minecraft:furnace>, null], [null, null, null]]);
-recipes.addShaped(<exnihilocreatio:block_crucible:1>, [[<exnihilocreatio:item_material:1>, null, <exnihilocreatio:item_material:1>],[<exnihilocreatio:item_material:1>, <minecraft:lava_bucket>, <exnihilocreatio:item_material:1>], [<exnihilocreatio:item_material:1>, <exnihilocreatio:item_material:1>, <exnihilocreatio:item_material:1>]]);
 recipes.addShaped(<mekanism:machineblock:11>, [[<extraplanets:tier4_items:4>, <mekanism:controlcircuit>, <extraplanets:tier4_items:4>],[<mekanism:controlcircuit>, <mekanism:teleportationcore>, <mekanism:controlcircuit>], [<extraplanets:tier4_items:4>, <mekanism:controlcircuit>, <extraplanets:tier4_items:4>]]);
 recipes.addShaped(<mekanism:basicblock:8>, [[<galacticraftcore:basic_item:9>, <galacticraftcore:basic_item:11>, <galacticraftcore:basic_item:9>],[<galacticraftcore:basic_item:11>, <mekanism:ingot:1>, <galacticraftcore:basic_item:11>], [<galacticraftcore:basic_item:9>, <galacticraftcore:basic_item:11>, <galacticraftcore:basic_item:9>]]);
 recipes.addShaped(<mekanism:machineblock:4>, [[<extraplanets:tier7_items:5>, <mekanism:atomicalloy>, <extraplanets:tier5_items:7>],[<mekanism:machineblock:15>, <mekanism:robit>, <mekanism:machineblock:15>], [<matteroverdrive:tritanium_ingot>, <mekanism:teleportationcore>, <extraplanets:tier4_items:5>]]);

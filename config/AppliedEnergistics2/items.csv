@@ -694,6 +694,176 @@ exsartagine:breadmeat, Meat Roll
 exsartagine:breadmeatraw, Raw Meat Roll
 exsartagine:breadveggie, Vegetable Bread
 exsartagine:breadveggieraw, Raw Vegetable Bread
+sonarcore:reinforcedstoneblock, Reinforced Stone
+sonarcore:reinforcedstonestairs, Reinforced Stone Stairs
+sonarcore:reinforcedstonefence, Reinforced Stone Fence
+sonarcore:reinforcedstonegate, Reinforced Stone Gate
+sonarcore:reinforcedstonebrick, Reinforced Stone Brick
+sonarcore:reinforcedstonebrickstairs, Reinforced Stone Brick Stairs
+sonarcore:reinforcedstonebrickfence, Reinforced Stone Brick Fence
+sonarcore:reinforcedstonebrickgate, Reinforced Stone Brick Gate
+sonarcore:reinforceddirtblock, Reinforced Dirt
+sonarcore:reinforceddirtstairs, Reinforced Dirt Stairs
+sonarcore:reinforceddirtfence, Reinforced Dirt Fence
+sonarcore:reinforceddirtgate, Reinforced Dirt Gate
+sonarcore:reinforceddirtbrick, Reinforced Dirt Brick
+sonarcore:reinforceddirtbrickstairs, Reinforced Dirt Brick Stairs
+sonarcore:reinforceddirtbrickfence, Reinforced Dirt Brick Fence
+sonarcore:reinforceddirtbrickgate, Reinforced Dirt Brick Gate
+sonarcore:stablestone_normal, Stable Stone
+sonarcore:stablestonerimmed_normal, Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_normal, Rimmed Black Stable Stone
+sonarcore:stablestone_black, Black Stable Stone
+sonarcore:stablestonerimmed_black, Black Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_black, Black Rimmed Black Stable Stone
+sonarcore:stablestone_blue, Blue Stable Stone
+sonarcore:stablestonerimmed_blue, Blue Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_blue, Blue Rimmed Black Stable Stone
+sonarcore:stablestone_brown, Brown Stable Stone
+sonarcore:stablestonerimmed_brown, Brown Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_brown, Brown Rimmed Black Stable Stone
+sonarcore:stablestone_cyan, Cyan Stable Stone
+sonarcore:stablestonerimmed_cyan, Cyan Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_cyan, Cyan Rimmed Black Stable Stone
+sonarcore:stablestone_green, Green Stable Stone
+sonarcore:stablestonerimmed_green, Green Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_green, Green Rimmed Black Stable Stone
+sonarcore:stablestone_lightblue, Light Blue Stable Stone
+sonarcore:stablestonerimmed_lightblue, Light Blue Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_lightblue, Light Blue Rimmed Black Stable Stone
+sonarcore:stablestone_lightgrey, Light Stable Stone
+sonarcore:stablestonerimmed_lightgrey, Light Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_lightgrey, Light Rimmed Black Stable Stone
+sonarcore:stablestone_lime, Lime Stable Stone
+sonarcore:stablestonerimmed_lime, Lime Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_lime, Lime Rimmed Black Stable Stone
+sonarcore:stablestone_magenta, Magenta Stable Stone
+sonarcore:stablestonerimmed_magenta, Magenta Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_magenta, Magenta Rimmed Black Stable Stone
+sonarcore:stablestone_orange, Orange Stable Stone
+sonarcore:stablestonerimmed_orange, Orange Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_orange, Orange Rimmed Black Stable Stone
+sonarcore:stablestone_pink, Pink Stable Stone
+sonarcore:stablestonerimmed_pink, Pink Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_pink, Pink Rimmed Black Stable Stone
+sonarcore:stablestone_plain, Plain Stable Stone
+sonarcore:stablestonerimmed_plain, Plain Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_plain, Plain Rimmed Black Stable Stone
+sonarcore:stablestone_purple, Purple Stable Stone
+sonarcore:stablestonerimmed_purple, Purple Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_purple, Purple Rimmed Black Stable Stone
+sonarcore:stablestone_red, Red Stable Stone
+sonarcore:stablestonerimmed_red, Red Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_red, Red Rimmed Black Stable Stone
+sonarcore:stablestone_yellow, Yellow Stable Stone
+sonarcore:stablestonerimmed_yellow, Yellow Rimmed Stable Stone
+sonarcore:stablestoneblackrimmed_yellow, Yellow Rimmed Black  Stable Stone
+sonarcore:stableglass, Stable Glass
+sonarcore:clearstableglass, Clear Stable Glass
+fluxnetworks:fluxblock, Flux Block
+fluxnetworks:flux, Flux
+fluxnetworks:fluxcore, Flux Core
+fluxnetworks:fluxconfigurator, Flux Configurator
+fluxnetworks:adminconfigurator, Admin Configurator
+fluxnetworks:fluxplug, Flux Plug
+fluxnetworks:fluxpoint, Flux Point
+fluxnetworks:fluxcontroller, Flux Controller
+fluxnetworks:fluxstorage, Basic Flux Storage
+fluxnetworks:herculeanfluxstorage, Herculean Flux Storage
+fluxnetworks:gargantuanfluxstorage, Gargantuan Flux Storage
+inventorypets:cow_pet, Cow Pet
+inventorypets:sheep_pet, Sheep Pet
+inventorypets:pig_pet, Pig Pet
+inventorypets:chicken_pet, Chicken Pet
+inventorypets:squid_pet, Squid Pet
+inventorypets:ocelot_pet, Ocelot Pet
+inventorypets:mooshroom_pet, Mooshroom Pet
+inventorypets:ghast_pet, Ghast Pet
+inventorypets:spider_pet, Spider Pet
+inventorypets:iron_golem_pet, Iron Golem Pet
+inventorypets:snow_golem_pet, Snow Golem Pet
+inventorypets:enderman_pet, Enderman Pet
+inventorypets:creeper_pet, Creeper Pet
+inventorypets:magma_cube_pet, Magma Cube Pet
+inventorypets:wither_pet, Wither Pet
+inventorypets:blaze_pet, Blaze Pet
+inventorypets:bed_pet, Bed Pet
+inventorypets:chest_pet, Chest Pet
+inventorypets:double_chest_pet, Double Chest Pet
+inventorypets:ender_chest_pet, Ender Chest Pet
+inventorypets:furnace_pet, Furnace Pet
+inventorypets:crafting_table_pet, Crafting Table Pet
+inventorypets:enchanting_table_pet, Enchanting Table Pet
+inventorypets:jukebox_pet, Jukebox Pet
+inventorypets:anvil_pet, Anvil Pet
+inventorypets:brewing_stand_pet, Brewing Stand Pet
+inventorypets:nether_portal_pet, Nether Portal Pet
+inventorypets:sponge_pet, Sponge Pet
+inventorypets:purplicious_cow_pet, Purplicious Cow Pet
+inventorypets:mickerson_pet, Mickerson
+inventorypets:pingot_pet, Pingot Pet
+inventorypets:qcm_pet, Quantum Crystal Monster Pet
+inventorypets:banana_pet, Banana Pet
+inventorypets:loot_pet, Loot Pet
+inventorypets:slime_pet, Slime Pet
+inventorypets:cloud_pet, Cloud Pet
+inventorypets:pufferfish_pet, Pufferfish Pet
+inventorypets:black_hole_pet, Black Hole Pet
+inventorypets:quiver_pet, Quiver Pet
+inventorypets:pacman_pet, Pac-Man Pet
+inventorypets:cheetah_pet, Cheetah Pet
+inventorypets:house_pet, House Pet
+inventorypets:silverfish_pet, Silverfish Pet
+inventorypets:wolf_pet, Wolf Pet
+inventorypets:apple_pet, Apple Pet
+inventorypets:shield_pet, Shield Pet
+inventorypets:heart_pet, Heart Pet
+inventorypets:moon_pet, Moon Pet
+inventorypets:dubstep_pet, Dubstep Pet
+inventorypets:juggernaut_pet, Juggernaut Pet
+inventorypets:illuminati_pet, Illuminati Pet
+inventorypets:grave_pet, Grave Pet
+inventorypets:nugget_diamond, Diamond Nugget
+inventorypets:nugget_obsidian, Obsidian Nugget
+inventorypets:nugget_emerald, Emerald Nugget
+inventorypets:nugget_coal, Coal Nugget
+inventorypets:nugget_lapis, Lapis Nugget
+inventorypets:nugget_ender, Ender Nugget
+inventorypets:feed_bag, Feed Bag
+inventorypets:siamese_gift, Gift
+inventorypets:holiday_cookie, Holiday Cookie
+inventorypets:mug_egg_nog, Mug of Egg Nog
+inventorypets:candy_cane, Candy Cane
+inventorypets:item_gift, Gift
+inventorypets:solstice_helmet, Solstice Helmet
+inventorypets:solstice_chestplate, Solstice Chestplate
+inventorypets:solstice_leggings, Solstice Leggings
+inventorypets:solstice_boots, Solstice Boots
+inventorypets:solstice_sword, Solstice Sword
+inventorypets:patreon_shirt, Cool T-Shirt
+inventorypets:patreon_head, Purplicious Cow Head
+inventorypets:pet_christmas_tree, Christmas Tree Pet
+inventorypets:pet_menorah, Menorah Pet
+inventorypets:pet_mishumaa_saba, Mishumaa Saba Pet
+inventorypets:pet_politically_correct, Politically Correct Pet
+inventorypets:april_fool_pet, April Fool Pet
+inventorypets:start_button, Start Button
+inventorypets:windows_7, Windoes 7
+inventorypets:windows_8, Windoes 8
+inventorypets:windows_31, Windoes 3.1
+inventorypets:windows_me, Windoes ME
+inventorypets:windows_mojave, Windoes Mojave
+inventorypets:windows_xp, Windoes XP
+inventorypets:xerox_parc_gui, Xerox PARC GUI
+inventorypets:blue_screen_of_death, Blue Screen of Death
+inventorypets:rock_candy, Rock Candy
+inventorypets:easter_egg, Easter Egg
+inventorypets:petachieveitem1, item.inventorypets_petachieveitem1.name
+inventorypets:petachieveitem5, item.inventorypets_petachieveitem5.name
+inventorypets:petachieveitem10, item.inventorypets_petachieveitem10.name
+inventorypets:petachieveitem20, item.inventorypets_petachieveitem20.name
+inventorypets:petachieveitemall, item.inventorypets_petachieveitemall.name
+inventorypets:petachieveitemgeneral, item.inventorypets_petachieveitemgeneral.name
 malisisdoors:wood_sliding_door, Wooden Glass Door
 malisisdoors:iron_sliding_door, Iron Glass Door
 malisisdoors:jail_door, Jail Door
@@ -2358,72 +2528,6 @@ opencomputers:misc:0, Creatix
 opencomputers:misc:0, Tablet
 opencomputers:misc:0, Hover Boots
 opencomputers:misc:0, EEPROM (Lua BIOS)
-sonarcore:reinforcedstoneblock, Reinforced Stone
-sonarcore:reinforcedstonestairs, Reinforced Stone Stairs
-sonarcore:reinforcedstonefence, Reinforced Stone Fence
-sonarcore:reinforcedstonegate, Reinforced Stone Gate
-sonarcore:reinforcedstonebrick, Reinforced Stone Brick
-sonarcore:reinforcedstonebrickstairs, Reinforced Stone Brick Stairs
-sonarcore:reinforcedstonebrickfence, Reinforced Stone Brick Fence
-sonarcore:reinforcedstonebrickgate, Reinforced Stone Brick Gate
-sonarcore:reinforceddirtblock, Reinforced Dirt
-sonarcore:reinforceddirtstairs, Reinforced Dirt Stairs
-sonarcore:reinforceddirtfence, Reinforced Dirt Fence
-sonarcore:reinforceddirtgate, Reinforced Dirt Gate
-sonarcore:reinforceddirtbrick, Reinforced Dirt Brick
-sonarcore:reinforceddirtbrickstairs, Reinforced Dirt Brick Stairs
-sonarcore:reinforceddirtbrickfence, Reinforced Dirt Brick Fence
-sonarcore:reinforceddirtbrickgate, Reinforced Dirt Brick Gate
-sonarcore:stablestone_normal, Stable Stone
-sonarcore:stablestonerimmed_normal, Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_normal, Rimmed Black Stable Stone
-sonarcore:stablestone_black, Black Stable Stone
-sonarcore:stablestonerimmed_black, Black Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_black, Black Rimmed Black Stable Stone
-sonarcore:stablestone_blue, Blue Stable Stone
-sonarcore:stablestonerimmed_blue, Blue Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_blue, Blue Rimmed Black Stable Stone
-sonarcore:stablestone_brown, Brown Stable Stone
-sonarcore:stablestonerimmed_brown, Brown Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_brown, Brown Rimmed Black Stable Stone
-sonarcore:stablestone_cyan, Cyan Stable Stone
-sonarcore:stablestonerimmed_cyan, Cyan Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_cyan, Cyan Rimmed Black Stable Stone
-sonarcore:stablestone_green, Green Stable Stone
-sonarcore:stablestonerimmed_green, Green Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_green, Green Rimmed Black Stable Stone
-sonarcore:stablestone_lightblue, Light Blue Stable Stone
-sonarcore:stablestonerimmed_lightblue, Light Blue Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_lightblue, Light Blue Rimmed Black Stable Stone
-sonarcore:stablestone_lightgrey, Light Stable Stone
-sonarcore:stablestonerimmed_lightgrey, Light Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_lightgrey, Light Rimmed Black Stable Stone
-sonarcore:stablestone_lime, Lime Stable Stone
-sonarcore:stablestonerimmed_lime, Lime Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_lime, Lime Rimmed Black Stable Stone
-sonarcore:stablestone_magenta, Magenta Stable Stone
-sonarcore:stablestonerimmed_magenta, Magenta Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_magenta, Magenta Rimmed Black Stable Stone
-sonarcore:stablestone_orange, Orange Stable Stone
-sonarcore:stablestonerimmed_orange, Orange Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_orange, Orange Rimmed Black Stable Stone
-sonarcore:stablestone_pink, Pink Stable Stone
-sonarcore:stablestonerimmed_pink, Pink Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_pink, Pink Rimmed Black Stable Stone
-sonarcore:stablestone_plain, Plain Stable Stone
-sonarcore:stablestonerimmed_plain, Plain Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_plain, Plain Rimmed Black Stable Stone
-sonarcore:stablestone_purple, Purple Stable Stone
-sonarcore:stablestonerimmed_purple, Purple Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_purple, Purple Rimmed Black Stable Stone
-sonarcore:stablestone_red, Red Stable Stone
-sonarcore:stablestonerimmed_red, Red Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_red, Red Rimmed Black Stable Stone
-sonarcore:stablestone_yellow, Yellow Stable Stone
-sonarcore:stablestonerimmed_yellow, Yellow Rimmed Stable Stone
-sonarcore:stablestoneblackrimmed_yellow, Yellow Rimmed Black  Stable Stone
-sonarcore:stableglass, Stable Glass
-sonarcore:clearstableglass, Clear Stable Glass
 practicallogistics2:hammer, Forging Hammer
 practicallogistics2:hammer_air, Forging Hammer
 practicallogistics2:sapphireore, Sapphire Ore
@@ -6320,18 +6424,6 @@ extraplanets:oxygen_tank_heavy_full_white, Heavy Oxygen Tank
 fluidfunnel:funnel, Funnel
 fluidfunnel:tank, Tank
 fluidfunnel:tap, Tap
-ftbquests:screen, Task Screen
-ftbquests:progress_detector, Quest Progress Detector
-ftbquests:progress_screen, Progress Screen
-ftbquests:chest, Quest Chest
-ftbquests:book, Quest Book
-ftbquests:lootcrate, Loot Crate
-ftbquests:common_lootcrate, Old Loot Crate
-ftbquests:uncommon_lootcrate, Old Loot Crate
-ftbquests:rare_lootcrate, Old Loot Crate
-ftbquests:epic_lootcrate, Old Loot Crate
-ftbquests:legendary_lootcrate, Old Loot Crate
-ftbquests:missing, Missing Item
 slabmachines:workbench_slab, Crafting Slab
 slabmachines:furnace_slab, Furnace Slab
 slabmachines:chest_slab, Chest Slab
@@ -6731,6 +6823,18 @@ mekanism:plasticfence:13, §dMagenta Plastic Barrier
 mekanism:plasticfence:14, §6Orange Plastic Barrier
 mekanism:plasticfence:15, §fWhite Plastic Barrier
 mekanism:saltblock, Salt Block
+ftbquests:screen, Task Screen
+ftbquests:progress_detector, Quest Progress Detector
+ftbquests:progress_screen, Progress Screen
+ftbquests:chest, Quest Chest
+ftbquests:book, Quest Book
+ftbquests:lootcrate, Loot Crate
+ftbquests:common_lootcrate, Old Loot Crate
+ftbquests:uncommon_lootcrate, Old Loot Crate
+ftbquests:rare_lootcrate, Old Loot Crate
+ftbquests:epic_lootcrate, Old Loot Crate
+ftbquests:legendary_lootcrate, Old Loot Crate
+ftbquests:missing, Missing Item
 teslacorelib:base_addon, Base Addon
 teslacorelib:energy_tier1, Energy Upgrade I
 teslacorelib:energy_tier2, Energy Upgrade II
@@ -6740,6 +6844,80 @@ teslacorelib:speed_tier2, Speed Upgrade II
 teslacorelib:battery:0, Tesla Battery
 teslacorelib:battery:0, Tesla Battery
 teslacorelib:wrench, Tesla Wrench
+matteroverdrive:dilithium_ore, Dilithium Ore
+matteroverdrive:tritanium_ore, Tritanium Ore
+matteroverdrive:tritanium_block, Tritanium Block
+matteroverdrive:machine_hull, Machine Hull
+matteroverdrive:decomposer, Matter Decomposer
+matteroverdrive:matter_recycler, Matter Recycler
+matteroverdrive:replicator, Matter Replicator
+matteroverdrive:matter_pipe, Matter Transport Pipe
+matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
+matteroverdrive:network_pipe, Matter Network Cable
+matteroverdrive:network_router, Matter Network Router
+matteroverdrive:matter_analyzer, Matter Analyzer
+matteroverdrive:pattern_monitor, Pattern Monitor
+matteroverdrive:pattern_storage, Pattern Storage
+matteroverdrive:network_switch, Matter Network Switch
+matteroverdrive:solar_panel, Solar Panel
+matteroverdrive:gravitational_anomaly, Gravitational Anomaly
+matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
+matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
+matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
+matteroverdrive:fusion_reactor_io, Fusion Reactor IO
+matteroverdrive:matter_plasma, tile.null.name
+matteroverdrive:molten_tritanium, tile.null.name
+matteroverdrive:tritanium_crate, Tritanium Crate
+matteroverdrive:tritanium_crate_white, White Tritanium Crate
+matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
+matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
+matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
+matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
+matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
+matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
+matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
+matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
+matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
+matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
+matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
+matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
+matteroverdrive:tritanium_crate_green, Green Tritanium Crate
+matteroverdrive:tritanium_crate_red, Red Tritanium Crate
+matteroverdrive:tritanium_crate_black, Black Tritanium Crate
+matteroverdrive:inscriber, Molecular Inscriber
+matteroverdrive:contract_market, Contract Market
+matteroverdrive:android_spawner, Rogue Android Spawner
+matteroverdrive:spacetime_accelerator, Space-Time Accelerator
+matteroverdrive:pylon, Dimensional Pylon
+matteroverdrive:transporter, Transporter
+matteroverdrive:star_map, Star Map
+matteroverdrive:holo_sign, Holographic Sign
+matteroverdrive:weapon_station, Weapon Station
+matteroverdrive:android_station, Android Station
+matteroverdrive:charging_station, Charging Station
+matteroverdrive:decorative.stripes, Yellow Stripes
+matteroverdrive:decorative.coils, Coils
+matteroverdrive:decorative.clean, Tritanium Smooth Plate
+matteroverdrive:decorative.vent.dark, Dark Vent
+matteroverdrive:decorative.vent.bright, Vent
+matteroverdrive:decorative.holo_matrix, Holographic Matrix
+matteroverdrive:decorative.tritanium_plate, Tritanium Plate
+matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
+matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
+matteroverdrive:decorative.matter_tube, Matter Tube
+matteroverdrive:decorative.beams, Tritanium Grate
+matteroverdrive:decorative.floor_tiles, Floor Tiles
+matteroverdrive:decorative.floor_tile_white, White Floor Tiles
+matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
+matteroverdrive:decorative.floor_noise, Linoleum Floor
+matteroverdrive:decorative.white_plate, Soft Wall Plates
+matteroverdrive:decorative.separator, Tritanium Rail
+matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
+matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
+matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
+matteroverdrive:microwave, Microwave
+matteroverdrive:industrial_glass, Industrial Glass
+matteroverdrive:bounding_box, Bounding Block
 matteroverdrive:dilithium_crystal, Dilithium Crystal
 matteroverdrive:tritanium_ingot, Tritanium Ingot
 matteroverdrive:tritanium_nugget, Tritanium Nugget
@@ -6838,80 +7016,6 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
-matteroverdrive:dilithium_ore, Dilithium Ore
-matteroverdrive:tritanium_ore, Tritanium Ore
-matteroverdrive:tritanium_block, Tritanium Block
-matteroverdrive:machine_hull, Machine Hull
-matteroverdrive:decomposer, Matter Decomposer
-matteroverdrive:matter_recycler, Matter Recycler
-matteroverdrive:replicator, Matter Replicator
-matteroverdrive:matter_pipe, Matter Transport Pipe
-matteroverdrive:heavy_matter_pipe, Heavy Duty Matter Transport Pipe
-matteroverdrive:network_pipe, Matter Network Cable
-matteroverdrive:network_router, Matter Network Router
-matteroverdrive:matter_analyzer, Matter Analyzer
-matteroverdrive:pattern_monitor, Pattern Monitor
-matteroverdrive:pattern_storage, Pattern Storage
-matteroverdrive:network_switch, Matter Network Switch
-matteroverdrive:solar_panel, Solar Panel
-matteroverdrive:gravitational_anomaly, Gravitational Anomaly
-matteroverdrive:gravitational_stabilizer, Gravitational Stabilizer
-matteroverdrive:fusion_reactor_controller, Fusion Reactor Controller
-matteroverdrive:fusion_reactor_coil, Fusion Reactor Coil
-matteroverdrive:fusion_reactor_io, Fusion Reactor IO
-matteroverdrive:matter_plasma, tile.null.name
-matteroverdrive:molten_tritanium, tile.null.name
-matteroverdrive:tritanium_crate, Tritanium Crate
-matteroverdrive:tritanium_crate_white, White Tritanium Crate
-matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
-matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
-matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
-matteroverdrive:tritanium_crate_yellow, Yellow Tritanium Crate
-matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
-matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
-matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
-matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
-matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
-matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
-matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
-matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
-matteroverdrive:tritanium_crate_green, Green Tritanium Crate
-matteroverdrive:tritanium_crate_red, Red Tritanium Crate
-matteroverdrive:tritanium_crate_black, Black Tritanium Crate
-matteroverdrive:inscriber, Molecular Inscriber
-matteroverdrive:contract_market, Contract Market
-matteroverdrive:android_spawner, Rogue Android Spawner
-matteroverdrive:spacetime_accelerator, Space-Time Accelerator
-matteroverdrive:pylon, Dimensional Pylon
-matteroverdrive:transporter, Transporter
-matteroverdrive:star_map, Star Map
-matteroverdrive:holo_sign, Holographic Sign
-matteroverdrive:weapon_station, Weapon Station
-matteroverdrive:android_station, Android Station
-matteroverdrive:charging_station, Charging Station
-matteroverdrive:decorative.stripes, Yellow Stripes
-matteroverdrive:decorative.coils, Coils
-matteroverdrive:decorative.clean, Tritanium Smooth Plate
-matteroverdrive:decorative.vent.dark, Dark Vent
-matteroverdrive:decorative.vent.bright, Vent
-matteroverdrive:decorative.holo_matrix, Holographic Matrix
-matteroverdrive:decorative.tritanium_plate, Tritanium Plate
-matteroverdrive:decorative.tritanium_plate_stripe, Tritanium Plate Guided
-matteroverdrive:decorative.carbon_fiber_plate, Carbon Fiber Plate
-matteroverdrive:decorative.matter_tube, Matter Tube
-matteroverdrive:decorative.beams, Tritanium Grate
-matteroverdrive:decorative.floor_tiles, Floor Tiles
-matteroverdrive:decorative.floor_tile_white, White Floor Tiles
-matteroverdrive:decorative.floor_tiles_green, Green Floor Tiles
-matteroverdrive:decorative.floor_noise, Linoleum Floor
-matteroverdrive:decorative.white_plate, Soft Wall Plates
-matteroverdrive:decorative.separator, Tritanium Rail
-matteroverdrive:decorative.tritanium_lamp, Tritanium Lamp
-matteroverdrive:decorative.tritanium_plate_colored, Colored Tritanium Plate
-matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
-matteroverdrive:microwave, Microwave
-matteroverdrive:industrial_glass, Industrial Glass
-matteroverdrive:bounding_box, Bounding Block
 ironbackpacks:backpack:0, Basic Backpack
 ironbackpacks:backpack:0, Iron Backpack
 ironbackpacks:backpack:0, Iron Backpack
@@ -6924,24 +7028,6 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -7062,6 +7148,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironjetpacks:strap, Leather Strap
 ironjetpacks:basic_coil, Basic Coil
 ironjetpacks:advanced_coil, Advanced Coil
