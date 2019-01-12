@@ -54,14 +54,11 @@ key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_key.interact:46:NONE
 key_key.nightvision:49:NONE
-key_oreexcavation.key.excavate:42:NONE
+key_oreexcavation.key.excavate:41:NONE
 key_oreexcavation.key.shape:47:NONE
 key_key.toastcontrol.clear:36:NONE
 key_key.wearablebackpacks.open:48:NONE
-key_key.open_terminal.desc:0:NONE
-key_key.open_magnet.desc:0:NONE
-key_key.switch_magnet_mode.desc:0:NONE
-key_key.open_fluid_terminal.desc:0:NONE
+key_key.open_wct.desc:0:NONE
 key_key.xtones.scroll:42:NONE
 key_smoothfont.key.guiOpen:199:NONE
 key_key.toggle_focus.desc:15:NONE
@@ -117,7 +114,8 @@ key_key.porterNextDestination:27:NONE
 key_key.porterPrevDestination:26:NONE
 key_key.debugDumpNBTItem:0:NONE
 key_key.debugDumpNBTBlock:0:NONE
-key_invtweaks.key.sort:19:NONE
+key_key.categories.naming:49:NONE
+key_invtweaks.key.sort:40:NONE
 key_keybind.fovfixtoggle:0:NONE
 key_key.clipboardPaste:210:NONE
 key_key.journeymap.zoom_in:13:NONE
