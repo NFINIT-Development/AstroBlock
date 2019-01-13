@@ -3305,12 +3305,6 @@ redstonerepository:feeder, Endoscopic Gastrostomizer
 redstonerepository:ring_effect, Alchemical Stasis Ring
 redstonerepository:ring_mining, Destructive Stabilization Ring
 redstonerepository:ring_base, Gelid Enderium Ring
-thermalcultivation:watering_can:0, Watering Can (Basic)
-thermalcultivation:watering_can:1, Watering Can (Hardened)
-thermalcultivation:watering_can:2, Watering Can (Reinforced)
-thermalcultivation:watering_can:3, Watering Can (Signalum)
-thermalcultivation:watering_can:4, Watering Can (Resonant)
-thermalcultivation:watering_can:32000, Watering Can (Creative)
 thermaldynamics:duct_0:0, Leadstone Fluxduct
 thermaldynamics:duct_0:1, Hardened Fluxduct
 thermaldynamics:duct_0:2, Redstone Energy Fluxduct
@@ -4619,6 +4613,47 @@ thermaldynamics:cover:0, Fluxed Electrum Block Cover
 thermaldynamics:cover:0, Flux Crystal Block Cover
 thermaldynamics:cover:0, Gelid Enderium Block Cover
 thermaldynamics:cover:0, Gelid Gem Block Cover
+simplyjetpacks:itemjetpack:0, Creative Jetpack
+simplyjetpacks:itemjetpack:10, Leadstone Jetpack
+simplyjetpacks:itemjetpack:11, Hardened Jetpack
+simplyjetpacks:itemjetpack:12, Reinforced Jetpack
+simplyjetpacks:itemjetpack:13, Resonant Jetpack
+simplyjetpacks:itemjetpack:14, Leadstone Jetpack (Armored)
+simplyjetpacks:itemjetpack:15, Hardened Jetpack (Armored)
+simplyjetpacks:itemjetpack:16, Reinforced Jetpack (Armored)
+simplyjetpacks:itemjetpack:17, Resonant Jetpack (Armored)
+simplyjetpacks:itemjetpack:18, Flux-Infused JetPlate
+simplyjetpacks:itemjetpack:19, Flux-Infused JetPlate (Armored)
+simplyjetpacks:metaitem:0, Particle Customizer (Default)
+simplyjetpacks:metaitem:1, Particle Customizer (None)
+simplyjetpacks:metaitem:2, Particle Customizer (Smoke Only)
+simplyjetpacks:metaitem:3, Particle Customizer (Rainbow Smoke)
+simplyjetpacks:metaitem:4, Leather Strap
+simplyjetpacks:metaitemmods:18, Glowstone Elevation Unit (Empty)
+simplyjetpacks:metaitemmods:19, Glowstone Elevation Unit
+simplyjetpacks:metaitemmods:20, Cryotheum Coolant Unit (Empty)
+simplyjetpacks:metaitemmods:21, Cryotheum Coolant Unit
+simplyjetpacks:metaitemmods:22, Iron Armor Plating
+simplyjetpacks:metaitemmods:23, Bronze Armor Plating
+simplyjetpacks:metaitemmods:24, Invar Armor Plating
+simplyjetpacks:metaitemmods:25, Enderium Armor Plating
+simplyjetpacks:metaitemmods:26, Leadstone Thruster
+simplyjetpacks:metaitemmods:27, Hardened Thruster
+simplyjetpacks:metaitemmods:28, Reinforced Thruster
+simplyjetpacks:metaitemmods:29, Resonant Thruster
+simplyjetpacks:metaitemmods:30, Fluxed Thruster
+simplyjetpacks:itemfluxpack:0, Creative Flux Pack
+simplyjetpacks:itemfluxpack:6, Leadstone Flux Pack
+simplyjetpacks:itemfluxpack:7, Reinforced Flux Pack
+simplyjetpacks:itemfluxpack:8, Resonant Flux Pack
+simplyjetpacks:itemfluxpack:9, Reinforced Flux Pack (Armored)
+simplyjetpacks:itemfluxpack:10, Resonant Flux Pack (Armored)
+thermalcultivation:watering_can:0, Watering Can (Basic)
+thermalcultivation:watering_can:1, Watering Can (Hardened)
+thermalcultivation:watering_can:2, Watering Can (Reinforced)
+thermalcultivation:watering_can:3, Watering Can (Signalum)
+thermalcultivation:watering_can:4, Watering Can (Resonant)
+thermalcultivation:watering_can:32000, Watering Can (Creative)
 thermalinnovation:drill:0, Fluxbore (Basic)
 thermalinnovation:drill:1, Fluxbore (Hardened)
 thermalinnovation:drill:2, Fluxbore (Reinforced)
@@ -6872,8 +6907,6 @@ appliedenergistics2:sky_stone_small_brick, Sky Stone Small Brick
 appliedenergistics2:sky_stone_chest, Sky Stone Chest
 appliedenergistics2:smooth_sky_stone_chest, Sky Stone Block Chest
 appliedenergistics2:sky_compass, Meteorite Compass
-appliedenergistics2:grindstone, Quartz Grindstone
-appliedenergistics2:crank, Wooden Crank
 appliedenergistics2:inscriber, Inscriber
 appliedenergistics2:wireless_access_point, ME Wireless Access Point
 appliedenergistics2:charger, Charger
@@ -7059,7 +7092,6 @@ appliedenergistics2:material:47, Singularity
 appliedenergistics2:material:45, Sky Stone Dust
 appliedenergistics2:material:41, Wireless Receiver
 appliedenergistics2:material:42, Wireless Booster
-appliedenergistics2:material:40, Wooden Gear
 appliedenergistics2:part:300, ME Annihilation Plane
 appliedenergistics2:part:120, Cable Anchor
 appliedenergistics2:part:20, ME Covered Cable - White
@@ -7182,8 +7214,6 @@ appliedenergistics2:part:380, ME Terminal
 appliedenergistics2:part:80, ME Toggle Bus
 baubles:ring:0, Miner's Ring
 ae2wtlib:infinity_booster_card, Infinity Booster Card
-heartdrops:heart, item.heart.name
-heartdrops:golden_heart, item.golden_heart.name
 galacticraftcore:crude_oil_still, Crude Oil
 galacticraftcore:bucket_oil, Oil Bucket
 galacticraftcore:fuel, Fuel
@@ -7407,7 +7437,7 @@ galacticraftcore:prelaunch_checklist, Pre-Launch Checklist
 galacticraftcore:dungeonfinder, Dungeon Locator
 galacticraftcore:emergency_kit, Space Emergency Kit
 galacticraftcore:ic2compat, item.ic2compat.name
-galacticraftplanets:sludge, Sludge
+galacticraftplanets:sludge, Bacterial Sludge
 galacticraftplanets:bucket_sludge, Bacterial Sludge Bucket
 galacticraftplanets:treasure_t2, Tier 2 Treasure Chest
 galacticraftplanets:mars:0, Copper Ore
@@ -7553,6 +7583,231 @@ galacticraftplanets:basic_item_venus:3, Isothermal Fabric
 galacticraftplanets:volcanic_pickaxe, Volcanic Pickaxe
 galacticraftplanets:key_t3:0, Tier 3 Dungeon Key
 galacticraftplanets:atomic_battery, Atomic Battery
+galaxyspace:machineframes:0, Based Machine Frame
+galaxyspace:machineframes:1, Advanced Machine Frame
+galaxyspace:machineframes:2, Modern Machine Frame
+galaxyspace:assembly_machine, Assembly Machine
+galaxyspace:fuel_generator, Fuel Generator
+galaxyspace:wind_generator, Wind Turbine
+galaxyspace:modern_solarpanel, Hybrid Solar Panel
+galaxyspace:rocket_assembler, Rocket Assembly
+galaxyspace:universal_recycler, Universal Recycler
+galaxyspace:liquid_extractor, Liquid Extractor
+galaxyspace:liquid_separator, Liquid Separator
+galaxyspace:hydroponic_base, Hydroponic Base
+galaxyspace:hydroponic_farm, Hydroponic Farm Block
+galaxyspace:gravitation_module, Gravity Module
+galaxyspace:radiation_stabiliser, Magnetic Field Generator
+galaxyspace:panel_controller, Controller Mini-panels
+galaxyspace:single_solarpanel, Solar Mini-Panel
+galaxyspace:modern_single_solarpanel, Modern Solar Mini-Panel
+galaxyspace:modern_storage_module, Modern Energy Cluster
+galaxyspace:advanced_landing_pad, tile.advanced_landing_pad.name
+galaxyspace:modification_table, Modification Table
+galaxyspace:gas_burner, Gas Burner
+galaxyspace:oxygen_storage_module_1, Advanced Oxygen Module
+galaxyspace:dungeon_blocks:0, Ceres Dungeon Brick
+galaxyspace:treasure_t4, Treasure Chest Tier 4
+galaxyspace:futureglass_none, Future Glass
+galaxyspace:futureglass:0, Black Future Glass
+galaxyspace:futureglass:1, Red Future Glass
+galaxyspace:futureglass:2, Green Future Glass
+galaxyspace:futureglass:3, Brown Future Glass
+galaxyspace:futureglass:4, Blue Future Glass
+galaxyspace:futureglass:5, Purple Future Glass
+galaxyspace:futureglass:6, Cyan Future Glass
+galaxyspace:futureglass:7, Light gray Future Glass
+galaxyspace:futureglass:8, Gray Future Glass
+galaxyspace:futureglass:9, Pink Future Glass
+galaxyspace:futureglass:10, Lime Future Glass
+galaxyspace:futureglass:11, Yellow Future Glass
+galaxyspace:futureglass:12, Light blue Future Glass
+galaxyspace:futureglass:13, Magneta Future Glass
+galaxyspace:futureglass:14, Orange Future Glass
+galaxyspace:futureglass:15, White Future Glass
+galaxyspace:gsores:0, Cobalt Ore
+galaxyspace:gsores:1, Nickel Ore
+galaxyspace:gsores:2, Uranium Ore
+galaxyspace:decoblocks:0, Cobalt Decoration Block
+galaxyspace:decoblocks:1, Magnesium Decoration Block
+galaxyspace:decoblocks:2, Nickel Decoration Block
+galaxyspace:decoblocks:3, Copper Decoration Block
+galaxyspace:decoblocks:4, Cobalt Block
+galaxyspace:decoblocks:5, Nickel Block
+galaxyspace:decoblocks:6, Magnesium Block
+galaxyspace:surface_ice, Surface Ice
+galaxyspace:mercuryblocks:0, Mercury Surface Grunt
+galaxyspace:mercuryblocks:1, Mercury Subsurface Grunt
+galaxyspace:mercuryblocks:2, Mercury Stone
+galaxyspace:mercuryblocks:3, Nickel Ore
+galaxyspace:mercuryblocks:4, Iron Ore
+galaxyspace:mercuryblocks:5, Magnesium Ore
+galaxyspace:ceresblocks:0, Ceres Surface Grunt
+galaxyspace:ceresblocks:1, Ceres Subsurface Grunt
+galaxyspace:ceresblocks:2, Dolomite Ore
+galaxyspace:ceresblocks:3, Meteoric Iron Ore
+galaxyspace:ceresblocks:4, Ceres Dungeon Top
+galaxyspace:ceresblocks:5, Ceres Dungeon Floor
+galaxyspace:plutoblocks:0, Pluto Surface Grunt
+galaxyspace:plutoblocks:1, Pluto Surface Grunt
+galaxyspace:plutoblocks:2, Pluto Surface Grunt
+galaxyspace:plutoblocks:3, Pluto Surface Grunt
+galaxyspace:plutoblocks:4, Pluto Surface Grunt
+galaxyspace:plutoblocks:5, Pluto Stone
+galaxyspace:ioblocks:0, Io Surface Grunt
+galaxyspace:ioblocks:1, Io Stone
+galaxyspace:ioblocks:2, Io Ash
+galaxyspace:ioblocks:3, Copper Ore
+galaxyspace:ioblocks:4, Sulfur Ore
+galaxyspace:ioblocks:5, Volcanic Ore
+galaxyspace:ioblocks:6, Io Lava Geyser
+galaxyspace:ioblocks:7, Io Sulfur Geyser
+galaxyspace:ioblocks:8, tile.io_top.name
+galaxyspace:ioblocks:9, tile.io_floor.name
+galaxyspace:europablocks:0, Europa Surface Ice
+galaxyspace:europablocks:1, Europa Stone
+galaxyspace:europablocks:2, Brown Europa Ice
+galaxyspace:europablocks:3, Emerald Ore
+galaxyspace:europablocks:4, Silicon Ore
+galaxyspace:europablocks:5, Aluminum Ore
+galaxyspace:europa_geyser, Europa Geyser
+galaxyspace:europa_uwgeyser, Europa Geyser
+galaxyspace:ganymedeblocks:0, Ganymede Surface Grunt
+galaxyspace:ganymedeblocks:1, Ganymede Stone
+galaxyspace:ganymedeblocks:2, Magnesium Ore
+galaxyspace:ganymedeblocks:3, Ilmenite Ore
+galaxyspace:callistoblocks:0, Callisto Surface Grunt
+galaxyspace:callistoblocks:1, Callisto Stone
+galaxyspace:enceladusblocks:0, Enceladus Ice
+galaxyspace:enceladusblocks:1, Enceladus Subsurface Grunt
+galaxyspace:enceladusblocks:2, Coal Ore
+galaxyspace:enceladus_crystal, Unknow Crystal
+galaxyspace:titanblocks:0, Titan Surface Grunt
+galaxyspace:titanblocks:1, Titan Subsurface Grunt
+galaxyspace:titanblocks:2, Titan Stone
+galaxyspace:mirandablocks:0, Miranda Surface Grunt
+galaxyspace:mirandablocks:1, Miranda Subsurface Grunt
+galaxyspace:mirandablocks:2, Miranda Stone
+galaxyspace:mirandablocks:3, Iron Ore
+galaxyspace:mirandablocks:4, Dolomite Ore
+galaxyspace:gs_basic:0, Blank Fuel Tank
+galaxyspace:gs_basic:1, Solar Flare Module
+galaxyspace:gs_basic:2, Solar Flare
+galaxyspace:gs_basic:3, Dolomite Crystal
+galaxyspace:gs_basic:4, Dolomite Meal
+galaxyspace:gs_basic:5, Modern Wafer
+galaxyspace:gs_basic:6, Hematite
+galaxyspace:gs_basic:7, Sulfur
+galaxyspace:gs_basic:8, Unknown Crystal Shard
+galaxyspace:gs_basic:9, Antiradiation Tablets
+galaxyspace:gs_basic:10, Schematics Box
+galaxyspace:gs_basic:11, Module "Electrolyse"
+galaxyspace:gs_basic:12, Volcanic Shard
+galaxyspace:gs_basic:13, Module "Expander"
+galaxyspace:gs_basic:14, Module "Stabilization"
+galaxyspace:gs_basic:15, Uranium
+galaxyspace:gs_basic:16, Prototype Controller Shield
+galaxyspace:gs_basic:17, Bucket with Ice
+galaxyspace:gs_basic:18, Emergency Portable Teleport
+galaxyspace:gs_basic:19, [WIP] Info-Pad
+galaxyspace:ingots:0, Cobalt Ingot
+galaxyspace:ingots:1, Magnesium Ingot
+galaxyspace:ingots:2, Nickel Ingot
+galaxyspace:hdp:0, Heavy Duty Plate
+galaxyspace:hdp:1, Heavy Duty Plate
+galaxyspace:hdp:2, Heavy Duty Plate
+galaxyspace:compressed_plates:0, Compressed Coal
+galaxyspace:compressed_plates:1, Compressed Cobalt
+galaxyspace:compressed_plates:2, Compressed Magnesium
+galaxyspace:compressed_plates:3, Compressed Nickel
+galaxyspace:compressed_plates:4, Compressed "SDHC-120" Alloy
+galaxyspace:rocket_modules:0, Lander Tier 1
+galaxyspace:rocket_modules:1, Lander Tier 2
+galaxyspace:rocket_modules:2, Lander Tier 3
+galaxyspace:rocket_modules:3, Small Fuel Canister
+galaxyspace:rocket_parts:0, Durable Nose Cone
+galaxyspace:rocket_parts:1, Durable Rocket Body
+galaxyspace:rocket_parts:2, Durable Rocket Engine
+galaxyspace:rocket_parts:3, Heavy Booster
+galaxyspace:rocket_parts:4, Durable Rocket Vane
+galaxyspace:rocket_parts:5, Durable Nose Cone
+galaxyspace:rocket_parts:6, Durable Rocket Body
+galaxyspace:rocket_parts:7, Durable Rocket Engine
+galaxyspace:rocket_parts:8, Heavy Booster
+galaxyspace:rocket_parts:9, Durable Rocket Vane
+galaxyspace:rocket_parts:10, Durable Nose Cone
+galaxyspace:rocket_parts:11, Durable Rocket Body
+galaxyspace:rocket_parts:12, Durable Rocket Engine
+galaxyspace:rocket_parts:13, Heavy Booster
+galaxyspace:rocket_parts:14, Durable Rocket Vane
+galaxyspace:rocket_parts:15, Durable Nose Cone
+galaxyspace:rocket_parts:16, Durable Rocket Body
+galaxyspace:rocket_parts:17, Durable Rocket Engine
+galaxyspace:rocket_parts:18, Heavy Booster
+galaxyspace:rocket_parts:19, Durable Rocket Vane
+galaxyspace:schematics:0, NASA Workbench Schematic
+galaxyspace:schematics:1, NASA Workbench Schematic
+galaxyspace:schematics:2, NASA Workbench Schematic
+galaxyspace:schematics:3, NASA Workbench Schematic
+galaxyspace:schematics:4, NASA Workbench Schematic
+galaxyspace:schematics:5, NASA Workbench Schematic
+galaxyspace:schematics:6, NASA Workbench Schematic
+galaxyspace:dungeon_keys:0, Dungeon Key
+galaxyspace:advanced_battery, Advanced Battery
+galaxyspace:modern_battery, Modern Battery
+galaxyspace:extra_battery, Extra Battery
+galaxyspace:ultimate_battery, Ultimate Battery
+galaxyspace:hydrogen_canister:1, Hydrogen Canister
+galaxyspace:ethane_canister:1, Ethane Canister
+galaxyspace:em_canister:1, Ethane-Methane Canister
+galaxyspace:oxygen_tank_4, Very Heavy Oxygen Tank
+galaxyspace:oxygen_tank_5, Ultra Oxygen Tank
+galaxyspace:oxygen_tank_6, Very Ultra Oxygen Tank
+galaxyspace:oxygen_tank_epp_1, Environmental Protection Oxygen Tank
+galaxyspace:rocket_tier_4:0, Tier 4 Rocket
+galaxyspace:rocket_tier_4:1, Tier 4 Rocket
+galaxyspace:rocket_tier_4:2, Tier 4 Rocket
+galaxyspace:rocket_tier_4:3, Tier 4 Rocket
+galaxyspace:rocket_tier_4:4, Tier 4 Rocket
+galaxyspace:rocket_tier_5:0, Tier 5 Rocket
+galaxyspace:rocket_tier_5:1, Tier 5 Rocket
+galaxyspace:rocket_tier_5:2, Tier 5 Rocket
+galaxyspace:rocket_tier_5:3, Tier 5 Rocket
+galaxyspace:rocket_tier_5:4, Tier 5 Rocket
+galaxyspace:rocket_tier_6:0, Tier 6 Rocket
+galaxyspace:rocket_tier_6:1, Tier 6 Rocket
+galaxyspace:rocket_tier_6:2, Tier 6 Rocket
+galaxyspace:rocket_tier_6:3, Tier 6 Rocket
+galaxyspace:rocket_tier_6:4, Tier 6 Rocket
+galaxyspace:space_suit_head, SpaceSuit Helmet
+galaxyspace:space_suit_chest, SpaceSuit Chestplate
+galaxyspace:space_suit_legs, SpaceSuit Leggins
+galaxyspace:space_suit_feet, SpaceSuit Boots
+galaxyspace:cobalt_helmet, Cobalt Helmet
+galaxyspace:cobalt_chest, Cobalt Chestplate
+galaxyspace:cobalt_legs, Cobalt Leggins
+galaxyspace:cobalt_boots, Cobalt Boots
+galaxyspace:cobalt_sword, Cobalt Sword
+galaxyspace:cobalt_axe, Cobalt Axe
+galaxyspace:cobalt_pickaxe, Cobalt Pickaxe
+galaxyspace:cobalt_spade, Cobalt Spade
+galaxyspace:cobalt_hoe, Cobalt Hoe
+galaxyspace:jetpack, Electric Jetpack
+galaxyspace:proxima_b_blocks:0, Proxima B Surface
+galaxyspace:proxima_b_blocks:1, Proxima B Subsurface
+galaxyspace:proxima_b_blocks:2, Proxima B Stone
+galaxyspace:proxima_b_blocks:3, Proxima B Ice Surface
+galaxyspace:proxima_b_blocks:4, Proxima B Ash Rock
+galaxyspace:proxima_b_blocks:5, Gold Ore
+galaxyspace:proxima_b_blocks:6, Tin Ore
+galaxyspace:proxima_b_blocks:7, Copper Ore
+galaxyspace:proxima_b_blocks:8, Coal Ore
+galaxyspace:proxima_b_blocks:9, Silicon Ore
+galaxyspace:proxima_b_blocks:10, tile.proxima_b_diamond_ore.name
+galaxyspace:proxima_b_log_1, Burnt Wood
+galaxyspace:proxima_b_log_2, Frozen Wood
+heartdrops:heart, item.heart.name
+heartdrops:golden_heart, item.golden_heart.name
 blankplanet:teleport, Black Hole Teleporter
 bonsaitrees:bonsaipot:0, Bonsai Pot
 bonsaitrees:bonsaipot:1, Hopping Bonsai Pot
@@ -7788,16 +8043,6 @@ extraplanets:mercury:11, Block of Carbon
 extraplanets:mercury_gravel, Mercury Gravel
 extraplanets:mercury_spawner, tile.boss_spawner_mercury.name
 extraplanets:treasure_chest_t4, Tier 4 Treasure Chest
-extraplanets:ceres:0, Ceres Surface Rock
-extraplanets:ceres:1, Ceres Sub-Surface Rock
-extraplanets:ceres:2, Ceres Stone
-extraplanets:ceres:3, Ceres Iron Ore
-extraplanets:ceres:4, Ceres Tin Ore
-extraplanets:ceres:5, Ceres Copper Ore
-extraplanets:ceres:6, Ceres Uranium Ore
-extraplanets:ceres:7, Block of Uranium
-extraplanets:ceres:8, Ceres Stone Bricks
-extraplanets:ceres_gravel, Ceres Gravel
 extraplanets:jupiter:0, Jupiter Surface Rock
 extraplanets:jupiter:1, Jupiter Sub-Surface Rock
 extraplanets:jupiter:2, Jupiter Stone
@@ -7931,20 +8176,6 @@ extraplanets:io:3, Io Iron Ore
 extraplanets:io:4, Io Tin Ore
 extraplanets:io:5, Io Copper Ore
 extraplanets:io_gravel, Io Gravel
-extraplanets:deimos:0, Deimos Surface Rock
-extraplanets:deimos:1, Deimos Sub-Surface Rock
-extraplanets:deimos:2, Deimos Stone
-extraplanets:deimos:3, Deimos Iron Ore
-extraplanets:deimos:4, Deimos Tin Ore
-extraplanets:deimos:5, Deimos Copper Ore
-extraplanets:deimos_gravel, Deimos Gravel
-extraplanets:phobos:0, Phobos Surface Rock
-extraplanets:phobos:1, Phobos Sub-Surface Rock
-extraplanets:phobos:2, Phobos Stone
-extraplanets:phobos:3, Phobos Iron Ore
-extraplanets:phobos:4, Phobos Tin Ore
-extraplanets:phobos:5, Phobos Copper Ore
-extraplanets:phobos_gravel, Phobos Gravel
 extraplanets:triton:0, Triton Surface Rock
 extraplanets:triton:1, Triton Sub-Surface Rock
 extraplanets:triton:2, Triton Stone
@@ -8008,7 +8239,6 @@ extraplanets:iapetus:5, Iapetus Copper Ore
 extraplanets:iapetus:6, Iapetus Ice
 extraplanets:iapetus_gravel, Iapetus Gravel
 extraplanets:fossil, Fossil Block
-extraplanets:nuclear_bomb, Nuclear Bomb
 extraplanets:fire_bomb, Fire Bomb
 extraplanets:potash, Potash
 extraplanets:advanced_launch_pad:0, Tier 2 Rocket Launch Pad
@@ -8078,10 +8308,6 @@ extraplanets:mercury_stairs_surface, Mercury Surface Stairs
 extraplanets:mercury_stairs_sub_surface, Mercury Sub Surface Stairs
 extraplanets:mercury_stairs_stone, Mercury Stone Stairs
 extraplanets:mercury_stairs_stone_bricks, Mercury Stone Bricks Stairs
-extraplanets:ceres_stairs_surface, Ceres Surface Stairs
-extraplanets:ceres_stairs_sub_surface, Ceres Sub Surface Stairs
-extraplanets:ceres_stairs_stone, Ceres Stone Stairs
-extraplanets:ceres_stairs_stone_bricks, Ceres Stone Bricks Stairs
 extraplanets:jupiter_stairs_surface, Jupiter Surface Stairs
 extraplanets:jupiter_stairs_sub_surface, Jupiter Sub Surface Stairs
 extraplanets:jupiter_stairs_stone, Jupiter Stone Stairs
@@ -8258,7 +8484,6 @@ extraplanets:tier4_items:4, Compressed Carbon
 extraplanets:tier4_items:5, Carbon Ingot
 extraplanets:tier4_items:6, Diamond Shard
 extraplanets:t4key:0, Tier 4 Dungeon Key
-extraplanets:ingot_uranium:0, Uranium Ingot
 extraplanets:item_tier5_rocket:0, Tier 5 Rocket
 extraplanets:item_tier5_rocket:1, Tier 5 Rocket
 extraplanets:item_tier5_rocket:2, Tier 5 Rocket
@@ -8547,399 +8772,6 @@ slabmachines:chest_slab, Chest Slab
 slabmachines:trapped_chest_slab, Trapped Chest Slab
 slabmachines:note_slab, Note Slab
 slabmachines:tnt_slab, Tnt Slab
-mekanism:electricbow, Electric Bow
-mekanism:dust:0, Iron Dust
-mekanism:dust:1, Gold Dust
-mekanism:dust:2, Osmium Dust
-mekanism:dust:3, Copper Dust
-mekanism:dust:4, Tin Dust
-mekanism:dust:5, Silver Dust
-mekanism:dust:6, Lead Dust
-mekanism:ingot:0, Refined Obsidian Ingot
-mekanism:ingot:1, Osmium Ingot
-mekanism:ingot:2, Bronze Ingot
-mekanism:ingot:3, Glowstone Ingot
-mekanism:ingot:4, Steel Ingot
-mekanism:ingot:5, Copper Ingot
-mekanism:ingot:6, Tin Ingot
-mekanism:nugget:0, Refined Obsidian Nugget
-mekanism:nugget:1, Osmium Nugget
-mekanism:nugget:2, Bronze Nugget
-mekanism:nugget:3, Glowstone Nugget
-mekanism:nugget:4, Steel Nugget
-mekanism:nugget:5, Copper Nugget
-mekanism:nugget:6, Tin Nugget
-mekanism:energytablet, Energy Tablet
-mekanism:speedupgrade, Speed Upgrade
-mekanism:energyupgrade, Energy Upgrade
-mekanism:filterupgrade, Filter Upgrade
-mekanism:mufflingupgrade, Muffling Upgrade
-mekanism:gasupgrade, Gas Upgrade
-mekanism:anchorupgrade, Anchor Upgrade
-mekanism:robit, Robit
-mekanism:atomicdisassembler, Atomic Disassembler
-mekanism:enrichedalloy, Enriched Alloy
-mekanism:reinforcedalloy, Reinforced Alloy
-mekanism:atomicalloy, Atomic Alloy
-mekanism:itemproxy, item.ItemProxy.name
-mekanism:controlcircuit:0, Basic Control Circuit
-mekanism:controlcircuit:1, Advanced Control Circuit
-mekanism:controlcircuit:2, Elite Control Circuit
-mekanism:controlcircuit:3, Ultimate Control Circuit
-mekanism:enrichediron, Enriched Iron
-mekanism:compressedcarbon, Compressed Carbon
-mekanism:compressedredstone, Compressed Redstone
-mekanism:compresseddiamond, Compressed Diamond
-mekanism:compressedobsidian, Compressed Obsidian
-mekanism:portableteleporter, Portable Teleporter
-mekanism:teleportationcore, Teleportation Core
-mekanism:clump:0, Iron Clump
-mekanism:clump:1, Gold Clump
-mekanism:clump:2, Osmium Clump
-mekanism:clump:3, Copper Clump
-mekanism:clump:4, Tin Clump
-mekanism:clump:5, Silver Clump
-mekanism:clump:6, Lead Clump
-mekanism:dirtydust:0, Dirty Iron Dust
-mekanism:dirtydust:1, Dirty Gold Dust
-mekanism:dirtydust:2, Dirty Osmium Dust
-mekanism:dirtydust:3, Dirty Copper Dust
-mekanism:dirtydust:4, Dirty Tin Dust
-mekanism:dirtydust:5, Dirty Silver Dust
-mekanism:dirtydust:6, Dirty Lead Dust
-mekanism:configurator, Configurator
-mekanism:networkreader, Network Reader
-mekanism:walkietalkie, Walkie-Talkie
-mekanism:jetpack, Jetpack
-mekanism:dictionary, Dictionary
-mekanism:gasmask, Gas Mask
-mekanism:scubatank, Scuba Tank
-mekanism:balloon:0, §8Black Balloon
-mekanism:balloon:1, §cRed Balloon
-mekanism:balloon:2, §2Green Balloon
-mekanism:balloon:3, §6Brown Balloon
-mekanism:balloon:4, §1Blue Balloon
-mekanism:balloon:5, §5Purple Balloon
-mekanism:balloon:6, §3Cyan Balloon
-mekanism:balloon:7, §7Light Grey Balloon
-mekanism:balloon:8, §8Grey Balloon
-mekanism:balloon:9, §dPink Balloon
-mekanism:balloon:10, §aLime Balloon
-mekanism:balloon:11, §eYellow Balloon
-mekanism:balloon:12, §9Light Blue Balloon
-mekanism:balloon:13, §dMagenta Balloon
-mekanism:balloon:14, §6Orange Balloon
-mekanism:balloon:15, §fWhite Balloon
-mekanism:shard:0, Iron Shard
-mekanism:shard:1, Gold Shard
-mekanism:shard:2, Osmium Shard
-mekanism:shard:3, Copper Shard
-mekanism:shard:4, Tin Shard
-mekanism:shard:5, Silver Shard
-mekanism:shard:6, Lead Shard
-mekanism:electrolyticcore, Electrolytic Core
-mekanism:sawdust, Sawdust
-mekanism:salt, Salt
-mekanism:crystal:0, Iron Crystal
-mekanism:crystal:1, Gold Crystal
-mekanism:crystal:2, Osmium Crystal
-mekanism:crystal:3, Copper Crystal
-mekanism:crystal:4, Tin Crystal
-mekanism:crystal:5, Silver Crystal
-mekanism:crystal:6, Lead Crystal
-mekanism:freerunners, Free Runners
-mekanism:armoredjetpack, Armored Jetpack
-mekanism:configurationcard, Configuration Card
-mekanism:craftingformula, Crafting Formula
-mekanism:seismicreader, Seismic Reader
-mekanism:substrate, Substrate
-mekanism:polyethene:0, HDPE Pellet
-mekanism:polyethene:1, HDPE Rod
-mekanism:polyethene:2, HDPE Sheet
-mekanism:polyethene:3, PlaStick
-mekanism:biofuel, Bio Fuel
-mekanism:flamethrower, Flamethrower
-mekanism:gaugedropper, Gauge Dropper
-mekanism:tierinstaller:0, Basic Tier Installer
-mekanism:tierinstaller:1, Advanced Tier Installer
-mekanism:tierinstaller:2, Elite Tier Installer
-mekanism:tierinstaller:3, Ultimate Tier Installer
-mekanism:otherdust:0, Diamond Dust
-mekanism:otherdust:1, Steel Dust
-mekanism:otherdust:3, Sulfur Dust
-mekanism:otherdust:4, Lithium Dust
-mekanism:otherdust:5, Refined Obsidian Dust
-mekanism:otherdust:6, Obsidian Dust
-mekanism:basicblock:0, Osmium Block
-mekanism:basicblock:1, Bronze Block
-mekanism:basicblock:2, Refined Obsidian
-mekanism:basicblock:3, Charcoal Block
-mekanism:basicblock:4, Refined Glowstone
-mekanism:basicblock:5, Steel Block
-mekanism:basicblock:6, Basic Bin
-mekanism:basicblock:6, Advanced Bin
-mekanism:basicblock:6, Elite Bin
-mekanism:basicblock:6, Ultimate Bin
-mekanism:basicblock:6, Creative Bin
-mekanism:basicblock:7, Teleporter Frame
-mekanism:basicblock:8, Steel Casing
-mekanism:basicblock:9, Dynamic Tank
-mekanism:basicblock:10, Structural Glass
-mekanism:basicblock:11, Dynamic Valve
-mekanism:basicblock:12, Copper Block
-mekanism:basicblock:13, Tin Block
-mekanism:basicblock:14, Thermal Evaporation Controller
-mekanism:basicblock:15, Thermal Evaporation Valve
-mekanism:basicblock2:0, Thermal Evaporation Block
-mekanism:basicblock2:1, Induction Casing
-mekanism:basicblock2:2, Induction Port
-mekanism:basicblock2:3, Basic Induction Cell
-mekanism:basicblock2:3, Advanced Induction Cell
-mekanism:basicblock2:3, Elite Induction Cell
-mekanism:basicblock2:3, Ultimate Induction Cell
-mekanism:basicblock2:4, Basic Induction Provider
-mekanism:basicblock2:4, Advanced Induction Provider
-mekanism:basicblock2:4, Elite Induction Provider
-mekanism:basicblock2:4, Ultimate Induction Provider
-mekanism:basicblock2:5, Superheating Element
-mekanism:basicblock2:6, Pressure Disperser
-mekanism:basicblock2:7, Boiler Casing
-mekanism:basicblock2:8, Boiler Valve
-mekanism:basicblock2:9, Security Desk
-mekanism:machineblock:0, Enrichment Chamber
-mekanism:machineblock:1, Osmium Compressor
-mekanism:machineblock:2, Combiner
-mekanism:machineblock:3, Crusher
-mekanism:machineblock:4, Digital Miner
-mekanism:machineblock:5, Basic Smelting Factory
-mekanism:machineblock:5, Basic Enriching Factory
-mekanism:machineblock:5, Basic Crushing Factory
-mekanism:machineblock:5, Basic Compressing Factory
-mekanism:machineblock:5, Basic Combining Factory
-mekanism:machineblock:5, Basic Purifying Factory
-mekanism:machineblock:5, Basic Injecting Factory
-mekanism:machineblock:5, Basic Infusing Factory
-mekanism:machineblock:6, Advanced Smelting Factory
-mekanism:machineblock:6, Advanced Enriching Factory
-mekanism:machineblock:6, Advanced Crushing Factory
-mekanism:machineblock:6, Advanced Compressing Factory
-mekanism:machineblock:6, Advanced Combining Factory
-mekanism:machineblock:6, Advanced Purifying Factory
-mekanism:machineblock:6, Advanced Injecting Factory
-mekanism:machineblock:6, Advanced Infusing Factory
-mekanism:machineblock:7, Elite Smelting Factory
-mekanism:machineblock:7, Elite Enriching Factory
-mekanism:machineblock:7, Elite Crushing Factory
-mekanism:machineblock:7, Elite Compressing Factory
-mekanism:machineblock:7, Elite Combining Factory
-mekanism:machineblock:7, Elite Purifying Factory
-mekanism:machineblock:7, Elite Injecting Factory
-mekanism:machineblock:7, Elite Infusing Factory
-mekanism:machineblock:8, Metallurgic Infuser
-mekanism:machineblock:9, Purification Chamber
-mekanism:machineblock:10, Energized Smelter
-mekanism:machineblock:11, Teleporter
-mekanism:machineblock:12, Electric Pump
-mekanism:machineblock:13, Personal Chest
-mekanism:machineblock:14, Chargepad
-mekanism:machineblock:15, Logistical Sorter
-mekanism:machineblock2:0, Rotary Condensentrator
-mekanism:machineblock2:1, Chemical Oxidizer
-mekanism:machineblock2:2, Chemical Infuser
-mekanism:machineblock2:3, Chemical Injection Chamber
-mekanism:machineblock2:4, Electrolytic Separator
-mekanism:machineblock2:5, Precision Sawmill
-mekanism:machineblock2:6, Chemical Dissolution Chamber
-mekanism:machineblock2:7, Chemical Washer
-mekanism:machineblock2:8, Chemical Crystallizer
-mekanism:machineblock2:9, Seismic Vibrator
-mekanism:machineblock2:10, Pressurized Reaction Chamber
-mekanism:machineblock2:11, Basic Fluid Tank
-mekanism:machineblock2:11, Advanced Fluid Tank
-mekanism:machineblock2:11, Elite Fluid Tank
-mekanism:machineblock2:11, Ultimate Fluid Tank
-mekanism:machineblock2:11, Creative Fluid Tank
-mekanism:machineblock2:12, Fluidic Plenisher
-mekanism:machineblock2:13, Laser
-mekanism:machineblock2:14, Laser Amplifier
-mekanism:machineblock2:15, Laser Tractor Beam
-mekanism:machineblock3:0, Quantum Entangloporter
-mekanism:machineblock3:1, Solar Neutron Activator
-mekanism:machineblock3:3, Oredictionificator
-mekanism:machineblock3:4, Resistive Heater
-mekanism:machineblock3:5, Formulaic Assemblicator
-mekanism:machineblock3:6, Fuelwood Heater
-mekanism:oreblock:0, Osmium Ore
-mekanism:oreblock:1, Copper Ore
-mekanism:oreblock:2, Tin Ore
-mekanism:energycube:0, Basic Energy Cube
-mekanism:energycube:0, Basic Energy Cube
-mekanism:energycube:0, Advanced Energy Cube
-mekanism:energycube:0, Advanced Energy Cube
-mekanism:energycube:0, Elite Energy Cube
-mekanism:energycube:0, Elite Energy Cube
-mekanism:energycube:0, Ultimate Energy Cube
-mekanism:energycube:0, Ultimate Energy Cube
-mekanism:energycube:0, Creative Energy Cube
-mekanism:energycube:0, Creative Energy Cube
-mekanism:transmitter:0, Basic Universal Cable
-mekanism:transmitter:0, Advanced Universal Cable
-mekanism:transmitter:0, Elite Universal Cable
-mekanism:transmitter:0, Ultimate Universal Cable
-mekanism:transmitter:1, Basic Mechanical Pipe
-mekanism:transmitter:1, Advanced Mechanical Pipe
-mekanism:transmitter:1, Elite Mechanical Pipe
-mekanism:transmitter:1, Ultimate Mechanical Pipe
-mekanism:transmitter:2, Basic Pressurized Tube
-mekanism:transmitter:2, Advanced Pressurized Tube
-mekanism:transmitter:2, Elite Pressurized Tube
-mekanism:transmitter:2, Ultimate Pressurized Tube
-mekanism:transmitter:3, Basic Logistical Transporter
-mekanism:transmitter:3, Advanced Logistical Transporter
-mekanism:transmitter:3, Elite Logistical Transporter
-mekanism:transmitter:3, Ultimate Logistical Transporter
-mekanism:transmitter:4, Restrictive Transporter
-mekanism:transmitter:5, Diversion Transporter
-mekanism:transmitter:6, Basic Thermodynamic Conductor
-mekanism:transmitter:6, Advanced Thermodynamic Conductor
-mekanism:transmitter:6, Elite Thermodynamic Conductor
-mekanism:transmitter:6, Ultimate Thermodynamic Conductor
-mekanism:obsidiantnt, Obsidian TNT
-mekanism:boundingblock, Bounding Block
-mekanism:gastank:0, Basic Gas Tank
-mekanism:gastank:0, Advanced Gas Tank
-mekanism:gastank:0, Elite Gas Tank
-mekanism:gastank:0, Ultimate Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:gastank:0, Creative Gas Tank
-mekanism:cardboardbox, Cardboard Box
-mekanism:glowpanel:0, §8Black Glow Panel
-mekanism:glowpanel:1, §cRed Glow Panel
-mekanism:glowpanel:2, §2Green Glow Panel
-mekanism:glowpanel:3, §6Brown Glow Panel
-mekanism:glowpanel:4, §1Blue Glow Panel
-mekanism:glowpanel:5, §5Purple Glow Panel
-mekanism:glowpanel:6, §3Cyan Glow Panel
-mekanism:glowpanel:7, §7Light Grey Glow Panel
-mekanism:glowpanel:8, §8Grey Glow Panel
-mekanism:glowpanel:9, §dPink Glow Panel
-mekanism:glowpanel:10, §aLime Glow Panel
-mekanism:glowpanel:11, §eYellow Glow Panel
-mekanism:glowpanel:12, §9Light Blue Glow Panel
-mekanism:glowpanel:13, §dMagenta Glow Panel
-mekanism:glowpanel:14, §6Orange Glow Panel
-mekanism:glowpanel:15, §fWhite Glow Panel
-mekanism:plasticblock:0, §8Black Plastic Block
-mekanism:plasticblock:1, §cRed Plastic Block
-mekanism:plasticblock:2, §2Green Plastic Block
-mekanism:plasticblock:3, §6Brown Plastic Block
-mekanism:plasticblock:4, §1Blue Plastic Block
-mekanism:plasticblock:5, §5Purple Plastic Block
-mekanism:plasticblock:6, §3Cyan Plastic Block
-mekanism:plasticblock:7, §7Light Grey Plastic Block
-mekanism:plasticblock:8, §8Grey Plastic Block
-mekanism:plasticblock:9, §dPink Plastic Block
-mekanism:plasticblock:10, §aLime Plastic Block
-mekanism:plasticblock:11, §eYellow Plastic Block
-mekanism:plasticblock:12, §9Light Blue Plastic Block
-mekanism:plasticblock:13, §dMagenta Plastic Block
-mekanism:plasticblock:14, §6Orange Plastic Block
-mekanism:plasticblock:15, §fWhite Plastic Block
-mekanism:slickplasticblock:0, §8Black Slick Plastic Block
-mekanism:slickplasticblock:1, §cRed Slick Plastic Block
-mekanism:slickplasticblock:2, §2Green Slick Plastic Block
-mekanism:slickplasticblock:3, §6Brown Slick Plastic Block
-mekanism:slickplasticblock:4, §1Blue Slick Plastic Block
-mekanism:slickplasticblock:5, §5Purple Slick Plastic Block
-mekanism:slickplasticblock:6, §3Cyan Slick Plastic Block
-mekanism:slickplasticblock:7, §7Light Grey Slick Plastic Block
-mekanism:slickplasticblock:8, §8Grey Slick Plastic Block
-mekanism:slickplasticblock:9, §dPink Slick Plastic Block
-mekanism:slickplasticblock:10, §aLime Slick Plastic Block
-mekanism:slickplasticblock:11, §eYellow Slick Plastic Block
-mekanism:slickplasticblock:12, §9Light Blue Slick Plastic Block
-mekanism:slickplasticblock:13, §dMagenta Slick Plastic Block
-mekanism:slickplasticblock:14, §6Orange Slick Plastic Block
-mekanism:slickplasticblock:15, §fWhite Slick Plastic Block
-mekanism:glowplasticblock:0, §8Black Plastic Glow Block
-mekanism:glowplasticblock:1, §cRed Plastic Glow Block
-mekanism:glowplasticblock:2, §2Green Plastic Glow Block
-mekanism:glowplasticblock:3, §6Brown Plastic Glow Block
-mekanism:glowplasticblock:4, §1Blue Plastic Glow Block
-mekanism:glowplasticblock:5, §5Purple Plastic Glow Block
-mekanism:glowplasticblock:6, §3Cyan Plastic Glow Block
-mekanism:glowplasticblock:7, §7Light Grey Plastic Glow Block
-mekanism:glowplasticblock:8, §8Grey Plastic Glow Block
-mekanism:glowplasticblock:9, §dPink Plastic Glow Block
-mekanism:glowplasticblock:10, §aLime Plastic Glow Block
-mekanism:glowplasticblock:11, §eYellow Plastic Glow Block
-mekanism:glowplasticblock:12, §9Light Blue Plastic Glow Block
-mekanism:glowplasticblock:13, §dMagenta Plastic Glow Block
-mekanism:glowplasticblock:14, §6Orange Plastic Glow Block
-mekanism:glowplasticblock:15, §fWhite Plastic Glow Block
-mekanism:reinforcedplasticblock:0, §8Black Reinforced Plastic Block
-mekanism:reinforcedplasticblock:1, §cRed Reinforced Plastic Block
-mekanism:reinforcedplasticblock:2, §2Green Reinforced Plastic Block
-mekanism:reinforcedplasticblock:3, §6Brown Reinforced Plastic Block
-mekanism:reinforcedplasticblock:4, §1Blue Reinforced Plastic Block
-mekanism:reinforcedplasticblock:5, §5Purple Reinforced Plastic Block
-mekanism:reinforcedplasticblock:6, §3Cyan Reinforced Plastic Block
-mekanism:reinforcedplasticblock:7, §7Light Grey Reinforced Plastic Block
-mekanism:reinforcedplasticblock:8, §8Grey Reinforced Plastic Block
-mekanism:reinforcedplasticblock:9, §dPink Reinforced Plastic Block
-mekanism:reinforcedplasticblock:10, §aLime Reinforced Plastic Block
-mekanism:reinforcedplasticblock:11, §eYellow Reinforced Plastic Block
-mekanism:reinforcedplasticblock:12, §9Light Blue Reinforced Plastic Block
-mekanism:reinforcedplasticblock:13, §dMagenta Reinforced Plastic Block
-mekanism:reinforcedplasticblock:14, §6Orange Reinforced Plastic Block
-mekanism:reinforcedplasticblock:15, §fWhite Reinforced Plastic Block
-mekanism:roadplasticblock:0, §8Black Plastic Road
-mekanism:roadplasticblock:1, §cRed Plastic Road
-mekanism:roadplasticblock:2, §2Green Plastic Road
-mekanism:roadplasticblock:3, §6Brown Plastic Road
-mekanism:roadplasticblock:4, §1Blue Plastic Road
-mekanism:roadplasticblock:5, §5Purple Plastic Road
-mekanism:roadplasticblock:6, §3Cyan Plastic Road
-mekanism:roadplasticblock:7, §7Light Grey Plastic Road
-mekanism:roadplasticblock:8, §8Grey Plastic Road
-mekanism:roadplasticblock:9, §dPink Plastic Road
-mekanism:roadplasticblock:10, §aLime Plastic Road
-mekanism:roadplasticblock:11, §eYellow Plastic Road
-mekanism:roadplasticblock:12, §9Light Blue Plastic Road
-mekanism:roadplasticblock:13, §dMagenta Plastic Road
-mekanism:roadplasticblock:14, §6Orange Plastic Road
-mekanism:roadplasticblock:15, §fWhite Plastic Road
-mekanism:plasticfence:0, §8Black Plastic Barrier
-mekanism:plasticfence:1, §cRed Plastic Barrier
-mekanism:plasticfence:2, §2Green Plastic Barrier
-mekanism:plasticfence:3, §6Brown Plastic Barrier
-mekanism:plasticfence:4, §1Blue Plastic Barrier
-mekanism:plasticfence:5, §5Purple Plastic Barrier
-mekanism:plasticfence:6, §3Cyan Plastic Barrier
-mekanism:plasticfence:7, §7Light Grey Plastic Barrier
-mekanism:plasticfence:8, §8Grey Plastic Barrier
-mekanism:plasticfence:9, §dPink Plastic Barrier
-mekanism:plasticfence:10, §aLime Plastic Barrier
-mekanism:plasticfence:11, §eYellow Plastic Barrier
-mekanism:plasticfence:12, §9Light Blue Plastic Barrier
-mekanism:plasticfence:13, §dMagenta Plastic Barrier
-mekanism:plasticfence:14, §6Orange Plastic Barrier
-mekanism:plasticfence:15, §fWhite Plastic Barrier
-mekanism:saltblock, Salt Block
 itemfilters:filter, Item Filter
 itemfilters:missing, Missing Item
 ftbquests:screen, Task Screen
@@ -8972,15 +8804,200 @@ inventorygenerators:inv_survivalist_gen, Inventory Survivalist Generator
 inventorygenerators:auto_pull_upgrade, Auto Pull Upgrade
 inventorygenerators:no_effect_upgrade, No Effect Upgrade
 inventorygenerators:speed_upgrade, Speed Upgrade
-teslacorelib:base_addon, Base Addon
-teslacorelib:energy_tier1, Energy Upgrade I
-teslacorelib:energy_tier2, Energy Upgrade II
-teslacorelib:machine_case, Machine Case
-teslacorelib:speed_tier1, Speed Upgrade I
-teslacorelib:speed_tier2, Speed Upgrade II
-teslacorelib:battery:0, Tesla Battery
-teslacorelib:battery:0, Tesla Battery
-teslacorelib:wrench, Tesla Wrench
+ironbackpacks:backpack:0, Basic Backpack
+ironbackpacks:backpack:0, Iron Backpack
+ironbackpacks:backpack:0, Iron Backpack
+ironbackpacks:backpack:0, Gold Backpack
+ironbackpacks:backpack:0, Gold Backpack
+ironbackpacks:backpack:0, Diamond Backpack
+ironbackpacks:backpack:0, Diamond Backpack
+ironbackpacks:upgrade:0, Blank Upgrade
+ironbackpacks:upgrade:0, Damage Bar Upgrade
+ironbackpacks:upgrade:0, Latch Upgrade
+ironbackpacks:upgrade:0, Extra Upgrade Point
+ironbackpacks:upgrade:0, Everlasting Upgrade
+ironchest:iron_chest:0, Iron Chest
+ironchest:iron_chest:1, Gold Chest
+ironchest:iron_chest:2, Diamond Chest
+ironchest:iron_chest:3, Copper Chest
+ironchest:iron_chest:4, Silver Chest
+ironchest:iron_chest:5, Crystal Chest
+ironchest:iron_chest:6, Obsidian Chest
+ironchest:iron_chest:7, DirtChest 9000!
+ironchest:iron_shulker_box_white:0, White Iron Shulker Box
+ironchest:iron_shulker_box_white:1, White Gold Shulker Box
+ironchest:iron_shulker_box_white:2, White Diamond Shulker Box
+ironchest:iron_shulker_box_white:3, White Copper Shulker Box
+ironchest:iron_shulker_box_white:4, White Silver Shulker Box
+ironchest:iron_shulker_box_white:5, White Crystal Shulker Box
+ironchest:iron_shulker_box_white:6, White Obsidian Shulker Box
+ironchest:iron_shulker_box_orange:0, Orange Iron Shulker Box
+ironchest:iron_shulker_box_orange:1, Orange Gold Shulker Box
+ironchest:iron_shulker_box_orange:2, Orange Diamond Shulker Box
+ironchest:iron_shulker_box_orange:3, Orange Copper Shulker Box
+ironchest:iron_shulker_box_orange:4, Orange Silver Shulker Box
+ironchest:iron_shulker_box_orange:5, Orange Crystal Shulker Box
+ironchest:iron_shulker_box_orange:6, Orange Obsidian Shulker Box
+ironchest:iron_shulker_box_magenta:0, Magenta Iron Shulker Box
+ironchest:iron_shulker_box_magenta:1, Magenta Gold Shulker Box
+ironchest:iron_shulker_box_magenta:2, Magenta Diamond Shulker Box
+ironchest:iron_shulker_box_magenta:3, Magenta Copper Shulker Box
+ironchest:iron_shulker_box_magenta:4, Magenta Silver Shulker Box
+ironchest:iron_shulker_box_magenta:5, Magenta Crystal Shulker Box
+ironchest:iron_shulker_box_magenta:6, Magenta Obsidian Shulker Box
+ironchest:iron_shulker_box_light_blue:0, Light Blue Iron Shulker Box
+ironchest:iron_shulker_box_light_blue:1, Light Blue Gold Shulker Box
+ironchest:iron_shulker_box_light_blue:2, Light Blue Diamond Shulker Box
+ironchest:iron_shulker_box_light_blue:3, Light Blue Copper Shulker Box
+ironchest:iron_shulker_box_light_blue:4, Light Blue Silver Shulker Box
+ironchest:iron_shulker_box_light_blue:5, Light Blue Crystal Shulker Box
+ironchest:iron_shulker_box_light_blue:6, Light Blue Obsidian Shulker Box
+ironchest:iron_shulker_box_yellow:0, Yellow Iron Shulker Box
+ironchest:iron_shulker_box_yellow:1, Yellow Gold Shulker Box
+ironchest:iron_shulker_box_yellow:2, Yellow Diamond Shulker Box
+ironchest:iron_shulker_box_yellow:3, Yellow Copper Shulker Box
+ironchest:iron_shulker_box_yellow:4, Yellow Silver Shulker Box
+ironchest:iron_shulker_box_yellow:5, Yellow Crystal Shulker Box
+ironchest:iron_shulker_box_yellow:6, Yellow Obsidian Shulker Box
+ironchest:iron_shulker_box_lime:0, Lime Iron Shulker Box
+ironchest:iron_shulker_box_lime:1, Lime Gold Shulker Box
+ironchest:iron_shulker_box_lime:2, Lime Diamond Shulker Box
+ironchest:iron_shulker_box_lime:3, Lime Copper Shulker Box
+ironchest:iron_shulker_box_lime:4, Lime Silver Shulker Box
+ironchest:iron_shulker_box_lime:5, Lime Crystal Shulker Box
+ironchest:iron_shulker_box_lime:6, Lime Obsidian Shulker Box
+ironchest:iron_shulker_box_pink:0, Pink Iron Shulker Box
+ironchest:iron_shulker_box_pink:1, Pink Gold Shulker Box
+ironchest:iron_shulker_box_pink:2, Pink Diamond Shulker Box
+ironchest:iron_shulker_box_pink:3, Pink Copper Shulker Box
+ironchest:iron_shulker_box_pink:4, Pink Silver Shulker Box
+ironchest:iron_shulker_box_pink:5, Pink Crystal Shulker Box
+ironchest:iron_shulker_box_pink:6, Pink Obsidian Shulker Box
+ironchest:iron_shulker_box_gray:0, Gray Iron Shulker Box
+ironchest:iron_shulker_box_gray:1, Gray Gold Shulker Box
+ironchest:iron_shulker_box_gray:2, Gray Diamond Shulker Box
+ironchest:iron_shulker_box_gray:3, Gray Copper Shulker Box
+ironchest:iron_shulker_box_gray:4, Gray Silver Shulker Box
+ironchest:iron_shulker_box_gray:5, Gray Crystal Shulker Box
+ironchest:iron_shulker_box_gray:6, Gray Obsidian Shulker Box
+ironchest:iron_shulker_box_silver:0, Silver Iron Shulker Box
+ironchest:iron_shulker_box_silver:1, Silver Gold Shulker Box
+ironchest:iron_shulker_box_silver:2, Silver Diamond Shulker Box
+ironchest:iron_shulker_box_silver:3, Silver Copper Shulker Box
+ironchest:iron_shulker_box_silver:4, Silver Silver Shulker Box
+ironchest:iron_shulker_box_silver:5, Silver Crystal Shulker Box
+ironchest:iron_shulker_box_silver:6, Silver Obsidian Shulker Box
+ironchest:iron_shulker_box_cyan:0, Cyan Iron Shulker Box
+ironchest:iron_shulker_box_cyan:1, Cyan Gold Shulker Box
+ironchest:iron_shulker_box_cyan:2, Cyan Diamond Shulker Box
+ironchest:iron_shulker_box_cyan:3, Cyan Copper Shulker Box
+ironchest:iron_shulker_box_cyan:4, Cyan Silver Shulker Box
+ironchest:iron_shulker_box_cyan:5, Cyan Crystal Shulker Box
+ironchest:iron_shulker_box_cyan:6, Cyan Obsidian Shulker Box
+ironchest:iron_shulker_box_purple:0, Purple Iron Shulker Box
+ironchest:iron_shulker_box_purple:1, Purple Gold Shulker Box
+ironchest:iron_shulker_box_purple:2, Purple Diamond Shulker Box
+ironchest:iron_shulker_box_purple:3, Purple Copper Shulker Box
+ironchest:iron_shulker_box_purple:4, Purple Silver Shulker Box
+ironchest:iron_shulker_box_purple:5, Purple Crystal Shulker Box
+ironchest:iron_shulker_box_purple:6, Purple Obsidian Shulker Box
+ironchest:iron_shulker_box_blue:0, Blue Iron Shulker Box
+ironchest:iron_shulker_box_blue:1, Blue Gold Shulker Box
+ironchest:iron_shulker_box_blue:2, Blue Diamond Shulker Box
+ironchest:iron_shulker_box_blue:3, Blue Copper Shulker Box
+ironchest:iron_shulker_box_blue:4, Blue Silver Shulker Box
+ironchest:iron_shulker_box_blue:5, Blue Crystal Shulker Box
+ironchest:iron_shulker_box_blue:6, Blue Obsidian Shulker Box
+ironchest:iron_shulker_box_brown:0, Brown Iron Shulker Box
+ironchest:iron_shulker_box_brown:1, Brown Gold Shulker Box
+ironchest:iron_shulker_box_brown:2, Brown Diamond Shulker Box
+ironchest:iron_shulker_box_brown:3, Brown Copper Shulker Box
+ironchest:iron_shulker_box_brown:4, Brown Silver Shulker Box
+ironchest:iron_shulker_box_brown:5, Brown Crystal Shulker Box
+ironchest:iron_shulker_box_brown:6, Brown Obsidian Shulker Box
+ironchest:iron_shulker_box_green:0, Green Iron Shulker Box
+ironchest:iron_shulker_box_green:1, Green Gold Shulker Box
+ironchest:iron_shulker_box_green:2, Green Diamond Shulker Box
+ironchest:iron_shulker_box_green:3, Green Copper Shulker Box
+ironchest:iron_shulker_box_green:4, Green Silver Shulker Box
+ironchest:iron_shulker_box_green:5, Green Crystal Shulker Box
+ironchest:iron_shulker_box_green:6, Green Obsidian Shulker Box
+ironchest:iron_shulker_box_red:0, Red Iron Shulker Box
+ironchest:iron_shulker_box_red:1, Red Gold Shulker Box
+ironchest:iron_shulker_box_red:2, Red Diamond Shulker Box
+ironchest:iron_shulker_box_red:3, Red Copper Shulker Box
+ironchest:iron_shulker_box_red:4, Red Silver Shulker Box
+ironchest:iron_shulker_box_red:5, Red Crystal Shulker Box
+ironchest:iron_shulker_box_red:6, Red Obsidian Shulker Box
+ironchest:iron_shulker_box_black:0, Black Iron Shulker Box
+ironchest:iron_shulker_box_black:1, Black Gold Shulker Box
+ironchest:iron_shulker_box_black:2, Black Diamond Shulker Box
+ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
+ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
+ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
+ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
+lcrdrfs:robo_dino_egg_item, T-R3X 1000 Egg
+lcrdrfs:crop_creeper_chilli_item, Creeper Chilli Crop
+lcrdrfs:robo_dino_part, T-R3X 1000 Part
+lcrdrfs:jetpack_spider_part, ARTHR0-BORG JETLINER 2000 Part
+lcrdrfs:robo_dino_control_module, T-R3X Control Module
+lcrdrfs:robo_dino_egg_crafted, Raw T-R3X 1000 Egg
+lcrdrfs:creeper_plasma, Laser Creeper Plasma
+lcrdrfs:plasma_power_unit, Plasma Power Unit
+lcrdrfs:laser_barrel, Laser Blaster Barrel
+lcrdrfs:laser_lens_unit, Laser Blaster Core
+lcrdrfs:laser_grip, Laser Blaster Grip
+lcrdrfs:laser_blaster, Laser Blaster
+lcrdrfs:empty_laser_blaster, Empty Laser Blaster
+lcrdrfs:jetpack, Armoured Jetpack
+lcrdrfs:jet_control_unit, Armoured Jet Pack Control Unit
+lcrdrfs:jet_stabliser, Armoured Jet Pack Stabliser
+lcrdrfs:jet_thruster, Armoured Jet Pack Thruster
+lcrdrfs:spider_jetpack, ARTHR0-BORG JETLINER Creation Module
+lcrdrfs:creepssile_ammo, Creepssile
+lcrdrfs:spray_can_black, Dino-Pimp Spray Black
+lcrdrfs:spray_can_red, Dino-Pimp Spray Red
+lcrdrfs:spray_can_green, Dino-Pimp Spray Green
+lcrdrfs:spray_can_brown, Dino-Pimp Spray Brown
+lcrdrfs:spray_can_blue, Dino-Pimp Spray Blue
+lcrdrfs:spray_can_purple, Dino-Pimp Spray Purple
+lcrdrfs:spray_can_cyan, Dino-Pimp Spray Cyan
+lcrdrfs:spray_can_silver, Dino-Pimp Spray Silver
+lcrdrfs:spray_can_gray, Dino-Pimp Spray Gray
+lcrdrfs:spray_can_pink, Dino-Pimp Spray Pink
+lcrdrfs:spray_can_lime, Dino-Pimp Spray Lime
+lcrdrfs:spray_can_yellow, Dino-Pimp Spray Yellow
+lcrdrfs:spray_can_lightblue, Dino-Pimp Spray Light Blue
+lcrdrfs:spray_can_magenta, Dino-Pimp Spray Magenta
+lcrdrfs:spray_can_orange, Dino-Pimp Spray Orange
+lcrdrfs:spray_can_white, Dino-Pimp Spray Natural
+lcrdrfs:creeper_chilli_crystal_shard, Creeper Chilli Crystal Shard
+lcrdrfs:creeper_chilli, Creeper Chilli
+lcrdrfs:creeper_chilli_powder, Creeper Chilli Powder
+lcrdrfs:creeper_chilli_sauce, Creeper Chilli Sauce
+lcrdrfs:creepssile_bazookoid, Creepssile Bazookoid
+lcrdrfs:bazookoid_chamber, Bazookoid Chamber
+lcrdrfs:bazookoid_grip, Bazookoid Grip
+lcrdrfs:bazookoid_ignition, Bazookoid Ignition
+longfallboots:longfallboots, Long Fall Boots
 matteroverdrive:dilithium_ore, Dilithium Ore
 matteroverdrive:tritanium_ore, Tritanium Ore
 matteroverdrive:tritanium_block, Tritanium Block
@@ -9153,323 +9170,6 @@ matteroverdrive:record_transformation, Music Disc
 matteroverdrive:artifact, Unknown Artifact
 matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
 matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
-ironbackpacks:backpack:0, Basic Backpack
-ironbackpacks:backpack:0, Iron Backpack
-ironbackpacks:backpack:0, Iron Backpack
-ironbackpacks:backpack:0, Gold Backpack
-ironbackpacks:backpack:0, Gold Backpack
-ironbackpacks:backpack:0, Diamond Backpack
-ironbackpacks:backpack:0, Diamond Backpack
-ironbackpacks:upgrade:0, Blank Upgrade
-ironbackpacks:upgrade:0, Damage Bar Upgrade
-ironbackpacks:upgrade:0, Latch Upgrade
-ironbackpacks:upgrade:0, Extra Upgrade Point
-ironbackpacks:upgrade:0, Everlasting Upgrade
-ironchest:iron_chest:0, Iron Chest
-ironchest:iron_chest:1, Gold Chest
-ironchest:iron_chest:2, Diamond Chest
-ironchest:iron_chest:3, Copper Chest
-ironchest:iron_chest:4, Silver Chest
-ironchest:iron_chest:5, Crystal Chest
-ironchest:iron_chest:6, Obsidian Chest
-ironchest:iron_chest:7, DirtChest 9000!
-ironchest:iron_shulker_box_white:0, White Iron Shulker Box
-ironchest:iron_shulker_box_white:1, White Gold Shulker Box
-ironchest:iron_shulker_box_white:2, White Diamond Shulker Box
-ironchest:iron_shulker_box_white:3, White Copper Shulker Box
-ironchest:iron_shulker_box_white:4, White Silver Shulker Box
-ironchest:iron_shulker_box_white:5, White Crystal Shulker Box
-ironchest:iron_shulker_box_white:6, White Obsidian Shulker Box
-ironchest:iron_shulker_box_orange:0, Orange Iron Shulker Box
-ironchest:iron_shulker_box_orange:1, Orange Gold Shulker Box
-ironchest:iron_shulker_box_orange:2, Orange Diamond Shulker Box
-ironchest:iron_shulker_box_orange:3, Orange Copper Shulker Box
-ironchest:iron_shulker_box_orange:4, Orange Silver Shulker Box
-ironchest:iron_shulker_box_orange:5, Orange Crystal Shulker Box
-ironchest:iron_shulker_box_orange:6, Orange Obsidian Shulker Box
-ironchest:iron_shulker_box_magenta:0, Magenta Iron Shulker Box
-ironchest:iron_shulker_box_magenta:1, Magenta Gold Shulker Box
-ironchest:iron_shulker_box_magenta:2, Magenta Diamond Shulker Box
-ironchest:iron_shulker_box_magenta:3, Magenta Copper Shulker Box
-ironchest:iron_shulker_box_magenta:4, Magenta Silver Shulker Box
-ironchest:iron_shulker_box_magenta:5, Magenta Crystal Shulker Box
-ironchest:iron_shulker_box_magenta:6, Magenta Obsidian Shulker Box
-ironchest:iron_shulker_box_light_blue:0, Light Blue Iron Shulker Box
-ironchest:iron_shulker_box_light_blue:1, Light Blue Gold Shulker Box
-ironchest:iron_shulker_box_light_blue:2, Light Blue Diamond Shulker Box
-ironchest:iron_shulker_box_light_blue:3, Light Blue Copper Shulker Box
-ironchest:iron_shulker_box_light_blue:4, Light Blue Silver Shulker Box
-ironchest:iron_shulker_box_light_blue:5, Light Blue Crystal Shulker Box
-ironchest:iron_shulker_box_light_blue:6, Light Blue Obsidian Shulker Box
-ironchest:iron_shulker_box_yellow:0, Yellow Iron Shulker Box
-ironchest:iron_shulker_box_yellow:1, Yellow Gold Shulker Box
-ironchest:iron_shulker_box_yellow:2, Yellow Diamond Shulker Box
-ironchest:iron_shulker_box_yellow:3, Yellow Copper Shulker Box
-ironchest:iron_shulker_box_yellow:4, Yellow Silver Shulker Box
-ironchest:iron_shulker_box_yellow:5, Yellow Crystal Shulker Box
-ironchest:iron_shulker_box_yellow:6, Yellow Obsidian Shulker Box
-ironchest:iron_shulker_box_lime:0, Lime Iron Shulker Box
-ironchest:iron_shulker_box_lime:1, Lime Gold Shulker Box
-ironchest:iron_shulker_box_lime:2, Lime Diamond Shulker Box
-ironchest:iron_shulker_box_lime:3, Lime Copper Shulker Box
-ironchest:iron_shulker_box_lime:4, Lime Silver Shulker Box
-ironchest:iron_shulker_box_lime:5, Lime Crystal Shulker Box
-ironchest:iron_shulker_box_lime:6, Lime Obsidian Shulker Box
-ironchest:iron_shulker_box_pink:0, Pink Iron Shulker Box
-ironchest:iron_shulker_box_pink:1, Pink Gold Shulker Box
-ironchest:iron_shulker_box_pink:2, Pink Diamond Shulker Box
-ironchest:iron_shulker_box_pink:3, Pink Copper Shulker Box
-ironchest:iron_shulker_box_pink:4, Pink Silver Shulker Box
-ironchest:iron_shulker_box_pink:5, Pink Crystal Shulker Box
-ironchest:iron_shulker_box_pink:6, Pink Obsidian Shulker Box
-ironchest:iron_shulker_box_gray:0, Gray Iron Shulker Box
-ironchest:iron_shulker_box_gray:1, Gray Gold Shulker Box
-ironchest:iron_shulker_box_gray:2, Gray Diamond Shulker Box
-ironchest:iron_shulker_box_gray:3, Gray Copper Shulker Box
-ironchest:iron_shulker_box_gray:4, Gray Silver Shulker Box
-ironchest:iron_shulker_box_gray:5, Gray Crystal Shulker Box
-ironchest:iron_shulker_box_gray:6, Gray Obsidian Shulker Box
-ironchest:iron_shulker_box_silver:0, Silver Iron Shulker Box
-ironchest:iron_shulker_box_silver:1, Silver Gold Shulker Box
-ironchest:iron_shulker_box_silver:2, Silver Diamond Shulker Box
-ironchest:iron_shulker_box_silver:3, Silver Copper Shulker Box
-ironchest:iron_shulker_box_silver:4, Silver Silver Shulker Box
-ironchest:iron_shulker_box_silver:5, Silver Crystal Shulker Box
-ironchest:iron_shulker_box_silver:6, Silver Obsidian Shulker Box
-ironchest:iron_shulker_box_cyan:0, Cyan Iron Shulker Box
-ironchest:iron_shulker_box_cyan:1, Cyan Gold Shulker Box
-ironchest:iron_shulker_box_cyan:2, Cyan Diamond Shulker Box
-ironchest:iron_shulker_box_cyan:3, Cyan Copper Shulker Box
-ironchest:iron_shulker_box_cyan:4, Cyan Silver Shulker Box
-ironchest:iron_shulker_box_cyan:5, Cyan Crystal Shulker Box
-ironchest:iron_shulker_box_cyan:6, Cyan Obsidian Shulker Box
-ironchest:iron_shulker_box_purple:0, Purple Iron Shulker Box
-ironchest:iron_shulker_box_purple:1, Purple Gold Shulker Box
-ironchest:iron_shulker_box_purple:2, Purple Diamond Shulker Box
-ironchest:iron_shulker_box_purple:3, Purple Copper Shulker Box
-ironchest:iron_shulker_box_purple:4, Purple Silver Shulker Box
-ironchest:iron_shulker_box_purple:5, Purple Crystal Shulker Box
-ironchest:iron_shulker_box_purple:6, Purple Obsidian Shulker Box
-ironchest:iron_shulker_box_blue:0, Blue Iron Shulker Box
-ironchest:iron_shulker_box_blue:1, Blue Gold Shulker Box
-ironchest:iron_shulker_box_blue:2, Blue Diamond Shulker Box
-ironchest:iron_shulker_box_blue:3, Blue Copper Shulker Box
-ironchest:iron_shulker_box_blue:4, Blue Silver Shulker Box
-ironchest:iron_shulker_box_blue:5, Blue Crystal Shulker Box
-ironchest:iron_shulker_box_blue:6, Blue Obsidian Shulker Box
-ironchest:iron_shulker_box_brown:0, Brown Iron Shulker Box
-ironchest:iron_shulker_box_brown:1, Brown Gold Shulker Box
-ironchest:iron_shulker_box_brown:2, Brown Diamond Shulker Box
-ironchest:iron_shulker_box_brown:3, Brown Copper Shulker Box
-ironchest:iron_shulker_box_brown:4, Brown Silver Shulker Box
-ironchest:iron_shulker_box_brown:5, Brown Crystal Shulker Box
-ironchest:iron_shulker_box_brown:6, Brown Obsidian Shulker Box
-ironchest:iron_shulker_box_green:0, Green Iron Shulker Box
-ironchest:iron_shulker_box_green:1, Green Gold Shulker Box
-ironchest:iron_shulker_box_green:2, Green Diamond Shulker Box
-ironchest:iron_shulker_box_green:3, Green Copper Shulker Box
-ironchest:iron_shulker_box_green:4, Green Silver Shulker Box
-ironchest:iron_shulker_box_green:5, Green Crystal Shulker Box
-ironchest:iron_shulker_box_green:6, Green Obsidian Shulker Box
-ironchest:iron_shulker_box_red:0, Red Iron Shulker Box
-ironchest:iron_shulker_box_red:1, Red Gold Shulker Box
-ironchest:iron_shulker_box_red:2, Red Diamond Shulker Box
-ironchest:iron_shulker_box_red:3, Red Copper Shulker Box
-ironchest:iron_shulker_box_red:4, Red Silver Shulker Box
-ironchest:iron_shulker_box_red:5, Red Crystal Shulker Box
-ironchest:iron_shulker_box_red:6, Red Obsidian Shulker Box
-ironchest:iron_shulker_box_black:0, Black Iron Shulker Box
-ironchest:iron_shulker_box_black:1, Black Gold Shulker Box
-ironchest:iron_shulker_box_black:2, Black Diamond Shulker Box
-ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
-ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
-ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
-ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
-ironjetpacks:strap, Leather Strap
-ironjetpacks:basic_coil, Basic Coil
-ironjetpacks:advanced_coil, Advanced Coil
-ironjetpacks:elite_coil, Elite Coil
-ironjetpacks:ultimate_coil, Ultimate Coil
-ironjetpacks:creative_cell, Energy Cell
-ironjetpacks:plastic_cell, Energy Cell
-ironjetpacks:iron_cell, Energy Cell
-ironjetpacks:bronze_cell, Energy Cell
-ironjetpacks:meteoric_cell, Energy Cell
-ironjetpacks:carbon_cell, Energy Cell
-ironjetpacks:lead_cell, Energy Cell
-ironjetpacks:mercury_cell, Energy Cell
-ironjetpacks:nickel_cell, Energy Cell
-ironjetpacks:palladium_cell, Energy Cell
-ironjetpacks:red_cell, Energy Cell
-ironjetpacks:gold_cell, Energy Cell
-ironjetpacks:magnesium_cell, Energy Cell
-ironjetpacks:uranium_cell, Energy Cell
-ironjetpacks:blue_cell, Energy Cell
-ironjetpacks:crystal_cell, Energy Cell
-ironjetpacks:steel_cell, Energy Cell
-ironjetpacks:white_cell, Energy Cell
-ironjetpacks:zinc_cell, Energy Cell
-ironjetpacks:dark_cell, Energy Cell
-ironjetpacks:diamond_cell, Energy Cell
-ironjetpacks:tungsten_cell, Energy Cell
-ironjetpacks:platinum_cell, Energy Cell
-ironjetpacks:ultimate_cell, Energy Cell
-ironjetpacks:creative_thruster, Thruster
-ironjetpacks:plastic_thruster, Thruster
-ironjetpacks:iron_thruster, Thruster
-ironjetpacks:bronze_thruster, Thruster
-ironjetpacks:meteoric_thruster, Thruster
-ironjetpacks:carbon_thruster, Thruster
-ironjetpacks:lead_thruster, Thruster
-ironjetpacks:mercury_thruster, Thruster
-ironjetpacks:nickel_thruster, Thruster
-ironjetpacks:palladium_thruster, Thruster
-ironjetpacks:red_thruster, Thruster
-ironjetpacks:gold_thruster, Thruster
-ironjetpacks:magnesium_thruster, Thruster
-ironjetpacks:uranium_thruster, Thruster
-ironjetpacks:blue_thruster, Thruster
-ironjetpacks:crystal_thruster, Thruster
-ironjetpacks:steel_thruster, Thruster
-ironjetpacks:white_thruster, Thruster
-ironjetpacks:zinc_thruster, Thruster
-ironjetpacks:dark_thruster, Thruster
-ironjetpacks:diamond_thruster, Thruster
-ironjetpacks:tungsten_thruster, Thruster
-ironjetpacks:platinum_thruster, Thruster
-ironjetpacks:ultimate_thruster, Thruster
-ironjetpacks:creative_capacitor, Capacitor
-ironjetpacks:plastic_capacitor, Capacitor
-ironjetpacks:iron_capacitor, Capacitor
-ironjetpacks:bronze_capacitor, Capacitor
-ironjetpacks:meteoric_capacitor, Capacitor
-ironjetpacks:carbon_capacitor, Capacitor
-ironjetpacks:lead_capacitor, Capacitor
-ironjetpacks:mercury_capacitor, Capacitor
-ironjetpacks:nickel_capacitor, Capacitor
-ironjetpacks:palladium_capacitor, Capacitor
-ironjetpacks:red_capacitor, Capacitor
-ironjetpacks:gold_capacitor, Capacitor
-ironjetpacks:magnesium_capacitor, Capacitor
-ironjetpacks:uranium_capacitor, Capacitor
-ironjetpacks:blue_capacitor, Capacitor
-ironjetpacks:crystal_capacitor, Capacitor
-ironjetpacks:steel_capacitor, Capacitor
-ironjetpacks:white_capacitor, Capacitor
-ironjetpacks:zinc_capacitor, Capacitor
-ironjetpacks:dark_capacitor, Capacitor
-ironjetpacks:diamond_capacitor, Capacitor
-ironjetpacks:tungsten_capacitor, Capacitor
-ironjetpacks:platinum_capacitor, Capacitor
-ironjetpacks:ultimate_capacitor, Capacitor
-ironjetpacks:creative_jetpack, Jetpack
-ironjetpacks:plastic_jetpack, Jetpack
-ironjetpacks:iron_jetpack, Jetpack
-ironjetpacks:bronze_jetpack, Jetpack
-ironjetpacks:meteoric_jetpack, Jetpack
-ironjetpacks:carbon_jetpack, Jetpack
-ironjetpacks:lead_jetpack, Jetpack
-ironjetpacks:mercury_jetpack, Jetpack
-ironjetpacks:nickel_jetpack, Jetpack
-ironjetpacks:palladium_jetpack, Jetpack
-ironjetpacks:red_jetpack, Jetpack
-ironjetpacks:gold_jetpack, Jetpack
-ironjetpacks:magnesium_jetpack, Jetpack
-ironjetpacks:uranium_jetpack, Jetpack
-ironjetpacks:blue_jetpack, Jetpack
-ironjetpacks:crystal_jetpack, Jetpack
-ironjetpacks:steel_jetpack, Jetpack
-ironjetpacks:white_jetpack, Jetpack
-ironjetpacks:zinc_jetpack, Jetpack
-ironjetpacks:dark_jetpack, Jetpack
-ironjetpacks:diamond_jetpack, Jetpack
-ironjetpacks:tungsten_jetpack, Jetpack
-ironjetpacks:platinum_jetpack, Jetpack
-ironjetpacks:ultimate_jetpack, Jetpack
-lcrdrfs:robo_dino_part, T-R3X 1000 Part
-lcrdrfs:jetpack_spider_part, ARTHR0-BORG JETLINER 2000 Part
-lcrdrfs:robo_dino_control_module, T-R3X Control Module
-lcrdrfs:robo_dino_egg_crafted, Raw T-R3X 1000 Egg
-lcrdrfs:creeper_plasma, Laser Creeper Plasma
-lcrdrfs:plasma_power_unit, Plasma Power Unit
-lcrdrfs:laser_barrel, Laser Blaster Barrel
-lcrdrfs:laser_lens_unit, Laser Blaster Core
-lcrdrfs:laser_grip, Laser Blaster Grip
-lcrdrfs:laser_blaster, Laser Blaster
-lcrdrfs:empty_laser_blaster, Empty Laser Blaster
-lcrdrfs:jetpack, Armoured Jetpack
-lcrdrfs:jet_control_unit, Armoured Jet Pack Control Unit
-lcrdrfs:jet_stabliser, Armoured Jet Pack Stabliser
-lcrdrfs:jet_thruster, Armoured Jet Pack Thruster
-lcrdrfs:spider_jetpack, ARTHR0-BORG JETLINER Creation Module
-lcrdrfs:creepssile_ammo, Creepssile
-lcrdrfs:spray_can_black, Dino-Pimp Spray Black
-lcrdrfs:spray_can_red, Dino-Pimp Spray Red
-lcrdrfs:spray_can_green, Dino-Pimp Spray Green
-lcrdrfs:spray_can_brown, Dino-Pimp Spray Brown
-lcrdrfs:spray_can_blue, Dino-Pimp Spray Blue
-lcrdrfs:spray_can_purple, Dino-Pimp Spray Purple
-lcrdrfs:spray_can_cyan, Dino-Pimp Spray Cyan
-lcrdrfs:spray_can_silver, Dino-Pimp Spray Silver
-lcrdrfs:spray_can_gray, Dino-Pimp Spray Gray
-lcrdrfs:spray_can_pink, Dino-Pimp Spray Pink
-lcrdrfs:spray_can_lime, Dino-Pimp Spray Lime
-lcrdrfs:spray_can_yellow, Dino-Pimp Spray Yellow
-lcrdrfs:spray_can_lightblue, Dino-Pimp Spray Light Blue
-lcrdrfs:spray_can_magenta, Dino-Pimp Spray Magenta
-lcrdrfs:spray_can_orange, Dino-Pimp Spray Orange
-lcrdrfs:spray_can_white, Dino-Pimp Spray Natural
-lcrdrfs:creeper_chilli_crystal_shard, Creeper Chilli Crystal Shard
-lcrdrfs:creeper_chilli, Creeper Chilli
-lcrdrfs:creeper_chilli_powder, Creeper Chilli Powder
-lcrdrfs:creeper_chilli_sauce, Creeper Chilli Sauce
-lcrdrfs:creepssile_bazookoid, Creepssile Bazookoid
-lcrdrfs:bazookoid_chamber, Bazookoid Chamber
-lcrdrfs:bazookoid_grip, Bazookoid Grip
-lcrdrfs:bazookoid_ignition, Bazookoid Ignition
-lcrdrfs:robo_dino_egg_item, T-R3X 1000 Egg
-lcrdrfs:crop_creeper_chilli_item, Creeper Chilli Crop
-longfallboots:longfallboots, Long Fall Boots
-mekanismgenerators:solarpanel, Solar Panel
-mekanismgenerators:hohlraum, Hohlraum
-mekanismgenerators:turbineblade, Turbine Blade
-mekanismgenerators:generator:0, Heat Generator
-mekanismgenerators:generator:1, Solar Generator
-mekanismgenerators:generator:3, Gas-Burning Generator
-mekanismgenerators:generator:4, Bio-Generator
-mekanismgenerators:generator:5, Advanced Solar Generator
-mekanismgenerators:generator:6, Wind Generator
-mekanismgenerators:generator:7, Turbine Rotor
-mekanismgenerators:generator:8, Rotational Complex
-mekanismgenerators:generator:9, Electromagnetic Coil
-mekanismgenerators:generator:10, Turbine Casing
-mekanismgenerators:generator:11, Turbine Valve
-mekanismgenerators:generator:12, Turbine Vent
-mekanismgenerators:generator:13, Saturating Condenser
-mekanismgenerators:reactor:0, Reactor Controller
-mekanismgenerators:reactor:1, Reactor Frame
-mekanismgenerators:reactor:2, Reactor Port
-mekanismgenerators:reactor:3, Reactor Logic Adapter
-mekanismgenerators:reactorglass:0, Reactor Glass
-mekanismgenerators:reactorglass:1, Laser Focus Matrix
 powersuits:powerarmor_head, Power Armor Helmet
 powersuits:powerarmor_torso, Power Armor Chestplate
 powersuits:powerarmor_legs, Power Armor Leggings
@@ -9500,68 +9200,6 @@ powersuits:powerarmorcomponent:21, Insulated Rubber Hose
 powersuits:tinkertable, Power Armor Tinker Table
 powersuits:luxcapacitor, Lux Capacitor
 naturescompass:naturescompass, Nature's Compass
-planetprogression:telescope, Telescope
-planetprogression:telescope_fake_block, tile.telescope_fake_block.name
-planetprogression:research_paper_0, Research Paper
-planetprogression:research_paper_1, Research Paper
-planetprogression:research_paper_2, Research Paper
-planetprogression:research_paper_3, Research Paper
-planetprogression:research_paper_4, Research Paper
-planetprogression:research_paper_5, Research Paper
-planetprogression:research_paper_6, Research Paper
-planetprogression:research_paper_7, Research Paper
-planetprogression:research_paper_8, Research Paper
-planetprogression:research_paper_9, Research Paper
-planetprogression:research_paper_10, Research Paper
-planetprogression:research_paper_11, Research Paper
-planetprogression:research_paper_12, Research Paper
-planetprogression:research_paper_13, Research Paper
-planetprogression:research_paper_14, Research Paper
-planetprogression:research_paper_15, Research Paper
-planetprogression:research_paper_16, Research Paper
-planetprogression:research_paper_17, Research Paper
-planetprogression:research_paper_18, Research Paper
-planetprogression:research_paper_19, Research Paper
-planetprogression:research_paper_20, Research Paper
-planetprogression:research_paper_21, Research Paper
-planetprogression:research_paper_22, Research Paper
-planetprogression:research_paper_23, Research Paper
-planetprogression:research_paper_24, Research Paper
-planetprogression:research_paper_25, Research Paper
-planetprogression:research_paper_26, Research Paper
-planetprogression:research_paper_27, Research Paper
-planetprogression:research_paper_28, Research Paper
-planetprogression:research_paper_29, Research Paper
-planetprogression:research_paper_30, Research Paper
-planetprogression:research_paper_31, Research Paper
-planetprogression:research_paper_32, Research Paper
-planetprogression:research_paper_33, Research Paper
-planetprogression:research_paper_34, Research Paper
-planetprogression:research_paper_35, Research Paper
-planetprogression:research_paper_36, Research Paper
-planetprogression:research_paper_37, Research Paper
-planetprogression:research_paper_38, Research Paper
-planetprogression:research_paper_39, Research Paper
-planetprogression:research_paper_40, Research Paper
-planetprogression:research_paper_41, Research Paper
-planetprogression:research_paper_42, Research Paper
-planetprogression:research_paper_43, Research Paper
-planetprogression:research_paper_44, Research Paper
-planetprogression:research_paper_45, Research Paper
-planetprogression:research_paper_46, Research Paper
-planetprogression:research_paper_47, Research Paper
-planetprogression:research_paper_48, Research Paper
-planetprogression:research_paper_49, Research Paper
-planetprogression:research_paper_50, Research Paper
-planetprogression:research_paper_51, Research Paper
-planetprogression:research_paper_52, Research Paper
-planetprogression:research_paper_53, Research Paper
-planetprogression:research_paper_54, Research Paper
-planetprogression:research_paper_55, Research Paper
-planetprogression:research_paper_56, Research Paper
-planetprogression:research_paper_57, Research Paper
-planetprogression:research_paper_58, Research Paper
-planetprogression:research_paper_59, Research Paper
 scannable:scanner, Scanner
 scannable:module_blank, Blank Scanner Module
 scannable:module_range, Scanner Module: Range
@@ -9573,6 +9211,27 @@ scannable:module_block, Scanner Module: Block
 scannable:module_structure, Scanner Module: Structures
 scannable:module_fluid, Scanner Module: Fluids
 scannable:module_entity, Scanner Module: Entity
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -9623,27 +9282,15 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
+teslacorelib:base_addon, Base Addon
+teslacorelib:energy_tier1, Energy Upgrade I
+teslacorelib:energy_tier2, Energy Upgrade II
+teslacorelib:machine_case, Machine Case
+teslacorelib:speed_tier1, Speed Upgrade I
+teslacorelib:speed_tier2, Speed Upgrade II
+teslacorelib:battery:0, Tesla Battery
+teslacorelib:battery:0, Tesla Battery
+teslacorelib:wrench, Tesla Wrench
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -10236,13 +9883,12 @@ worldsretold:stone_critter_egg, Stone Critter Egg
 worldsretold:cobble_critter_egg, Cobblestone Critter Egg
 worldsretold:mosscobble_critter_egg, Moss Stone Critter Egg
 ocsensors:sensor, tile.ocsensors.sensor.name
+teslacorelib:powder_diamond, Diamond Powder
 teslacorelib:powder_emerald, Emerald Powder
 betterbuilderswands:wandstone, Stone Wand
 betterbuilderswands:wandiron, Iron Wand
 betterbuilderswands:wanddiamond:0, Diamond Wand
-betterbuilderswands:wandunbreakable:12, Unbreakable Wand
-betterbuilderswands:wandunbreakable:13, Unbreakable Wand
-betterbuilderswands:wandunbreakable:14, Unbreakable Wand
+betterbuilderswands:wandunbreakable:0, Unbreakable Wand
 theoneprobe:probe, The One Probe
 theoneprobe:creativeprobe, The Creative Probe
 theoneprobe:probenote, The One Probe Read Me
@@ -10251,353 +9897,6 @@ theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
 theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
 theoneprobe:probe_goggles, The One Probe (Bauble)
 patchouli:guide_book, Guide Book
-industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
-industrialforegoing:enchantment_refiner, Enchantment Sorter
-industrialforegoing:enchantment_extractor, Enchantment Extractor
-industrialforegoing:enchantment_aplicator, Enchantment Applicator
-industrialforegoing:mob_relocator, Mob Crusher
-industrialforegoing:potion_enervator, Potion Brewer
-industrialforegoing:animal_independence_selector, Animal Baby Separator
-industrialforegoing:animal_stock_increaser, Animal Feeder
-industrialforegoing:crop_sower, Plant Sower
-industrialforegoing:crop_enrich_material_injector, Plant Fertilizer
-industrialforegoing:crop_recolector, Plant Gatherer
-industrialforegoing:black_hole_unit, Black Hole Unit
-industrialforegoing:water_condensator, Water Condensator
-industrialforegoing:water_resources_collector, Resources Fisher
-industrialforegoing:animal_resource_harvester, Animal Rancher
-industrialforegoing:mob_slaughter_factory, Mob Slaughter Factory
-industrialforegoing:mob_duplicator, Mob Duplicator
-industrialforegoing:block_destroyer, Block Breaker
-industrialforegoing:block_placer, Block Placer
-industrialforegoing:tree_fluid_extractor, Tree Fluid Extractor
-industrialforegoing:latex_processing_unit, Latex Processing Unit
-industrialforegoing:sewage_composter_solidifier, Sewage Composter
-industrialforegoing:animal_byproduct_recolector, Animal Sewer
-industrialforegoing:sludge_refiner, Sludge Refiner
-industrialforegoing:mob_detector, Mob Detector
-industrialforegoing:lava_fabricator, Lava Fabricator
-industrialforegoing:bioreactor, Bioreactor
-industrialforegoing:biofuel_generator, Biofuel Generator
-industrialforegoing:ore_processor, Ore Processor
-industrialforegoing:black_hole_controller, Black Hole Controller
-industrialforegoing:dye_mixer, Dye Mixer
-industrialforegoing:enchantment_invoker, Enchantment Factory
-industrialforegoing:spores_recreator, Spores Recreator
-industrialforegoing:animal_growth_increaser, Animal Grower
-industrialforegoing:material_stonework_factory, Material StoneWork Factory
-industrialforegoing:black_hole_tank, Black Hole Tank
-industrialforegoing:resourceful_furnace, Resourceful Furnace
-industrialforegoing:villager_trade_exchanger, Villager Trade Exchanger
-industrialforegoing:energy_field_provider, Energy Field Provider
-industrialforegoing:oredictionary_converter, Ore Dictionary Converter
-industrialforegoing:protein_reactor, Protein Reactor
-industrialforegoing:protein_generator, Protein Generator
-industrialforegoing:hydrator, Hydrator
-industrialforegoing:wither_builder, Wither Builder
-industrialforegoing:fluid_pump, Fluid Pump
-industrialforegoing:fluid_crafter, Fluid Crafter
-industrialforegoing:plant_interactor, Plant Interactor
-industrialforegoing:item_splitter, Item Splitter
-industrialforegoing:fluiddictionary_converter, Fluid Dictionary Converter
-industrialforegoing:froster, Froster
-industrialforegoing:ore_washer, Washing Factory
-industrialforegoing:ore_fermenter, Fermentation Station
-industrialforegoing:ore_sieve, Fluid Sieving Machine
-industrialforegoing:pitiful_fuel_generator, Pitiful Fuel Generator
-industrialforegoing:tinydryrubber, Tiny Dry Rubber
-industrialforegoing:dryrubber, Dry Rubber
-industrialforegoing:plastic, Plastic
-industrialforegoing:fertilizer, Fertilizer
-industrialforegoing:meat_feeder, Meat Feeder
-industrialforegoing:mob_imprisonment_tool, Mob Imprisonment Tool
-industrialforegoing:laser_lens:0, White§r Laser Lens
-industrialforegoing:laser_lens:1, Orange§r Laser Lens
-industrialforegoing:laser_lens:2, Magenta§r Laser Lens
-industrialforegoing:laser_lens:3, Light Blue§r Laser Lens
-industrialforegoing:laser_lens:4, Yellow§r Laser Lens
-industrialforegoing:laser_lens:5, Lime§r Laser Lens
-industrialforegoing:laser_lens:6, Pink§r Laser Lens
-industrialforegoing:laser_lens:7, Gray§r Laser Lens
-industrialforegoing:laser_lens:8, Light Gray§r Laser Lens
-industrialforegoing:laser_lens:9, Cyan§r Laser Lens
-industrialforegoing:laser_lens:10, Purple§r Laser Lens
-industrialforegoing:laser_lens:11, Blue§r Laser Lens
-industrialforegoing:laser_lens:12, Brown§r Laser Lens
-industrialforegoing:laser_lens:13, Green§r Laser Lens
-industrialforegoing:laser_lens:14, Red§r Laser Lens
-industrialforegoing:laser_lens:15, Black§r Laser Lens
-industrialforegoing:laser_lens_inverted:0, White§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:1, Orange§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:2, Magenta§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:3, Light Blue§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:4, Yellow§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:5, Lime§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:6, Pink§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:7, Gray§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:8, Light Gray§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:9, Cyan§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:10, Purple§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:11, Blue§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:12, Brown§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:13, Green§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:14, Red§r Laser Lens (Inverted)
-industrialforegoing:laser_lens_inverted:15, Black§r Laser Lens (Inverted)
-industrialforegoing:straw, Straw
-industrialforegoing:conveyor_upgrade:0, Extraction Conveyor Upgrade
-industrialforegoing:conveyor_upgrade:1, Insertion Conveyor Upgrade
-industrialforegoing:conveyor_upgrade:2, Detection Conveyor Upgrade
-industrialforegoing:conveyor_upgrade:3, Bouncing Conveyor Upgrade
-industrialforegoing:conveyor_upgrade:4, Dropping Conveyor Upgrade
-industrialforegoing:conveyor_upgrade:5, Blinking Conveyor Upgrade
-industrialforegoing:conveyor_upgrade:6, Splitting Conveyor Upgrade
-industrialforegoing:pink_slime, Pink Slime
-industrialforegoing:book_manual, Industrial Foregoing's Manual
-industrialforegoing:pink_slime_ingot, Pink Slime Ingot
-industrialforegoing:infinity_drill:0, Infinity Drill
-industrialforegoing:infinity_drill:0, Infinity Drill
-industrialforegoing:infinity_drill:0, Infinity Drill
-industrialforegoing:infinity_drill:0, Infinity Drill
-industrialforegoing:infinity_drill:0, Infinity Drill
-industrialforegoing:infinity_drill:0, Infinity Drill
-industrialforegoing:infinity_drill:0, Infinity Drill
-industrialforegoing:infinity_drill:0, Infinity Drill
-industrialforegoing:adult_filter, Adult Filter
-industrialforegoing:range_addon:0, Range Addon
-industrialforegoing:range_addon:1, Range Addon
-industrialforegoing:range_addon:2, Range Addon
-industrialforegoing:range_addon:3, Range Addon
-industrialforegoing:range_addon:4, Range Addon
-industrialforegoing:range_addon:5, Range Addon
-industrialforegoing:range_addon:6, Range Addon
-industrialforegoing:range_addon:7, Range Addon
-industrialforegoing:range_addon:8, Range Addon
-industrialforegoing:range_addon:9, Range Addon
-industrialforegoing:range_addon:10, Range Addon
-industrialforegoing:range_addon:11, Range Addon
-industrialforegoing:energy_field_addon, Energy Field Addon
-industrialforegoing:leaf_shearing, Leaf Shearing Addon
-industrialforegoing:itemstack_transfer_addon_pull:0, Itemstack Transfer Addon (Pull/Down)
-industrialforegoing:itemstack_transfer_addon_push:0, Itemstack Transfer Addon (Push/Down)
-industrialforegoing:fluid_transfer_addon_pull:0, Fluid Transfer Addon (Pull/Down)
-industrialforegoing:fluid_transfer_addon_push:0, Fluid Transfer Addon (Push/Down)
-industrialforegoing:fortune_addon, Fortune Addon
-industrialforegoing:artificial_dye:0, White§r Artificial Dye
-industrialforegoing:artificial_dye:1, Orange§r Artificial Dye
-industrialforegoing:artificial_dye:2, Magenta§r Artificial Dye
-industrialforegoing:artificial_dye:3, Light Blue§r Artificial Dye
-industrialforegoing:artificial_dye:4, Yellow§r Artificial Dye
-industrialforegoing:artificial_dye:5, Lime§r Artificial Dye
-industrialforegoing:artificial_dye:6, Pink§r Artificial Dye
-industrialforegoing:artificial_dye:7, Gray§r Artificial Dye
-industrialforegoing:artificial_dye:8, Light Gray§r Artificial Dye
-industrialforegoing:artificial_dye:9, Cyan§r Artificial Dye
-industrialforegoing:artificial_dye:10, Purple§r Artificial Dye
-industrialforegoing:artificial_dye:11, Blue§r Artificial Dye
-industrialforegoing:artificial_dye:12, Brown§r Artificial Dye
-industrialforegoing:artificial_dye:13, Green§r Artificial Dye
-industrialforegoing:artificial_dye:14, Red§r Artificial Dye
-industrialforegoing:artificial_dye:15, Black§r Artificial Dye
-industrialforegoing:conveyor:0, White§r Conveyor Belt
-industrialforegoing:conveyor:1, Orange§r Conveyor Belt
-industrialforegoing:conveyor:2, Magenta§r Conveyor Belt
-industrialforegoing:conveyor:3, Light Blue§r Conveyor Belt
-industrialforegoing:conveyor:4, Yellow§r Conveyor Belt
-industrialforegoing:conveyor:5, Lime§r Conveyor Belt
-industrialforegoing:conveyor:6, Pink§r Conveyor Belt
-industrialforegoing:conveyor:7, Gray§r Conveyor Belt
-industrialforegoing:conveyor:8, Light Gray§r Conveyor Belt
-industrialforegoing:conveyor:9, Cyan§r Conveyor Belt
-industrialforegoing:conveyor:10, Purple§r Conveyor Belt
-industrialforegoing:conveyor:11, Blue§r Conveyor Belt
-industrialforegoing:conveyor:12, Brown§r Conveyor Belt
-industrialforegoing:conveyor:13, Green§r Conveyor Belt
-industrialforegoing:conveyor:14, Red§r Conveyor Belt
-industrialforegoing:conveyor:15, Black§r Conveyor Belt
-industrialforegoing:black_hole_label, Black Hole Label
-rftools:smartwrench, Smart Wrench
-rftools:rftools_manual, RFTools Manual
-rftools:rftools_shape_manual, RFTools Shape Manual
-rftools:dimensional_shard, Dimensional Shard
-rftools:shard_wand, Shard Wand
-rftools:infused_diamond, Infused Diamond
-rftools:infused_enderpearl, Infused Enderpearl
-rftools:syringe, Syringe
-rftools:peace_essence, Peace Essence
-rftools:developers_delight, Developers Delight
-rftools:network_monitor, RF Network Monitor
-rftools:modifier_module, Modifier
-rftools:storage_module_tablet, Storage Tablet
-rftools:storage_module:0, Tier 1 Storage Module
-rftools:storage_module:1, Tier 2 Storage Module
-rftools:storage_module:2, Tier 3 Storage Module
-rftools:storage_module:6, Remote Storage Module
-rftools:oredict_module, Ore Dictionary Type Module
-rftools:generic_module, Generic Type Module
-rftools:filter_module, Filter Module
-rftools:teleport_probe, Teleporter Probe
-rftools:charged_porter, Charged Porter
-rftools:advanced_charged_porter, Advanced Charged Porter
-rftools:text_module, Text Screen Module
-rftools:inventory_module, Inventory Screen Module
-rftools:inventoryplus_module, Inventory Plus Screen Module
-rftools:energy_module, Energy Screen Module
-rftools:energyplus_module, Energy Plus Screen Module
-rftools:clock_module, Clock Screen Module
-rftools:fluid_module, Fluid Screen Module
-rftools:fluidplus_module, Fluid Plus Screen Module
-rftools:machineinformation_module, Machine Information Screen Module
-rftools:computer_module, Computer Screen Module
-rftools:button_module, Button Screen Module
-rftools:elevator_button_module, Elevator Button Screen Module
-rftools:redstone_module, Redstone Screen Module
-rftools:counter_module, Counter Screen Module
-rftools:counterplus_module, Counter Plus Screen Module
-rftools:storage_control_module, Storage Control Screen Module
-rftools:dump_module, Dump Screen Module
-rftools:space_chamber_card, Space Chamber Card
-rftools:shape_card:0, Shape Card
-rftools:shape_card:1, Shape Card (Void)
-rftools:shape_card:2, Shape Card (Quarry)
-rftools:shape_card:3, Shape Card (Silk Quarry)
-rftools:shape_card:4, Shape Card (Fortune Quarry)
-rftools:shape_card:5, Shape Card (Clearing Quarry)
-rftools:shape_card:6, Shape Card (Clearing Silk Quarry)
-rftools:shape_card:7, Shape Card (Clearing Fortune Quarry)
-rftools:shape_card:8, Shape Card (Pump)
-rftools:shape_card:9, Shape Card (Clearing Pump)
-rftools:shape_card:10, Shape Card (Placing Liquids)
-rftools:powercell_card, Powercell Card
-rftools:regeneration_module, Regeneration Environmental Module
-rftools:regenerationplus_module, Regeneration Plus Environmental Module
-rftools:speed_module, Speed Environmental Module
-rftools:speedplus_module, Speed Plus Environmental Module
-rftools:haste_module, Haste Environmental Module
-rftools:hasteplus_module, Haste Plus Environmental Module
-rftools:saturation_module, Saturation Environmental Module
-rftools:saturationplus_module, Saturation Plus Environmental Module
-rftools:featherfalling_module, Feather Falling Environmental Module
-rftools:featherfallingplus_module, Feather Falling Plus Environmental Module
-rftools:flight_module, Flight Environmental Module
-rftools:peaceful_module, Peaceful Environmental Module
-rftools:waterbreathing_module, Water Breathing Environmental Module
-rftools:nightvision_module, Night Vision Environmental Module
-rftools:blindness_module, Blindness Environmental Module
-rftools:weakness_module, Weakness Environmental Module
-rftools:poison_module, Poison Environmental Module
-rftools:slowness_module, Slowness Environmental Module
-rftools:glowing_module, Glowing Environmental Module
-rftools:luck_module, Luck Environmental Module
-rftools:noteleport_module, No Teleport Environmental Module
-rftools:orphaning_card, Orphaning Card
-rftools:security_card, Security Card
-rftools:machine_frame, Machine Frame
-rftools:machine_base, Machine Base
-rftools:dimensional_shard_ore:0, Dimensional Shard Ore
-rftools:dimensional_shard_ore:1, Dimensional Shard Ore
-rftools:dimensional_shard_ore:2, Dimensional Shard Ore
-rftools:coalgenerator, Coal Generator
-rftools:crafter1, Crafter Tier 1
-rftools:crafter2, Crafter Tier 2
-rftools:crafter3, Crafter Tier 3
-rftools:modular_storage, Modular Storage
-rftools:remote_storage, Remote Storage
-rftools:storage_terminal, Storage Terminal
-rftools:level_emitter, Level Emitter
-rftools:matter_transmitter, Matter Transmitter
-rftools:matter_receiver, Matter Receiver
-rftools:dialing_device, Dialing Device
-rftools:simple_dialer, Simple Dialer
-rftools:destination_analyzer, Destination Analyzer
-rftools:matter_booster, Matter Booster
-rftools:screen, Screen
-rftools:creative_screen, Creative Screen
-rftools:screen_controller, Screen Controller
-rftools:redstone_transmitter_block, Redstone Transmitter
-rftools:redstone_receiver_block, Redstone Receiver
-rftools:sequencer_block, Sequencer
-rftools:counter_block, Counter
-rftools:logic_block, Logic Gate
-rftools:invchecker_block, Inventory Checker
-rftools:sensor_block, Sensor
-rftools:analog_block, Analog
-rftools:digit_block, Digit
-rftools:wire_block, Wire
-rftools:timer_block, Timer
-rftools:machine_infuser, Machine Infuser
-rftools:space_chamber, Space Chamber Corner Block
-rftools:space_chamber_controller, Space Chamber Controller Block
-rftools:support_block, Support Block
-rftools:builder, Builder
-rftools:composer, Composer
-rftools:locator, Locator
-rftools:projector, Projector
-rftools:scanner, Scanner
-rftools:remote_scanner, Remote Scanner
-rftools:powercell, Powercell
-rftools:powercell_advanced, Advanced Powercell
-rftools:powercell_creative, Creative Powercell
-rftools:powercell_simple, Simple Powercell
-rftools:relay, Power Relay
-rftools:rf_monitor, RF Monitor
-rftools:liquid_monitor, Liquid Monitor
-rftools:shield_block1, Shield Projector Tier 1
-rftools:shield_block2, Shield Projector Tier 2
-rftools:shield_block3, Shield Projector Tier 3
-rftools:shield_block4, Shield Projector Tier 4
-rftools:invisible_shield_block, Invisible Shield Block
-rftools:notick_invisible_shield_block, Invisible Shield Block
-rftools:invisible_shield_block_opaque, Invisible Shield Block
-rftools:notick_invisible_shield_block_opaque, Invisible Shield Block
-rftools:shield_template_block:0, Shield Template
-rftools:shield_template_block:1, Shield Template
-rftools:shield_template_block:2, Shield Template
-rftools:shield_template_block:3, Shield Template
-rftools:solid_shield_block, Solid Shield Block
-rftools:notick_solid_shield_block, Solid Shield Block
-rftools:camo_shield_block, Camo Shield Block
-rftools:notick_camo_shield_block, Camo Shield Block
-rftools:solid_shield_block_opaque, Solid Shield Block
-rftools:notick_solid_shield_block_opaque, Solid Shield Block
-rftools:camo_shield_block_opaque, Camo Shield Block
-rftools:notick_camo_shield_block_opaque, Camo Shield Block
-rftools:environmental_controller, Environmental Controller
-rftools:spawner, Spawner
-rftools:matter_beamer, Matter Beamer
-rftools:block_protector, Block Protector
-rftools:item_filter, Item Filter
-rftools:security_manager, Security Manager
-rftools:endergenic, Endergenic Generator
-rftools:pearl_injector, Pearl Injector
-rftools:ender_monitor, Ender Monitor
-rftools:storage_scanner, Storage Scanner
-rftools:elevator, Elevator
-rftools:booster, Booster
-xnet:xnet_manual, XNet Manual
-xnet:connector_upgrade, Connector Upgrade Kit
-xnet:facade, Facade
-xnet:redstone_proxy, Redstone Proxy
-xnet:redstone_proxy_upd, Redstone Proxy (update)
-xnet:netcable:0, Blue Network Cable
-xnet:netcable:1, Red Network Cable
-xnet:netcable:2, Yellow Network Cable
-xnet:netcable:3, Green Network Cable
-xnet:netcable:4, Routing Network Cable
-xnet:connector:0, Blue Connector
-xnet:connector:1, Red Connector
-xnet:connector:2, Yellow Connector
-xnet:connector:3, Green Connector
-xnet:connector:4, Routing Connector
-xnet:advanced_connector:0, Advanced Blue Connector
-xnet:advanced_connector:1, Advanced Red Connector
-xnet:advanced_connector:2, Advanced Yellow Connector
-xnet:advanced_connector:3, Advanced Green Connector
-xnet:controller, Controller
-xnet:router, Router
-xnet:wireless_router, Wireless Router
-xnet:antenna, Antenna
-xnet:antenna_base, Antenna Base
-xnet:antenna_dish, Antenna Dish
 omlib:debug_tool:0, Debug Tool
 omlib:fake_sword, item.fake_sword.name
 openglasses:openglassesterminal, Glasses Terminal
@@ -10667,29 +9966,6 @@ openmodularturrets:teleporter_turret, Teleporter Turret
 openmodularturrets:laser_turret, Laser Turret
 openmodularturrets:rail_gun_turret, Rail Gun Turret
 openmodularturrets:lever_block, Basic Turret Base Crank
-rftoolscontrol:rftoolscontrol_manual, RFTools Control Manual
-rftoolscontrol:program_card, Program Card
-rftoolscontrol:cpu_core_500, CPU Core B500
-rftoolscontrol:cpu_core_1000, CPU Core S1000
-rftoolscontrol:cpu_core_2000, CPU Core EX2000
-rftoolscontrol:ram_chip, RAM Chip 8E
-rftoolscontrol:network_card, Network Card
-rftoolscontrol:advanced_network_card, Advanced Network Card
-rftoolscontrol:card_base, Card Base
-rftoolscontrol:crafting_card, Crafting Card
-rftoolscontrol:token, Token
-rftoolscontrol:network_identifier, Network Identifier
-rftoolscontrol:graphics_card, Graphics Card
-rftoolscontrol:variable_module, Variable Screen Module
-rftoolscontrol:interaction_module, Interaction Screen Module
-rftoolscontrol:console_module, Console Screen Module
-rftoolscontrol:vectorart_module, Vector Art Screen Module
-rftoolscontrol:programmer, Programmer
-rftoolscontrol:processor, Processor
-rftoolscontrol:node, Node
-rftoolscontrol:craftingstation, Crafting Station
-rftoolscontrol:workbench, Workbench
-rftoolscontrol:tank, Multi Tank
 valkyrielib:guide, Digital Guide
 valkyrielib:modifier_component, Modifier Component
 valkyrielib:modifier_speed, Speed Modifier
@@ -10709,21 +9985,6 @@ simplegenerators:fluid_combustion_simple, Simple Fluid Combustion Generator
 simplegenerators:fluid_combustion_upgradable, Upgradable Fluid Combustion Gen
 simplegenerators:turbine_simple, Simple Turbine Generator
 simplegenerators:turbine_upgradable, Upgradable Turbine Generator
-storagenetwork:master, Storage Network Master
-storagenetwork:request, Storage Request Table
-storagenetwork:kabel, Storage Cable
-storagenetwork:storage_kabel, Storage Link Cable
-storagenetwork:ex_kabel, Storage Export Cable
-storagenetwork:im_kabel, Storage Import Cable
-storagenetwork:process_kabel, Processing Cable
-storagenetwork:controller, Controller
-storagenetwork:upgrade:0, Speed Upgrade
-storagenetwork:upgrade:1, Operation Upgrade
-storagenetwork:upgrade:2, Stack Upgrade
-storagenetwork:upgrade:3, Stock Upgrade
-storagenetwork:remote:0, Storage Remote
-storagenetwork:remote:1, Advanced Storage Remote
-storagenetwork:remote:2, Upgraded Storage Remote
 blockcraftery:editable_block, Framed Block
 blockcraftery:editable_stairs, Framed Stairs
 blockcraftery:editable_slab, Framed Slab

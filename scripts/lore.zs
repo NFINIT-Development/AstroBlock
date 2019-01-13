@@ -14,7 +14,6 @@
 <matteroverdrive:tritanium_ore>.addTooltip(format.yellow("Can be found on Earth"));
 <extraplanets:mercury:10>.addTooltip(format.yellow("Can be found on Mercury"));
 <galacticraftplanets:venus:8>.addTooltip(format.yellow("Can be found on Venus"));
-<planetprogression:research_paper_0>.addTooltip(format.yellow("Can only be found in loot chests inside invaded buidings on Earth"));
 //<planetprogression:research_paper_1>.addTooltip(format.yellow("Can also be found inside Tier 1 Treasure Chests"));
 //<planetprogression:research_paper_4>.addTooltip(format.yellow("Can also be found inside Tier 1 Treasure Chests"));
 //<planetprogression:research_paper_5>.addTooltip(format.yellow("Can also be found inside Tier 1 Treasure Chests"));

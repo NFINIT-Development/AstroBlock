@@ -12,9 +12,7 @@ mods.GalacticraftTweaker.addCompressorShapelessRecipe(<minecraft:end_stone> * 2,
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<minecraft:gold_ingot> * 2,<minecraft:iron_ingot>, <minecraft:glowstone_dust>, <minecraft:iron_ingot>, null, null, null, null, null, null);
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<galacticraftcore:basic_item:3> * 2,<minecraft:iron_ingot>, <minecraft:redstone>, <minecraft:iron_ingot>, null, null, null, null, null, null);
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<galacticraftcore:basic_item:4> * 2,<minecraft:iron_ingot>, <galacticraftcore:basic_item:5>, null, null, null, null, null, null, null);
-mods.GalacticraftTweaker.addCompressorShapelessRecipe(<mekanism:ingot:1> * 2,<minecraft:iron_ingot>, <galacticraftcore:basic_item:2>, <minecraft:iron_ingot>, null, null, null, null, null, null);
-mods.GalacticraftTweaker.addCompressorShapelessRecipe(<mekanism:ingot:4> * 2,<minecraft:iron_ingot>, <minecraft:coal:0>, <minecraft:iron_ingot>, null, null, null, null, null, null);
-mods.GalacticraftTweaker.addCompressorShapelessRecipe(<mekanism:ingot:4> * 2,<minecraft:iron_ingot>, <minecraft:coal:1>, <minecraft:iron_ingot>, null, null, null, null, null, null);
+
 
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<exnihilocreatio:block_dust> * 9,<minecraft:sand>, <minecraft:sand>, <minecraft:sand>, <minecraft:sand>, <minecraft:sand>, <minecraft:sand>, <minecraft:sand>, <minecraft:sand>, <minecraft:sand>);
 
@@ -33,9 +31,6 @@ mods.GalacticraftTweaker.addCompressorShapelessRecipe(<excompressum:compressed_b
 <excompressum:compressed_block:1>, <excompressum:compressed_block:1>, <excompressum:compressed_block:1>, 
 null, null, null);
 
-mods.GalacticraftTweaker.addCompressorShapelessRecipe(<industrialforegoing:plastic> * 2,<minecraft:paper>, <excompressum:wood_chippings>, <minecraft:paper>, null, null, null, null, null, null);
-
-mods.GalacticraftTweaker.addCompressorShapelessRecipe(<mekanism:ingot:2> * 2,<galacticraftcore:basic_item:3>, <galacticraftcore:basic_item:4>, null, null, null, null, null, null, null);
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<thermalfoundation:glass:3> * 2,<minecraft:glass>, <minecraft:obsidian>, <minecraft:glass>, null, null, null, null, null, null);
 
 //File End

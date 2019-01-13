@@ -11,7 +11,7 @@ print("Initializing 'LootTables.zs'...");
 	#research paper
 val lostcitychest = LootTables.getTable("lostcities:chests/lostcitychest");
 val lostcitychestReward = lostcitychest.addPool("lostcitychestReward", 1, 1, 0, 0);
-	lostcitychestReward.addItemEntry(<planetprogression:research_paper_0>, 1);
+	//lostcitychestReward.addItemEntry(<planetprogression:research_paper_0>, 1);
 
 
 
