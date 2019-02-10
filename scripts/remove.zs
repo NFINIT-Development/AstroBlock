@@ -8,8 +8,6 @@ mods.jei.JEI.removeAndHide(<exnihilocreatio:block_crucible_wood>);
 //mods.jei.JEI.removeAndHide(<exnihilocreatio:block_crucible:0>);
 mods.jei.JEI.removeAndHide(<exnihilocreatio:hammer_diamond>);
 mods.jei.JEI.removeAndHide(<exnihilocreatio:hammer_gold>);
-mods.jei.JEI.removeAndHide(<exnihilocreatio:hammer_iron>);
-mods.jei.JEI.removeAndHide(<exnihilocreatio:hammer_stone>);
 mods.jei.JEI.removeAndHide(<excompressum:compressed_hammer_iron>);
 mods.jei.JEI.removeAndHide(<excompressum:compressed_hammer_diamond>);
 mods.jei.JEI.removeAndHide(<excompressum:compressed_hammer_gold>);
