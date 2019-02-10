@@ -1,7 +1,7 @@
 {
   "name": "red",
   "disable": false,
-  "tier": 3,
+  "tier": 6,
   "color": "F93100",
   "armorPoints": 4,
   "enchantability": 12,

@@ -14,5 +14,13 @@
   "minecraft:stone:5": {
     "fluid": "lava",
     "amount": 100
+  },
+  "thermalfoundation:material:768": {
+    "fluid": "coal",
+    "amount": 50
+  },
+  "thermalfoundation:material:769": {
+    "fluid": "coal",
+    "amount": 25
   }
 }

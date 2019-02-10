@@ -1,2 +1,25 @@
 //#Remove
+mods.jei.JEI.removeAndHide(<exnihilocreatio:block_auto_sifter>);
+mods.jei.JEI.removeAndHide(<exnihilocreatio:block_grinder>);
+mods.jei.JEI.removeAndHide(<exnihilocreatio:block_end_cake>);
+mods.jei.JEI.removeAndHide(<exnihilocreatio:block_axle_stone>);
+mods.jei.JEI.removeAndHide(<exnihilocreatio:block_waterwheel>);
+mods.jei.JEI.removeAndHide(<exnihilocreatio:block_crucible_wood>);
+//mods.jei.JEI.removeAndHide(<exnihilocreatio:block_crucible:0>);
+mods.jei.JEI.removeAndHide(<exnihilocreatio:hammer_diamond>);
+mods.jei.JEI.removeAndHide(<exnihilocreatio:hammer_gold>);
+mods.jei.JEI.removeAndHide(<exnihilocreatio:hammer_iron>);
+mods.jei.JEI.removeAndHide(<exnihilocreatio:hammer_stone>);
+mods.jei.JEI.removeAndHide(<excompressum:compressed_hammer_iron>);
+mods.jei.JEI.removeAndHide(<excompressum:compressed_hammer_diamond>);
+mods.jei.JEI.removeAndHide(<excompressum:compressed_hammer_gold>);
+mods.jei.JEI.removeAndHide(<excompressum:compressed_hammer_stone>);
+mods.jei.JEI.removeAndHide(<excompressum:compressed_hammer_wood>);
+mods.jei.JEI.removeAndHide(<excompressum:auto_hammer>);
+mods.jei.JEI.removeAndHide(<excompressum:double_compressed_diamond_hammer>);
+mods.jei.JEI.removeAndHide(<excompressum:auto_compressed_hammer>);
+mods.jei.JEI.removeAndHide(<extraplanets:tier1_space_suit_jetpack_chest>);
+mods.jei.JEI.removeAndHide(<extraplanets:tier2_space_suit_jetpack_chest>);
+mods.jei.JEI.removeAndHide(<extraplanets:tier3_space_suit_jetpack_chest>);
+mods.jei.JEI.removeAndHide(<extraplanets:tier4_space_suit_jetpack_chest>);
 
