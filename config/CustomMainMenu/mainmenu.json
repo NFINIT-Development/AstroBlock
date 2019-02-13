@@ -23,28 +23,8 @@
 	},
 
     "buttons":
-    {
-		"multiplayer":
-        {
-            "text" : "Join Server!",
-			"normalTextColor" : 16777215,
-			"hoverTextColor" : 5081343,
-			"texture" : "mainmenu:textures/btn.png",
-            "posX" : 97,
-            "posY" : -60,
-            "width" : 196,
-            "height" : 30,
-			imageWidth : 100,
-			imageHeight : 50,
-			"alignment" : "left_center",
-            "action" :
-            {
-                "type" : "openGui",
-                "gui" : "multiplayer"
-            }
-        },
-
-        "singleplayer":
+    {			 
+		"singleplayer":
         {
             "text" : "Single Player!",
             "normalTextColor" : 16777215,
@@ -53,7 +33,7 @@
             "posX" : 97,
             "posY" : -30,
             "width" : 196,
-            "height" : 30,
+            "height" : 20,
             imageWidth : 100,
             imageHeight : 50,
             "alignment" : "left_center",
@@ -63,16 +43,35 @@
                 "gui" : "singleplayer"
             }
         },
+		"multiplayer":
+        {
+            "text" : "Servers!",
+			"normalTextColor" : 16777215,
+			"hoverTextColor" : 5081343,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 97,
+            "posY" : -60,
+            "width" : 196,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },	
 
 
         "discord":
         {
-            "text" : "Discord!",
+            "text" : "Create Server!",
             "normalTextColor" : 16777215,
             "hoverTextColor" : 5081343,
             "texture" : "mainmenu:textures/btn.png",
             "posX" : 97,
-            "posY" : 10,
+            "posY" : -90,
             "width" : 196,
             "height" : 20,
             imageWidth : 100,
@@ -81,7 +80,7 @@
             "action" :
             {
                 "type" : "openLink",
-                "link" : "https://discord.gg/vRmSYGS"
+                "link" : "https://www.akliz.net/nfinitdev"
             }
 
         },
