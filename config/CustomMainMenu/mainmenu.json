@@ -24,9 +24,9 @@
 
     "buttons":
     {			 
-		"singleplayer":
+		"create":
         {
-            "text" : "Single Player!",
+            "text" : "Create Server!",
             "normalTextColor" : 16777215,
             "hoverTextColor" : 5081343,
             "texture" : "mainmenu:textures/btn.png",
@@ -39,9 +39,9 @@
             "alignment" : "left_center",
             "action" :
             {
-                "type" : "openGui",
-                "gui" : "singleplayer"
-            }
+                "type" : "openLink",
+                "link" : "https://www.akliz.net/nfinitdev"      
+			}
         },
 		"multiplayer":
         {
@@ -62,11 +62,9 @@
                 "gui" : "multiplayer"
             }
         },	
-
-
-        "discord":
+        "singleplayer":
         {
-            "text" : "Create Server!",
+            "text" : "Single Player!",
             "normalTextColor" : 16777215,
             "hoverTextColor" : 5081343,
             "texture" : "mainmenu:textures/btn.png",
@@ -79,8 +77,8 @@
             "alignment" : "left_center",
             "action" :
             {
-                "type" : "openLink",
-                "link" : "https://www.akliz.net/nfinitdev"
+                "type" : "openGui",
+                "gui" : "singleplayer"
             }
 
         },

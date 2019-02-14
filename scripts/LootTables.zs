@@ -44,12 +44,48 @@ val lostcitychestReward3 = abandoned_mineshaft.addPool("lostcitychestReward3", 1
 	lostcitychestReward3.addItemEntry(<inventorypets:iron_golem_pet>, 1);
 	lostcitychestReward3.addItemEntry(<inventorypets:snow_golem_pet>, 1);
 	lostcitychestReward3.addItemEntry(<inventorypets:enderman_pet>, 1);
-	lostcitychestReward3.addItemEntry(<inventorypets:cow_pet>, 1);
-	lostcitychestReward3.addItemEntry(<inventorypets:cow_pet>, 1);
-	lostcitychestReward3.addItemEntry(<inventorypets:cow_pet>, 1);
-	lostcitychestReward3.addItemEntry(<inventorypets:cow_pet>, 1);
-
-
+	lostcitychestReward3.addItemEntry(<inventorypets:creeper_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:magma_cube_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:wither_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:blaze_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:bed_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:chest_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:double_chest_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:ender_chest_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:furnace_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:crafting_table_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:enchanting_table_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:jukebox_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:anvil_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:sponge_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:purplicious_cow_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:mickerson_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:pingot_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:qcm_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:banana_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:loot_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:slime_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:pufferfish_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:black_hole_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:quiver_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:pacman_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:cheetah_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:house_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:silverfish_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:wolf_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:apple_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:shield_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:heart_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:moon_pet>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:start_button>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:windows_7>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:windows_8>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:windows_31>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:windows_me>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:windows_mojave>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:windows_xp>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:xerox_parc_gui>, 1);
+	lostcitychestReward3.addItemEntry(<inventorypets:blue_screen_of_death>, 1);
 
 	#dml
 val nether_bridge = LootTables.getTable("minecraft:chests/nether_bridge");

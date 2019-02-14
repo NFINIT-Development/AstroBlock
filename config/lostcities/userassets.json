@@ -4,7 +4,7 @@
     "name": "chestloot",
     "values": [
       {
-        "factor": 15,
+        "factor": 20,
         "value": "lostcities:chests/lostcitychest"
       },
       {
@@ -18,19 +18,17 @@
         "inpart": "rail_dungeon2"
       },
       {
-        "factor": 4,
+        "factor": 10,
         "value": "minecraft:chests/nether_bridge",
         "range": "7,100"
       },
       {
-        "factor": 4,
-        "value": "minecraft:chests/abandoned_mineshaft",
-        "range": "5,100"
+        "factor": 15,
+        "value": "minecraft:chests/abandoned_mineshaft"
       },
       {
-        "factor": 4,
-        "value": "minecraft:chests/village_blacksmith",
-        "range": "-100,-5"
+        "factor": 15,
+        "value": "minecraft:chests/village_blacksmith"
       },
       {
         "factor": 10,

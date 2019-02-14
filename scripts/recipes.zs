@@ -178,6 +178,7 @@ recipes.remove(<exnihilocreatio:block_end_cake>);
 recipes.remove(<storagenetwork:kabel>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<thermalfoundation:material:66> * 2, [[<ore:dustLead>, <ore:dustTin>, null],[null, null, null], [null, null, null]]);
 recipes.addShaped(<thermalfoundation:material:65> * 2, [[null, null, null],[null, null, null], [null, <ore:dustIron>, <ore:dustAluminum>]]);
 recipes.addShaped(<thermallogistics:manager:1>, [[null, <minecraft:iron_nugget>, null],[<thermalfoundation:material:162>, <thermallogistics:manager>, <thermalfoundation:material:162>], [<minecraft:iron_nugget>, null, <minecraft:iron_nugget>]]);
 recipes.addShaped(<thermallogistics:manager>, [[<minecraft:iron_nugget>, <minecraft:redstone_torch>, <minecraft:iron_nugget>],[<minecraft:iron_nugget>, <thermalfoundation:material:640>, <minecraft:iron_nugget>], [<minecraft:iron_nugget>, <ore:dustSulfur>, <minecraft:iron_nugget>]]);
