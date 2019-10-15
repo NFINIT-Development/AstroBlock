@@ -1,0 +1,63 @@
+{
+  "format": "conditions",
+  "templates": [
+    {
+      "name": "all_conditions",
+      "conditions": [
+        {
+          "condition": "context",
+          "type": "invasion/regular/all",
+
+          "comment": "//placeholder for future stuff, dont use for now, dev note: is 'all' even needed? its the same as not using this condition, maybe if recursive templates were a thing, top level one could override lower one"
+        },
+        {
+          "condition": "difficulty",
+          "min": 0,
+          "max": 0.1,
+
+          "comment": "//only use when local difficulty as at or between these numbers, difficulty determined by many things, see CoroUtils DynamicDifficulty.cfg for configuring that"
+        },
+        {
+          "condition": "invasion_number",
+          "min": 1,
+          "max": 5,
+
+          "comment": "//only use when the active invasion number/count is at or between these numbers, the counter is global and not per player"
+        },
+        {
+          "condition": "invasion_rate",
+          "rate": 5,
+
+          "comment": "//only use every x invasions, in this example, its considered every 5th invasion"
+        },
+        {
+          "condition": "random",
+          "weight": 5,
+
+          "comment": "//weighed against what? what weight is 'dont do anything' ?"
+        },
+        {
+          "condition": "filter_mobs",
+          "mode": "whitelist/blacklist or allow/deny?",
+          "entities": [
+            "minecraft:zombie"
+          ],
+          "comment": "//currently unused"
+        },
+        {
+          "condition": "template",
+          "template": "condition_set_1",
+
+          "comment": "//since this is a template within a template, maybe dont allow it for now"
+        },
+        {
+          "condition": "mod_loaded",
+          "mod_id": "infernalmobs",
+          "mode_boolean": "invert",
+
+          "comment": "//filter waves to only be used when a certain mod is or isnt installed, depending on if mode_boolean is set to invert or not"
+        }
+      ]
+    }
+  ]
+}

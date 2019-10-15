@@ -1,0 +1,20 @@
+{
+  "name": "tungsten",
+  "disable": false,
+  "tier": 9,
+  "color": "D6D6D6",
+  "armorPoints": 8,
+  "enchantability": 10,
+  "craftingMaterial": "ore:ingotTungsten",
+  "forceRecipes": false,
+  "rarity": 0,
+  "capacity": 35000000,
+  "usage": 650,
+  "speedVertical": 0.9,
+  "accelVertical": 0.15,
+  "speedSideways": 0.19,
+  "speedHoverDescend": 0.41,
+  "speedHover": 0.005,
+  "sprintSpeedMulti": 1.8,
+  "sprintFuelMulti": 3.8
+}

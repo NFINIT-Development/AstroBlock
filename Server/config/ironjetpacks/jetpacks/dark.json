@@ -1,0 +1,20 @@
+{
+  "name": "dark",
+  "disable": false,
+  "tier": 9,
+  "color": "0A0A0A",
+  "armorPoints": 8,
+  "enchantability": 10,
+  "craftingMaterial": "ore:ingotDarkIron",
+  "forceRecipes": false,
+  "rarity": 0,
+  "capacity": 35000000,
+  "usage": 650,
+  "speedVertical": 0.9,
+  "accelVertical": 0.15,
+  "speedSideways": 0.19,
+  "speedHoverDescend": 0.41,
+  "speedHover": 0.005,
+  "sprintSpeedMulti": 1.8,
+  "sprintFuelMulti": 3.8
+}

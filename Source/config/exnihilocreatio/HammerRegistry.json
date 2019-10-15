@@ -1,0 +1,11 @@
+{
+  "ore:logWood": [
+    {
+      "item": "excompressum:wood_chippings",
+      "amount": 1,
+      "miningLevel": 0,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ]
+}

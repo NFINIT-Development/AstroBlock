@@ -1,0 +1,26 @@
+{
+  "minecraft:cobblestone:0": {
+    "fluid": "lava",
+    "amount": 100
+  },
+  "minecraft:stone:1": {
+    "fluid": "lava",
+    "amount": 100
+  },
+  "minecraft:stone:3": {
+    "fluid": "lava",
+    "amount": 100
+  },
+  "minecraft:stone:5": {
+    "fluid": "lava",
+    "amount": 100
+  },
+  "thermalfoundation:material:768": {
+    "fluid": "coal",
+    "amount": 50
+  },
+  "thermalfoundation:material:769": {
+    "fluid": "coal",
+    "amount": 25
+  }
+}
