@@ -1,0 +1,47 @@
+[
+  {
+    "type": "condition",
+    "name": "chestloot",
+    "values": [
+      {
+        "factor": 35,
+        "value": "lostcities:chests/lostcitychest"
+      },
+      {
+        "factor": 20,
+        "value": "lostcities:chests/raildungeonchest",
+        "inpart": "rail_dungeon1"
+      },
+      {
+        "factor": 20,
+        "value": "lostcities:chests/raildungeonchest",
+        "inpart": "rail_dungeon2"
+      },
+      {
+        "factor": 10,
+        "value": "minecraft:chests/nether_bridge",
+        "range": "7,100"
+      },
+      {
+        "factor": 15,
+        "value": "minecraft:chests/abandoned_mineshaft"
+      },
+      {
+        "factor": 15,
+        "value": "minecraft:chests/village_blacksmith"
+      },
+      {
+        "factor": 10,
+        "value": "minecraft:chests/desert_pyramid"
+      },
+      {
+        "factor": 10,
+        "value": "minecraft:chests/jungle_temple"
+      },
+      {
+        "factor": 20,
+        "value": "minecraft:chests/simple_dungeon"
+      }
+    ]
+  }
+]

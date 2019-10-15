@@ -1,0 +1,20 @@
+{
+  "name": "meteoric",
+  "disable": false,
+  "tier": 4,
+  "color": "A2978B",
+  "armorPoints": 2,
+  "enchantability": 9,
+  "craftingMaterial": "ore:ingotMeteoricIron",
+  "forceRecipes": false,
+  "rarity": 0,
+  "capacity": 850000,
+  "usage": 120,
+  "speedVertical": 0.41,
+  "accelVertical": 0.12,
+  "speedSideways": 0.14,
+  "speedHoverDescend": 0.27,
+  "speedHover": 0.075,
+  "sprintSpeedMulti": 1.1,
+  "sprintFuelMulti": 2.1
+}
